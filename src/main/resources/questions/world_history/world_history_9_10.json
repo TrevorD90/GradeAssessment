@@ -1,0 +1,92 @@
+[
+  {
+    "id": "wh_910_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "9-10",
+    "bloomsLevel": 3,
+    "standardCode": "WH.9.1",
+    "piParameters": { "a": 1.0, "b": 1.0, "c": 0.25 },
+    "prompt": "Which Enlightenment philosopher argued that government derives its legitimacy from the consent of the governed and that citizens have the right to overthrow a government that fails to protect their natural rights?",
+    "choices": ["Thomas Hobbes", "John Locke", "Voltaire", "Jean-Jacques Rousseau"],
+    "correctAnswer": "John Locke",
+    "explanation": "John Locke argued in his Two Treatises of Government that people possess natural rights to life, liberty, and property, and that government authority comes from the consent of the governed. He maintained that citizens have the right to revolt against a government that violates these rights."
+  },
+  {
+    "id": "wh_910_002",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeRange": "9-10",
+    "bloomsLevel": 2,
+    "standardCode": "WH.9.2",
+    "piParameters": { "a": 1.0, "b": 1.3, "c": 0.0 },
+    "prompt": "The Treaty of _______, signed in 1648, ended the Thirty Years' War and established the principle of state sovereignty that became the foundation of the modern international system.",
+    "correctAnswer": "Westphalia",
+    "explanation": "The Treaty of Westphalia in 1648 ended the devastating Thirty Years' War in Europe and established the principle that each state has sovereignty over its territory and domestic affairs, forming the basis of the modern nation-state system."
+  },
+  {
+    "id": "wh_910_003",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeRange": "9-10",
+    "bloomsLevel": 4,
+    "standardCode": "WH.10.1",
+    "piParameters": { "a": 1.0, "b": 1.6, "c": 0.0 },
+    "prompt": "Arrange these revolutions in chronological order from earliest to latest.",
+    "orderedItems": ["English Glorious Revolution", "American Revolution", "French Revolution", "Haitian Revolution"],
+    "explanation": "The English Glorious Revolution occurred in 1688, the American Revolution began in 1775, the French Revolution started in 1789, and the Haitian Revolution began in 1791. Each revolution influenced the ones that followed."
+  },
+  {
+    "id": "wh_910_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeRange": "9-10",
+    "bloomsLevel": 5,
+    "standardCode": "WH.10.2",
+    "piParameters": { "a": 1.0, "b": 1.8, "c": 0.2 },
+    "prompt": "Which of the following were direct consequences of the Industrial Revolution in 19th-century Europe? Select all that apply.",
+    "choices": ["Rapid urbanization as workers moved to factory cities", "Growth of a new industrial middle class", "Decline of colonial empires worldwide", "Harsh working conditions including child labor", "Immediate establishment of universal suffrage"],
+    "correctAnswers": ["Rapid urbanization as workers moved to factory cities", "Growth of a new industrial middle class", "Harsh working conditions including child labor"],
+    "explanation": "The Industrial Revolution led directly to rapid urbanization, the rise of a new middle class of factory owners and managers, and harsh working conditions including widespread child labor. Colonial empires actually expanded during this period, and universal suffrage took much longer to achieve."
+  },
+  {
+    "id": "wh_910_005",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeRange": "9-10",
+    "bloomsLevel": 6,
+    "standardCode": "WH.10.3",
+    "piParameters": { "a": 1.0, "b": 2.0, "c": 0.25 },
+    "passage": "The scramble for Africa in the late 19th century saw European powers carve up nearly the entire continent with little regard for existing ethnic, linguistic, or political boundaries. At the Berlin Conference of 1884-1885, representatives from fourteen European nations negotiated territorial claims without any African representation. By 1914, only Ethiopia and Liberia remained independent. The arbitrary borders drawn during this period grouped rival communities together and divided unified peoples, creating tensions that persisted long after independence movements succeeded in the mid-20th century.",
+    "prompt": "Based on the passage, which factor best explains the lasting political instability experienced by many post-colonial African nations?",
+    "choices": ["African nations lacked natural resources necessary for economic development", "European powers provided insufficient infrastructure before departing", "Arbitrary colonial borders created states that did not reflect existing ethnic and political realities", "African independence movements occurred too rapidly for stable governments to form"],
+    "correctAnswer": "Arbitrary colonial borders created states that did not reflect existing ethnic and political realities",
+    "explanation": "The passage directly connects the arbitrary borders drawn at the Berlin Conference, which ignored existing ethnic, linguistic, and political boundaries, to tensions that persisted long after independence. By grouping rival communities and dividing unified peoples, these borders created the conditions for ongoing political instability in post-colonial African nations."
+  },
+  {
+    "id": "wh_910_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "9-10",
+    "bloomsLevel": 5,
+    "standardCode": "WH.9.3",
+    "piParameters": { "a": 1.0, "b": 2.2, "c": 0.25 },
+    "prompt": "How did the alliance system in Europe prior to 1914 transform a regional conflict between Austria-Hungary and Serbia into a world war?",
+    "choices": ["Alliances required member nations to remain neutral during conflicts", "Interlocking alliance obligations drew multiple nations into the conflict through a chain reaction of treaty commitments", "The alliance system prevented diplomatic negotiations from taking place", "Allied nations voluntarily joined the war to gain new colonial territories"],
+    "correctAnswer": "Interlocking alliance obligations drew multiple nations into the conflict through a chain reaction of treaty commitments",
+    "explanation": "The pre-World War I alliance system created a web of mutual defense obligations. When Austria-Hungary declared war on Serbia, Russia mobilized to support Serbia, which triggered Germany to support Austria-Hungary, which in turn drew in France and Britain through their alliance with Russia. This chain reaction of treaty obligations escalated a regional dispute into a global conflict."
+  },
+  {
+    "id": "wh_910_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "9-10",
+    "bloomsLevel": 6,
+    "standardCode": "WH.10.4",
+    "piParameters": { "a": 1.0, "b": 2.5, "c": 0.25 },
+    "prompt": "A historian studying the causes of World War II argues that the Treaty of Versailles was more responsible for the rise of totalitarianism in Germany than the global economic depression. Which piece of evidence would most effectively challenge this interpretation?",
+    "choices": ["Germany experienced severe hyperinflation in the 1920s as a result of war reparations", "Totalitarian movements also gained strength in countries not penalized by the Treaty of Versailles, such as Japan, during the Great Depression", "The Treaty of Versailles required Germany to accept sole responsibility for World War I", "Many German citizens resented the territorial losses imposed by the Treaty of Versailles"],
+    "correctAnswer": "Totalitarian movements also gained strength in countries not penalized by the Treaty of Versailles, such as Japan, during the Great Depression",
+    "explanation": "To challenge the claim that Versailles was more important than the depression, one must show evidence that the depression independently fueled totalitarianism. The fact that totalitarian movements also rose in countries like Japan, which were not penalized by Versailles but were affected by the Great Depression, suggests that economic collapse was a significant independent cause of totalitarianism beyond the specific grievances created by the treaty."
+  }
+]

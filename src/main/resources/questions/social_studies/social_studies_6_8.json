@@ -1,0 +1,127 @@
+[
+  {
+    "id": "ss_68_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "6-8",
+    "bloomsLevel": 2,
+    "standardCode": "SS.CV.1.6",
+    "piParameters": { "a": 1.0, "b": 0.0, "c": 0.25 },
+    "prompt": "Which amendment to the United States Constitution guarantees the right to freedom of speech?",
+    "choices": [
+      "The Second Amendment",
+      "The First Amendment",
+      "The Fifth Amendment",
+      "The Tenth Amendment"
+    ],
+    "correctAnswer": "The First Amendment",
+    "explanation": "The First Amendment protects several fundamental rights including freedom of speech, freedom of the press, freedom of religion, the right to peaceably assemble, and the right to petition the government."
+  },
+  {
+    "id": "ss_68_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "FILL_IN_BLANK",
+    "gradeRange": "6-8",
+    "bloomsLevel": 1,
+    "standardCode": "SS.IS.1.6",
+    "piParameters": { "a": 1.0, "b": 0.3, "c": 0.0 },
+    "prompt": "The system in which the three branches of government limit each other's power is called checks and _______.",
+    "correctAnswer": "balances",
+    "explanation": "The system of checks and balances ensures that no single branch of government becomes too powerful. Each branch has specific powers that can limit or check the actions of the other two branches."
+  },
+  {
+    "id": "ss_68_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeRange": "6-8",
+    "bloomsLevel": 4,
+    "standardCode": "SS.EC.1.6",
+    "piParameters": { "a": 1.0, "b": 0.6, "c": 0.2 },
+    "prompt": "Which of the following are characteristics of a market economy? Select all that apply.",
+    "choices": [
+      "Private ownership of property",
+      "Government sets all prices",
+      "Competition among businesses",
+      "Consumer choice drives production",
+      "A central authority plans all economic activity"
+    ],
+    "correctAnswers": [
+      "Private ownership of property",
+      "Competition among businesses",
+      "Consumer choice drives production"
+    ],
+    "explanation": "A market economy is characterized by private ownership, competition among businesses, and consumer choice influencing what is produced. Government price-setting and central planning are features of command economies."
+  },
+  {
+    "id": "ss_68_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeRange": "6-8",
+    "bloomsLevel": 4,
+    "standardCode": "SS.CV.2.7",
+    "piParameters": { "a": 1.0, "b": 0.9, "c": 0.0 },
+    "prompt": "Arrange the following levels of government from the smallest jurisdiction to the largest.",
+    "orderedItems": [
+      "City or municipal government",
+      "County government",
+      "State government",
+      "Federal government"
+    ],
+    "explanation": "Government jurisdictions expand from local to national: city/municipal governments serve towns and cities, county governments oversee larger regional areas, state governments manage entire states, and the federal government governs the whole nation."
+  },
+  {
+    "id": "ss_68_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeRange": "6-8",
+    "bloomsLevel": 5,
+    "standardCode": "SS.G.1.7",
+    "piParameters": { "a": 1.0, "b": 1.1, "c": 0.25 },
+    "passage": "In the early 1800s, the construction of the Erie Canal connected the Great Lakes to the Atlantic Ocean through New York State. Before the canal, it cost about $100 to ship one ton of goods from Buffalo to New York City by road, and the journey took more than two weeks. After the canal opened in 1825, the cost dropped to about $10 per ton, and the travel time was reduced to roughly five days. Towns along the canal grew rapidly, and New York City became the busiest port in the country.",
+    "prompt": "Based on the passage, what was the most significant economic effect of the Erie Canal?",
+    "choices": [
+      "It eliminated the need for roads in New York State",
+      "It drastically reduced the cost and time of transporting goods",
+      "It caused towns along the canal to lose population",
+      "It made the Great Lakes the busiest port system in the country"
+    ],
+    "correctAnswer": "It drastically reduced the cost and time of transporting goods",
+    "explanation": "The passage shows that the Erie Canal reduced shipping costs by about 90% (from $100 to $10 per ton) and cut travel time significantly. This dramatic reduction in transportation costs and time was the most significant economic effect described."
+  },
+  {
+    "id": "ss_68_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "6-8",
+    "bloomsLevel": 3,
+    "standardCode": "SS.G.2.8",
+    "piParameters": { "a": 1.0, "b": 1.3, "c": 0.25 },
+    "prompt": "Lines of latitude measure distance north and south of the equator. What do lines of longitude measure?",
+    "choices": [
+      "Distance north and south of the equator",
+      "Distance east and west of the Prime Meridian",
+      "Elevation above sea level",
+      "Distance between two cities"
+    ],
+    "correctAnswer": "Distance east and west of the Prime Meridian",
+    "explanation": "Lines of longitude (also called meridians) measure angular distance east and west of the Prime Meridian, which is located at 0 degrees longitude and passes through Greenwich, England."
+  },
+  {
+    "id": "ss_68_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "6-8",
+    "bloomsLevel": 6,
+    "standardCode": "SS.EC.2.8",
+    "piParameters": { "a": 1.0, "b": 1.5, "c": 0.25 },
+    "prompt": "A country has abundant natural resources but limited technology and skilled labor. Another country has advanced technology and skilled workers but few natural resources. Which economic concept best explains why these two countries would benefit from exchanging goods?",
+    "choices": [
+      "Inflation",
+      "Comparative advantage and trade",
+      "Budget deficit",
+      "Monetary policy"
+    ],
+    "correctAnswer": "Comparative advantage and trade",
+    "explanation": "Comparative advantage explains that countries benefit from specializing in producing goods they can make most efficiently and trading for other goods. The resource-rich country and the technology-rich country each have different advantages, so trade allows both to benefit."
+  }
+]

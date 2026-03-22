@@ -1,0 +1,102 @@
+[
+  {
+    "id": "arts_68_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "6-8",
+    "bloomsLevel": 3,
+    "standardCode": "VA.RE.7.6",
+    "piParameters": { "a": 1.0, "b": 0.0, "c": 0.25 },
+    "prompt": "Which art movement is characterized by visible brushstrokes, ordinary subject matter, and the depiction of light and its changing qualities?",
+    "choices": ["Cubism", "Impressionism", "Surrealism", "Baroque"],
+    "correctAnswer": "Impressionism",
+    "explanation": "Impressionism, which began in 1870s France, is known for visible brushstrokes, emphasis on light and color, and depictions of everyday scenes. Key artists include Claude Monet, Pierre-Auguste Renoir, and Edgar Degas."
+  },
+  {
+    "id": "arts_68_002",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeRange": "6-8",
+    "bloomsLevel": 3,
+    "standardCode": "MU.PR.4.6",
+    "piParameters": { "a": 1.0, "b": 0.3, "c": 0.0 },
+    "prompt": "In music, the term 'allegro' indicates that a piece should be played at a ___ tempo.",
+    "correctAnswer": "fast",
+    "explanation": "Allegro is an Italian musical term meaning fast and lively. It typically indicates a tempo of about 120 to 156 beats per minute. Other tempo markings include adagio (slow), andante (walking pace), and presto (very fast)."
+  },
+  {
+    "id": "arts_68_003",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeRange": "6-8",
+    "bloomsLevel": 4,
+    "standardCode": "VA.RE.7.7",
+    "piParameters": { "a": 1.0, "b": 0.5, "c": 0.2 },
+    "prompt": "Which of the following are principles of design used in visual art? Select all that apply.",
+    "choices": ["Balance", "Texture", "Emphasis", "Rhythm"],
+    "correctAnswers": ["Balance", "Emphasis", "Rhythm"],
+    "explanation": "Balance, emphasis, and rhythm are all principles of design. The seven principles are balance, contrast, emphasis, movement, pattern, rhythm, and unity. Texture is an element of art, not a principle of design."
+  },
+  {
+    "id": "arts_68_004",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeRange": "6-8",
+    "bloomsLevel": 4,
+    "standardCode": "VA.CN.11.7",
+    "piParameters": { "a": 1.0, "b": 0.8, "c": 0.0 },
+    "prompt": "Arrange these Western art movements in chronological order from earliest to latest.",
+    "choices": [
+      "Impressionism",
+      "Renaissance",
+      "Pop Art",
+      "Baroque"
+    ],
+    "correctAnswer": "Renaissance, Baroque, Impressionism, Pop Art",
+    "explanation": "The Renaissance (14th-17th century) came first, followed by the Baroque period (17th-18th century), then Impressionism (late 19th century), and finally Pop Art (mid-20th century)."
+  },
+  {
+    "id": "arts_68_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "6-8",
+    "bloomsLevel": 4,
+    "standardCode": "VA.CR.2.7",
+    "piParameters": { "a": 1.0, "b": 1.0, "c": 0.25 },
+    "prompt": "In a drawing, what technique uses closely spaced parallel lines to create the illusion of shadow and depth?",
+    "choices": ["Stippling", "Hatching", "Blending", "Scumbling"],
+    "correctAnswer": "Hatching",
+    "explanation": "Hatching is a shading technique that uses closely spaced parallel lines to create areas of tone and shadow. Cross-hatching adds a second set of lines at an angle to the first. Stippling uses dots, blending uses smooth gradients, and scumbling uses light, scribbled marks."
+  },
+  {
+    "id": "arts_68_006",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeRange": "6-8",
+    "bloomsLevel": 4,
+    "standardCode": "VA.RE.8.8",
+    "piParameters": { "a": 1.0, "b": 1.2, "c": 0.25 },
+    "passage": "Linear perspective is a mathematical system for creating the illusion of depth on a flat surface. Developed during the Italian Renaissance by Filippo Brunelleschi, it uses a vanishing point on the horizon line where parallel lines appear to converge. Artists like Leonardo da Vinci and Raphael used this technique to give their paintings a realistic sense of three-dimensional space.",
+    "prompt": "What is the primary purpose of using a vanishing point in linear perspective?",
+    "choices": [
+      "To determine the size of the canvas",
+      "To create the illusion that parallel lines recede into the distance",
+      "To decide which colors to use in the background",
+      "To outline the main subject of the painting"
+    ],
+    "correctAnswer": "To create the illusion that parallel lines recede into the distance",
+    "explanation": "A vanishing point is the spot on the horizon line where parallel lines appear to meet as they recede into the distance. This technique creates a convincing illusion of three-dimensional depth on a two-dimensional surface."
+  },
+  {
+    "id": "arts_68_007",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeRange": "6-8",
+    "bloomsLevel": 5,
+    "standardCode": "MU.RE.9.8",
+    "piParameters": { "a": 1.0, "b": 1.5, "c": 0.0 },
+    "prompt": "A musical composition written for four performers, typically two violins, a viola, and a cello, is called a string ___.",
+    "correctAnswer": "quartet",
+    "explanation": "A string quartet is a musical ensemble of four string players and also refers to compositions written for that group. The standard configuration is two violins, one viola, and one cello. Famous string quartet composers include Haydn, Mozart, and Beethoven."
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "arts_35_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 2,
+    "standardCode": "VA.CR.1.3",
+    "piParameters": { "a": 1.0, "b": -1.0, "c": 0.25 },
+    "prompt": "What color do you get when you mix blue and yellow paint together?",
+    "choices": ["Orange", "Green", "Purple", "Brown"],
+    "correctAnswer": "Green",
+    "explanation": "Mixing blue and yellow, two primary colors, produces the secondary color green. Orange is made from red and yellow, and purple is made from red and blue."
+  },
+  {
+    "id": "arts_35_002",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeRange": "3-5",
+    "bloomsLevel": 2,
+    "standardCode": "MU.PR.4.3",
+    "piParameters": { "a": 1.0, "b": -0.7, "c": 0.0 },
+    "prompt": "In music, a ___ clef is the most common clef used for higher-pitched instruments and the right hand on the piano.",
+    "correctAnswer": "treble",
+    "explanation": "The treble clef, also called the G clef, is used for higher-pitched notes. It is the most common clef for instruments like the violin, flute, and the right hand of piano music."
+  },
+  {
+    "id": "arts_35_003",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "VA.RE.7.4",
+    "piParameters": { "a": 1.0, "b": -0.4, "c": 0.2 },
+    "prompt": "Which of the following are elements of art? Select all that apply.",
+    "choices": ["Line", "Balance", "Color", "Texture"],
+    "correctAnswers": ["Line", "Color", "Texture"],
+    "explanation": "Line, color, and texture are three of the seven elements of art. The full list is line, shape, form, space, color, value, and texture. Balance is a principle of design, not an element of art."
+  },
+  {
+    "id": "arts_35_004",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "MU.PR.4.4",
+    "piParameters": { "a": 1.0, "b": -0.1, "c": 0.0 },
+    "prompt": "Arrange these musical note values from longest duration to shortest duration.",
+    "choices": [
+      "Quarter note",
+      "Whole note",
+      "Eighth note",
+      "Half note"
+    ],
+    "correctAnswer": "Whole note, Half note, Quarter note, Eighth note",
+    "explanation": "A whole note lasts 4 beats, a half note lasts 2 beats, a quarter note lasts 1 beat, and an eighth note lasts half a beat. So from longest to shortest: whole, half, quarter, eighth."
+  },
+  {
+    "id": "arts_35_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "VA.CN.10.4",
+    "piParameters": { "a": 1.0, "b": 0.1, "c": 0.25 },
+    "prompt": "A mosaic is a type of artwork made by arranging small pieces of which material?",
+    "choices": ["Paper", "Tile or glass", "Thread", "Clay"],
+    "correctAnswer": "Tile or glass",
+    "explanation": "A mosaic is created by arranging small pieces of tile, glass, stone, or other hard materials into a pattern or image. This technique has been used since ancient times in Greek and Roman art."
+  },
+  {
+    "id": "arts_35_006",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "VA.RE.8.5",
+    "piParameters": { "a": 1.0, "b": 0.3, "c": 0.25 },
+    "passage": "The color wheel is a tool artists use to understand color relationships. Primary colors (red, yellow, blue) are evenly spaced around the wheel. Between each pair of primary colors sits a secondary color made by mixing those two primaries. Colors that are directly across from each other on the wheel are called complementary colors.",
+    "prompt": "Which pair of colors are complementary?",
+    "choices": ["Red and orange", "Blue and green", "Red and green", "Yellow and orange"],
+    "correctAnswer": "Red and green",
+    "explanation": "Complementary colors sit directly across from each other on the color wheel. Red is across from green. Blue is across from orange, and yellow is across from purple."
+  },
+  {
+    "id": "arts_35_007",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeRange": "3-5",
+    "bloomsLevel": 4,
+    "standardCode": "VA.CR.2.5",
+    "piParameters": { "a": 1.0, "b": 0.5, "c": 0.0 },
+    "prompt": "The art technique where you scratch through a top layer of color to reveal a different color underneath is called ___.",
+    "correctAnswer": "sgraffito",
+    "explanation": "Sgraffito is an art technique where an artist applies layers of color and then scratches through the top layer to reveal the color beneath. The word comes from the Italian word meaning 'to scratch.'"
+  }
+]

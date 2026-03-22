@@ -1,0 +1,118 @@
+[
+  {
+    "id": "NW-001",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 2,
+    "standardCode": "RF.1.3b",
+    "piParameters": { "a": 1.0, "b": -2.0, "c": 0.0 },
+    "prompt": "Read each made-up word as fast as you can. Sound out each word.",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "bif", "kal", "vem", "tob", "rup", "lig", "hod", "nes",
+      "pum", "fak", "jiv", "wog", "zet", "dun", "mib", "sef",
+      "gop", "ruk", "tal", "vin", "hep", "bom", "lud", "naf"
+    ],
+    "fluencyCorrectItems": [
+      "bif", "kal", "vem", "tob", "rup", "lig", "hod", "nes",
+      "pum", "fak", "jiv", "wog", "zet", "dun", "mib", "sef",
+      "gop", "ruk", "tal", "vin", "hep", "bom", "lud", "naf"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "NONSENSE_WORD",
+    "explanation": "Simple CVC nonsense words to assess phonetic decoding ability without reliance on sight word knowledge."
+  },
+  {
+    "id": "NW-002",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 2,
+    "standardCode": "RF.1.3b",
+    "piParameters": { "a": 1.0, "b": -1.7, "c": 0.0 },
+    "prompt": "These are pretend words. Read each one out loud.",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "dap", "fim", "gus", "hel", "jot", "kib", "lon", "mev",
+      "nop", "pag", "rif", "sut", "teg", "vub", "wam", "yod",
+      "zik", "bef", "cug", "dol", "fam", "gip", "huj", "ket"
+    ],
+    "fluencyCorrectItems": [
+      "dap", "fim", "gus", "hel", "jot", "kib", "lon", "mev",
+      "nop", "pag", "rif", "sut", "teg", "vub", "wam", "yod",
+      "zik", "bef", "cug", "dol", "fam", "gip", "huj", "ket"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "NONSENSE_WORD",
+    "explanation": "A second set of CVC nonsense words for repeated measurement of decoding fluency."
+  },
+  {
+    "id": "NW-003",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 2,
+    "standardCode": "RF.1.3b",
+    "piParameters": { "a": 1.0, "b": -1.3, "c": 0.0 },
+    "prompt": "Sound out each nonsense word. Try to read the whole word smoothly.",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "blif", "crad", "flem", "glop", "snat", "prid", "trug",
+      "blen", "crim", "flog", "grat", "snup", "prab", "tref",
+      "blod", "crun", "flig", "grem", "snab", "pruf", "trid",
+      "blug", "cref", "fron", "glib"
+    ],
+    "fluencyCorrectItems": [
+      "blif", "crad", "flem", "glop", "snat", "prid", "trug",
+      "blen", "crim", "flog", "grat", "snup", "prab", "tref",
+      "blod", "crun", "flig", "grem", "snab", "pruf", "trid",
+      "blug", "cref", "fron", "glib"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "NONSENSE_WORD",
+    "explanation": "CCVC nonsense words with consonant blends, increasing decoding difficulty."
+  },
+  {
+    "id": "NW-004",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 2,
+    "standardCode": "RF.1.3b",
+    "piParameters": { "a": 1.0, "b": -1.0, "c": 0.0 },
+    "prompt": "Read these made-up words. Some have blends at the end. Try your best!",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "baft", "delk", "filp", "gunt", "hest", "jimp", "kolb",
+      "lund", "meft", "nusk", "polt", "relk", "sift", "tump",
+      "vend", "wulp", "yeft", "zont", "bink", "calp", "dilm",
+      "felp", "gonk", "hilf"
+    ],
+    "fluencyCorrectItems": [
+      "baft", "delk", "filp", "gunt", "hest", "jimp", "kolb",
+      "lund", "meft", "nusk", "polt", "relk", "sift", "tump",
+      "vend", "wulp", "yeft", "zont", "bink", "calp", "dilm",
+      "felp", "gonk", "hilf"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "NONSENSE_WORD",
+    "explanation": "CVCC nonsense words with ending blends to assess decoding of more complex phonetic patterns."
+  }
+]

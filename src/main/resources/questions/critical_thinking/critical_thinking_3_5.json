@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ct_35_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "CT.3.1",
+    "piParameters": { "a": 1.0, "b": -1.0, "c": 0.25 },
+    "prompt": "Maria says, 'I studied really hard, so I will get an A on the test.' What assumption is Maria making?",
+    "choices": [
+      "Studying hard always leads to getting an A",
+      "The test will be canceled",
+      "She does not need to study",
+      "Her teacher gives easy tests"
+    ],
+    "correctAnswer": "Studying hard always leads to getting an A",
+    "explanation": "Maria assumes that studying hard will automatically result in an A. This is an assumption because other factors like test difficulty or what she studied could affect her grade. Recognizing hidden assumptions helps us think more carefully."
+  },
+  {
+    "id": "ct_35_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "CT.3.1",
+    "piParameters": { "a": 1.0, "b": -0.7, "c": 0.25 },
+    "prompt": "All mammals breathe air. All dogs are mammals. What can you conclude?",
+    "choices": [
+      "All dogs breathe air",
+      "All animals that breathe air are dogs",
+      "Some dogs do not breathe air",
+      "Only dogs are mammals"
+    ],
+    "correctAnswer": "All dogs breathe air",
+    "explanation": "This is deductive reasoning. If all mammals breathe air, and all dogs are mammals, then all dogs must breathe air. We follow the chain of logic: dogs are mammals, and mammals breathe air, so dogs breathe air."
+  },
+  {
+    "id": "ct_35_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 4,
+    "standardCode": "CT.3.2",
+    "piParameters": { "a": 1.0, "b": -0.4, "c": 0.25 },
+    "prompt": "You notice that every time you water the plant in the sunny window, it grows. The plant in the dark closet does not grow even when watered. What pattern can you identify?",
+    "choices": [
+      "Water is not important for plants",
+      "Plants need both water and sunlight to grow",
+      "Plants only need a dark closet",
+      "All plants grow the same speed"
+    ],
+    "correctAnswer": "Plants need both water and sunlight to grow",
+    "explanation": "This is inductive reasoning — drawing a conclusion from observations. Both plants got water, but only the one with sunlight grew. This suggests plants need both water and sunlight to grow."
+  },
+  {
+    "id": "ct_35_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "CT.4.1",
+    "piParameters": { "a": 1.0, "b": -0.1, "c": 0.25 },
+    "prompt": "Jake says, 'We should have pizza for lunch because it is my favorite food.' Which is the strongest argument against Jake's reasoning?",
+    "choices": [
+      "Pizza is not healthy",
+      "What one person likes is not a good reason for everyone to eat the same thing",
+      "Jake always picks pizza",
+      "Pizza is too expensive"
+    ],
+    "correctAnswer": "What one person likes is not a good reason for everyone to eat the same thing",
+    "explanation": "Jake's argument is weak because it only considers his own preference. The strongest counter-argument points out that one person's favorite should not decide for the whole group. Good arguments consider everyone, not just one person."
+  },
+  {
+    "id": "ct_35_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 4,
+    "standardCode": "CT.4.2",
+    "piParameters": { "a": 1.1, "b": 0.1, "c": 0.25 },
+    "prompt": "The school parking lot is empty and all the classroom lights are off. What can you most reasonably conclude?",
+    "choices": [
+      "There is a fire drill happening",
+      "School is not in session right now",
+      "Everyone is in the gym",
+      "The power went out"
+    ],
+    "correctAnswer": "School is not in session right now",
+    "explanation": "An empty parking lot and dark classrooms together suggest no one is at school. While a power outage could explain the lights, it would not explain the empty parking lot. The most reasonable inference is that school is not in session."
+  },
+  {
+    "id": "ct_35_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "CT.5.1",
+    "piParameters": { "a": 1.0, "b": 0.3, "c": 0.0 },
+    "prompt": "Look at this number pattern: 3, 6, 12, 24, ___. What number comes next?",
+    "choices": [],
+    "correctAnswer": "48",
+    "explanation": "Each number in the pattern is doubled (multiplied by 2): 3 x 2 = 6, 6 x 2 = 12, 12 x 2 = 24. So the next number is 24 x 2 = 48."
+  },
+  {
+    "id": "ct_35_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 4,
+    "standardCode": "CT.5.2",
+    "piParameters": { "a": 1.1, "b": 0.5, "c": 0.25 },
+    "prompt": "Emma says, 'My older brother is tall, so all older brothers must be tall.' What is wrong with Emma's reasoning?",
+    "choices": [
+      "Her brother is not actually tall",
+      "She is using one example to make a rule about everyone",
+      "Older brothers are always tall",
+      "She should ask her brother"
+    ],
+    "correctAnswer": "She is using one example to make a rule about everyone",
+    "explanation": "Emma is making a hasty generalization — using just one example (her brother) to make a conclusion about all older brothers. Good inductive reasoning requires many observations, not just one."
+  }
+]

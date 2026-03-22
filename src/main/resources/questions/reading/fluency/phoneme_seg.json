@@ -1,0 +1,126 @@
+[
+  {
+    "id": "PS-001",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 2,
+    "standardCode": "RF.K.2d",
+    "piParameters": { "a": 1.0, "b": -2.5, "c": 0.0 },
+    "prompt": "Listen to each word and say all the sounds you hear. Break each word into its individual sounds.",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "cat", "dog", "sun", "map", "hen", "big", "top", "run",
+      "lip", "fog", "bed", "pin", "hot", "rug", "jam", "web",
+      "sit", "mop", "fun", "dig", "net", "cup", "log", "bat"
+    ],
+    "fluencyCorrectItems": [
+      "/k/ /a/ /t/", "/d/ /o/ /g/", "/s/ /u/ /n/", "/m/ /a/ /p/",
+      "/h/ /e/ /n/", "/b/ /i/ /g/", "/t/ /o/ /p/", "/r/ /u/ /n/",
+      "/l/ /i/ /p/", "/f/ /o/ /g/", "/b/ /e/ /d/", "/p/ /i/ /n/",
+      "/h/ /o/ /t/", "/r/ /u/ /g/", "/j/ /a/ /m/", "/w/ /e/ /b/",
+      "/s/ /i/ /t/", "/m/ /o/ /p/", "/f/ /u/ /n/", "/d/ /i/ /g/",
+      "/n/ /e/ /t/", "/k/ /u/ /p/", "/l/ /o/ /g/", "/b/ /a/ /t/"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "PHONEME_SEGMENTATION",
+    "explanation": "The student segments CVC words into their individual phonemes. Each word has three distinct sounds."
+  },
+  {
+    "id": "PS-002",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 2,
+    "standardCode": "RF.K.2d",
+    "piParameters": { "a": 1.0, "b": -2.0, "c": 0.0 },
+    "prompt": "Say each sound in the word. How many sounds do you hear?",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "fish", "ship", "chin", "then", "shop", "this", "chat",
+      "thin", "shed", "chop", "whip", "much", "bath", "wish",
+      "rush", "with", "such", "rich", "math", "dish"
+    ],
+    "fluencyCorrectItems": [
+      "/f/ /i/ /sh/", "/sh/ /i/ /p/", "/ch/ /i/ /n/", "/th/ /e/ /n/",
+      "/sh/ /o/ /p/", "/th/ /i/ /s/", "/ch/ /a/ /t/",
+      "/th/ /i/ /n/", "/sh/ /e/ /d/", "/ch/ /o/ /p/", "/w/ /i/ /p/",
+      "/m/ /u/ /ch/", "/b/ /a/ /th/", "/w/ /i/ /sh/",
+      "/r/ /u/ /sh/", "/w/ /i/ /th/", "/s/ /u/ /ch/", "/r/ /i/ /ch/",
+      "/m/ /a/ /th/", "/d/ /i/ /sh/"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "PHONEME_SEGMENTATION",
+    "explanation": "Words with digraphs (sh, ch, th, wh) that still segment into three phonemes."
+  },
+  {
+    "id": "PS-003",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 2,
+    "standardCode": "RF.1.2d",
+    "piParameters": { "a": 1.0, "b": -1.8, "c": 0.0 },
+    "prompt": "Break each word into its separate sounds. Say every sound you hear.",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "stop", "frog", "clap", "grab", "spin", "trip", "drum",
+      "flag", "snap", "slip", "crab", "drop", "plan", "step",
+      "grin", "trim", "brag", "prop", "skit", "bled"
+    ],
+    "fluencyCorrectItems": [
+      "/s/ /t/ /o/ /p/", "/f/ /r/ /o/ /g/", "/k/ /l/ /a/ /p/", "/g/ /r/ /a/ /b/",
+      "/s/ /p/ /i/ /n/", "/t/ /r/ /i/ /p/", "/d/ /r/ /u/ /m/",
+      "/f/ /l/ /a/ /g/", "/s/ /n/ /a/ /p/", "/s/ /l/ /i/ /p/",
+      "/k/ /r/ /a/ /b/", "/d/ /r/ /o/ /p/", "/p/ /l/ /a/ /n/", "/s/ /t/ /e/ /p/",
+      "/g/ /r/ /i/ /n/", "/t/ /r/ /i/ /m/", "/b/ /r/ /a/ /g/", "/p/ /r/ /o/ /p/",
+      "/s/ /k/ /i/ /t/", "/b/ /l/ /e/ /d/"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "PHONEME_SEGMENTATION",
+    "explanation": "CCVC and CVCC words with blends requiring the student to identify four phonemes per word."
+  },
+  {
+    "id": "PS-004",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 2,
+    "standardCode": "RF.1.2d",
+    "piParameters": { "a": 1.0, "b": -1.5, "c": 0.0 },
+    "prompt": "Say all the sounds in each word as fast as you can.",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "me", "go", "she", "up", "it", "am", "if", "at",
+      "cake", "make", "pine", "rope", "bike", "bone", "mule",
+      "gate", "hide", "nose", "tube", "lake"
+    ],
+    "fluencyCorrectItems": [
+      "/m/ /ee/", "/g/ /oh/", "/sh/ /ee/", "/u/ /p/", "/i/ /t/",
+      "/a/ /m/", "/i/ /f/", "/a/ /t/",
+      "/k/ /ay/ /k/", "/m/ /ay/ /k/", "/p/ /eye/ /n/", "/r/ /oh/ /p/",
+      "/b/ /eye/ /k/", "/b/ /oh/ /n/", "/m/ /yoo/ /l/",
+      "/g/ /ay/ /t/", "/h/ /eye/ /d/", "/n/ /oh/ /z/", "/t/ /oo/ /b/",
+      "/l/ /ay/ /k/"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "PHONEME_SEGMENTATION",
+    "explanation": "A mix of two-phoneme words and CVCe words with long vowels to segment."
+  }
+]

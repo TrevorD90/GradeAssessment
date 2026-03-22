@@ -1,0 +1,118 @@
+[
+  {
+    "id": "writing_35_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 2,
+    "standardCode": "L.3.1",
+    "piParameters": { "a": 1.0, "b": -1.0, "c": 0.25 },
+    "prompt": "Which sentence uses the correct subject-verb agreement?",
+    "choices": [
+      "The birds flies south in winter.",
+      "The birds fly south in winter.",
+      "The birds flying south in winter.",
+      "The birds flys south in winter."
+    ],
+    "correctAnswer": "The birds fly south in winter.",
+    "correctAnswers": [],
+    "blanks": [],
+    "orderedItems": [],
+    "explanation": "'Birds' is a plural subject, so it takes the plural verb 'fly,' not 'flies' or 'flys.'"
+  },
+  {
+    "id": "writing_35_002",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeRange": "3-5",
+    "bloomsLevel": 2,
+    "standardCode": "L.3.1",
+    "piParameters": { "a": 1.0, "b": -0.7, "c": 0.0 },
+    "prompt": "Change this sentence to past tense: The children ___ (play) in the park every day.",
+    "choices": [],
+    "correctAnswer": "played",
+    "correctAnswers": ["played"],
+    "blanks": [],
+    "orderedItems": [],
+    "explanation": "To form the past tense of 'play,' add -ed to make 'played.'"
+  },
+  {
+    "id": "writing_35_003",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.1",
+    "piParameters": { "a": 1.0, "b": -0.3, "c": 0.0 },
+    "prompt": "Fill in each blank with the past tense of the verb in parentheses: Yesterday, Maria ___ (go) to the library. She ___ (choose) three books and ___ (bring) them home.",
+    "choices": [],
+    "correctAnswer": "",
+    "correctAnswers": [],
+    "blanks": ["went", "chose", "brought"],
+    "orderedItems": [],
+    "explanation": "'Went' is the past tense of 'go.' 'Chose' is the past tense of 'choose.' 'Brought' is the past tense of 'bring.' These are all irregular verbs."
+  },
+  {
+    "id": "writing_35_004",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeRange": "3-5",
+    "bloomsLevel": 4,
+    "standardCode": "W.4.3",
+    "piParameters": { "a": 1.0, "b": 0.0, "c": 0.0 },
+    "prompt": "Arrange these sentences in the correct order to make a well-structured paragraph about making a sandwich.",
+    "choices": [
+      "Finally, enjoy your sandwich!",
+      "Then, put the two slices together.",
+      "First, get two slices of bread.",
+      "Next, add peanut butter and jelly to the bread."
+    ],
+    "correctAnswer": "",
+    "correctAnswers": [],
+    "blanks": [],
+    "orderedItems": [
+      "First, get two slices of bread.",
+      "Next, add peanut butter and jelly to the bread.",
+      "Then, put the two slices together.",
+      "Finally, enjoy your sandwich!"
+    ],
+    "explanation": "A well-ordered paragraph uses transition words like 'First,' 'Next,' 'Then,' and 'Finally' to show the correct sequence of steps."
+  },
+  {
+    "id": "writing_35_005",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "L.5.1",
+    "piParameters": { "a": 1.0, "b": 0.2, "c": 0.25 },
+    "prompt": "Which sentence is a compound sentence?",
+    "choices": [
+      "The dog barked loudly at the mailman.",
+      "Running through the park, the boy tripped.",
+      "I wanted to go outside, but it was raining.",
+      "After dinner, we played a board game."
+    ],
+    "correctAnswer": "I wanted to go outside, but it was raining.",
+    "correctAnswers": [],
+    "blanks": [],
+    "orderedItems": [],
+    "explanation": "A compound sentence joins two complete thoughts (independent clauses) with a comma and a conjunction like 'but,' 'and,' or 'so.'"
+  },
+  {
+    "id": "writing_35_006",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeRange": "3-5",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.2",
+    "piParameters": { "a": 1.0, "b": 0.5, "c": 0.0 },
+    "prompt": "Add the correct punctuation mark in each blank: My favorite fruits are apples___ bananas___ and grapes.",
+    "choices": [],
+    "correctAnswer": "",
+    "correctAnswers": [],
+    "blanks": [",", ","],
+    "orderedItems": [],
+    "explanation": "When listing three or more items in a series, use commas to separate each item: 'apples, bananas, and grapes.'"
+  }
+]

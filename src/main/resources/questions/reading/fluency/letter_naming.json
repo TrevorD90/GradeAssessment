@@ -1,0 +1,122 @@
+[
+  {
+    "id": "LN-001",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 1,
+    "standardCode": "RF.K.1d",
+    "piParameters": { "a": 1.0, "b": -3.0, "c": 0.0 },
+    "prompt": "Name each letter as quickly as you can.",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "A", "m", "T", "s", "B", "r", "D", "n", "F", "o",
+      "G", "p", "H", "k", "L", "e", "M", "a", "N", "d",
+      "P", "i", "R", "g", "S", "t", "U", "b", "W", "f",
+      "C", "j", "E", "l", "I", "h", "K", "u", "O", "w"
+    ],
+    "fluencyCorrectItems": [
+      "A", "m", "T", "s", "B", "r", "D", "n", "F", "o",
+      "G", "p", "H", "k", "L", "e", "M", "a", "N", "d",
+      "P", "i", "R", "g", "S", "t", "U", "b", "W", "f",
+      "C", "j", "E", "l", "I", "h", "K", "u", "O", "w"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "LETTER_NAMING",
+    "explanation": "The student names uppercase and lowercase letters as quickly as possible within one minute."
+  },
+  {
+    "id": "LN-002",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 1,
+    "standardCode": "RF.K.1d",
+    "piParameters": { "a": 1.0, "b": -2.8, "c": 0.0 },
+    "prompt": "Say the name of each letter you see.",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "c", "J", "v", "Q", "x", "Z", "y", "V", "q", "X",
+      "z", "Y", "j", "W", "e", "K", "a", "N", "d", "P",
+      "i", "R", "g", "S", "t", "U", "b", "F", "o", "G",
+      "p", "H", "k", "L", "m", "T", "s", "B", "r", "D"
+    ],
+    "fluencyCorrectItems": [
+      "c", "J", "v", "Q", "x", "Z", "y", "V", "q", "X",
+      "z", "Y", "j", "W", "e", "K", "a", "N", "d", "P",
+      "i", "R", "g", "S", "t", "U", "b", "F", "o", "G",
+      "p", "H", "k", "L", "m", "T", "s", "B", "r", "D"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "LETTER_NAMING",
+    "explanation": "A second set of mixed uppercase and lowercase letters for letter naming fluency."
+  },
+  {
+    "id": "LN-003",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 1,
+    "standardCode": "RF.K.1d",
+    "piParameters": { "a": 1.0, "b": -2.5, "c": 0.0 },
+    "prompt": "Look at each letter and say its name.",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "O", "f", "C", "n", "E", "l", "I", "h", "K", "u",
+      "A", "w", "G", "r", "M", "d", "S", "p", "Y", "b",
+      "Q", "t", "U", "j", "W", "x", "Z", "v", "D", "g",
+      "F", "a", "H", "e", "J", "i", "L", "o", "N", "s"
+    ],
+    "fluencyCorrectItems": [
+      "O", "f", "C", "n", "E", "l", "I", "h", "K", "u",
+      "A", "w", "G", "r", "M", "d", "S", "p", "Y", "b",
+      "Q", "t", "U", "j", "W", "x", "Z", "v", "D", "g",
+      "F", "a", "H", "e", "J", "i", "L", "o", "N", "s"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "LETTER_NAMING",
+    "explanation": "A third randomized set of all 26 letters in both cases for letter naming fluency."
+  },
+  {
+    "id": "LN-004",
+    "subject": "READING",
+    "type": "TIMED_FLUENCY",
+    "gradeRange": "K-2",
+    "bloomsLevel": 1,
+    "standardCode": "RF.K.1d",
+    "piParameters": { "a": 1.0, "b": -2.0, "c": 0.0 },
+    "prompt": "Name every letter as fast as you can. Ready? Go!",
+    "passage": null,
+    "choices": null,
+    "correctAnswer": null,
+    "correctAnswers": null,
+    "blanks": null,
+    "fluencyItems": [
+      "R", "c", "P", "g", "T", "a", "N", "e", "B", "k",
+      "D", "o", "F", "s", "H", "u", "J", "w", "L", "y",
+      "M", "b", "S", "d", "U", "f", "W", "h", "Y", "j",
+      "A", "l", "C", "n", "E", "p", "G", "r", "I", "t"
+    ],
+    "fluencyCorrectItems": [
+      "R", "c", "P", "g", "T", "a", "N", "e", "B", "k",
+      "D", "o", "F", "s", "H", "u", "J", "w", "L", "y",
+      "M", "b", "S", "d", "U", "f", "W", "h", "Y", "j",
+      "A", "l", "C", "n", "E", "p", "G", "r", "I", "t"
+    ],
+    "fluencyTimeLimitSeconds": 60,
+    "readingSubtest": "LETTER_NAMING",
+    "explanation": "A fourth randomized letter grid for repeated assessment of letter naming fluency."
+  }
+]
