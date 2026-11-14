@@ -21,6 +21,13 @@ import kotlin.math.roundToInt
  *  empirically calibrated on student response data. Scores are estimates, not normed results.]
  */
 object GradeScale {
+    /**
+     * Version of this scale, stored with every saved score. Scores from different versions are not
+     * comparable (version 1 = the pre-2026-11-13 piecewise mapping), so growth charts only plot
+     * scores whose version matches the current one.
+     */
+    const val VERSION = 2
+
     const val THETA_PER_GRADE = 0.6
     const val CENTER_GRADE = 5.0
 

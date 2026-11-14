@@ -17,6 +17,7 @@ fun ResultsListScreen(
     val searchQuery by viewModel.searchQuery.collectAsState()
     val selectedResult by viewModel.selectedResult.collectAsState()
     val analysisReport by viewModel.analysisReport.collectAsState()
+    val growthHistory by viewModel.growthHistory.collectAsState()
     val exportStatus by viewModel.exportStatus.collectAsState()
     val snackbarHostState = remember { SnackbarHostState() }
 
@@ -75,6 +76,7 @@ fun ResultsListScreen(
         ResultDetailDialog(
             result = selectedResult!!,
             analysisReport = analysisReport,
+            growthHistory = growthHistory,
             onExportPdf = { viewModel.exportPdf(selectedResult!!) },
             onDismiss = { viewModel.clearSelection() }
         )

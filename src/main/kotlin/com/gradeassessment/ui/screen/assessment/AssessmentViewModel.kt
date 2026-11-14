@@ -196,7 +196,7 @@ class AssessmentViewModel(
                 PdfExportHelper.showSaveDialog(result.student.firstName)
             } ?: return@launch
             try {
-                reportGenerator.generatePdf(report, result, path)
+                reportGenerator.generatePdf(report, result, path, analysisAgent.growthHistory(result))
                 _exportStatus.value = ExportStatus.Success(path)
             } catch (e: Exception) {
                 _exportStatus.value = ExportStatus.Error(e.message ?: "Unknown error")

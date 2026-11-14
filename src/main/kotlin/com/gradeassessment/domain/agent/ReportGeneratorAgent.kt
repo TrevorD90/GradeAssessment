@@ -13,7 +13,12 @@ import java.io.FileOutputStream
 
 class ReportGeneratorAgent {
 
-    fun generatePdf(report: AnalysisReport, result: AssessmentResult, outputPath: String): File {
+    fun generatePdf(
+        report: AnalysisReport,
+        result: AssessmentResult,
+        outputPath: String,
+        growth: GrowthHistory? = null
+    ): File {
         val file = File(outputPath)
         val fos = FileOutputStream(file)
         val document = Document(PageSize.LETTER, 36f, 36f, 36f, 36f)
@@ -25,6 +30,7 @@ class ReportGeneratorAgent {
             addReportGuide(document)
             addOverallSummary(document, report)
             addSubjectScoreTable(document, result, report)
+            if (growth != null && growth.hasGrowth) addGrowthSection(document, growth)
             addCriticalThinkingSection(document, result)
             addIqAssessmentSection(document, result)
             addMissedQuestionsSection(document, result)
@@ -204,6 +210,68 @@ class ReportGeneratorAgent {
         }
 
         document.add(table)
+        document.add(Paragraph("\n"))
+    }
+
+    /**
+     * Growth over time: change per subject from first to latest assessment, then one row per
+     * assessment. Only scores on the current grade scale are included (see GrowthHistory).
+     */
+    private fun addGrowthSection(document: Document, growth: GrowthHistory) {
+        val sectionFont = Font(Font.HELVETICA, 16f, Font.BOLD)
+        val bodyFont = Font(Font.HELVETICA, 10f, Font.NORMAL)
+        val boldFont = Font(Font.HELVETICA, 10f, Font.BOLD)
+        val headerFont = Font(Font.HELVETICA, 9f, Font.BOLD)
+        val cellFont = Font(Font.HELVETICA, 9f, Font.NORMAL)
+        val noteFont = Font(Font.HELVETICA, 8f, Font.ITALIC)
+
+        fun fmt(v: Double?) = v?.let { "%.1f".format(it) } ?: "-"
+        fun date(p: GrowthPoint): String {
+            val d = p.date.toLocalDateTime(TimeZone.currentSystemDefault())
+            return "${d.monthNumber}/${d.dayOfMonth}/${d.year}"
+        }
+
+        document.add(Paragraph("Growth Over Time", sectionFont))
+        document.add(Paragraph("\n"))
+
+        // Headline change per series, first to latest assessment.
+        val summary = Paragraph()
+        for (series in listOf<Subject?>(null) + growth.subjects) {
+            val change = growth.change(series) ?: continue
+            summary.add(Chunk("${series?.displayName ?: "Overall"}: ", boldFont))
+            summary.add(Chunk("${if (change >= 0) "+" else ""}%.1f grade levels\n".format(change), bodyFont))
+        }
+        document.add(summary)
+        document.add(Paragraph("\n"))
+
+        val subjects = growth.subjects
+        val table = PdfPTable(4 + subjects.size)
+        table.widthPercentage = 100f
+        table.setWidths((floatArrayOf(1.4f, 0.6f, 1f, 1f) + FloatArray(subjects.size) { 1f }))
+        val headers = listOf("Date", "Age", "Expected", "Overall") + subjects.map { it.displayName }
+        for (header in headers) {
+            table.addCell(PdfPCell(Phrase(header, headerFont)).apply {
+                horizontalAlignment = Element.ALIGN_CENTER; setPadding(4f)
+                backgroundColor = java.awt.Color(230, 230, 230)
+            })
+        }
+        for (p in growth.points) {
+            val row = listOf(date(p), "${p.age}", fmt(p.expectedGe), fmt(p.overallGe)) +
+                subjects.map { fmt(p.subjectGe[it]) }
+            for (text in row) {
+                table.addCell(PdfPCell(Phrase(text, cellFont)).apply {
+                    horizontalAlignment = Element.ALIGN_CENTER; setPadding(3f)
+                })
+            }
+        }
+        document.add(table)
+
+        var note = "Values are grade equivalents. \"Expected\" is the mid-year level for the student's age. " +
+            "\"-\" means the subject was not taken."
+        if (growth.excludedSessions > 0) {
+            note += " ${growth.excludedSessions} earlier assessment(s) used an older scoring scale and are not included."
+        }
+        document.add(Paragraph(note, noteFont))
         document.add(Paragraph("\n"))
     }
 

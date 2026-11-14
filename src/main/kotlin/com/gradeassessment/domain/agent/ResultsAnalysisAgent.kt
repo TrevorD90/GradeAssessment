@@ -56,6 +56,17 @@ class ResultsAnalysisAgent(
         )
     }
 
+    /**
+     * The student's grade-level history up to and including [result], for the growth chart and
+     * the PDF. Students are matched by first name (see the REVIEW NEEDED note in computeTrend).
+     */
+    fun growthHistory(result: AssessmentResult): GrowthHistory {
+        val all = resultRepository.getResultsForStudent(result.student.firstName)
+        // A just-finished session may not be readable from the database yet; make sure it is included.
+        val withCurrent = if (all.any { it.sessionId == result.sessionId }) all else all + result
+        return GrowthHistory.from(withCurrent, upTo = result.startTime)
+    }
+
     private fun computeRankings(activeResults: Map<Subject, SubjectResult>): List<SubjectRanking> {
         return activeResults.entries
             .sortedByDescending { it.value.scoreBundle.scaledScore }

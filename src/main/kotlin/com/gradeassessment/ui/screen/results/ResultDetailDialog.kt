@@ -13,6 +13,7 @@ import androidx.compose.ui.window.Dialog
 import com.gradeassessment.domain.model.*
 import com.gradeassessment.domain.scoring.ScoringHelper
 import com.gradeassessment.ui.components.GradeBadge
+import com.gradeassessment.ui.components.GrowthChartSection
 import com.gradeassessment.ui.components.ScoreCard
 import com.gradeassessment.ui.theme.subjectColor
 import kotlinx.datetime.TimeZone
@@ -22,6 +23,7 @@ import kotlinx.datetime.toLocalDateTime
 fun ResultDetailDialog(
     result: AssessmentResult,
     analysisReport: AnalysisReport? = null,
+    growthHistory: GrowthHistory? = null,
     onExportPdf: (() -> Unit)? = null,
     onDismiss: () -> Unit
 ) {
@@ -73,6 +75,12 @@ fun ResultDetailDialog(
                 // Analysis summary (if available)
                 if (analysisReport != null) {
                     AnalysisSummarySection(analysisReport)
+                    HorizontalDivider(modifier = Modifier.padding(vertical = 16.dp))
+                }
+
+                // Growth across all of this student's assessments up to this one
+                if (growthHistory != null) {
+                    GrowthChartSection(growthHistory)
                     HorizontalDivider(modifier = Modifier.padding(vertical = 16.dp))
                 }
 

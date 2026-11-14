@@ -98,7 +98,9 @@ object DatabaseFactory {
             "iq_score" to "INTEGER",
             "iq_range_low" to "INTEGER",
             "iq_range_high" to "INTEGER",
-            "ct_percentile" to "INTEGER"
+            "ct_percentile" to "INTEGER",
+            // Existing rows stay NULL = scale version 1 (pre-rescale), which growth charts exclude.
+            "scale_version" to "INTEGER"
         )
         for ((column, type) in columnsToAdd) {
             try {

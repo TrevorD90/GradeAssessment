@@ -18,6 +18,8 @@ object SubjectScoresTable : Table("subject_scores") {
     val iqRangeLow = integer("iq_range_low").nullable()
     val iqRangeHigh = integer("iq_range_high").nullable()
     val ctPercentile = integer("ct_percentile").nullable()
+    /** GradeScale version; null on rows saved before versioning existed (= version 1). */
+    val scaleVersion = integer("scale_version").nullable()
 
     override val primaryKey = PrimaryKey(id)
 

@@ -5,6 +5,7 @@ import com.gradeassessment.domain.agent.ReportGeneratorAgent
 import com.gradeassessment.domain.agent.ResultsAnalysisAgent
 import com.gradeassessment.domain.model.AnalysisReport
 import com.gradeassessment.domain.model.AssessmentResult
+import com.gradeassessment.domain.model.GrowthHistory
 import com.gradeassessment.util.PdfExportHelper
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -35,6 +36,9 @@ class ResultsViewModel(
     private val _analysisReport = MutableStateFlow<AnalysisReport?>(null)
     val analysisReport: StateFlow<AnalysisReport?> = _analysisReport.asStateFlow()
 
+    private val _growthHistory = MutableStateFlow<GrowthHistory?>(null)
+    val growthHistory: StateFlow<GrowthHistory?> = _growthHistory.asStateFlow()
+
     private val _exportStatus = MutableStateFlow<ExportStatus>(ExportStatus.Idle)
     val exportStatus: StateFlow<ExportStatus> = _exportStatus.asStateFlow()
 
@@ -61,11 +65,13 @@ class ResultsViewModel(
         val hydrated = resultRepository.withMissedQuestions(result)
         _selectedResult.value = hydrated
         _analysisReport.value = analysisAgent.analyze(hydrated)
+        _growthHistory.value = analysisAgent.growthHistory(hydrated)
     }
 
     fun clearSelection() {
         _selectedResult.value = null
         _analysisReport.value = null
+        _growthHistory.value = null
         _exportStatus.value = ExportStatus.Idle
     }
 
@@ -77,7 +83,8 @@ class ResultsViewModel(
                 PdfExportHelper.showSaveDialog(result.student.firstName)
             } ?: return@launch
             try {
-                reportGenerator.generatePdf(report, hydrated, path)
+                val growth = _growthHistory.value ?: analysisAgent.growthHistory(hydrated)
+                reportGenerator.generatePdf(report, hydrated, path, growth)
                 _exportStatus.value = ExportStatus.Success(path)
             } catch (e: Exception) {
                 _exportStatus.value = ExportStatus.Error(e.message ?: "Unknown error")

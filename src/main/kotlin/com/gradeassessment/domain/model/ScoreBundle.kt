@@ -13,5 +13,7 @@ data class ScoreBundle(
     val iqRangeLow: Int? = null,
     val iqRangeHigh: Int? = null,
     val ctPercentile: Int? = null,
-    val disclaimer: String? = null
+    val disclaimer: String? = null,
+    /** GradeScale version the score was computed on; see [GradeScale.VERSION]. */
+    val scaleVersion: Int = GradeScale.VERSION
 )

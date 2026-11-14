@@ -68,6 +68,7 @@ class ResultDao {
                 it[iqRangeLow] = sb.iqRangeLow
                 it[iqRangeHigh] = sb.iqRangeHigh
                 it[ctPercentile] = sb.ctPercentile
+                it[scaleVersion] = sb.scaleVersion
             }
         }
     }
@@ -156,7 +157,8 @@ class ResultDao {
                 iqScore = scoreRow[SubjectScoresTable.iqScore],
                 iqRangeLow = scoreRow[SubjectScoresTable.iqRangeLow],
                 iqRangeHigh = scoreRow[SubjectScoresTable.iqRangeHigh],
-                ctPercentile = scoreRow[SubjectScoresTable.ctPercentile]
+                ctPercentile = scoreRow[SubjectScoresTable.ctPercentile],
+                scaleVersion = scoreRow[SubjectScoresTable.scaleVersion] ?: 1
             )
             subject to SubjectResult(
                 subject = subject,
