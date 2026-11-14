@@ -1,0 +1,379 @@
+[
+  {
+    "id": "math_g1_001",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "1.OA.C.6",
+    "prompt": "What is 9 - 4?",
+    "choices": [
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Start at 9 and count back 4: 8, 7, 6, 5. So 9 - 4 = 5.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_002",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "1.NBT.A.1",
+    "prompt": "What number comes right after 59?",
+    "choices": [
+      "60",
+      "50",
+      "58",
+      "69"
+    ],
+    "correctAnswer": "60",
+    "explanation": "After 59 we start a new ten. The next number is 60.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_003",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "1.OA.C.6",
+    "prompt": "What is 6 + 3? Type the number.",
+    "correctAnswer": "9",
+    "correctAnswers": [
+      "9",
+      "nine"
+    ],
+    "explanation": "Start at 6 and count up 3 more: 7, 8, 9. So 6 + 3 = 9.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g1_004",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "1.OA.D.8",
+    "prompt": "6 + ? = 10. What is the missing number?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "explanation": "6 + 4 = 10. You need 4 more to get from 6 to 10.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_005",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "1.NBT.B.2",
+    "prompt": "Which number has 4 tens and 7 ones?",
+    "choices": [
+      "74",
+      "11",
+      "47",
+      "407"
+    ],
+    "correctAnswer": "47",
+    "explanation": "4 tens is 40. 7 ones is 7. 40 and 7 make 47.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_006",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "1.OA.A.1",
+    "prompt": "Sam has 12 stickers. He gives away 5 stickers. How many stickers are left? Type the number.",
+    "correctAnswer": "7",
+    "correctAnswers": [
+      "7",
+      "seven"
+    ],
+    "explanation": "12 - 5 = 7. Sam has 7 stickers left.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g1_007",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "1.NBT.B.3",
+    "prompt": "Which one is true?",
+    "choices": [
+      "35 < 53",
+      "35 > 53",
+      "35 = 53",
+      "53 < 35"
+    ],
+    "correctAnswer": "35 < 53",
+    "explanation": "35 has 3 tens. 53 has 5 tens. 3 tens is less than 5 tens, so 35 is less than 53.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_008",
+    "subject": "MATH",
+    "type": "CLOZE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "1.NBT.C.5",
+    "prompt": "Type the number. 10 more than 34 is ___.",
+    "blanks": [
+      "44"
+    ],
+    "explanation": "Adding 10 makes the tens digit go up by one. 34 becomes 44.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g1_009",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "1.MD.B.3",
+    "prompt": "On a clock, the short hand points to 3. The long hand points to 12. What time is it?",
+    "choices": [
+      "12:00",
+      "12:15",
+      "3:30",
+      "3:00"
+    ],
+    "correctAnswer": "3:00",
+    "explanation": "The short hand shows the hour. It points to 3. The long hand on 12 means o'clock. It is 3:00.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_010",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "1.MD.A.1",
+    "prompt": "A pencil is 5 cubes long. A crayon is 3 cubes long. A marker is 4 cubes long. Put them in order from shortest to longest.",
+    "orderedItems": [
+      "Crayon",
+      "Marker",
+      "Pencil"
+    ],
+    "explanation": "3 is less than 4, and 4 is less than 5. So the crayon is shortest and the pencil is longest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g1_011",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "1.OA.C.6",
+    "prompt": "What is 7 + 8? Type the number.",
+    "correctAnswer": "15",
+    "correctAnswers": [
+      "15",
+      "fifteen"
+    ],
+    "explanation": "Make a ten: 7 + 3 = 10. Then add 5 more. 10 + 5 = 15.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g1_012",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "1.G.A.3",
+    "prompt": "A pizza is cut into 4 equal parts. What is one part called?",
+    "choices": [
+      "A half",
+      "A fourth",
+      "A third",
+      "A whole"
+    ],
+    "correctAnswer": "A fourth",
+    "explanation": "When a shape is cut into 4 equal parts, each part is a fourth. It is also called a quarter.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_013",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "1.OA.A.2",
+    "prompt": "Ana has 4 red beads, 6 blue beads, and 5 green beads. How many beads does she have in all?",
+    "choices": [
+      "10",
+      "15",
+      "14",
+      "16"
+    ],
+    "correctAnswer": "15",
+    "explanation": "4 + 6 = 10. Then 10 + 5 = 15. Ana has 15 beads.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_014",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "1.NBT.C.4",
+    "prompt": "What is 46 + 30?",
+    "choices": [
+      "49",
+      "16",
+      "66",
+      "76"
+    ],
+    "correctAnswer": "76",
+    "explanation": "30 is 3 tens. Add 3 tens to 4 tens to get 7 tens. The 6 ones stay the same. The answer is 76.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_015",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "1.OA.A.1",
+    "prompt": "Tom has 8 marbles. Jen has 13 marbles. How many more marbles does Jen have than Tom?",
+    "choices": [
+      "5",
+      "21",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Find the difference: 13 - 8 = 5. Jen has 5 more marbles.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g1_016",
+    "subject": "MATH",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "1.OA.D.7",
+    "prompt": "Which number sentences are true? Select all that apply.",
+    "choices": [
+      "5 + 3 = 8",
+      "4 + 2 = 2 + 5",
+      "9 = 4 + 5",
+      "8 - 1 = 6",
+      "6 + 1 = 1 + 6"
+    ],
+    "correctAnswers": [
+      "5 + 3 = 8",
+      "9 = 4 + 5",
+      "6 + 1 = 1 + 6"
+    ],
+    "explanation": "The equal sign means both sides are the same amount. 5 + 3 is 8. 4 + 5 is 9. 6 + 1 and 1 + 6 are both 7. But 4 + 2 is 6 and 2 + 5 is 7, and 8 - 1 is 7, not 6.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.0
+    }
+  }
+]

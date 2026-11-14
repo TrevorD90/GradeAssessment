@@ -56,8 +56,11 @@ class ResultsViewModel(
     }
 
     fun selectResult(result: AssessmentResult) {
-        _selectedResult.value = result
-        _analysisReport.value = analysisAgent.analyze(result)
+        // Saved results are stored without their missed-question lists; rebuild them from the
+        // stored responses so the Detail View and PDF show them (they were always empty before).
+        val hydrated = resultRepository.withMissedQuestions(result)
+        _selectedResult.value = hydrated
+        _analysisReport.value = analysisAgent.analyze(hydrated)
     }
 
     fun clearSelection() {
@@ -68,12 +71,13 @@ class ResultsViewModel(
 
     fun exportPdf(result: AssessmentResult) {
         scope.launch(Dispatchers.IO) {
-            val report = _analysisReport.value ?: analysisAgent.analyze(result)
+            val hydrated = resultRepository.withMissedQuestions(result)
+            val report = _analysisReport.value ?: analysisAgent.analyze(hydrated)
             val path = withContext(Dispatchers.Main) {
                 PdfExportHelper.showSaveDialog(result.student.firstName)
             } ?: return@launch
             try {
-                reportGenerator.generatePdf(report, result, path)
+                reportGenerator.generatePdf(report, hydrated, path)
                 _exportStatus.value = ExportStatus.Success(path)
             } catch (e: Exception) {
                 _exportStatus.value = ExportStatus.Error(e.message ?: "Unknown error")

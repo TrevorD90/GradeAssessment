@@ -1,0 +1,386 @@
+[
+  {
+    "id": "social_studies_g9_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.4.9-12",
+    "prompt": "The principle of federalism in the United States Constitution refers to which of the following?",
+    "choices": [
+      "The separation of powers among the legislative, executive, and judicial branches",
+      "The division of power between the national government and state governments",
+      "The process by which citizens vote for elected officials",
+      "The right of the judiciary to declare laws unconstitutional"
+    ],
+    "correctAnswer": "The division of power between the national government and state governments",
+    "explanation": "Federalism divides governmental power between the national government and the states. Separation of powers divides authority among the three branches.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Eco.11.9-12",
+    "prompt": "The total market value of all final goods and services produced within a country in a given year is known as the Gross ___ Product.",
+    "correctAnswer": "Domestic",
+    "correctAnswers": [
+      "Domestic",
+      "Domestic Product"
+    ],
+    "explanation": "Gross Domestic Product (GDP) measures the total value of final goods and services produced within a country's borders in a period of time.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g9_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Eco.3.9-12",
+    "prompt": "According to the law of supply, when the price of a good rises, producers will generally ___.",
+    "choices": [
+      "offer less of it for sale",
+      "stop producing it",
+      "offer more of it for sale",
+      "offer exactly the same amount"
+    ],
+    "correctAnswer": "offer more of it for sale",
+    "explanation": "The law of supply states that, other things equal, a higher price leads producers to supply a larger quantity.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.12.9-12",
+    "prompt": "Which Supreme Court case ruled that racial segregation in public schools is unconstitutional?",
+    "choices": [
+      "Plessy v. Ferguson",
+      "Marbury v. Madison",
+      "Miranda v. Arizona",
+      "Brown v. Board of Education"
+    ],
+    "correctAnswer": "Brown v. Board of Education",
+    "explanation": "In Brown v. Board of Education (1954), the Court ruled that segregated public schools violate the Fourteenth Amendment's Equal Protection Clause.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.3.9-12",
+    "prompt": "The number of people living per square mile of land is called ___.",
+    "choices": [
+      "population density",
+      "birth rate",
+      "life expectancy",
+      "urbanization"
+    ],
+    "correctAnswer": "population density",
+    "explanation": "Population density is the average number of people per unit of land area.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Civ.1.9-12",
+    "prompt": "Which of the following are enumerated powers granted to Congress by the United States Constitution? Select all that apply.",
+    "choices": [
+      "Declaring war",
+      "Appointing Supreme Court justices",
+      "Levying and collecting taxes",
+      "Regulating interstate commerce",
+      "Issuing executive orders"
+    ],
+    "correctAnswers": [
+      "Declaring war",
+      "Levying and collecting taxes",
+      "Regulating interstate commerce"
+    ],
+    "explanation": "Declaring war, taxing and regulating interstate commerce are powers of Congress listed in Article I. The President nominates justices and issues executive orders.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g9_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.3.9-12",
+    "prompt": "The price at which the quantity demanded equals the quantity supplied is called the ___.",
+    "choices": [
+      "price ceiling",
+      "equilibrium price",
+      "price floor",
+      "opportunity cost"
+    ],
+    "correctAnswer": "equilibrium price",
+    "explanation": "At the equilibrium (market-clearing) price, the amount buyers want to buy equals the amount sellers want to sell.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_008",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.4.9-12",
+    "prompt": "Which part of the Constitution states that powers not given to the national government, nor denied to the states, are reserved to the states or the people?",
+    "choices": [
+      "The First Amendment",
+      "The Supremacy Clause",
+      "The Tenth Amendment",
+      "The Commerce Clause"
+    ],
+    "correctAnswer": "The Tenth Amendment",
+    "explanation": "The Tenth Amendment reserves to the states or to the people the powers not delegated to the United States by the Constitution.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_009",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Civ.11.9-12",
+    "prompt": "Arrange the steps in the usual path of a federal case to a Supreme Court ruling.",
+    "orderedItems": [
+      "A trial is held in a U.S. district court",
+      "The losing side appeals to a U.S. court of appeals",
+      "The Supreme Court agrees to review the case",
+      "The Supreme Court issues its decision"
+    ],
+    "explanation": "Most federal cases begin in a district court, may be appealed to a court of appeals, and reach the Supreme Court only if it agrees to hear the case, after which it issues a ruling.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g9_010",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Civ.12.9-12",
+    "prompt": "The decision in Miranda v. Arizona (1966) requires police to ___.",
+    "choices": [
+      "obtain a signed warrant from a judge before making any arrest of any kind",
+      "provide a twelve-person jury in every criminal and civil trial in the country",
+      "release every suspect within 24 hours",
+      "inform suspects in custody of their rights before questioning them"
+    ],
+    "correctAnswer": "inform suspects in custody of their rights before questioning them",
+    "explanation": "Miranda requires that suspects in custody be told of their right to remain silent and their right to an attorney before questioning.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_011",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Geo.3.9-12",
+    "prompt": "A population pyramid with a very wide base and a narrow top indicates a country with ___.",
+    "choices": [
+      "a high birth rate and a young population",
+      "an aging and shrinking population",
+      "equal numbers of people in every age group",
+      "a very low birth rate"
+    ],
+    "correctAnswer": "a high birth rate and a young population",
+    "explanation": "A wide base means many children relative to older people, which reflects a high birth rate and a young, fast-growing population.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_012",
+    "subject": "SOCIAL_STUDIES",
+    "type": "CLOZE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.8.9-12",
+    "prompt": "Use the word bank: surplus, shortage. When a price is held above the equilibrium price, quantity supplied exceeds quantity demanded, creating a ___. When a price is held below the equilibrium price, the result is a ___.",
+    "blanks": [
+      "surplus",
+      "shortage"
+    ],
+    "explanation": "A price above equilibrium causes a surplus (excess supply). A price below equilibrium causes a shortage (excess demand).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g9_013",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.Civ.8.9-12",
+    "prompt": "According to Madison's argument in Federalist No. 51, why is a system of checks and balances necessary?",
+    "passage": "In Federalist No. 51, James Madison argued that the structure of government must provide proper checks on its own power. He wrote, \"If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary.\" Madison proposed that \"ambition must be made to counteract ambition,\" meaning that each branch of government should have the motivation and the means to resist encroachment by the other branches.",
+    "choices": [
+      "Because citizens cannot be trusted to vote responsibly",
+      "Because human nature makes it likely that those in power will seek to expand their authority",
+      "Because the states needed equal representation in all branches",
+      "Because the Constitution required a system of government identical to the British Parliament"
+    ],
+    "correctAnswer": "Because human nature makes it likely that those in power will seek to expand their authority",
+    "explanation": "Madison argues that people are not \"angels,\" so those in power will tend to seek more power. Government must therefore be structured so each branch can check the others.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_014",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.Geo.8.9-12",
+    "prompt": "A geographer notices that cities in a developing country are growing rapidly along a newly constructed highway corridor, while rural villages far from the highway are shrinking. Which geographic concept best explains this pattern of settlement change?",
+    "choices": [
+      "Cultural diffusion",
+      "Continental drift",
+      "Spatial interaction and accessibility",
+      "Climate determinism"
+    ],
+    "correctAnswer": "Spatial interaction and accessibility",
+    "explanation": "Transportation routes increase accessibility, attracting economic activity and people to places along them, while poorly connected places decline.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_015",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Eco.3.9-12",
+    "prompt": "A severe frost destroys much of the orange crop. Other things being equal, what happens in the market for oranges?",
+    "choices": [
+      "Demand decreases, so the equilibrium price falls",
+      "Supply increases, so the equilibrium price falls",
+      "Demand increases, so the equilibrium price rises and the quantity sold rises",
+      "Supply decreases, so the equilibrium price rises and the quantity sold falls"
+    ],
+    "correctAnswer": "Supply decreases, so the equilibrium price rises and the quantity sold falls",
+    "explanation": "The frost reduces supply (the supply curve shifts left). With demand unchanged, the equilibrium price rises and the equilibrium quantity falls.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g9_016",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Civ.3.9-12",
+    "prompt": "A state passes a law that directly conflicts with a valid federal law. Under the Supremacy Clause of the Constitution, which law prevails?",
+    "choices": [
+      "The federal law",
+      "The state law",
+      "Whichever law was passed first",
+      "Whichever law the state's governor chooses"
+    ],
+    "correctAnswer": "The federal law",
+    "explanation": "Article VI makes the Constitution and federal laws made under it the \"supreme Law of the Land,\" so valid federal law overrides conflicting state law.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  }
+]

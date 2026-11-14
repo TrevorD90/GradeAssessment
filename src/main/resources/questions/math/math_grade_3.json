@@ -1,0 +1,381 @@
+[
+  {
+    "id": "math_g3_001",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "3.OA.C.7",
+    "prompt": "What is 6 x 7?",
+    "choices": [
+      "36",
+      "48",
+      "42",
+      "54"
+    ],
+    "correctAnswer": "42",
+    "explanation": "6 x 7 = 42. You can think of it as 6 groups of 7, or 7 groups of 6.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g3_002",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "3.OA.A.3",
+    "prompt": "A baker makes 4 trays of cookies. Each tray has 8 cookies. How many cookies did the baker make in all? Write your answer as a number.",
+    "correctAnswer": "32",
+    "correctAnswers": [
+      "32",
+      "32 cookies"
+    ],
+    "explanation": "4 trays x 8 cookies on each tray = 32 cookies in all.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g3_003",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "3.NBT.A.1",
+    "prompt": "Round 467 to the nearest hundred.",
+    "choices": [
+      "400",
+      "470",
+      "500",
+      "460"
+    ],
+    "correctAnswer": "500",
+    "explanation": "467 is between 400 and 500. It is past the halfway point, 450, so it rounds up to 500.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g3_004",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "3.NF.A.1",
+    "prompt": "A pizza is cut into 8 equal slices. Tom eats 3 slices. What fraction of the pizza did Tom eat?",
+    "choices": [
+      "3/8",
+      "3/5",
+      "8/3",
+      "5/8"
+    ],
+    "correctAnswer": "3/8",
+    "explanation": "The bottom number tells how many equal slices in the whole pizza: 8. The top number tells how many Tom ate: 3. So he ate 3/8.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g3_005",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "3.OA.C.7",
+    "prompt": "What is 56 divided by 8?",
+    "choices": [
+      "6",
+      "8",
+      "9",
+      "7"
+    ],
+    "correctAnswer": "7",
+    "explanation": "8 x 7 = 56, so 56 divided by 8 is 7.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g3_006",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "3.NF.A.3b",
+    "prompt": "Which fraction is equivalent to 1/2?",
+    "choices": [
+      "1/3",
+      "2/4",
+      "2/3",
+      "3/5"
+    ],
+    "correctAnswer": "2/4",
+    "explanation": "2/4 is the same amount as 1/2. If you cut each half into 2 equal pieces, you get 2 out of 4 pieces.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g3_007",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "3.MD.C.7b",
+    "prompt": "A rectangle has a length of 8 cm and a width of 5 cm. What is its area?",
+    "choices": [
+      "13 square cm",
+      "40 square cm",
+      "26 square cm",
+      "35 square cm"
+    ],
+    "correctAnswer": "40 square cm",
+    "explanation": "Area of a rectangle = length x width = 8 x 5 = 40 square centimeters.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g3_008",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "3.NBT.A.2",
+    "prompt": "What is 503 - 247? Write your answer as a number.",
+    "correctAnswer": "256",
+    "correctAnswers": [
+      "256"
+    ],
+    "explanation": "503 - 200 = 303. 303 - 40 = 263. 263 - 7 = 256. Check: 256 + 247 = 503.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g3_009",
+    "subject": "MATH",
+    "type": "CLOZE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "3.OA.A.4",
+    "prompt": "9 x ___ = 63",
+    "blanks": [
+      "7"
+    ],
+    "explanation": "Think: 9 times what number makes 63? 9 x 7 = 63, so the missing number is 7.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g3_010",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "3.MD.A.1",
+    "prompt": "A movie starts at 2:45 and lasts 50 minutes. What time does it end?",
+    "choices": [
+      "3:25",
+      "3:45",
+      "3:15",
+      "3:35"
+    ],
+    "correctAnswer": "3:35",
+    "explanation": "From 2:45, 15 minutes takes you to 3:00. There are 35 minutes left over, so the movie ends at 3:35.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g3_011",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "3.NF.A.3d",
+    "prompt": "Put these fractions in order from least to greatest.",
+    "orderedItems": [
+      "1/8",
+      "1/6",
+      "1/4",
+      "1/2"
+    ],
+    "explanation": "When the top number is 1, a bigger bottom number means smaller pieces. Eighths are the smallest pieces and halves are the biggest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g3_012",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "3.OA.D.8",
+    "prompt": "A class has 4 tables with 6 students at each table. 5 more students sit on the rug. How many students are there in all?",
+    "choices": [
+      "29",
+      "15",
+      "24",
+      "44"
+    ],
+    "correctAnswer": "29",
+    "explanation": "First multiply: 4 x 6 = 24 students at tables. Then add the 5 on the rug: 24 + 5 = 29.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g3_013",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "3.MD.D.8",
+    "prompt": "A rectangle has a perimeter of 30 cm. Its length is 9 cm. What is its width in centimeters? Write your answer as a number.",
+    "correctAnswer": "6",
+    "correctAnswers": [
+      "6",
+      "6 cm",
+      "6cm",
+      "6 centimeters"
+    ],
+    "explanation": "The two lengths add up to 9 + 9 = 18 cm. That leaves 30 - 18 = 12 cm for the two widths. Each width is 12 divided by 2 = 6 cm.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g3_014",
+    "subject": "MATH",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "3.G.A.1",
+    "prompt": "Which shapes are quadrilaterals? Select all that apply.",
+    "choices": [
+      "Rhombus",
+      "Triangle",
+      "Rectangle",
+      "Pentagon",
+      "Square"
+    ],
+    "correctAnswers": [
+      "Rhombus",
+      "Rectangle",
+      "Square"
+    ],
+    "explanation": "A quadrilateral is any shape with 4 sides. A rhombus, a rectangle and a square all have 4 sides. A triangle has 3 sides and a pentagon has 5.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g3_015",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "3.MD.C.7d",
+    "prompt": "An L-shaped room is made of two rectangles that do not overlap. One rectangle is 4 m by 3 m. The other is 5 m by 2 m. What is the total area of the room?",
+    "choices": [
+      "14 square meters",
+      "28 square meters",
+      "22 square meters",
+      "120 square meters"
+    ],
+    "correctAnswer": "22 square meters",
+    "explanation": "Find each area and add them. 4 x 3 = 12 and 5 x 2 = 10. 12 + 10 = 22 square meters.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g3_016",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "3.MD.A.2",
+    "prompt": "A bucket holds 24 liters of water. The water is poured equally into 4 jugs. Then 2 liters spill out of one jug. How many liters are left in that jug?",
+    "choices": [
+      "6 liters",
+      "8 liters",
+      "4 liters",
+      "18 liters"
+    ],
+    "correctAnswer": "4 liters",
+    "explanation": "First divide: 24 divided by 4 = 6 liters in each jug. Then subtract the spill: 6 - 2 = 4 liters.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  }
+]

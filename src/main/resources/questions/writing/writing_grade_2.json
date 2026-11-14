@@ -1,0 +1,410 @@
+[
+  {
+    "id": "writing_g2_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.2.1.B",
+    "prompt": "Which word means more than one child?",
+    "choices": [
+      "childs",
+      "childrens",
+      "children",
+      "childes"
+    ],
+    "correctAnswer": "children",
+    "explanation": "'Child' has an irregular plural: children.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.2.2.C",
+    "prompt": "Which contraction means 'do not'?",
+    "choices": [
+      "dont",
+      "do'nt",
+      "don'ot",
+      "don't"
+    ],
+    "correctAnswer": "don't",
+    "explanation": "In a contraction, an apostrophe takes the place of the missing letter: do not becomes don't.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_003",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.2.1.D",
+    "prompt": "Type the past tense of the verb 'sit': Yesterday I ___ on the bench.",
+    "correctAnswer": "sat",
+    "correctAnswers": [
+      "sat"
+    ],
+    "explanation": "'Sit' is an irregular verb. Its past tense is 'sat,' not 'sitted.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g2_004",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.2.2.A",
+    "prompt": "Which sentence uses capital letters correctly?",
+    "choices": [
+      "We drove to Florida for Thanksgiving.",
+      "We drove to texas for Thanksgiving.",
+      "We flew to Florida for thanksgiving.",
+      "we flew to texas for thanksgiving."
+    ],
+    "correctAnswer": "We drove to Florida for Thanksgiving.",
+    "explanation": "Capitalize the names of places (Florida) and holidays (Thanksgiving), and the first word of a sentence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_005",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.2.1.A",
+    "prompt": "Which word names a group?",
+    "choices": [
+      "player",
+      "team",
+      "ball",
+      "kick"
+    ],
+    "correctAnswer": "team",
+    "explanation": "A collective noun names a group of people, animals, or things. A team is a group of players.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_006",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.2.1.E",
+    "prompt": "Which word correctly completes the sentence?\nThe turtle walked ___ across the road.",
+    "choices": [
+      "slow",
+      "slowness",
+      "slowly",
+      "slows"
+    ],
+    "correctAnswer": "slowly",
+    "explanation": "An adverb tells how an action is done. 'Slowly' tells how the turtle walked.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_007",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.2.2.C",
+    "prompt": "Which phrase shows that the bike belongs to Maria?",
+    "choices": [
+      "Marias bike",
+      "Marias' bike",
+      "Maria is bike",
+      "Maria's bike"
+    ],
+    "correctAnswer": "Maria's bike",
+    "explanation": "Add an apostrophe and s ('s) to a singular noun to show that something belongs to it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.2.2.B",
+    "prompt": "Which greeting of a letter is punctuated correctly?",
+    "choices": [
+      "Dear Grandpa,",
+      "Dear, Grandpa",
+      "Dear Grandpa.",
+      "Dear Grandpa"
+    ],
+    "correctAnswer": "Dear Grandpa,",
+    "explanation": "Use a comma after the greeting of a friendly letter.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_009",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.2.1.D",
+    "prompt": "Write the past tense of each verb in parentheses.\nLast night Dad ___ (tell) a story. Then we ___ (hide) under the blanket.",
+    "blanks": [
+      "told",
+      "hid"
+    ],
+    "explanation": "'Tell' and 'hide' are irregular verbs. Their past tense forms are 'told' and 'hid.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g2_010",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.2.1.C",
+    "prompt": "Which word correctly completes the sentence?\nI made this card by ___.",
+    "choices": [
+      "me",
+      "myself",
+      "I",
+      "mine"
+    ],
+    "correctAnswer": "myself",
+    "explanation": "A reflexive pronoun such as 'myself' refers back to the subject of the sentence (I).",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_011",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.2.1.F",
+    "prompt": "Which is the best way to join these two sentences?\nSam was tired. He went to bed.",
+    "choices": [
+      "Sam was tired, but he went to bed.",
+      "Sam was tired, or he went to bed.",
+      "Sam was tired, so he went to bed.",
+      "Sam was tired he went to bed."
+    ],
+    "correctAnswer": "Sam was tired, so he went to bed.",
+    "explanation": "A compound sentence joins two sentences with a comma and a joining word. 'So' shows that one thing happened because of the other.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_012",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.2.2.D",
+    "prompt": "Which words are spelled correctly? Select all that apply.",
+    "choices": [
+      "badge",
+      "boyl",
+      "coin",
+      "caje",
+      "night"
+    ],
+    "correctAnswers": [
+      "badge",
+      "coin",
+      "night"
+    ],
+    "explanation": "Spelling patterns: -dge after a short vowel (badge), oi in the middle of a word (coin), and igh for long i (night).",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g2_013",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.2.5",
+    "prompt": "Which sentence does not belong in this paragraph?",
+    "passage": "(1) I think our class should get a pet fish. (2) Fish are quiet. (3) My cousin has a red bike. (4) Fish are easy to feed.",
+    "choices": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+    ],
+    "correctAnswer": "Sentence 3",
+    "explanation": "Every sentence in a paragraph should tell about the main idea. The sentence about a bike is not about getting a pet fish.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_014",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.2.2",
+    "prompt": "Which sentence is the best ending for this paragraph?",
+    "passage": "Bees are helpful insects. They make honey. They help flowers grow. They also help farmers grow fruit.",
+    "choices": [
+      "Bees are yellow and black.",
+      "I saw a big bee on a flower at the park yesterday.",
+      "Some flowers are red.",
+      "That is why bees are so important."
+    ],
+    "correctAnswer": "That is why bees are so important.",
+    "explanation": "A concluding sentence wraps up the paragraph by restating the main idea.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_015",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "W.2.3",
+    "prompt": "Put the sentences in order to tell what happened.",
+    "orderedItems": [
+      "First, we mixed the flour and eggs.",
+      "Next, we poured the batter into a pan.",
+      "Then, Mom put the pan in the oven.",
+      "Finally, we ate the warm cake."
+    ],
+    "explanation": "A narrative tells events in the order they happened and uses time words such as first, next, then, and finally.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g2_016",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.2.2.C",
+    "prompt": "Which sentence is written correctly?",
+    "choices": [
+      "Mr. Lee's class didn't go to Lake Erie.",
+      "Mr. Lees class didn't go to Lake Erie.",
+      "Mr. Lee's class didnt go to Lake Erie.",
+      "Mr. Lee's class didn't swim in lake erie."
+    ],
+    "correctAnswer": "Mr. Lee's class didn't go to Lake Erie.",
+    "explanation": "Use an apostrophe in possessives (Lee's) and contractions (didn't), and capitalize geographic names (Lake Erie).",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g2_017",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "L.2.3.A",
+    "prompt": "Which sentence would be best in a thank-you letter to your principal?",
+    "choices": [
+      "Hey, thanks a bunch for coming to our class, dude!",
+      "Thank you for visiting our class.",
+      "Yo, that was cool.",
+      "Thx for coming!!"
+    ],
+    "correctAnswer": "Thank you for visiting our class.",
+    "explanation": "Use formal language when you write to an adult at school. Slang and shortened words are informal.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  }
+]

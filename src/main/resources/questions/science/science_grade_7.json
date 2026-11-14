@@ -1,0 +1,463 @@
+[
+  {
+    "id": "science_g7_001",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-LS1-6",
+    "prompt": "The process by which plants use light energy to change carbon dioxide and water into sugar and oxygen is called ___.",
+    "correctAnswer": "photosynthesis",
+    "correctAnswers": [
+      "photosynthesis"
+    ],
+    "explanation": "In photosynthesis, plants, algae, and some bacteria use light energy to convert carbon dioxide and water into sugar (glucose), releasing oxygen.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g7_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-ESS2-1",
+    "prompt": "Which type of rock forms when melted rock (magma or lava) cools and hardens?",
+    "choices": [
+      "Sedimentary",
+      "Metamorphic",
+      "Igneous",
+      "Fossil"
+    ],
+    "correctAnswer": "Igneous",
+    "explanation": "Igneous rock forms when magma or lava cools and solidifies. Sedimentary rock forms from compacted sediments, and metamorphic rock forms when rock is changed by heat and pressure.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_003",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-PS1-1",
+    "prompt": "What is the smallest particle of an element that still has the properties of that element?",
+    "choices": [
+      "An atom",
+      "A molecule",
+      "A cell",
+      "A compound"
+    ],
+    "correctAnswer": "An atom",
+    "explanation": "An atom is the smallest particle of an element. Molecules are made of two or more atoms bonded together.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_004",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-LS2-1",
+    "prompt": "Which of these is an abiotic (nonliving) factor in an ecosystem?",
+    "choices": [
+      "Fungi",
+      "Sunlight",
+      "Bacteria",
+      "Grass"
+    ],
+    "correctAnswer": "Sunlight",
+    "explanation": "Abiotic factors are the nonliving parts of an ecosystem, such as sunlight, water, temperature, and soil minerals. Fungi, bacteria, and grass are living (biotic) factors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-PS1-4",
+    "prompt": "In which state of matter are the particles packed closely together in fixed positions, vibrating in place?",
+    "choices": [
+      "Gas",
+      "Liquid",
+      "Plasma",
+      "Solid"
+    ],
+    "correctAnswer": "Solid",
+    "explanation": "In a solid, particles are closely packed and vibrate in fixed positions. In a liquid they slide past one another, and in a gas they are far apart and move freely.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_006",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-PS1-2",
+    "prompt": "Which observations are evidence that a chemical reaction may have occurred? Select all that apply.",
+    "choices": [
+      "A gas is produced when two substances are mixed",
+      "A solid forms when two clear liquids are mixed",
+      "The substance is cut into smaller pieces",
+      "An unexpected color change occurs",
+      "The substance changes shape when it is bent"
+    ],
+    "correctAnswers": [
+      "A gas is produced when two substances are mixed",
+      "A solid forms when two clear liquids are mixed",
+      "An unexpected color change occurs"
+    ],
+    "explanation": "Formation of a gas, formation of a solid (precipitate), and an unexpected color change suggest that new substances have formed. Cutting or bending changes only the shape or size, which is a physical change.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g7_007",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-ESS2-1",
+    "prompt": "Order the layers of Earth from the outermost layer to the innermost layer.",
+    "orderedItems": [
+      "Crust",
+      "Mantle",
+      "Outer core",
+      "Inner core"
+    ],
+    "explanation": "Earth's thin crust is on the outside, followed by the thick mantle, the liquid outer core, and the solid inner core at the center.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g7_008",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-LS1-7",
+    "prompt": "What is the main purpose of cellular respiration?",
+    "choices": [
+      "To make glucose for the cell using energy from sunlight",
+      "To release energy from food molecules for the cell to use",
+      "To take in carbon dioxide from the air",
+      "To produce oxygen that the cell releases into the atmosphere"
+    ],
+    "correctAnswer": "To release energy from food molecules for the cell to use",
+    "explanation": "In cellular respiration, food molecules such as glucose react with oxygen, releasing energy the cell can use and producing carbon dioxide and water.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_009",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-PS1-5",
+    "prompt": "A chemical reaction takes place in a sealed container. How does the total mass of the products compare with the total mass of the reactants?",
+    "choices": [
+      "It is greater",
+      "It is less",
+      "It is the same",
+      "It depends on whether a gas forms"
+    ],
+    "correctAnswer": "It is the same",
+    "explanation": "Atoms are rearranged, not created or destroyed, in a chemical reaction. In a sealed container the total mass stays the same (conservation of mass), even if a gas forms.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_010",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MS-ESS2-3",
+    "prompt": "Which evidence best supports the idea that South America and Africa were once joined?",
+    "choices": [
+      "Matching fossils and rock formations are found on the facing coasts of the two continents",
+      "The two continents are about the same size and both lie partly in the Southern Hemisphere today",
+      "Both continents are surrounded by salty oceans",
+      "Earthquakes can occur on both continents"
+    ],
+    "correctAnswer": "Matching fossils and rock formations are found on the facing coasts of the two continents",
+    "explanation": "The shapes of the coastlines fit together, and matching fossils and rock formations are found on both sides of the Atlantic. This is evidence that the continents were once joined and moved apart as plates moved.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_011",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MS-LS2-2",
+    "prompt": "A bee feeds on a flower's nectar and carries the flower's pollen to other flowers. What type of relationship is this?",
+    "choices": [
+      "Predation",
+      "Competition",
+      "Parasitism",
+      "Mutualism"
+    ],
+    "correctAnswer": "Mutualism",
+    "explanation": "Both organisms benefit: the bee gets food and the plant is pollinated. A relationship in which both species benefit is mutualism.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_012",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-PS1-1",
+    "prompt": "Word bank: element, compound, mixture. Fill in the blanks. Water (H2O) is classified as a(n) ___ because it is made of two different elements chemically bonded together. Oxygen gas (O2) is classified as a(n) ___ because it contains only one kind of atom.",
+    "blanks": [
+      "compound",
+      "element"
+    ],
+    "explanation": "A compound is a substance made of two or more different elements chemically bonded. An element contains only one kind of atom.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g7_013",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "MS-LS2-1",
+    "prompt": "Which of the following could cause a decline in a population of rabbits in a meadow ecosystem? Select all that apply.",
+    "choices": [
+      "An increase in the number of foxes",
+      "A long drought that reduces the plants available",
+      "The introduction of a new rabbit disease",
+      "An increase in rainfall that helps plants grow",
+      "A decrease in the number of hawks"
+    ],
+    "correctAnswers": [
+      "An increase in the number of foxes",
+      "A long drought that reduces the plants available",
+      "The introduction of a new rabbit disease"
+    ],
+    "explanation": "More foxes means more predation, a drought reduces the rabbits' food supply, and a new disease can spread through the population. More plant growth and fewer hawks would tend to help the rabbit population.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g7_014",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-PS1-2",
+    "prompt": "Which conclusion is best supported by the student's observations?",
+    "passage": "A student mixed two clear, colorless solutions, each at 22 degrees C, in a beaker. A yellow solid formed and settled to the bottom, and the temperature of the mixture rose to 29 degrees C. The student filtered out the yellow solid and found that it does not dissolve in water. Both of the starting substances dissolve easily in water.",
+    "choices": [
+      "A physical change occurred, because the liquids were only mixed together",
+      "A chemical reaction occurred, because a new substance with different properties formed",
+      "The yellow solid was dissolved in one of the liquids the whole time",
+      "No change occurred, because the mixture stayed in the beaker"
+    ],
+    "correctAnswer": "A chemical reaction occurred, because a new substance with different properties formed",
+    "explanation": "The yellow solid has different properties (color, and it does not dissolve in water) from either starting substance, and the temperature changed. This is evidence that a new substance formed in a chemical reaction.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_015",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-LS2-3",
+    "prompt": "In a food chain, grass is eaten by grasshoppers, grasshoppers by frogs, and frogs by snakes. Why can the ecosystem support far fewer snakes than grasshoppers?",
+    "choices": [
+      "Snakes are larger animals, so each snake needs less food than a grasshopper",
+      "Snakes also eat grass, so they compete with the grasshoppers for food",
+      "Only a small part of the energy at each level passes to the next level",
+      "The amount of energy increases at each higher level of the food chain"
+    ],
+    "correctAnswer": "Only a small part of the energy at each level passes to the next level",
+    "explanation": "At each step, organisms use most of the energy they take in for life processes, and much is lost as heat. Only a small fraction (roughly 10%) is passed on, so less energy is available to support organisms at higher levels.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_016",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-LS1-6",
+    "prompt": "Which conclusion is best supported by the data?",
+    "passage": "A student placed identical pieces of a water plant in four test tubes of water. She set a lamp at a different distance from each tube and counted the oxygen bubbles released in one minute. Lamp at 10 cm: 40 bubbles. Lamp at 20 cm: 22 bubbles. Lamp at 40 cm: 9 bubbles. Lamp off (dark): 0 bubbles.",
+    "choices": [
+      "The rate of photosynthesis increased as light intensity increased",
+      "The rate of photosynthesis decreased as light intensity increased",
+      "Light had no effect on the rate of photosynthesis",
+      "The plants released carbon dioxide bubbles when the light was bright"
+    ],
+    "correctAnswer": "The rate of photosynthesis increased as light intensity increased",
+    "explanation": "The closer (brighter) the lamp, the more oxygen bubbles were released, and with no light there were none. Oxygen is a product of photosynthesis, so the data show that more light led to a faster rate of photosynthesis.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_017",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-ESS2-1",
+    "prompt": "A geologist studies a rock that was once shale, a sedimentary rock. It was buried deep beneath a mountain range, where heat and pressure rearranged its minerals into flat bands, but it never melted. What type of rock is it now?",
+    "choices": [
+      "Igneous rock",
+      "Sediment",
+      "Sedimentary rock",
+      "Metamorphic rock"
+    ],
+    "correctAnswer": "Metamorphic rock",
+    "explanation": "Rock that is changed by heat and pressure without melting becomes metamorphic rock. If it had melted and then cooled, it would be igneous.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_018",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-PS1-4",
+    "prompt": "A sealed, rigid container of gas is heated. What happens to the gas particles and to the pressure in the container?",
+    "choices": [
+      "The particles expand and grow larger as they warm up, so they press harder on the walls of the container",
+      "The particles move faster and hit the walls harder and more often, so the pressure increases",
+      "The particles slow down, so the pressure decreases",
+      "The number of particles increases, so the pressure increases"
+    ],
+    "correctAnswer": "The particles move faster and hit the walls harder and more often, so the pressure increases",
+    "explanation": "Heating increases the average kinetic energy of the particles. They move faster and collide with the container walls harder and more often, raising the pressure. The particles themselves do not change size or number.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g7_019",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-ESS3-1",
+    "prompt": "Why are petroleum (oil) deposits found only in certain places on Earth and considered nonrenewable?",
+    "choices": [
+      "They formed from ancient organisms buried under special conditions over millions of years",
+      "They are made in factories in only a few countries, and those factories cannot keep up with demand",
+      "They form every year wherever rainwater soaks deep into the ground and mixes with the soil",
+      "They fell to Earth inside meteorites that landed in only a few places long ago"
+    ],
+    "correctAnswer": "They formed from ancient organisms buried under special conditions over millions of years",
+    "explanation": "Oil formed where the remains of ancient marine organisms were buried and subjected to heat and pressure for millions of years. Because of these past geologic processes, deposits are unevenly distributed and cannot be replaced on a human timescale.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  }
+]

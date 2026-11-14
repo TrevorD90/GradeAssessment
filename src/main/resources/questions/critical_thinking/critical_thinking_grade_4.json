@@ -1,0 +1,337 @@
+[
+  {
+    "id": "critical_thinking_g4_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION/RI.4.8",
+    "prompt": "Emma says, 'My older brother is tall, so all older brothers must be tall.' What is wrong with Emma's thinking?",
+    "choices": [
+      "Her brother is not really tall.",
+      "She uses one example to make a rule about everyone.",
+      "She should have asked her mother first.",
+      "Older brothers are always tall."
+    ],
+    "correctAnswer": "She uses one example to make a rule about everyone.",
+    "explanation": "Emma knows about one older brother. One example is not enough to make a rule about all older brothers. She would need to look at many brothers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g4_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "The cookie jar is empty. There are crumbs on Leo's shirt and chocolate on his chin. What is the most reasonable conclusion?",
+    "choices": [
+      "The jar was always empty.",
+      "Leo baked a cake.",
+      "Someone cleaned the kitchen.",
+      "Leo ate the cookies."
+    ],
+    "correctAnswer": "Leo ate the cookies.",
+    "explanation": "Crumbs and chocolate on Leo, next to an empty cookie jar, are clues that fit together. The explanation that fits all the clues is that Leo ate the cookies.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g4_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Look at the pattern: 3, 6, 12, 24, ___. What number comes next?",
+    "correctAnswer": "48",
+    "correctAnswers": [
+      "48",
+      "forty-eight",
+      "forty eight"
+    ],
+    "explanation": "Each number is double the one before it: 3, 6, 12, 24. Double 24 is 48.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g4_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Author is to book as painter is to what?",
+    "choices": [
+      "brush",
+      "museum",
+      "painting",
+      "color"
+    ],
+    "correctAnswer": "painting",
+    "explanation": "An author makes a book. A painter makes a painting. A brush is a tool the painter uses, not the thing the painter makes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g4_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "None of the red boxes hold toys. Box 7 is red. What must be true?",
+    "choices": [
+      "Box 7 does not hold toys.",
+      "Box 7 holds toys.",
+      "Box 7 is the biggest box.",
+      "All the other boxes hold toys."
+    ],
+    "correctAnswer": "Box 7 does not hold toys.",
+    "explanation": "No red box holds toys, and Box 7 is a red box, so Box 7 does not hold toys. The clue tells us nothing about boxes of other colors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g4_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Two plants of the same kind get the same amount of water. The plant by the sunny window grows. The plant in the dark closet does not grow. What is the best conclusion?",
+    "choices": [
+      "Water is not important for plants.",
+      "Light seems to help this kind of plant grow.",
+      "Plants grow best in closets.",
+      "All plants grow at the same speed."
+    ],
+    "correctAnswer": "Light seems to help this kind of plant grow.",
+    "explanation": "Both plants got water, so water is not what made the difference. The difference was light, and only the plant with light grew. The best conclusion is that light helps this kind of plant grow.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g4_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Nia wants to find out which of two paper airplanes flies farther. Which information would help her decide? Select all that apply.",
+    "choices": [
+      "How far each plane flew on several throws",
+      "The color of each plane",
+      "Whether both planes were thrown the same way",
+      "The name Nia gave each plane"
+    ],
+    "correctAnswers": [
+      "How far each plane flew on several throws",
+      "Whether both planes were thrown the same way"
+    ],
+    "explanation": "To compare the planes she needs their distances, and she needs to know the throws were the same so the test is fair. Color and names do not change how far a plane flies.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g4_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Pat, Quinn, and Rae each play one sport: tennis, soccer, or swimming. No two play the same sport. Tennis and soccer use a ball; swimming does not. Pat's sport does not use a ball. Quinn does not play soccer. Which sport does Rae play?",
+    "choices": [
+      "swimming",
+      "tennis",
+      "soccer",
+      "We cannot tell."
+    ],
+    "correctAnswer": "soccer",
+    "explanation": "Tennis and soccer use a ball, so Pat swims. Quinn does not play soccer and swimming is taken, so Quinn plays tennis. That leaves soccer for Rae.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g4_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION/RI.4.8",
+    "prompt": "Which question would help you most in deciding whether the ad's claim is true?",
+    "passage": "An ad says: 'Zoom Shoes make you run faster! Buy a pair today!'",
+    "choices": [
+      "Has anyone timed runners with and without Zoom Shoes?",
+      "What colors do Zoom Shoes come in?",
+      "How many stores sell Zoom Shoes, and how much do they cost?",
+      "Is the ad printed in big letters?"
+    ],
+    "correctAnswer": "Has anyone timed runners with and without Zoom Shoes?",
+    "explanation": "The claim is that the shoes make you run faster. The way to check is to compare running times with and without the shoes. Colors, stores, and letter size tell nothing about speed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g4_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Four friends are all different heights. Use the clues to put them in order from tallest to shortest. Clues: Ian is taller than Jo. Jo is taller than Kai. Lia is taller than Ian.",
+    "orderedItems": [
+      "Lia",
+      "Ian",
+      "Jo",
+      "Kai"
+    ],
+    "explanation": "Ian is taller than Jo, and Jo is taller than Kai, which gives Ian, Jo, Kai. Lia is taller than Ian, so Lia goes at the top: Lia, Ian, Jo, Kai.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g4_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "All of Ms. Hill's students have a library card. Some of Ms. Hill's students play chess. Which sentence must be true?",
+    "choices": [
+      "All students with a library card play chess.",
+      "No chess players in Ms. Hill's class have a library card.",
+      "Everyone with a library card is in Ms. Hill's class.",
+      "Some students who play chess have a library card."
+    ],
+    "correctAnswer": "Some students who play chess have a library card.",
+    "explanation": "The chess players in Ms. Hill's class are her students, and all her students have a library card. So those chess players have library cards. The other sentences say more than the clues tell us.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g4_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION/RI.4.8",
+    "prompt": "Zed says the playground slide gets too hot to use in the afternoon. Which gives the best support for what Zed says?",
+    "choices": [
+      "Zed's best friend, who uses the slide every day, agrees with him completely.",
+      "A thermometer showed the slide was very hot at 2 p.m. on five sunny days.",
+      "The slide was put in last year.",
+      "Zed does not like slides."
+    ],
+    "correctAnswer": "A thermometer showed the slide was very hot at 2 p.m. on five sunny days.",
+    "explanation": "A measurement taken on several days is evidence anyone can check. A friend agreeing is just another opinion, and the other choices are not about how hot the slide is.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g4_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "CLOZE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Dana has art, music, and gym. She has one of them on Monday, one on Tuesday, and one on Wednesday. Gym is not on Monday. Art is the day after gym. Word bank: Monday, Tuesday, Wednesday. Music is on ___ and art is on ___.",
+    "blanks": [
+      "Monday",
+      "Wednesday"
+    ],
+    "explanation": "Art is the day after gym, so gym cannot be on Wednesday (no class day comes after it). Gym is not on Monday, so gym is on Tuesday and art is on Wednesday. Music gets the day that is left, Monday.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g4_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "The light on a fish tank broke on Monday. By Friday, the water plants in the tank looked pale. Ty says, 'The broken light made the plants pale.' What should Ty check before he can be sure?",
+    "choices": [
+      "Whether anything else changed, such as the water or the plant food",
+      "Whether the fish living in the tank have names and know one another",
+      "Whether the tank is made of glass",
+      "Whether the plants were ever green"
+    ],
+    "correctAnswer": "Whether anything else changed, such as the water or the plant food",
+    "explanation": "The broken light might be the cause, but something else could have changed too. Before blaming the light, Ty should rule out other causes like different water or food.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  }
+]

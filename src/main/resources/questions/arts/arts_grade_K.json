@@ -1,0 +1,398 @@
+[
+  {
+    "id": "arts_gk_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.Ka",
+    "prompt": "Which one is a primary color?",
+    "choices": [
+      "Red",
+      "Green",
+      "Purple"
+    ],
+    "correctAnswer": "Red",
+    "explanation": "Red is a primary color. The primary colors are red, yellow, and blue.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_002",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Pr4.2.Ka",
+    "prompt": "You tap the same steady pulse to a song, again and again. What are you tapping?",
+    "choices": [
+      "The costume",
+      "The color",
+      "The beat"
+    ],
+    "correctAnswer": "The beat",
+    "explanation": "The steady pulse of music is called the beat. You can clap, tap, or march to it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_003",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Cr2.1.Ka",
+    "prompt": "You mix red paint and yellow paint. What color do you get?",
+    "choices": [
+      "Green",
+      "Orange",
+      "Purple"
+    ],
+    "correctAnswer": "Orange",
+    "explanation": "Red and yellow mix to make orange.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.Ka",
+    "prompt": "A lion roars. Is that sound loud or soft?",
+    "choices": [
+      "Soft",
+      "Silent",
+      "Loud"
+    ],
+    "correctAnswer": "Loud",
+    "explanation": "A roar is a loud sound. Music can be loud or soft, too.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cr2.1.Ka",
+    "prompt": "A line that bends up and down like a wave is a ___ line.",
+    "choices": [
+      "zigzag",
+      "wavy",
+      "straight"
+    ],
+    "correctAnswer": "wavy",
+    "explanation": "A wavy line curves up and down like water. A straight line does not bend, and a zigzag has sharp points.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_006",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MU:Re7.2.Ka",
+    "prompt": "A song starts soft and then gets loud. What changed?",
+    "choices": [
+      "The words",
+      "How loud it is",
+      "How fast it is"
+    ],
+    "correctAnswer": "How loud it is",
+    "explanation": "The song went from soft to loud, so the loudness (volume) changed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_007",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Re7.2.Ka",
+    "prompt": "Which shape is round?",
+    "choices": [
+      "Circle",
+      "Triangle",
+      "Square"
+    ],
+    "correctAnswer": "Circle",
+    "explanation": "A circle is round. A square and a triangle have straight sides and corners.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "TH:Cr1.1.K.a",
+    "prompt": "You pretend to be a cat in a play. What are you doing?",
+    "choices": [
+      "Painting",
+      "Drumming",
+      "Acting"
+    ],
+    "correctAnswer": "Acting",
+    "explanation": "Pretending to be someone or something else in a play is called acting.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_009",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Re7.2.Ka",
+    "prompt": "Put these sounds in order from softest to loudest.",
+    "orderedItems": [
+      "A whisper",
+      "A talking voice",
+      "A shout"
+    ],
+    "explanation": "A whisper is the softest, a talking voice is in the middle, and a shout is the loudest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_gk_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Pr4.1.Ka",
+    "prompt": "What do dancers use to dance?",
+    "choices": [
+      "A paintbrush",
+      "A crayon",
+      "Their bodies"
+    ],
+    "correctAnswer": "Their bodies",
+    "explanation": "Dancers move their bodies to dance.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_011",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.Ka",
+    "prompt": "Which of these are shapes? Select all that apply.",
+    "choices": [
+      "Red",
+      "Circle",
+      "Triangle",
+      "Square"
+    ],
+    "correctAnswers": [
+      "Circle",
+      "Triangle",
+      "Square"
+    ],
+    "explanation": "Circle, square, and triangle are shapes. Red is a color, not a shape.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_gk_012",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Re7.2.Ka",
+    "prompt": "What shape is the roof?",
+    "passage": "Sam drew a house. The roof is a triangle. The door is a rectangle. The sun is a circle.",
+    "choices": [
+      "Triangle",
+      "Rectangle",
+      "Circle"
+    ],
+    "correctAnswer": "Triangle",
+    "explanation": "Sam drew the roof as a triangle. Artists put shapes together to make pictures.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_013",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Pr4.2.Ka",
+    "prompt": "A turtle walks slowly. Music that moves like a turtle is ___.",
+    "choices": [
+      "slow",
+      "loud",
+      "fast"
+    ],
+    "correctAnswer": "slow",
+    "explanation": "Turtles move slowly, so turtle music is slow. Music can be fast or slow.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.Ka",
+    "prompt": "A tiny bird sings \"tweet.\" Is that sound high or low?",
+    "choices": [
+      "Slow",
+      "Low",
+      "High"
+    ],
+    "correctAnswer": "High",
+    "explanation": "A little bird makes a high sound. A big drum or a tuba makes a low sound.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_015",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "DA:Pr4.1.Ka",
+    "prompt": "Which move is at a LOW level?",
+    "choices": [
+      "Crawling on the floor",
+      "Jumping up high",
+      "Standing on tiptoes"
+    ],
+    "correctAnswer": "Crawling on the floor",
+    "explanation": "Crawling is close to the floor, so it is a low-level move. Jumping and tiptoes are high.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_016",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MA:Cr2.1.Ka",
+    "prompt": "What do you use to take a picture?",
+    "choices": [
+      "A drum",
+      "A camera",
+      "A paintbrush"
+    ],
+    "correctAnswer": "A camera",
+    "explanation": "A camera takes pictures (photos). Many tablets and phones have a camera.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_gk_017",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Pr4.2.Ka",
+    "prompt": "Which instrument do you shake to play?",
+    "choices": [
+      "Piano",
+      "Maracas",
+      "Violin"
+    ],
+    "correctAnswer": "Maracas",
+    "explanation": "Maracas are shakers. You press the keys of a piano and use a bow on a violin.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  }
+]

@@ -36,7 +36,7 @@ val appModule = module {
     }
 
     single { SessionRepository(get(), get()) }
-    single { ResultRepository(get()) }
+    single { ResultRepository(get(), get(), get()) }
 
     single { AdaptiveQuestionAgent(get()) }
     single { AssessmentEngineAgent(get(), get(), get()) }

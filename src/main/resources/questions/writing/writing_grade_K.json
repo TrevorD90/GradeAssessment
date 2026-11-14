@@ -1,0 +1,387 @@
+[
+  {
+    "id": "writing_gk_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.K.2.A",
+    "prompt": "Which sentence starts with a capital letter?",
+    "choices": [
+      "The dog ran.",
+      "the cat sat.",
+      "a pig dug."
+    ],
+    "correctAnswer": "The dog ran.",
+    "explanation": "The first word in a sentence starts with a capital letter.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.K.2.B",
+    "prompt": "Which mark is a period?",
+    "choices": [
+      "?",
+      ".",
+      "!"
+    ],
+    "correctAnswer": ".",
+    "explanation": "A period (.) is the dot at the end of a telling sentence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_003",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.K.1.C",
+    "prompt": "One cat. Two ___. Which word fits?",
+    "choices": [
+      "cat",
+      "cates",
+      "cats"
+    ],
+    "correctAnswer": "cats",
+    "explanation": "Add -s to most nouns to show more than one: cat, cats.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_004",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.K.2.C",
+    "prompt": "Type the first letter of the word: sun",
+    "correctAnswer": "s",
+    "correctAnswers": [
+      "s"
+    ],
+    "explanation": "The word 'sun' begins with the /s/ sound, which is written with the letter s.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_gk_005",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.K.2.D",
+    "prompt": "A pet that says meow is a ___. Which word is spelled the right way?",
+    "choices": [
+      "cat",
+      "kat",
+      "cta"
+    ],
+    "correctAnswer": "cat",
+    "explanation": "The sounds /k/ /a/ /t/ in this word are spelled c-a-t.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_006",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.K.2.A",
+    "prompt": "Which sentence is written the right way?",
+    "choices": [
+      "i like to run.",
+      "I like to play.",
+      "Sam and i like to hop."
+    ],
+    "correctAnswer": "I like to play.",
+    "explanation": "A sentence starts with a capital letter, and the word 'I' is always a capital letter.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_007",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "L.K.1.D",
+    "prompt": "Which word asks a question?",
+    "choices": [
+      "dog",
+      "run",
+      "who"
+    ],
+    "correctAnswer": "who",
+    "explanation": "Question words such as who, what, where, when, why, and how are used to ask questions.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.K.2.B",
+    "prompt": "Where are you going\nWhich mark goes at the end?",
+    "choices": [
+      "?",
+      ".",
+      "!"
+    ],
+    "correctAnswer": "?",
+    "explanation": "An asking sentence (a question) ends with a question mark.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_009",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.K.1.E",
+    "prompt": "Use a word from the box: in, of.\nThe milk is ___ the cup.",
+    "blanks": [
+      "in"
+    ],
+    "explanation": "The word 'in' tells where something is: the milk is in the cup.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_gk_010",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.K.1.F",
+    "prompt": "Put the words in order to make a sentence.",
+    "orderedItems": [
+      "The",
+      "cat",
+      "is",
+      "big."
+    ],
+    "explanation": "A sentence starts with a capital letter and ends with an end mark: The cat is big.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_gk_011",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.K.1.B",
+    "prompt": "Which word tells something you can do?",
+    "choices": [
+      "table",
+      "jump",
+      "red"
+    ],
+    "correctAnswer": "jump",
+    "explanation": "An action word (verb) tells what someone does. 'Jump' is an action.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_012",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "L.K.1.F",
+    "prompt": "Which one is a complete sentence?",
+    "choices": [
+      "The big brown dog in the yard",
+      "Runs fast",
+      "The dog runs fast."
+    ],
+    "correctAnswer": "The dog runs fast.",
+    "explanation": "A complete sentence tells who or what (the dog) and what it does (runs fast).",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_013",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.K.2.A",
+    "prompt": "Which sentence is written the right way?",
+    "choices": [
+      "Can I go with you?",
+      "can I come with you?",
+      "Can i go with you."
+    ],
+    "correctAnswer": "Can I go with you?",
+    "explanation": "Start with a capital letter, write the word 'I' as a capital, and end a question with a question mark.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_014",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 2,
+    "standardCode": "L.K.1.C",
+    "prompt": "One box. Two ___. Which word fits?",
+    "choices": [
+      "boxs",
+      "boxes",
+      "box"
+    ],
+    "correctAnswer": "boxes",
+    "explanation": "Add -es to words that end in x to show more than one: box, boxes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_015",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.K.2",
+    "prompt": "Sam is writing about how to take care of a dog. Which sentence should Sam write?",
+    "choices": [
+      "I like pizza.",
+      "The sun is hot and bright today.",
+      "Dogs need food and water."
+    ],
+    "correctAnswer": "Dogs need food and water.",
+    "explanation": "When you write to teach about a topic, every sentence should tell about that topic.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_gk_016",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "W.K.3",
+    "prompt": "Put the story in order.",
+    "orderedItems": [
+      "First, I woke up.",
+      "Next, I got dressed.",
+      "Last, I went to school."
+    ],
+    "explanation": "Stories tell events in the order they happened. The words first, next, and last show the order.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_gk_017",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.K.1",
+    "prompt": "Which sentence tells what the writer likes best?",
+    "choices": [
+      "My favorite animal is a bear.",
+      "A bear has four legs.",
+      "Bears eat fish and berries in the woods."
+    ],
+    "correctAnswer": "My favorite animal is a bear.",
+    "explanation": "An opinion tells what someone thinks or likes. 'My favorite' shows an opinion; the other sentences are facts.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  }
+]

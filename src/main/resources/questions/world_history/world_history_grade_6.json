@@ -1,0 +1,416 @@
+[
+  {
+    "id": "world_history_g6_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.6.2.1",
+    "prompt": "Mesopotamia, often called a \"cradle of civilization,\" lay between which two rivers?",
+    "choices": [
+      "Nile and Niger",
+      "Indus and Ganges",
+      "Tigris and Euphrates",
+      "Huang He and Yangtze"
+    ],
+    "correctAnswer": "Tigris and Euphrates",
+    "explanation": "Mesopotamia, in present-day Iraq, lay between the Tigris and Euphrates rivers. Its name means \"land between the rivers.\"",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_002",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.6.2.4",
+    "prompt": "Hammurabi, king of Babylon, is best known for what?",
+    "choices": [
+      "A written code of laws",
+      "Building the Great Pyramid",
+      "Inventing paper",
+      "Founding the Olympic Games"
+    ],
+    "correctAnswer": "A written code of laws",
+    "explanation": "Hammurabi ruled Babylon in the 1700s BCE and had a collection of laws, known as Hammurabi's Code, carved on stone for all to see.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_003",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.6.6.3",
+    "prompt": "The Chinese teacher ___ taught respect for parents, elders and rulers; his ideas shaped Chinese government for centuries.",
+    "correctAnswer": "Confucius",
+    "correctAnswers": [
+      "Confucius",
+      "Kongzi",
+      "Kong Fuzi",
+      "Kongfuzi",
+      "Kong Zi"
+    ],
+    "explanation": "Confucius (Kongzi), who lived from about 551 to 479 BCE, taught that respect within families and good conduct by rulers create an orderly society.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g6_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.6.6.7",
+    "prompt": "Which network of trade routes linked Han China with Central Asia and the Mediterranean world?",
+    "choices": [
+      "The trans-Saharan routes",
+      "The Silk Road",
+      "The Inca road system",
+      "The Amber Road"
+    ],
+    "correctAnswer": "The Silk Road",
+    "explanation": "The Silk Road was a network of routes across Asia. Silk and other goods, along with ideas and religions such as Buddhism, traveled along it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.6.1.3",
+    "prompt": "The change from hunting and gathering to farming, which began more than 10,000 years ago, is known as which revolution?",
+    "choices": [
+      "The Industrial Revolution",
+      "The Scientific Revolution",
+      "The Glorious Revolution in England in 1688",
+      "The Neolithic (Agricultural) Revolution"
+    ],
+    "correctAnswer": "The Neolithic (Agricultural) Revolution",
+    "explanation": "The Neolithic or Agricultural Revolution was the shift to growing crops and raising animals. It allowed permanent settlements and, eventually, cities.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.6.5.5",
+    "prompt": "Siddhartha Gautama, who lived in ancient India, is regarded as the founder of which religion?",
+    "choices": [
+      "Hinduism",
+      "Judaism",
+      "Buddhism",
+      "Islam"
+    ],
+    "correctAnswer": "Buddhism",
+    "explanation": "Siddhartha Gautama became known as the Buddha, \"the Enlightened One.\" His teachings are the basis of Buddhism, which spread from India across Asia.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.6.3.1",
+    "prompt": "Judaism is historically significant in part because it was an early religion based on which belief?",
+    "choices": [
+      "The worship of many nature gods",
+      "Monotheism, the belief in one God",
+      "The teachings of Confucius",
+      "The belief that pharaohs were gods"
+    ],
+    "correctAnswer": "Monotheism, the belief in one God",
+    "explanation": "Judaism is one of the earliest monotheistic religions. Its belief in one God who sets moral laws also influenced Christianity and Islam.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_008",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.6.4.6",
+    "prompt": "Which statement best compares the Greek city-states of Athens and Sparta?",
+    "choices": [
+      "Athens prized debate and the arts; Sparta focused on military training",
+      "Sparta was a direct democracy, while Athens was ruled by Egyptian pharaohs",
+      "Both were located in Mesopotamia",
+      "Athens had no navy at all, while Sparta's great fleet ruled the Aegean Sea"
+    ],
+    "correctAnswer": "Athens prized debate and the arts; Sparta focused on military training",
+    "explanation": "Athens is known for democracy, philosophy and the arts and had a strong navy. Sparta organized its society around training citizen-soldiers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_009",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "TEKS.WH.2B",
+    "prompt": "Historians often list certain features as characteristics of a civilization. Which of these are among them? Select all that apply.",
+    "choices": [
+      "Cities",
+      "Organized government",
+      "A system of writing",
+      "Specialized jobs",
+      "A nomadic hunting lifestyle"
+    ],
+    "correctAnswers": [
+      "Cities",
+      "Organized government",
+      "A system of writing",
+      "Specialized jobs"
+    ],
+    "explanation": "Cities, organized government, record keeping or writing and specialized workers are commonly listed characteristics of civilizations. A nomadic hunting lifestyle describes societies before settled farming.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g6_010",
+    "subject": "WORLD_HISTORY",
+    "type": "CLOZE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.6.7.4",
+    "prompt": "Use the word bank: Augustus, republic, Senate. For centuries Rome was a ___ in which citizens elected officials. A council of leading men called the ___ advised them. After years of civil war, ___ became the first Roman emperor in 27 BCE.",
+    "blanks": [
+      "republic",
+      "Senate",
+      "Augustus"
+    ],
+    "explanation": "Rome was a republic from 509 BCE, guided by the Senate. After the civil wars that followed Julius Caesar's death, Augustus became the first emperor in 27 BCE.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g6_011",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CA.HSS.6.4.7",
+    "prompt": "What was one lasting result of the conquests of Alexander the Great?",
+    "choices": [
+      "The Roman Empire was destroyed",
+      "Buddhism replaced the Greek gods as the main religion of Greece and Macedonia",
+      "Democracy replaced the rule of kings throughout the Persian Empire",
+      "Greek language and culture spread across Egypt and western Asia"
+    ],
+    "correctAnswer": "Greek language and culture spread across Egypt and western Asia",
+    "explanation": "Alexander conquered the Persian Empire in the 330s and 320s BCE. Greek language, art and ideas spread and blended with local cultures in what is called the Hellenistic world.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_012",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.6.5.6",
+    "prompt": "The Mauryan emperor Ashoka of India is remembered for what?",
+    "choices": [
+      "Promoting Buddhist teachings and nonviolence after a bloody war",
+      "Building the first Great Wall of China along the northern border",
+      "Writing the Iliad",
+      "Unifying the Greek city-states"
+    ],
+    "correctAnswer": "Promoting Buddhist teachings and nonviolence after a bloody war",
+    "explanation": "After the destructive war against Kalinga, Ashoka turned to Buddhist teachings, promoted nonviolence and tolerance and had his edicts carved on rocks and pillars.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_013",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CA.HSS.6.2.4",
+    "prompt": "What do these two laws suggest about Babylonian society?",
+    "passage": "\"If a man put out the eye of another man, his eye shall be put out.\" ... \"If he put out the eye of a freed man, or break the bone of a freed man, he shall pay one gold mina.\" - Code of Hammurabi, laws 196 and 198, about 1750 BCE (translated by L. W. King)",
+    "choices": [
+      "All people, rich or poor, were treated exactly the same way under the law",
+      "Punishments depended on the social class of the person who was harmed",
+      "There were no written laws in Babylon, so judges made up every punishment",
+      "Crimes were never punished"
+    ],
+    "correctAnswer": "Punishments depended on the social class of the person who was harmed",
+    "explanation": "The punishment for the same injury was different depending on the victim's status: an eye for an eye in the first law, but only a payment when the victim was a freed man. This shows the law treated social classes differently.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_014",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.1.6-8",
+    "prompt": "Arrange these events in chronological order from earliest to latest.",
+    "orderedItems": [
+      "Sumerian city-states arise in Mesopotamia",
+      "Hammurabi rules Babylon",
+      "Athens develops democracy",
+      "Augustus becomes Rome's first emperor",
+      "The Western Roman Empire falls"
+    ],
+    "explanation": "Sumerian city-states arose before 3000 BCE, Hammurabi ruled about 1792-1750 BCE, Athenian democracy developed about 508 BCE, Augustus became emperor in 27 BCE and the Western Roman Empire fell in 476 CE.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g6_015",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CA.HSS.6.7.4",
+    "prompt": "Which development most directly led to the end of the Roman Republic?",
+    "choices": [
+      "The invasion of Italy by Mongol armies that crossed the Alps from the east",
+      "The spread of the printing press",
+      "Civil wars in which powerful generals such as Julius Caesar took control",
+      "A decision by the Senate to replace the Republic with Athenian-style democracy"
+    ],
+    "correctAnswer": "Civil wars in which powerful generals such as Julius Caesar took control",
+    "explanation": "In the first century BCE, generals with loyal armies fought for power. Julius Caesar became dictator, and after further civil wars his heir Augustus ruled as emperor, ending the Republic.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_016",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "TEKS.WH.3C",
+    "prompt": "The Roman Empire and Han China were alike in that both did what?",
+    "choices": [
+      "Were ruled by presidents elected by all adult citizens every four years",
+      "Refused to trade with any outsiders, including each other's merchants",
+      "Were located on the Indian subcontinent",
+      "Governed huge lands through appointed officials and connecting roads"
+    ],
+    "correctAnswer": "Governed huge lands through appointed officials and connecting roads",
+    "explanation": "Both empires ruled tens of millions of people, relied on officials to carry out the emperor's orders and built roads and other works to tie their lands together. Both also took part in long-distance trade.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g6_017",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.13.6-8",
+    "prompt": "The Greek historian Herodotus wrote about the Persian Wars decades after they ended, relying largely on stories people told him. What should a careful reader keep in mind?",
+    "choices": [
+      "It may contain errors or bias, since he was not an eyewitness and was Greek",
+      "It must be completely accurate, because it is so very old and so famous",
+      "It is useless as evidence, because every historian in history is biased",
+      "He copied everything word for word from official Persian royal records"
+    ],
+    "correctAnswer": "It may contain errors or bias, since he was not an eyewitness and was Greek",
+    "explanation": "Herodotus is a valuable source, but he gathered stories long after the events and was Greek. Historians weigh his account against other evidence, such as Persian inscriptions and archaeology.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  }
+]

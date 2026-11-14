@@ -1,0 +1,460 @@
+[
+  {
+    "id": "science_g8_001",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "MS-ESS1-1",
+    "prompt": "What causes Earth's seasons?",
+    "choices": [
+      "Earth's changing distance from the Sun",
+      "The tilt of Earth's axis as Earth orbits the Sun",
+      "The Moon blocking some of the Sun's light",
+      "Changes in the amount of energy the Sun gives off"
+    ],
+    "correctAnswer": "The tilt of Earth's axis as Earth orbits the Sun",
+    "explanation": "Earth's axis is tilted about 23.5 degrees. As Earth orbits the Sun, each hemisphere receives more direct sunlight and longer days for part of the year (summer) and less for another part (winter).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-PS2-2",
+    "prompt": "An object at rest will stay at rest unless it is acted on by what?",
+    "choices": [
+      "An unbalanced force",
+      "Balanced forces",
+      "Its own mass",
+      "Its own inertia"
+    ],
+    "correctAnswer": "An unbalanced force",
+    "explanation": "An object's motion changes only when an unbalanced (net) force acts on it. This is Newton's first law of motion.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_003",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-LS4-4",
+    "prompt": "The process in which organisms with traits better suited to their environment survive and reproduce more successfully than others is called natural ___.",
+    "correctAnswer": "selection",
+    "correctAnswers": [
+      "selection",
+      "natural selection"
+    ],
+    "explanation": "In natural selection, individuals with advantageous inherited traits are more likely to survive and reproduce, so those traits become more common in the population over generations.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g8_004",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-PS4-1",
+    "prompt": "What is the number of waves that pass a point each second called?",
+    "choices": [
+      "Amplitude",
+      "Wavelength",
+      "Frequency",
+      "Crest"
+    ],
+    "correctAnswer": "Frequency",
+    "explanation": "Frequency is the number of waves passing a point per second, measured in hertz (Hz).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-ESS1-2",
+    "prompt": "What force keeps the planets in orbit around the Sun?",
+    "choices": [
+      "Friction",
+      "Magnetism",
+      "Electric force",
+      "Gravity"
+    ],
+    "correctAnswer": "Gravity",
+    "explanation": "The Sun's gravity pulls on the planets and keeps them in orbit.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_006",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MS-PS3-1",
+    "prompt": "The speed of a moving car doubles. What happens to its kinetic energy?",
+    "choices": [
+      "It stays the same",
+      "It doubles",
+      "It becomes four times as great",
+      "It is cut in half"
+    ],
+    "correctAnswer": "It becomes four times as great",
+    "explanation": "Kinetic energy is proportional to the square of the speed. Doubling the speed makes the kinetic energy 2 x 2 = 4 times as great.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_007",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MS-PS2-1",
+    "prompt": "A skater pushes on a wall with a force of 50 newtons. What force does the wall exert on the skater?",
+    "choices": [
+      "50 newtons in the opposite direction",
+      "0 newtons, because walls cannot push",
+      "25 newtons in the opposite direction",
+      "100 newtons in the same direction"
+    ],
+    "correctAnswer": "50 newtons in the opposite direction",
+    "explanation": "Newton's third law: when one object exerts a force on a second object, the second exerts a force of equal strength in the opposite direction on the first.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_008",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-LS3-1",
+    "prompt": "How can a mutation in a gene affect an organism?",
+    "choices": [
+      "It always harms the organism, because it damages the instructions in the gene",
+      "It always helps the organism",
+      "It can never affect the organism's traits",
+      "It may change a protein, which can be harmful, helpful, or have no effect"
+    ],
+    "correctAnswer": "It may change a protein, which can be harmful, helpful, or have no effect",
+    "explanation": "Genes carry instructions for making proteins. A mutation may change the structure and function of a protein, with harmful, beneficial, or neutral effects on the organism.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_009",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MS-LS4-2",
+    "prompt": "Which of the following provide evidence that different species share a common ancestor? Select all that apply.",
+    "choices": [
+      "Similar bone structure in a human arm, a whale flipper, and a bat wing",
+      "Similar patterns in the early embryos of different species",
+      "Fossils that show features between older and newer forms",
+      "Two species that are the same color",
+      "Two species that live in the same habitat"
+    ],
+    "correctAnswers": [
+      "Similar bone structure in a human arm, a whale flipper, and a bat wing",
+      "Similar patterns in the early embryos of different species",
+      "Fossils that show features between older and newer forms"
+    ],
+    "explanation": "Anatomical similarities, similarities in embryo development, and the fossil record are evidence of common ancestry. Sharing a color or a habitat does not show that species are closely related.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g8_010",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-ESS1-3",
+    "prompt": "Order these objects and systems from smallest to largest.",
+    "orderedItems": [
+      "Moon",
+      "Earth",
+      "Sun",
+      "Solar system",
+      "Milky Way galaxy"
+    ],
+    "explanation": "The Moon is smaller than Earth, Earth is much smaller than the Sun, the Sun is one part of the solar system, and the solar system is a tiny part of the Milky Way galaxy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g8_011",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MS-ESS1-1",
+    "prompt": "Word bank: solar, lunar, new, full. Fill in the blanks. A ___ eclipse occurs when the Moon passes directly between the Sun and Earth. This can happen only during the ___ moon phase.",
+    "blanks": [
+      "solar",
+      "new"
+    ],
+    "explanation": "In a solar eclipse the Moon blocks the Sun as seen from Earth. The Moon is between the Sun and Earth only at new moon. A lunar eclipse happens at full moon, when Earth's shadow falls on the Moon.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g8_012",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-PS2-4",
+    "prompt": "Which change would increase the gravitational force between two objects?",
+    "choices": [
+      "Increasing the distance between them",
+      "Increasing the mass of one of the objects",
+      "Making the objects move faster",
+      "Raising the temperature of the objects"
+    ],
+    "correctAnswer": "Increasing the mass of one of the objects",
+    "explanation": "Gravitational force increases as the masses of the objects increase and decreases as the distance between them increases.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_013",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MS-PS4-2",
+    "prompt": "Why does an apple look red in white light?",
+    "choices": [
+      "It absorbs red light and reflects the other colors",
+      "It reflects red light and absorbs most of the other colors",
+      "It produces its own red light",
+      "It bends all light into red light"
+    ],
+    "correctAnswer": "It reflects red light and absorbs most of the other colors",
+    "explanation": "White light contains all colors. The apple's surface absorbs most colors and reflects red light, which enters our eyes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_014",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-PS2-2",
+    "prompt": "A student pushes a box across a level floor with a constant force, and the box moves in a straight line at a constant speed. What can be concluded about the forces acting on the box?",
+    "choices": [
+      "The push force is greater than friction",
+      "The push force is less than friction",
+      "The net force on the box is zero",
+      "There is no friction acting on the box"
+    ],
+    "correctAnswer": "The net force on the box is zero",
+    "explanation": "Constant speed in a straight line means the box is not accelerating, so the net force is zero. The push is exactly balanced by friction.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_015",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-PS2-2",
+    "prompt": "Based on the pattern in the data, what acceleration would be expected for a total mass of 6 kg pulled with the same force?",
+    "passage": "A student pulled a cart with a constant force of 6 newtons and measured its acceleration for different total masses. Mass 1 kg: acceleration 6.0 m/s^2. Mass 2 kg: acceleration 3.0 m/s^2. Mass 3 kg: acceleration 2.0 m/s^2.",
+    "choices": [
+      "0.5 m/s^2",
+      "1.0 m/s^2",
+      "1.5 m/s^2",
+      "12.0 m/s^2"
+    ],
+    "correctAnswer": "1.0 m/s^2",
+    "explanation": "With a constant force, acceleration is inversely proportional to mass: mass x acceleration is always 6. For 6 kg, the acceleration is 6 / 6 = 1.0 m/s^2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_016",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "MS-LS4-4",
+    "prompt": "Which explanation best accounts for the change in the beetle population?",
+    "passage": "A population of beetles lives on an island with light-colored sand. Body color in these beetles is inherited. In 1990, 90% of the beetles were light tan and 10% were dark. A volcanic eruption then covered the island with dark rock. Birds on the island hunt beetles by sight. By 2020, 25% of the beetles were light tan and 75% were dark.",
+    "choices": [
+      "Individual tan beetles gradually turned darker during their own lives because they needed to hide from the birds",
+      "Ash from the eruption stained the tan beetles, and they passed the stain on to their offspring",
+      "Dark beetles were harder for birds to see on dark rock, so more survived and passed on the dark color",
+      "Birds prefer to eat dark beetles, so the beetles produced more dark offspring to replace them"
+    ],
+    "correctAnswer": "Dark beetles were harder for birds to see on dark rock, so more survived and passed on the dark color",
+    "explanation": "This is natural selection. Color is inherited; on dark rock, dark beetles were eaten less often, survived, and reproduced more, so the dark trait became more common over generations. Individuals do not change their inherited traits because they need to.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_017",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-ESS1-4",
+    "prompt": "In a cliff, sedimentary layer A is at the bottom, layer B is above it, and layer C is on top. The layers have not been overturned. A band of igneous rock cuts across layers A and B but stops at the bottom of layer C, which was deposited on top of it. What is the order of formation, from oldest to youngest?",
+    "choices": [
+      "A, B, C, igneous rock",
+      "Igneous rock, A, B, C",
+      "C, igneous rock, B, A",
+      "A, B, igneous rock, C"
+    ],
+    "correctAnswer": "A, B, igneous rock, C",
+    "explanation": "In undisturbed layers the oldest is at the bottom, so A formed before B. A feature that cuts across layers is younger than the layers it cuts, so the igneous rock is younger than A and B. Layer C was deposited on top afterward, so it is the youngest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_018",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MS-PS4-1",
+    "prompt": "A wave has a frequency of 5 hertz (5 waves per second) and a wavelength of 2 meters. What is the speed of the wave?",
+    "choices": [
+      "10 m/s",
+      "2.5 m/s",
+      "7 m/s",
+      "0.4 m/s"
+    ],
+    "correctAnswer": "10 m/s",
+    "explanation": "Wave speed = frequency x wavelength = 5 waves per second x 2 meters = 10 m/s.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g8_019",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-ESS1-1",
+    "prompt": "A lunar eclipse can occur only at full moon. Why is there not a lunar eclipse at every full moon?",
+    "choices": [
+      "The Moon's orbit is tilted, so the Moon usually passes above or below Earth's shadow",
+      "The Moon stops orbiting Earth for part of each month",
+      "Earth casts a shadow only during winter, when the Sun is low in the sky",
+      "The Moon is too far from Earth during most months, so Earth's shadow cannot reach it"
+    ],
+    "correctAnswer": "The Moon's orbit is tilted, so the Moon usually passes above or below Earth's shadow",
+    "explanation": "The Moon's orbit is tilted about 5 degrees relative to Earth's orbital plane. At most full moons the Moon passes just above or below Earth's shadow, so an eclipse occurs only when the alignment is nearly exact.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  }
+]

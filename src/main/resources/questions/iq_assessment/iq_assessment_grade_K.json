@@ -1,0 +1,345 @@
+[
+  {
+    "id": "iq_assessment_gk_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? red, blue, red, blue, red, ___",
+    "choices": [
+      "blue",
+      "red",
+      "green"
+    ],
+    "correctAnswer": "blue",
+    "explanation": "The colors take turns: red, blue, red, blue. After red comes blue.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Which one does NOT belong? dog, cat, fish, car",
+    "choices": [
+      "dog",
+      "car",
+      "cat",
+      "fish"
+    ],
+    "correctAnswer": "car",
+    "explanation": "A dog, a cat and a fish are animals. A car is not an animal.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_gk_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 1, 2, 3, 4, ___",
+    "correctAnswer": "5",
+    "correctAnswers": [
+      "5",
+      "five"
+    ],
+    "explanation": "The numbers go up by 1 each time. After 4 comes 5.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_gk_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A cat sits on a box. What is under the cat?",
+    "choices": [
+      "the cat",
+      "the sky",
+      "the box"
+    ],
+    "correctAnswer": "the box",
+    "explanation": "The cat is on top of the box, so the box is under the cat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Look: cup, dog, ball. Which one is last?",
+    "choices": [
+      "ball",
+      "cup",
+      "dog"
+    ],
+    "correctAnswer": "ball",
+    "explanation": "The order is cup, dog, ball. The last one is ball.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Big is to small as hot is to ___",
+    "choices": [
+      "warm",
+      "cold",
+      "sun"
+    ],
+    "correctAnswer": "cold",
+    "explanation": "Big and small are opposites. The opposite of hot is cold.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? red, red, blue, red, red, ___",
+    "choices": [
+      "red",
+      "green",
+      "blue"
+    ],
+    "correctAnswer": "blue",
+    "explanation": "The pattern is red, red, blue, and then it starts again. After red, red comes blue.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.QUANT",
+    "prompt": "Sam has 2 apples. Mia has 1 more than Sam. How many apples does Mia have?",
+    "correctAnswer": "3",
+    "correctAnswers": [
+      "3",
+      "three"
+    ],
+    "explanation": "One more than 2 is 3.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_gk_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "The cup is on the box. The box is on the mat. What is at the bottom?",
+    "choices": [
+      "the mat",
+      "the cup",
+      "the box"
+    ],
+    "correctAnswer": "the mat",
+    "explanation": "The cup is on top, the box is in the middle, and the mat is at the bottom.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Say these words in backward order: cat, dog.",
+    "choices": [
+      "cat, dog",
+      "dog, cat",
+      "dog, dog"
+    ],
+    "correctAnswer": "dog, cat",
+    "explanation": "Backward means last one first: dog, then cat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Bird is to fly as fish is to ___",
+    "choices": [
+      "sing",
+      "run",
+      "swim"
+    ],
+    "correctAnswer": "swim",
+    "explanation": "A bird moves by flying. A fish moves by swimming.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? big, small, small, big, small, small, ___",
+    "choices": [
+      "big",
+      "small",
+      "tall"
+    ],
+    "correctAnswer": "big",
+    "explanation": "The pattern is big, small, small, and then it starts again with big.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "Ann is 5. Ben is 6. Cal is 4. Who is the oldest?",
+    "choices": [
+      "Ann",
+      "Ben",
+      "Cal"
+    ],
+    "correctAnswer": "Ben",
+    "explanation": "6 is the biggest number, so Ben is the oldest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Tom is behind Ann. Ann is behind Lee. Who is at the very front of the line?",
+    "choices": [
+      "Tom",
+      "Ann",
+      "Lee"
+    ],
+    "correctAnswer": "Lee",
+    "explanation": "The line is Lee, then Ann, then Tom. Lee is in front.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_gk_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Ann is taller than Ben. Cal is taller than Ann. Put the children in order from shortest to tallest.",
+    "orderedItems": [
+      "Ben",
+      "Ann",
+      "Cal"
+    ],
+    "explanation": "Ben is shorter than Ann, and Ann is shorter than Cal. So from shortest to tallest the order is Ben, Ann, Cal.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.0
+    }
+  }
+]

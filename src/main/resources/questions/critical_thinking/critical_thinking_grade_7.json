@@ -1,0 +1,342 @@
+[
+  {
+    "id": "critical_thinking_g7_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ASSUMPTIONS",
+    "prompt": "A student argues: 'Some students use phones to cheat on tests. So if we ban phones in school, cheating on tests will stop.' What does this argument assume?",
+    "choices": [
+      "All students own phones.",
+      "Tests are so hard that students feel they need to cheat to pass.",
+      "Students who cheat will not simply find other ways to cheat.",
+      "Teachers like phones."
+    ],
+    "correctAnswer": "Students who cheat will not simply find other ways to cheat.",
+    "explanation": "The argument moves from 'no phones' to 'no cheating.' That only follows if phones are the only way students cheat, so that cheaters will not switch to another method. This is never stated, so it is a hidden assumption.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "An article says: 'Ice cream sales go up in summer. Crime also goes up in summer. Therefore, ice cream causes crime.' What is the flaw in this reasoning?",
+    "choices": [
+      "Ice cream sales do not really go up in summer.",
+      "Rising together does not prove one causes the other; hot weather could raise both.",
+      "Crime actually goes down in summer, when more people are outside watching the streets.",
+      "Ice cream is an unhealthy food."
+    ],
+    "correctAnswer": "Rising together does not prove one causes the other; hot weather could raise both.",
+    "explanation": "The article only shows that the two things happen at the same time (a correlation). A third factor, summer heat that brings more people outdoors, could raise both. Correlation alone does not prove causation.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "The meeting is in either Room A or Room B. If the meeting were in Room A, the lights in Room A would be on. The lights in Room A are off. Where is the meeting?",
+    "choices": [
+      "In Room A",
+      "In both rooms",
+      "It cannot be determined.",
+      "In Room B"
+    ],
+    "correctAnswer": "In Room B",
+    "explanation": "If the meeting were in Room A, the lights there would be on. They are off, so the meeting is not in Room A. Since it must be in Room A or Room B, it is in Room B.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.CREDIBILITY",
+    "prompt": "A website says, 'Sugary drinks are part of a healthy diet for kids.' Its 'About' page shows the site is run by a group paid for by soda companies. Why does this matter?",
+    "choices": [
+      "The group gains if people believe it, so check the claim against independent sources.",
+      "It proves the claim is false.",
+      "It proves the claim is true, because soda companies know more about soda than anyone else does.",
+      "It does not matter who runs a website."
+    ],
+    "correctAnswer": "The group gains if people believe it, so check the claim against independent sources.",
+    "explanation": "A source that profits from a claim has a reason to slant it, which lowers its credibility. That does not prove the claim false; it means a careful reader should see what independent sources say before believing it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS/RI.7.8",
+    "prompt": "Read this argument: 'The library is closed on Sundays, and today is Sunday. So we cannot return the books today.' Which statement is the conclusion?",
+    "choices": [
+      "The library is closed on Sundays.",
+      "Today is Sunday.",
+      "We cannot return the books today.",
+      "The books are overdue."
+    ],
+    "correctAnswer": "We cannot return the books today.",
+    "explanation": "The word 'So' signals the conclusion. The first two statements are the reasons (premises) and 'we cannot return the books today' is what they are used to prove. Nothing in the argument says the books are overdue.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "A scientist gives fertilizer to the plants in Group A and none to Group B. Both groups get the same water and sunlight. Group A grows 30% taller. What is the most reasonable conclusion?",
+    "choices": [
+      "Fertilizer definitely makes all plants grow taller, since Group A grew 30% more.",
+      "The fertilizer probably helped the plants grow taller in this experiment.",
+      "Sunlight has no effect on plant growth, since both groups got the same amount.",
+      "The plants in Group B were sick."
+    ],
+    "correctAnswer": "The fertilizer probably helped the plants grow taller in this experiment.",
+    "explanation": "Fertilizer was the only difference between the groups, so it is the likely cause of the extra growth. But one experiment cannot prove something about 'all plants', and nothing was tested about sunlight or sickness.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Five students gave talks, one at a time. Use the clues to put them in order from first to last. Clues: Mira spoke first. Lena spoke immediately before Kai. Omar spoke after Kai, but Omar was not last.",
+    "orderedItems": [
+      "Mira",
+      "Lena",
+      "Kai",
+      "Omar",
+      "Nico"
+    ],
+    "explanation": "Mira is first. Lena and Kai are back to back, in spots 2-3 or 3-4. If they were in 3-4, Omar would have to be fifth, but Omar is not last. So Lena is second, Kai third, Omar fourth, and Nico is last.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g7_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION/RI.7.8",
+    "prompt": "Is the evidence in this blog post sufficient to support its conclusion?",
+    "passage": "Blog post: Our city's air is getting cleaner. I walked downtown yesterday and the sky looked clear. My neighbor says he coughs less than he used to. Clearly, the new bus rules are working.",
+    "choices": [
+      "Yes, because the author saw the clear sky in person, and a neighbor noticed a change too.",
+      "Yes, because two pieces of evidence are always enough.",
+      "No, because blogs can never be correct.",
+      "No, because one day's sky and one neighbor's comment cannot show a trend or its cause."
+    ],
+    "correctAnswer": "No, because one day's sky and one neighbor's comment cannot show a trend or its cause.",
+    "explanation": "The claim is about a lasting change in the city's air and its cause. One clear day and one neighbor's cough are far too little evidence; measurements over time would be needed. The post is not wrong just because it is a blog.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "All drummers in the school band are in grade 8. No grade 8 student rides Bus 4. Which statements must be true? Select all that apply.",
+    "choices": [
+      "No drummer in the school band rides Bus 4.",
+      "Any band member who rides Bus 4 is not a drummer.",
+      "All grade 8 students are drummers.",
+      "Everyone who does not ride Bus 4 is in grade 8."
+    ],
+    "correctAnswers": [
+      "No drummer in the school band rides Bus 4.",
+      "Any band member who rides Bus 4 is not a drummer."
+    ],
+    "explanation": "Every band drummer is in grade 8, and nobody in grade 8 rides Bus 4, so no band drummer rides Bus 4. That also means a band member on Bus 4 cannot be a drummer. The last two statements reverse the rules, which is not allowed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g7_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "In a survey of all 400 students at Lake School, 70% said they would like school to start later. Which conclusion is best supported?",
+    "choices": [
+      "Most students at Lake School would like a later start.",
+      "Most students in the country would like a later start.",
+      "A later start would raise grades at Lake School.",
+      "Teachers at Lake School would like a later start."
+    ],
+    "correctAnswer": "Most students at Lake School would like a later start.",
+    "explanation": "The survey covers Lake School students, and 70% is a clear majority, so the first conclusion follows. The survey did not ask students elsewhere, did not ask teachers, and measured wishes, not grades.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "If Sam practices, he will make the team. If Sam makes the team, he will get a jersey. Sam did not get a jersey. What follows?",
+    "choices": [
+      "Sam made the team.",
+      "Sam practiced but was cut.",
+      "Sam did not practice.",
+      "Nothing can be concluded about whether Sam practiced."
+    ],
+    "correctAnswer": "Sam did not practice.",
+    "explanation": "Work backward. No jersey means he did not make the team (if he had, he would have a jersey). Not making the team means he did not practice (if he had, he would have made it).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Someone says, 'This is the best book ever written, because no other book is better than it.' What is the problem with this argument?",
+    "choices": [
+      "It attacks a person instead of an idea.",
+      "The reason just repeats the claim in different words.",
+      "It is based on a survey that is too small.",
+      "It confuses a cause with an effect."
+    ],
+    "correctAnswer": "The reason just repeats the claim in different words.",
+    "explanation": "'No other book is better' means the same thing as 'this is the best book.' The argument gives no independent reason; it goes in a circle. This is called circular reasoning.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.ASSUMPTIONS",
+    "prompt": "A store owner says, 'Sales went up after we painted our store blue. So if we paint our other store blue, sales will go up there too.' Which assumption does the owner's argument depend on?",
+    "choices": [
+      "Blue paint costs less than other paint.",
+      "The other store is bigger and gets more shoppers each week.",
+      "Customers dislike the color red.",
+      "The blue paint, and not something else, caused the rise in sales."
+    ],
+    "correctAnswer": "The blue paint, and not something else, caused the rise in sales.",
+    "explanation": "The plan only makes sense if the paint is what raised sales. If sales rose for another reason, such as a holiday or a sale, painting the second store would not help. The owner never shows that the paint was the cause.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g7_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Four friends sit in a row of seats numbered 1 to 4 from left to right. Ana is not in an end seat. Ben sits somewhere to the left of Ana. Dee sits immediately to the right of Ben. What is the number of Cal's seat?",
+    "correctAnswer": "4",
+    "correctAnswers": [
+      "4",
+      "four",
+      "seat 4",
+      "seat four"
+    ],
+    "explanation": "Ana is in seat 2 or 3. If Ana were in seat 2, Ben would be in seat 1 and Dee would need seat 2, which is taken. So Ana is in seat 3. Ben cannot be in seat 2 (Dee would need seat 3), so Ben is in seat 1 and Dee in seat 2. Cal gets seat 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.0
+    }
+  }
+]

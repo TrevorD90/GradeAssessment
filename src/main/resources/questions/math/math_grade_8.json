@@ -1,0 +1,386 @@
+[
+  {
+    "id": "math_g8_001",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "8.EE.A.2",
+    "prompt": "What is the positive square root of 81?",
+    "choices": [
+      "8",
+      "9",
+      "40.5",
+      "18"
+    ],
+    "correctAnswer": "9",
+    "explanation": "9 x 9 = 81, so the positive square root of 81 is 9.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_002",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "8.EE.A.1",
+    "prompt": "Which is 2^3 x 2^4 written as a single power?",
+    "choices": [
+      "2^12",
+      "4^7",
+      "4^12",
+      "2^7"
+    ],
+    "correctAnswer": "2^7",
+    "explanation": "When you multiply powers with the same base, keep the base and add the exponents: 2^3 x 2^4 = 2^(3+4) = 2^7.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_003",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "8.F.B.4",
+    "prompt": "What is the slope of the line y = 3x - 5?",
+    "choices": [
+      "3",
+      "-5",
+      "5",
+      "1/3"
+    ],
+    "correctAnswer": "3",
+    "explanation": "In y = mx + b, the number m multiplied by x is the slope. Here m = 3. The -5 is the y-intercept.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_004",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "8.NS.A.1",
+    "prompt": "Which number is irrational?",
+    "choices": [
+      "0.25",
+      "2/3",
+      "sqrt(7)",
+      "sqrt(16)"
+    ],
+    "correctAnswer": "sqrt(7)",
+    "explanation": "An irrational number cannot be written as a fraction of whole numbers. sqrt(7) is a decimal that never ends or repeats. 0.25 = 1/4, 2/3 is a fraction, and sqrt(16) = 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_005",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "8.G.B.7",
+    "prompt": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
+    "choices": [
+      "7",
+      "12",
+      "10",
+      "14"
+    ],
+    "correctAnswer": "10",
+    "explanation": "Use the Pythagorean theorem: c^2 = 6^2 + 8^2 = 36 + 64 = 100, so c = 10.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_006",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "8.EE.C.7b",
+    "prompt": "Put the steps in the correct order to solve 3(x - 2) = 15.",
+    "orderedItems": [
+      "Start with 3(x - 2) = 15",
+      "Divide both sides by 3 to get x - 2 = 5",
+      "Add 2 to both sides",
+      "Write the solution: x = 7"
+    ],
+    "explanation": "Divide both sides by 3 to get x - 2 = 5. Then add 2 to both sides to get x = 7. Check: 3(7 - 2) = 15.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g8_007",
+    "subject": "MATH",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "8.G.A.5",
+    "prompt": "In a triangle, one angle measures 90 degrees and another measures 45 degrees. Which statements are true? Select all that apply.",
+    "choices": [
+      "The third angle is 45 degrees",
+      "The triangle is a right triangle",
+      "The triangle is equilateral",
+      "The triangle is isosceles"
+    ],
+    "correctAnswers": [
+      "The third angle is 45 degrees",
+      "The triangle is a right triangle",
+      "The triangle is isosceles"
+    ],
+    "explanation": "The angles of a triangle add to 180 degrees, so the third angle is 180 - 90 - 45 = 45 degrees. A 90-degree angle makes it a right triangle. Two equal angles make it isosceles. It is not equilateral because the angles are not all 60 degrees.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g8_008",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "8.EE.A.4",
+    "prompt": "What is (3 x 10^4) x (2 x 10^3) in scientific notation?",
+    "choices": [
+      "6 x 10^7",
+      "6 x 10^12",
+      "5 x 10^7",
+      "6 x 10^1"
+    ],
+    "correctAnswer": "6 x 10^7",
+    "explanation": "Multiply the front numbers: 3 x 2 = 6. Add the exponents of 10: 4 + 3 = 7. The answer is 6 x 10^7.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_009",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "8.F.B.4",
+    "prompt": "A line passes through the points (1, 2) and (3, 10). What is its slope?",
+    "choices": [
+      "1/4",
+      "8",
+      "2",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Slope = change in y divided by change in x = (10 - 2) / (3 - 1) = 8 / 2 = 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_010",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "8.G.C.9",
+    "prompt": "A cylinder has a radius of 2 cm and a height of 10 cm. Using 3.14 for pi, what is its volume in cubic centimeters? Write your answer as a decimal.",
+    "correctAnswer": "125.6",
+    "correctAnswers": [
+      "125.6",
+      "125.60",
+      "125.6 cubic cm",
+      "125.6 cm^3",
+      "125.6 cubic centimeters"
+    ],
+    "explanation": "Volume of a cylinder = pi x r^2 x h = 3.14 x 2 x 2 x 10 = 3.14 x 40 = 125.6 cubic cm.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g8_011",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "8.F.A.3",
+    "prompt": "Which equation does NOT describe a linear function?",
+    "choices": [
+      "y = 2x",
+      "y = x^2 + 1",
+      "y = x/3 - 4",
+      "y = -5x + 2"
+    ],
+    "correctAnswer": "y = x^2 + 1",
+    "explanation": "A linear function has the form y = mx + b and graphs as a straight line. y = x^2 + 1 has x squared, so its graph is a curve.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_012",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "8.EE.C.8b",
+    "prompt": "What is the solution to this system of equations? y = 2x + 1 and y = -x + 7",
+    "choices": [
+      "(5, 2)",
+      "(2, 5)",
+      "(3, 7)",
+      "(2, 3)"
+    ],
+    "correctAnswer": "(2, 5)",
+    "explanation": "Set the two expressions for y equal: 2x + 1 = -x + 7. Add x to both sides: 3x + 1 = 7, so 3x = 6 and x = 2. Then y = 2(2) + 1 = 5. The solution is (2, 5).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_013",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "8.EE.C.7a",
+    "prompt": "How many solutions does the equation 3(x + 2) = 3x + 6 have?",
+    "choices": [
+      "No solution",
+      "Exactly one solution",
+      "Exactly two solutions",
+      "Infinitely many solutions"
+    ],
+    "correctAnswer": "Infinitely many solutions",
+    "explanation": "Distribute on the left: 3x + 6 = 3x + 6. Both sides are exactly the same, so every value of x makes the equation true.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_014",
+    "subject": "MATH",
+    "type": "CLOZE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "8.G.B.8",
+    "prompt": "The distance between the points (1, 2) and (4, 6) is ___ units.",
+    "blanks": [
+      "5"
+    ],
+    "explanation": "The points are 3 apart horizontally and 4 apart vertically. By the Pythagorean theorem, the distance is sqrt(3^2 + 4^2) = sqrt(25) = 5.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g8_015",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "8.SP.A.3",
+    "prompt": "A line of best fit for a plant's height is h = 2.5w + 4, where w is the number of weeks and h is the height in cm. What does the 2.5 mean?",
+    "choices": [
+      "The plant grows about 2.5 cm each week",
+      "The plant was 2.5 cm tall at the start",
+      "The plant grows for 2.5 weeks",
+      "The plant is 2.5 cm tall after 4 weeks"
+    ],
+    "correctAnswer": "The plant grows about 2.5 cm each week",
+    "explanation": "2.5 is the slope, which is the change in height for each extra week. So the plant grows about 2.5 cm per week. The 4 is the starting height.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g8_016",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "8.G.B.7",
+    "prompt": "A 13-foot ladder leans against a wall. The bottom of the ladder is 5 feet from the wall. How many feet up the wall does the ladder reach? Write your answer as a number.",
+    "correctAnswer": "12",
+    "correctAnswers": [
+      "12",
+      "12 feet",
+      "12 ft",
+      "12ft"
+    ],
+    "explanation": "The ladder, wall and ground make a right triangle with hypotenuse 13. 13^2 - 5^2 = 169 - 25 = 144, and sqrt(144) = 12 feet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.0
+    }
+  }
+]

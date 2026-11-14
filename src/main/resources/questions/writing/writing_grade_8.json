@@ -1,0 +1,387 @@
+[
+  {
+    "id": "writing_g8_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.8.1.B",
+    "prompt": "Which sentence is written in the active voice?",
+    "choices": [
+      "The scientist conducted the experiment carefully.",
+      "The ball was thrown by the pitcher.",
+      "The homework was completed before dinner.",
+      "The song was performed by the choir."
+    ],
+    "correctAnswer": "The scientist conducted the experiment carefully.",
+    "explanation": "In the active voice, the subject performs the action. In the passive voice, the subject receives the action (a form of 'be' plus a past participle).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.8.1.A",
+    "prompt": "In the sentence 'Swimming is my favorite sport,' the word 'swimming' is which kind of verbal?",
+    "choices": [
+      "participle",
+      "gerund",
+      "infinitive",
+      "auxiliary verb"
+    ],
+    "correctAnswer": "gerund",
+    "explanation": "A gerund is an -ing verb form that functions as a noun. Here 'swimming' is the subject of the sentence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_003",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "L.8.1.B",
+    "prompt": "Rewrite in the active voice by typing the missing verb.\nPassive: The award was presented to Maya by the principal.\nActive: The principal ___ the award to Maya.",
+    "correctAnswer": "presented",
+    "correctAnswers": [
+      "presented",
+      "gave"
+    ],
+    "explanation": "To change passive voice to active voice, make the doer of the action the subject and use the main verb directly: The principal presented the award.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g8_004",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.8.1.C",
+    "prompt": "Which sentence is in the imperative mood?",
+    "choices": [
+      "Did you close the window?",
+      "She closed the window.",
+      "Close the window before you leave.",
+      "If I were cold, I would close the window."
+    ],
+    "correctAnswer": "Close the window before you leave.",
+    "explanation": "The imperative mood gives a command or makes a request. The subject 'you' is understood.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_005",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.8.2.B",
+    "prompt": "A student quotes a report this way: \"The committee decided ... to approve the plan.\" What does the ellipsis (...) show?",
+    "choices": [
+      "The committee was shouting.",
+      "The quotation is a question.",
+      "The writer copied a spelling error exactly as it appeared in the original.",
+      "Words have been left out of the original quotation."
+    ],
+    "correctAnswer": "Words have been left out of the original quotation.",
+    "explanation": "In a quotation, an ellipsis indicates that words from the original text have been omitted.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_006",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.8.1.C",
+    "prompt": "Which sentence correctly uses the subjunctive mood to describe something contrary to fact?",
+    "choices": [
+      "If I were taller, I could reach the shelf.",
+      "If I was taller, I could reach the shelf.",
+      "If I am taller, I could reach the shelf.",
+      "If I be taller, I could reach the shelf."
+    ],
+    "correctAnswer": "If I were taller, I could reach the shelf.",
+    "explanation": "The subjunctive mood uses 'were' (not 'was') to express a wish or a condition that is contrary to fact.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_007",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.8.1.A",
+    "prompt": "In the sentence 'The barking dog kept us awake,' how does the word 'barking' function?",
+    "choices": [
+      "as a gerund that is the subject of the sentence",
+      "as a participle that describes the noun 'dog'",
+      "as an infinitive that names an action",
+      "as the main verb of the sentence"
+    ],
+    "correctAnswer": "as a participle that describes the noun 'dog'",
+    "explanation": "A participle is a verb form used as an adjective. 'Barking' describes the dog; the main verb is 'kept.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.8.1.D",
+    "prompt": "Which sentence contains an inappropriate shift in voice?",
+    "choices": [
+      "Maria baked the cookies and added the frosting.",
+      "Maria baked the cookies, and then she frosted them.",
+      "Maria baked the cookies, and the frosting was added by her.",
+      "After Maria baked the cookies, she added the frosting."
+    ],
+    "correctAnswer": "Maria baked the cookies, and the frosting was added by her.",
+    "explanation": "A sentence should not shift from active voice ('Maria baked') to passive voice ('was added by her') without a reason.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_009",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.8.2.A",
+    "prompt": "Which sentence correctly uses a dash to show a sudden break in thought?",
+    "choices": [
+      "I was—sure I had locked the door or had I?",
+      "I was sure I had—locked the door or had I?",
+      "I was sure I had locked—the door or had I?",
+      "I was sure I had locked the door—or had I?"
+    ],
+    "correctAnswer": "I was sure I had locked the door—or had I?",
+    "explanation": "A dash marks a pause or an abrupt break in thought. It belongs at the point where the thought changes direction.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_010",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.8.3.A",
+    "prompt": "Which sentence uses the passive voice to emphasize what happened because the person responsible is unknown?",
+    "choices": [
+      "The museum window was broken last night.",
+      "Someone broke the museum window last night.",
+      "A thief broke the museum window last night.",
+      "The museum reported a broken window last night."
+    ],
+    "correctAnswer": "The museum window was broken last night.",
+    "explanation": "Writers can choose the passive voice to emphasize the action or its receiver, especially when the actor is unknown. Only this sentence is passive ('was broken').",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_011",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.8.1.B",
+    "prompt": "Which sentences are in the passive voice? Select all that apply.",
+    "choices": [
+      "The bridge was designed by a famous engineer.",
+      "The engineer designed a famous bridge.",
+      "The winners will be announced on Friday.",
+      "The crowd was cheering loudly.",
+      "Several trees were knocked down by the wind."
+    ],
+    "correctAnswers": [
+      "The bridge was designed by a famous engineer.",
+      "The winners will be announced on Friday.",
+      "Several trees were knocked down by the wind."
+    ],
+    "explanation": "Passive voice uses a form of 'be' plus a past participle, and the subject receives the action. 'Was cheering' is active (past progressive) because the crowd performs the action.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g8_012",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.8.1.D",
+    "prompt": "Which sentence should be revised to keep the verb mood consistent?",
+    "passage": "(1) To make the dough, first measure two cups of flour. (2) Add a pinch of salt. (3) Then you should pour in the water slowly. (4) Stir the mixture until it is smooth.",
+    "choices": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+    ],
+    "correctAnswer": "Sentence 3",
+    "explanation": "The directions are written as commands (imperative mood). Sentence 3 shifts to the indicative mood ('you should pour'); it should read 'Then pour in the water slowly.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_013",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.8.1.A",
+    "prompt": "Which sentence best responds to the opposing claim with logical reasoning?",
+    "passage": "Our city should extend library hours on weekends. Opponents claim that longer hours would cost too much.",
+    "choices": [
+      "Libraries contain many interesting books.",
+      "However, staffing the library for four extra hours would use less than one percent of its yearly budget.",
+      "Opponents are simply wrong, and anyone who has visited a library on a busy Saturday should be able to see that.",
+      "The library was built in 1975."
+    ],
+    "correctAnswer": "However, staffing the library for four extra hours would use less than one percent of its yearly budget.",
+    "explanation": "An effective argument acknowledges opposing claims and answers them with logical reasoning and relevant evidence, not with insults or unrelated facts.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_014",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.8.1.C",
+    "prompt": "Which transition best clarifies the relationship between these sentences?\nThe new schedule gives students less time for lunch. ___, many students now skip eating in order to finish their homework.",
+    "choices": [
+      "Nevertheless",
+      "In contrast",
+      "As a result",
+      "Similarly"
+    ],
+    "correctAnswer": "As a result",
+    "explanation": "The second sentence states an effect of the first, so a cause-and-effect transition is needed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g8_015",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.8.2.A",
+    "prompt": "Arrange these sentences to make a logical, well-organized paragraph.",
+    "orderedItems": [
+      "Honeybees share the location of food through a movement known as the waggle dance.",
+      "During this dance, a bee walks in a straight line while shaking its body.",
+      "The direction of that line shows the other bees which way to fly.",
+      "As a result, the rest of the hive can find the flowers without searching."
+    ],
+    "explanation": "An informative paragraph introduces the topic and then develops it in a logical order. Reference words (this dance, that line) and transitions (as a result) show the order.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g8_016",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "L.8.1.C",
+    "prompt": "Write the correct form of each verb in parentheses.\nI wish I ___ (be) old enough to drive. The doctor recommended that he ___ (rest) for a week.",
+    "blanks": [
+      "were",
+      "rest"
+    ],
+    "explanation": "The subjunctive mood uses 'were' for wishes and the base form of the verb (rest) after verbs of recommending, demanding, or requesting.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.0
+    }
+  }
+]

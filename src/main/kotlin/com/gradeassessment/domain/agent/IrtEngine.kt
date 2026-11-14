@@ -4,16 +4,43 @@ import com.gradeassessment.domain.model.*
 import com.gradeassessment.domain.scoring.ScoringHelper
 import kotlin.math.exp
 import kotlin.math.ln
+import kotlin.math.round
 import kotlin.math.sqrt
+import kotlin.random.Random
 
+/**
+ * 3PL IRT maths for the adaptive test.
+ *
+ * Complexity summary (N = questions in the subject, k = answers so far, G = grid points, W = window):
+ *  - absorbing an answer:      O(G)             (was O(k * N) per answer, O(k^2 * N) per subject)
+ *  - choosing the next item:   O(log N + W + k) (was O(N * k): full scan with list membership tests)
+ *  - looking up a question:    O(1)             (was O(N)), see QuestionRepository
+ */
 object IrtEngine {
 
-    private const val THETA_MIN = -3.0
-    private const val THETA_MAX = 3.0
-    private const val MAX_SCALED_SCORE = 1400
-    private const val SE_THRESHOLD = 0.40
-    private const val MIN_QUESTIONS = 15
-    private const val MAX_QUESTIONS = 30
+    private val THETA_MIN = GradeScale.THETA_MIN
+    private val THETA_MAX = GradeScale.THETA_MAX
+
+    // [DECISION: stop once the posterior SD is below 0.36 theta = 0.6 of a grade level, i.e. the
+    //  reported grade is known to roughly +/- half a grade, after at least 15 and at most 30 items.]
+    const val SE_THRESHOLD = 0.36
+    const val MIN_QUESTIONS = 15
+    const val MAX_QUESTIONS = 30
+
+    /** Prior SD of ability around the age-expected level: 1.2 theta = 2 grade levels (weak prior). */
+    const val PRIOR_SD = 1.2
+
+    /** Quadrature grid for EAP estimation: 121 points, 0.06 theta (= 0.1 grade) apart. */
+    private const val GRID_SIZE = 121
+    private val GRID: DoubleArray = DoubleArray(GRID_SIZE) { i ->
+        THETA_MIN + i * (THETA_MAX - THETA_MIN) / (GRID_SIZE - 1)
+    }
+
+    /** How many unasked questions nearest the current ability are scored for information. */
+    private const val SELECTION_WINDOW = 24
+
+    /** Pick at random among this many most-informative candidates ("randomesque" exposure control). */
+    private const val RANDOMESQUE_TOP = 4
 
     fun probability3PL(theta: Double, params: IrtParameters): Double {
         val exponent = params.a * (theta - params.b)
@@ -27,78 +54,112 @@ object IrtEngine {
         if (p <= params.c || p >= 1.0 || q <= 0.0) return 0.0
 
         val pStar = (p - params.c) / (1.0 - params.c)
-        val numerator = params.a * params.a * pStar * pStar * q
-        val denominator = p
-        return if (denominator > 0.0) numerator / denominator else 0.0
+        return params.a * params.a * pStar * pStar * q / p
     }
 
-    fun estimateTheta(
-        responses: List<Pair<IrtParameters, Boolean>>,
-        priorTheta: Double = 0.0,
-        maxIterations: Int = 25
-    ): Double {
-        if (responses.isEmpty()) return priorTheta
-
-        var theta = priorTheta
-
-        for (iteration in 0 until maxIterations) {
-            var firstDerivative = 0.0
-            var secondDerivative = 0.0
-
-            for ((params, correct) in responses) {
-                val p = probability3PL(theta, params)
-                val q = 1.0 - p
-                val pStar = (p - params.c) / (1.0 - params.c)
-
-                if (p <= params.c || p >= 1.0 || q <= 0.0) continue
-
-                val u = if (correct) 1.0 else 0.0
-                val w = params.a * pStar / p
-
-                firstDerivative += w * (u - p)
-                secondDerivative -= w * w * p * q
-            }
-
-            if (secondDerivative >= 0.0) break
-
-            val delta = firstDerivative / secondDerivative
-            theta -= delta
-            theta = theta.coerceIn(THETA_MIN, THETA_MAX)
-
-            if (kotlin.math.abs(delta) < 0.001) break
+    /**
+     * Adds one scored response to the running log-likelihood grid. O(G).
+     * Returns a new array (state objects are immutable snapshots).
+     */
+    fun absorbResponse(logLikelihood: DoubleArray?, params: IrtParameters, correct: Boolean): DoubleArray {
+        val updated = logLikelihood?.copyOf() ?: DoubleArray(GRID_SIZE)
+        for (i in 0 until GRID_SIZE) {
+            // Clamp so a single surprising answer can never zero-out a region of the scale.
+            val p = probability3PL(GRID[i], params).coerceIn(1e-6, 1.0 - 1e-6)
+            updated[i] += ln(if (correct) p else 1.0 - p)
         }
-
-        return theta
+        return updated
     }
 
-    fun standardError(theta: Double, responses: List<Pair<IrtParameters, Boolean>>): Double {
-        var totalInfo = 0.0
-        for ((params, _) in responses) {
-            totalInfo += fisherInformation(theta, params)
+    /**
+     * Expected-a-posteriori ability estimate and its posterior standard deviation. O(G).
+     *
+     * [DECISION: EAP with a normal prior instead of Newton-Raphson maximum likelihood. The MLE
+     *  does not exist while every answer so far is right (or every answer is wrong), so the old
+     *  code jumped to the top (or bottom) of the scale after the first answer: a kindergartner who
+     *  got question 1 right was next shown 10th-grade material. EAP is always finite and moves in
+     *  sensible steps.]
+     */
+    fun estimate(logLikelihood: DoubleArray?, priorMean: Double): Pair<Double, Double> {
+        val logPost = DoubleArray(GRID_SIZE)
+        var maxLog = Double.NEGATIVE_INFINITY
+        for (i in 0 until GRID_SIZE) {
+            val z = (GRID[i] - priorMean) / PRIOR_SD
+            logPost[i] = -0.5 * z * z + (logLikelihood?.get(i) ?: 0.0)
+            if (logPost[i] > maxLog) maxLog = logPost[i]
         }
-        return if (totalInfo > 0.0) 1.0 / sqrt(totalInfo) else 1.0
+        var sumW = 0.0
+        var sumWT = 0.0
+        var sumWTT = 0.0
+        for (i in 0 until GRID_SIZE) {
+            val w = exp(logPost[i] - maxLog) // subtract the max for numerical stability
+            sumW += w
+            sumWT += w * GRID[i]
+            sumWTT += w * GRID[i] * GRID[i]
+        }
+        val mean = sumWT / sumW
+        val variance = (sumWTT / sumW - mean * mean).coerceAtLeast(0.0)
+        return mean.coerceIn(THETA_MIN, THETA_MAX) to sqrt(variance)
     }
 
+    /**
+     * Chooses the next question: the most informative unasked items near the current ability,
+     * preferring a different question type / Bloom's level than the previous item, then a random
+     * pick among the best few so repeat test-takers do not always see the same sequence.
+     *
+     * @param sortedByDifficulty the subject's questions sorted ascending by b (see QuestionRepository).
+     *
+     * O(log N) binary search + O(W + k) outward walk, instead of scoring all N questions.
+     * Information peaks where b is close to theta, so only the W nearest unasked items are scored.
+     */
     fun selectNextQuestion(
         theta: Double,
-        availableQuestions: List<Question>,
-        askedIds: List<String>,
+        sortedByDifficulty: List<Question>,
+        askedIds: Set<String>,
         lastBloomsLevel: Int? = null,
-        lastQuestionType: QuestionType? = null
+        lastQuestionType: QuestionType? = null,
+        random: Random = Random.Default
     ): Question? {
-        val candidates = availableQuestions.filter { q ->
-            q.id !in askedIds &&
-                (lastBloomsLevel == null || q.bloomsLevel != lastBloomsLevel) &&
-                (lastQuestionType == null || q.type != lastQuestionType)
+        val n = sortedByDifficulty.size
+        if (n == 0) return null
+
+        // Binary search: first index whose b >= theta.
+        var lo = 0
+        var hi = n
+        while (lo < hi) {
+            val mid = (lo + hi) ushr 1
+            if (sortedByDifficulty[mid].irtParameters.b < theta) lo = mid + 1 else hi = mid
         }
 
-        if (candidates.isEmpty()) {
-            return availableQuestions.filter { it.id !in askedIds }.maxByOrNull {
-                fisherInformation(theta, it.irtParameters)
+        // Walk outward from the insertion point, always taking the closer side next.
+        val window = ArrayList<Question>(SELECTION_WINDOW)
+        var left = lo - 1
+        var right = lo
+        while (window.size < SELECTION_WINDOW && (left >= 0 || right < n)) {
+            val takeLeft = when {
+                left < 0 -> false
+                right >= n -> true
+                else -> theta - sortedByDifficulty[left].irtParameters.b <=
+                    sortedByDifficulty[right].irtParameters.b - theta
             }
+            val candidate = if (takeLeft) sortedByDifficulty[left--] else sortedByDifficulty[right++]
+            if (candidate.id !in askedIds) window.add(candidate)
         }
+        if (window.isEmpty()) return null
 
-        return candidates.maxByOrNull { fisherInformation(theta, it.irtParameters) }
+        // Content balancing: avoid the same format and the same thinking level twice in a row
+        // when an alternative exists; relax step by step rather than leaving the ability region.
+        val varied = window.filter {
+            (lastQuestionType == null || it.type != lastQuestionType) &&
+                (lastBloomsLevel == null || it.bloomsLevel != lastBloomsLevel)
+        }.ifEmpty {
+            window.filter { lastQuestionType == null || it.type != lastQuestionType }
+        }.ifEmpty { window }
+
+        val best = varied
+            .sortedByDescending { fisherInformation(theta, it.irtParameters) }
+            .take(RANDOMESQUE_TOP)
+        return best[random.nextInt(best.size)]
     }
 
     fun shouldTerminate(state: AdaptiveState): Boolean {
@@ -107,30 +168,14 @@ object IrtEngine {
         return state.standardError < SE_THRESHOLD
     }
 
-    fun thetaToScaledScore(theta: Double): Int {
-        val normalized = (theta - THETA_MIN) / (THETA_MAX - THETA_MIN)
-        return (normalized * MAX_SCALED_SCORE).toInt().coerceIn(0, MAX_SCALED_SCORE)
-    }
+    fun thetaToScaledScore(theta: Double): Int = GradeScale.thetaToScaledScore(theta)
 
-    fun scaledScoreToGradeEquivalent(scaledScore: Int): Double = when {
-        scaledScore <= 100 -> -0.5
-        scaledScore <= 200 -> 0.0 + (scaledScore - 101) * 0.9 / 99.0
-        scaledScore <= 300 -> 1.0 + (scaledScore - 201) * 0.9 / 99.0
-        scaledScore <= 400 -> 2.0 + (scaledScore - 301) * 0.9 / 99.0
-        scaledScore <= 500 -> 3.0 + (scaledScore - 401) * 0.9 / 99.0
-        scaledScore <= 600 -> 4.0 + (scaledScore - 501) * 0.9 / 99.0
-        scaledScore <= 700 -> 5.0 + (scaledScore - 601) * 0.9 / 99.0
-        scaledScore <= 800 -> 6.0 + (scaledScore - 701) * 0.9 / 99.0
-        scaledScore <= 900 -> 7.0 + (scaledScore - 801) * 0.9 / 99.0
-        scaledScore <= 1000 -> 8.0 + (scaledScore - 901) * 0.9 / 99.0
-        scaledScore <= 1100 -> 9.0 + (scaledScore - 1001) * 0.9 / 99.0
-        scaledScore <= 1200 -> 10.0
-        else -> 11.0
-    }
+    fun scaledScoreToGradeEquivalent(scaledScore: Int): Double = GradeScale.scaledScoreToGe(scaledScore)
 
     fun computeScoreBundle(theta: Double, se: Double, responses: List<StudentResponse>, age: Int): ScoreBundle {
         val scaledScore = thetaToScaledScore(theta)
-        val gradeEquivalent = scaledScoreToGradeEquivalent(scaledScore)
+        // One decimal place: GE 3.4 = "like a typical student four tenths of the way through grade 3".
+        val gradeEquivalent = round(GradeScale.thetaToGe(theta) * 10.0) / 10.0
         val riskTier = RiskTier.fromGradeEquivalentAndAge(gradeEquivalent, age)
         val correctCount = responses.count { it.correct }
 
@@ -145,9 +190,21 @@ object IrtEngine {
         )
     }
 
-    fun computeCtScoreBundle(theta: Double, se: Double, responses: List<StudentResponse>): ScoreBundle {
+    /**
+     * Critical Thinking and IQ are reported relative to same-age peers, so the ability is first
+     * re-centred on the level expected for the student's age and expressed in SD units.
+     * (Previously the raw vertical-scale theta was used, so every young child scored far below
+     * average and every teenager far above, regardless of how they actually reasoned.)
+     *
+     * [ASSUMPTION: within one age group, reasoning ability has an SD of about 2 grade levels
+     *  (PRIOR_SD). REVIEW NEEDED: this is not an empirical norm.]
+     */
+    fun ageRelativeZ(theta: Double, age: Int): Double =
+        (theta - GradeScale.geToTheta(GradeScale.expectedGeForAge(age))) / PRIOR_SD
+
+    fun computeCtScoreBundle(theta: Double, se: Double, responses: List<StudentResponse>, age: Int): ScoreBundle {
         val scaledScore = thetaToScaledScore(theta)
-        val percentile = ScoringHelper.thetaToCtPercentile(theta)
+        val percentile = ScoringHelper.thetaToCtPercentile(ageRelativeZ(theta, age))
         val correctCount = responses.count { it.correct }
 
         return ScoreBundle(
@@ -163,10 +220,12 @@ object IrtEngine {
         )
     }
 
-    fun computeIqScoreBundle(theta: Double, se: Double, responses: List<StudentResponse>): ScoreBundle {
+    fun computeIqScoreBundle(theta: Double, se: Double, responses: List<StudentResponse>, age: Int): ScoreBundle {
         val scaledScore = thetaToScaledScore(theta)
-        val iqScore = ScoringHelper.thetaToIqScore(theta)
-        val (rangeLow, rangeHigh) = ScoringHelper.thetaToIqRange(theta, se)
+        val z = ageRelativeZ(theta, age)
+        val zSe = se / PRIOR_SD
+        val iqScore = ScoringHelper.thetaToIqScore(z)
+        val (rangeLow, rangeHigh) = ScoringHelper.thetaToIqRange(z, zSe)
         val correctCount = responses.count { it.correct }
 
         return ScoreBundle(

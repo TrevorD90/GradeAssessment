@@ -1,0 +1,334 @@
+[
+  {
+    "id": "critical_thinking_g2_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Look at the pattern: 2, 4, 6, 8, ___. What number comes next?",
+    "correctAnswer": "10",
+    "correctAnswers": [
+      "10",
+      "ten"
+    ],
+    "explanation": "Each number is 2 more than the one before it. 8 and 2 more is 10.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g2_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "All the dogs at Hill Farm have spots. Buddy is a dog at Hill Farm. What do we know about Buddy?",
+    "choices": [
+      "Buddy has spots",
+      "Buddy has no spots",
+      "Buddy is a cat",
+      "Buddy is very old"
+    ],
+    "correctAnswer": "Buddy has spots",
+    "explanation": "The rule is that every dog at Hill Farm has spots. Buddy is one of those dogs, so Buddy must have spots.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g2_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Which word does not belong with the others?",
+    "choices": [
+      "Monday",
+      "Friday",
+      "June",
+      "Sunday"
+    ],
+    "correctAnswer": "June",
+    "explanation": "Monday, Friday, and Sunday are days of the week. June is a month. June does not belong.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g2_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "The grass is wet. There are puddles on the road. Dark clouds are in the sky. What most likely happened?",
+    "choices": [
+      "Someone washed a car",
+      "It snowed",
+      "The sun dried everything",
+      "It rained"
+    ],
+    "correctAnswer": "It rained",
+    "explanation": "Wet grass, puddles, and dark clouds are all clues that point to rain. Washing a car would not make dark clouds, and the sun would dry things, not make puddles.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g2_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Put the steps for making toast in order from first to last.",
+    "orderedItems": [
+      "Get a slice of bread",
+      "Put the bread in the toaster",
+      "Wait for the toast to pop up",
+      "Spread butter on the toast"
+    ],
+    "explanation": "You need the bread first. Then it goes in the toaster, you wait for it to pop up, and only then can you butter the toast.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g2_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Four children stand in a line. Use the clues to put them in order from the front of the line to the back. Clues: Ana is first. Ben is right behind Ana. Cal is last.",
+    "orderedItems": [
+      "Ana",
+      "Ben",
+      "Dee",
+      "Cal"
+    ],
+    "explanation": "Ana is first and Ben is right behind her, so Ben is second. Cal is last, so Cal is fourth. The only spot left for Dee is third.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g2_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Hot is to cold as up is to what?",
+    "choices": [
+      "high",
+      "down",
+      "sky",
+      "warm"
+    ],
+    "correctAnswer": "down",
+    "explanation": "Hot and cold are opposites. The opposite of up is down. So up goes with down in the same way.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g2_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "Max forgot to close the gate. Later, the dog was gone from the yard. What is the most likely reason?",
+    "choices": [
+      "The dog went out the open gate",
+      "The dog flew over the fence",
+      "The dog turned into a cat",
+      "The dog was never in the yard"
+    ],
+    "correctAnswer": "The dog went out the open gate",
+    "explanation": "The open gate gave the dog a way out. Dogs cannot fly or turn into cats, and the story says the dog was in the yard before.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g2_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Jay is taller than Kit. Kit is taller than Lu. Mo is shorter than Lu. Who is the shortest?",
+    "choices": [
+      "Jay",
+      "Kit",
+      "Lu",
+      "Mo"
+    ],
+    "correctAnswer": "Mo",
+    "explanation": "From tallest to shortest the clues give: Jay, Kit, Lu. Mo is shorter than Lu, so Mo comes after Lu. Mo is the shortest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g2_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "The B Club is only for children whose names start with B and who are 7 years old. Who can join? Select all that apply.",
+    "choices": [
+      "Ben, age 7",
+      "Bea, age 8",
+      "Sam, age 7",
+      "Bo, age 7"
+    ],
+    "correctAnswers": [
+      "Ben, age 7",
+      "Bo, age 7"
+    ],
+    "explanation": "A child must pass both tests: the name starts with B, and the age is 7. Ben and Bo pass both. Bea is 8, and Sam's name does not start with B.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g2_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "All the birds in the park can fly. Pip lives in the park. Pip cannot fly. What do we know for sure?",
+    "choices": [
+      "Pip is the biggest bird",
+      "Pip is not a bird",
+      "Pip is a bird",
+      "Pip can fly a little"
+    ],
+    "correctAnswer": "Pip is not a bird",
+    "explanation": "Every bird in the park can fly. If Pip were a bird in the park, Pip could fly. But Pip cannot fly, so Pip is not a bird.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g2_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Which sentence tells something you can check to see if it is true?",
+    "choices": [
+      "Pizza is the best food",
+      "Rainy days are boring",
+      "The library has three doors",
+      "Red is prettier than blue"
+    ],
+    "correctAnswer": "The library has three doors",
+    "explanation": "You can go to the library and count the doors. The other sentences tell what someone likes or feels, and people may not agree.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g2_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "All of Mr. Day's cats are black. Nan sees a black cat on her street. Is it one of Mr. Day's cats?",
+    "choices": [
+      "Yes, for sure",
+      "No, for sure",
+      "We cannot tell",
+      "Only if it is night"
+    ],
+    "correctAnswer": "We cannot tell",
+    "explanation": "All of Mr. Day's cats are black, but other people can have black cats too. The cat Nan sees might be his or might not. We cannot tell from the color alone.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g2_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Ali, Bea, and Cam ran a race. Ali did not win. Cam came in last. Who won the race? Type the name.",
+    "correctAnswer": "Bea",
+    "correctAnswers": [
+      "Bea"
+    ],
+    "explanation": "Cam came in last, so Cam did not win. Ali did not win. The only runner left is Bea, so Bea won.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.0
+    }
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "id": "writing_g3_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.3.1.F",
+    "prompt": "Which sentence uses correct subject-verb agreement?",
+    "choices": [
+      "The birds flies south in winter.",
+      "The birds flying south in winter.",
+      "The birds flys south in winter.",
+      "The birds fly south in winter."
+    ],
+    "correctAnswer": "The birds fly south in winter.",
+    "explanation": "'Birds' is a plural subject, so it takes the plural verb 'fly,' not 'flies.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.3.1.B",
+    "prompt": "What is the plural of 'leaf'?",
+    "choices": [
+      "leaves",
+      "leafs",
+      "leafes",
+      "leave's"
+    ],
+    "correctAnswer": "leaves",
+    "explanation": "For many nouns that end in f, change the f to v and add -es: leaf, leaves.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_003",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.3.1.G",
+    "prompt": "Which choice correctly completes the sentence?\nAn elephant is ___ than a horse.",
+    "choices": [
+      "more big",
+      "bigger",
+      "biggest",
+      "more bigger"
+    ],
+    "correctAnswer": "bigger",
+    "explanation": "Use the -er form of a short adjective to compare two things: bigger. Do not use 'more' and -er together.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_004",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.3.2.A",
+    "prompt": "Which book title is capitalized correctly?",
+    "choices": [
+      "The mystery of the lost map",
+      "the Mystery of the Lost Ring",
+      "The Mystery of the Lost Key",
+      "The Secret Of The Lost Coin"
+    ],
+    "correctAnswer": "The Mystery of the Lost Key",
+    "explanation": "In a title, capitalize the first word, the last word, and all important words. Short words such as 'of' and 'the' are not capitalized in the middle of a title.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_005",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.3.1.B",
+    "prompt": "Type the plural of the word 'mouse'.",
+    "correctAnswer": "mice",
+    "correctAnswers": [
+      "mice"
+    ],
+    "explanation": "'Mouse' has an irregular plural: mice.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g3_006",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "W.3.2.C",
+    "prompt": "Arrange these sentences in the correct order to explain how to make a sandwich.",
+    "orderedItems": [
+      "First, get two slices of bread.",
+      "Next, add peanut butter and jelly to the bread.",
+      "Then, put the two slices together.",
+      "Finally, enjoy your sandwich!"
+    ],
+    "explanation": "Linking words such as first, next, then, and finally show the order of the steps.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g3_007",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.3.1.D",
+    "prompt": "Fill in each blank with the past tense of the verb in parentheses.\nYesterday, Maria ___ (go) to the library. She ___ (choose) three books and ___ (bring) them home.",
+    "blanks": [
+      "went",
+      "chose",
+      "brought"
+    ],
+    "explanation": "These are irregular verbs: the past tense of 'go' is 'went,' of 'choose' is 'chose,' and of 'bring' is 'brought.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g3_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.3.2.C",
+    "prompt": "Which sentence is punctuated correctly?",
+    "choices": [
+      "Mom said \"Dinner is ready\".",
+      "\"Mom said, Dinner is ready.\"",
+      "Mom said, Dinner is ready.",
+      "Mom said, \"Dinner is ready.\""
+    ],
+    "correctAnswer": "Mom said, \"Dinner is ready.\"",
+    "explanation": "Put a comma after the speaker tag, put quotation marks around the speaker's exact words, and keep the end mark inside the quotation marks.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_009",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.3.2.B",
+    "prompt": "Which sentence uses commas correctly in the address?",
+    "choices": [
+      "She lives at 42 Oak Street, Dallas, Texas.",
+      "She lives at 42, Oak Street Dallas Texas.",
+      "She lives at 42 Oak Street Dallas, Texas.",
+      "She lives at 42 Oak, Street, Dallas Texas."
+    ],
+    "correctAnswer": "She lives at 42 Oak Street, Dallas, Texas.",
+    "explanation": "In an address, use commas to separate the street, the city, and the state. No comma goes between the house number and the street name.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_010",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.3.1.I",
+    "prompt": "Which sentence is a compound sentence?",
+    "choices": [
+      "The dog barked loudly at the mailman.",
+      "I wanted to go outside, but it was raining.",
+      "Running through the park, the boy tripped.",
+      "After dinner, we played a board game."
+    ],
+    "correctAnswer": "I wanted to go outside, but it was raining.",
+    "explanation": "A compound sentence joins two complete thoughts with a comma and a coordinating conjunction such as and, but, or so.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_011",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.3.2.D",
+    "prompt": "Three dogs each have a bowl. Which phrase correctly shows that the bowls belong to the dogs?",
+    "choices": [
+      "the dog's bowls",
+      "the dogs bowls",
+      "the dogs' bowls",
+      "the dogs's bowls"
+    ],
+    "correctAnswer": "the dogs' bowls",
+    "explanation": "To make a plural noun that ends in s possessive, add only an apostrophe: dogs'.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_012",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.3.1.A",
+    "prompt": "In the sentence 'The quick rabbit hopped away,' what kind of word is 'quick'?",
+    "choices": [
+      "noun",
+      "verb",
+      "adverb",
+      "adjective"
+    ],
+    "correctAnswer": "adjective",
+    "explanation": "An adjective describes a noun. 'Quick' describes the rabbit.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_013",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.3.1.C",
+    "prompt": "Which words are abstract nouns (ideas or feelings you cannot see or touch)? Select all that apply.",
+    "choices": [
+      "courage",
+      "pencil",
+      "friendship",
+      "mountain",
+      "honesty"
+    ],
+    "correctAnswers": [
+      "courage",
+      "friendship",
+      "honesty"
+    ],
+    "explanation": "Abstract nouns name ideas, feelings, or qualities. Concrete nouns such as 'pencil' and 'mountain' name things you can see or touch.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g3_014",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.3.3.A",
+    "prompt": "Which word best replaces 'said' to show that Leo spoke very quietly?\nLeo said, \"Don't wake the baby.\"",
+    "choices": [
+      "whispered",
+      "shouted",
+      "laughed",
+      "yelled"
+    ],
+    "correctAnswer": "whispered",
+    "explanation": "Writers choose words for effect. 'Whispered' shows that Leo spoke quietly.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_015",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.3.2.A",
+    "prompt": "Which sentence is the best topic sentence for this paragraph?",
+    "passage": "[Topic sentence missing] Its fur is thick and white, which keeps it warm on the ice. A layer of fat under its skin holds in heat. Even the bottoms of its paws are covered with fur.",
+    "choices": [
+      "Polar bears eat seals.",
+      "A polar bear's body is built for cold weather.",
+      "Polar bears are fun to watch at the zoo.",
+      "Bears are my favorite animals."
+    ],
+    "correctAnswer": "A polar bear's body is built for cold weather.",
+    "explanation": "A topic sentence states the main idea of the paragraph. Every detail here tells how the bear's body keeps it warm.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_016",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "W.3.1.C",
+    "prompt": "Which word or phrase best fills the blank?\nDogs make great pets. ___, they can learn tricks and keep you company.",
+    "choices": [
+      "But",
+      "Because",
+      "For example",
+      "Last"
+    ],
+    "correctAnswer": "For example",
+    "explanation": "Linking phrases connect an opinion to its reasons. 'For example' introduces details that support the opinion.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_017",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.3.2",
+    "prompt": "Arrange these sentences to make a well-organized paragraph.",
+    "orderedItems": [
+      "Butterflies go through four stages of life.",
+      "First, a butterfly begins as a tiny egg.",
+      "Then, a caterpillar hatches from the egg and eats leaves.",
+      "Later, the caterpillar forms a chrysalis around itself.",
+      "Finally, an adult butterfly comes out of the chrysalis."
+    ],
+    "explanation": "An informative paragraph begins with a topic sentence and then gives details in a logical order, using linking words to connect them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g3_018",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.3.1.D",
+    "prompt": "Which sentence is written correctly?",
+    "choices": [
+      "Yesterday my two brothers runned faster than I did.",
+      "Yesterday my two brother ran more faster than I did.",
+      "Yesterday my two brothers run fastest than I did.",
+      "Yesterday my two brothers ran faster than I did."
+    ],
+    "correctAnswer": "Yesterday my two brothers ran faster than I did.",
+    "explanation": "Use the irregular past tense 'ran' for an action that happened yesterday, the plural 'brothers' with 'two,' and the -er form 'faster' to compare two.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g3_019",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "L.3.1.H",
+    "prompt": "Which word best completes the sentence?\n___ it started to rain, we ran inside.",
+    "choices": [
+      "When",
+      "But",
+      "And",
+      "Or"
+    ],
+    "correctAnswer": "When",
+    "explanation": "A subordinating conjunction such as 'when' begins a dependent clause and connects it to the rest of a complex sentence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  }
+]

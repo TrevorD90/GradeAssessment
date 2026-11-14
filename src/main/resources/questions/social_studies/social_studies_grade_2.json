@@ -1,0 +1,362 @@
+[
+  {
+    "id": "social_studies_g2_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Eco.6.K-2",
+    "prompt": "What do we call the money a person earns from a job?",
+    "choices": [
+      "A tax",
+      "A price",
+      "Income",
+      "A loan"
+    ],
+    "correctAnswer": "Income",
+    "explanation": "Income is the money people earn, usually by working at a job.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.6.K-2",
+    "prompt": "Which landform is a very high piece of land with steep sides?",
+    "choices": [
+      "Valley",
+      "Plain",
+      "Island",
+      "Mountain"
+    ],
+    "correctAnswer": "Mountain",
+    "explanation": "A mountain is land that rises very high above the land around it. A valley is low land, a plain is flat land, and an island is land surrounded by water.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.2.K-2",
+    "prompt": "The part of a map that tells what the symbols mean is called the map ___.",
+    "correctAnswer": "key",
+    "correctAnswers": [
+      "key",
+      "legend"
+    ],
+    "explanation": "A map key (also called a legend) explains what each symbol on the map stands for.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g2_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.1.K-2",
+    "prompt": "Who is the leader of a city or town?",
+    "choices": [
+      "The mayor",
+      "The governor",
+      "The President",
+      "The principal"
+    ],
+    "correctAnswer": "The mayor",
+    "explanation": "A mayor leads a city or town. A governor leads a state, and the President leads the country.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.6.K-2",
+    "prompt": "Which of these is a body of water?",
+    "choices": [
+      "Hill",
+      "River",
+      "Desert",
+      "Plain"
+    ],
+    "correctAnswer": "River",
+    "explanation": "A river is a body of flowing water. Hills, deserts and plains are landforms.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "CLOZE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.3.K-2",
+    "prompt": "Use the word bank: producer, consumer. A farmer who grows corn to sell is a ___. A family that buys the corn is a ___.",
+    "blanks": [
+      "producer",
+      "consumer"
+    ],
+    "explanation": "Producers make or grow goods or provide services. Consumers buy and use goods and services.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g2_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.5.K-2",
+    "prompt": "What is one job of a local government?",
+    "choices": [
+      "Deciding what every family must eat for dinner each night",
+      "Choosing which job each person in town will have",
+      "Providing services such as police and fire protection",
+      "Making movies to show in theaters"
+    ],
+    "correctAnswer": "Providing services such as police and fire protection",
+    "explanation": "Local governments provide services for the community, such as police and fire protection, parks and street repair.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_008",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.8.K-2",
+    "prompt": "A community with open land, farms, and few people is called ___.",
+    "choices": [
+      "urban",
+      "suburban",
+      "crowded",
+      "rural"
+    ],
+    "correctAnswer": "rural",
+    "explanation": "A rural community has lots of open land and few people. An urban community is a city, and a suburban community is near a city.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_009",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "Put these ways of traveling in order from the oldest to the newest.",
+    "orderedItems": [
+      "Walking on foot",
+      "Horse-drawn wagon",
+      "Steam train",
+      "Jet airplane"
+    ],
+    "explanation": "People first traveled on foot, later used wagons pulled by horses, then steam trains in the 1800s, and jet airplanes in the 1900s.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g2_010",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Eco.1.K-2",
+    "prompt": "A store has only 3 kites, but 10 children want to buy one. This is an example of ___.",
+    "choices": [
+      "scarcity",
+      "saving",
+      "income",
+      "trade"
+    ],
+    "correctAnswer": "scarcity",
+    "explanation": "Scarcity means there is not enough of something for everyone who wants it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_011",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.3.K-2",
+    "prompt": "Which holiday honors a leader who worked for equal rights for all Americans?",
+    "choices": [
+      "Thanksgiving",
+      "Martin Luther King Jr. Day",
+      "Independence Day",
+      "Labor Day"
+    ],
+    "correctAnswer": "Martin Luther King Jr. Day",
+    "explanation": "Martin Luther King Jr. Day honors Dr. King, a leader of the civil rights movement who worked peacefully for equal rights.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_012",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Geo.2.K-2",
+    "prompt": "Which street would you go to if you wanted to borrow a book?",
+    "passage": "A map key shows three symbols. A tree stands for a park. A book stands for a library. A cross stands for a hospital. On the map, a tree is next to Main Street, a book is next to Oak Street, and a cross is next to Elm Street.",
+    "choices": [
+      "Main Street",
+      "Elm Street",
+      "Oak Street",
+      "Park Street"
+    ],
+    "correctAnswer": "Oak Street",
+    "explanation": "The key says a book symbol stands for a library, and the book symbol is next to Oak Street.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_013",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Eco.2.K-2",
+    "prompt": "Lena has $5. She can buy a puzzle or a kite, but not both. She buys the puzzle. What did Lena give up by making her choice?",
+    "choices": [
+      "The puzzle",
+      "Her job",
+      "Her map",
+      "The kite"
+    ],
+    "correctAnswer": "The kite",
+    "explanation": "When you choose one thing, you give up the other thing you could have had. Lena gave up the kite.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g2_014",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Eco.12.K-2",
+    "prompt": "Which services are usually paid for by a community's government? Select all that apply.",
+    "choices": [
+      "Public schools",
+      "Toy stores",
+      "Fire department",
+      "Pizza restaurants",
+      "Public library"
+    ],
+    "correctAnswers": [
+      "Public schools",
+      "Fire department",
+      "Public library"
+    ],
+    "explanation": "Governments use tax money to provide public schools, fire departments and public libraries. Toy stores and restaurants are private businesses.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g2_015",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Geo.9.K-2",
+    "prompt": "A town is right next to the ocean. Which job would many people there most likely have?",
+    "choices": [
+      "Fishing",
+      "Mountain guide",
+      "Desert tour guide",
+      "Snowplow driver"
+    ],
+    "correctAnswer": "Fishing",
+    "explanation": "People often use the natural resources near them to earn a living. A town by the ocean is a good place for fishing.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  }
+]

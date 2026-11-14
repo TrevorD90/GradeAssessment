@@ -1,0 +1,412 @@
+[
+  {
+    "id": "world_history_g9_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.3.1",
+    "prompt": "In which country did the Industrial Revolution begin in the mid-1700s?",
+    "choices": [
+      "Russia",
+      "Great Britain",
+      "Japan",
+      "Spain"
+    ],
+    "correctAnswer": "Great Britain",
+    "explanation": "The Industrial Revolution began in Great Britain, first in the textile industry, before spreading to continental Europe, the United States and Japan.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_002",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.3.2",
+    "prompt": "James Watt is best known for greatly improving which invention?",
+    "choices": [
+      "The steam engine",
+      "The telegraph",
+      "The cotton gin",
+      "The light bulb"
+    ],
+    "correctAnswer": "The steam engine",
+    "explanation": "Watt's improved steam engine, patented in 1769, became the main power source for factories, mines, railways and steamships.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_003",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.3.6",
+    "prompt": "The Communist Manifesto (1848) was written by Friedrich Engels and Karl ___.",
+    "correctAnswer": "Marx",
+    "explanation": "Karl Marx and Friedrich Engels published The Communist Manifesto in 1848, arguing that history is driven by class struggle.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.0
+    },
+    "correctAnswers": [
+      "Marx",
+      "Karl Marx"
+    ]
+  },
+  {
+    "id": "world_history_g9_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.5.1",
+    "prompt": "The assassination of which person in Sarajevo in June 1914 set off the crisis that led to World War I?",
+    "choices": [
+      "Kaiser Wilhelm II",
+      "Tsar Nicholas II",
+      "Archduke Franz Ferdinand",
+      "Otto von Bismarck"
+    ],
+    "correctAnswer": "Archduke Franz Ferdinand",
+    "explanation": "Archduke Franz Ferdinand, heir to the throne of Austria-Hungary, was assassinated in Sarajevo on June 28, 1914. Within weeks the major European powers were at war.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.4.1",
+    "prompt": "What is the term for a policy in which a stronger nation takes political and economic control of other lands?",
+    "choices": [
+      "Isolationism",
+      "Socialism",
+      "Feudalism",
+      "Imperialism"
+    ],
+    "correctAnswer": "Imperialism",
+    "explanation": "Imperialism is the extension of a nation's power over other territories. In the late 1800s industrial powers built large overseas empires.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CA.HSS.10.3.3",
+    "prompt": "Which of the following were direct consequences of the Industrial Revolution in nineteenth-century Europe? Select all that apply.",
+    "choices": [
+      "Rapid urbanization as workers moved to factory cities",
+      "Growth of a new industrial middle class",
+      "Decline of colonial empires worldwide",
+      "Harsh working conditions, including child labor",
+      "Immediate establishment of universal suffrage"
+    ],
+    "correctAnswers": [
+      "Rapid urbanization as workers moved to factory cities",
+      "Growth of a new industrial middle class",
+      "Harsh working conditions, including child labor"
+    ],
+    "explanation": "Industrialization brought rapid growth of cities, a larger middle class and harsh factory conditions including child labor. Colonial empires expanded in this period, and universal suffrage came much later.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g9_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.10.3.1",
+    "prompt": "Which was a key reason Great Britain was the first country to industrialize?",
+    "choices": [
+      "A lack of navigable rivers and good harbors for shipping",
+      "A ban on overseas trade",
+      "Plentiful coal and iron, investment capital and many workers",
+      "The absence of any banking system to lend money to businesses"
+    ],
+    "correctAnswer": "Plentiful coal and iron, investment capital and many workers",
+    "explanation": "Britain had coal and iron, navigable rivers and ports, capital and banks, overseas markets and a growing labor force, all of which favored early industrialization.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_008",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "TEKS.WH.8B",
+    "prompt": "Why did industrialized nations seek colonies in the late 1800s?",
+    "choices": [
+      "To reduce their own factory production and protect home workers",
+      "To obtain raw materials and new markets for manufactured goods",
+      "To end international trade and rely only on goods made at home",
+      "To give up their navies"
+    ],
+    "correctAnswer": "To obtain raw materials and new markets for manufactured goods",
+    "explanation": "Industrial economies wanted raw materials such as rubber, cotton and minerals and markets for their goods. National rivalry and beliefs in cultural superiority were also motives.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_009",
+    "subject": "WORLD_HISTORY",
+    "type": "CLOZE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "NY.GH.10.4",
+    "prompt": "Use the word bank: Meiji, Opium, Suez. Britain fought the ___ Wars to force China to open its ports to trade. The ___ Canal, opened in 1869, shortened the sea route between Europe and Asia. In Japan, the ___ Restoration of 1868 began a period of rapid modernization.",
+    "blanks": [
+      "Opium",
+      "Suez",
+      "Meiji"
+    ],
+    "explanation": "The Opium Wars (1839-1842 and 1856-1860) opened China to foreign trade, the Suez Canal opened in 1869 and the Meiji Restoration began Japan's rapid modernization in 1868.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g9_010",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "NY.GH.10.2",
+    "prompt": "Otto von Bismarck is most closely associated with which development?",
+    "choices": [
+      "The French Revolution",
+      "The independence of India",
+      "The Russian Revolution",
+      "The unification of Germany in 1871"
+    ],
+    "correctAnswer": "The unification of Germany in 1871",
+    "explanation": "As prime minister of Prussia, Bismarck used diplomacy and war to unite the German states into the German Empire, proclaimed in 1871.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_011",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CA.HSS.10.3.6",
+    "prompt": "Adam Smith and Karl Marx disagreed most sharply about which question?",
+    "choices": [
+      "Whether private owners or society should control the means of production",
+      "Whether the Earth orbits the Sun",
+      "Whether Latin or local languages should be used in church services in Europe",
+      "Whether colonies should be required to grow cotton for British textile mills"
+    ],
+    "correctAnswer": "Whether private owners or society should control the means of production",
+    "explanation": "Smith argued that private ownership and free markets create wealth, while Marx argued that workers should collectively own the means of production.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_012",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.10.5.3",
+    "prompt": "Which event in 1917 led Russia to withdraw from World War I?",
+    "choices": [
+      "The Meiji Restoration",
+      "The Bolshevik Revolution",
+      "The Congress of Vienna",
+      "The Boxer Rebellion"
+    ],
+    "correctAnswer": "The Bolshevik Revolution",
+    "explanation": "After the Bolsheviks seized power in late 1917, the new government made peace with Germany in the Treaty of Brest-Litovsk in March 1918.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_013",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CA.HSS.10.4.3",
+    "prompt": "Based on the passage, which factor best explains the lasting political tensions experienced by many African nations after independence?",
+    "passage": "In the late nineteenth century, European powers divided nearly the entire African continent among themselves with little regard for existing ethnic, linguistic or political boundaries. At the Berlin Conference of 1884-1885, representatives of fourteen countries, most of them European, set rules for claiming territory; no African rulers were present. By 1914, only Ethiopia and Liberia remained independent. The borders drawn in this period grouped rival communities together and divided others, creating tensions that persisted long after independence was won in the mid-twentieth century.",
+    "choices": [
+      "African nations lacked natural resources",
+      "Europeans left before finishing the railways they had begun to build",
+      "Colonial borders ignored existing ethnic and political boundaries",
+      "Ethiopia and Liberia took control of their neighbors after 1914"
+    ],
+    "correctAnswer": "Colonial borders ignored existing ethnic and political boundaries",
+    "explanation": "The passage links borders drawn without regard to existing communities to tensions that continued long after independence. The passage does not discuss natural resources or railways, and it says Ethiopia and Liberia stayed independent, not that they took over their neighbors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_014",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CA.HSS.10.5.1",
+    "prompt": "How did the alliance system in Europe before 1914 help turn a regional conflict between Austria-Hungary and Serbia into a general war?",
+    "choices": [
+      "Alliances required member nations to remain neutral in any war between others",
+      "Commitments between allies pulled one country after another into the war",
+      "The alliance system kept diplomats from meeting",
+      "Alliances obliged every European country, including Germany, to defend Serbia"
+    ],
+    "correctAnswer": "Commitments between allies pulled one country after another into the war",
+    "explanation": "When Austria-Hungary declared war on Serbia, Russia mobilized in Serbia's support; Germany, allied with Austria-Hungary, declared war on Russia and on Russia's ally France; and Britain entered after Germany invaded neutral Belgium.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_015",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.1.9-12",
+    "prompt": "Arrange these events in chronological order from earliest to latest.",
+    "orderedItems": [
+      "James Watt patents his improved steam engine",
+      "The Communist Manifesto is published",
+      "The Meiji Restoration begins in Japan",
+      "The Berlin Conference meets",
+      "World War I begins"
+    ],
+    "explanation": "Watt's patent dates from 1769, The Communist Manifesto from 1848, the Meiji Restoration from 1868, the Berlin Conference from 1884-1885 and the outbreak of World War I from 1914.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g9_016",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "NY.GH.10.4",
+    "prompt": "How did Japan's response to Western pressure in the mid-1800s differ from that of Qing China?",
+    "choices": [
+      "Japan closed itself off until 1945, while China built an empire in Europe",
+      "Both became colonies of Britain",
+      "Japan refused all Western technology and ideas, while China adopted them completely and quickly",
+      "Japan rapidly industrialized and modernized its military; Qing reforms were more limited"
+    ],
+    "correctAnswer": "Japan rapidly industrialized and modernized its military; Qing reforms were more limited",
+    "explanation": "Meiji leaders rapidly built modern industry, schools and armed forces, and Japan became an imperial power. Qing reform efforts were more limited, and China was forced to accept unequal treaties and foreign spheres of influence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g9_017",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.His.11.9-12",
+    "prompt": "A historian studying British textile mills in the 1830s has (1) testimony given by child workers to a parliamentary committee and (2) a pamphlet by a mill owner defending factory work. What is the best way to use these sources?",
+    "choices": [
+      "Compare them, taking into account each author's purpose and point of view",
+      "Use only the mill owner's pamphlet, because owners knew their own mills best",
+      "Reject both, because every source is biased and so neither can tell us anything",
+      "Use whichever source is longer"
+    ],
+    "correctAnswer": "Compare them, taking into account each author's purpose and point of view",
+    "explanation": "Both sources are useful evidence, but each was created for a purpose. Historians compare (corroborate) sources and consider who made them, for whom and why.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  }
+]

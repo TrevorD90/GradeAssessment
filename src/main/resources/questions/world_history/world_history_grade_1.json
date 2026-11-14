@@ -1,0 +1,375 @@
+[
+  {
+    "id": "world_history_g1_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.1.4.2",
+    "prompt": "Which one did people long ago use to cross the ocean?",
+    "choices": [
+      "Sailing ships",
+      "Airplanes",
+      "Rockets"
+    ],
+    "correctAnswer": "Sailing ships",
+    "explanation": "Long ago, people crossed the ocean on sailing ships pushed by the wind. Airplanes and rockets were invented much later.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_002",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.1.2",
+    "prompt": "A ___ is a drawing that shows where places are. (Hint: it rhymes with \"cap\".)",
+    "correctAnswer": "map",
+    "explanation": "A map is a drawing that shows where places are, such as land, water, roads and cities.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.0
+    },
+    "correctAnswers": [
+      "map",
+      "a map"
+    ]
+  },
+  {
+    "id": "world_history_g1_003",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.1.K-2",
+    "prompt": "A timeline shows events in what kind of order?",
+    "choices": [
+      "Size order",
+      "Color order",
+      "Time order"
+    ],
+    "correctAnswer": "Time order",
+    "explanation": "A timeline shows events in time order, from what happened first to what happened last.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.9.K-2",
+    "prompt": "Who can tell you a true story about life long ago?",
+    "choices": [
+      "A baby",
+      "A grandparent",
+      "A puppy"
+    ],
+    "correctAnswer": "A grandparent",
+    "explanation": "Grandparents and other older people remember what life was like long ago. Their stories help us learn about the past.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.1.4.1",
+    "prompt": "Long ago, many children wrote at school with chalk on a small board. What was the board called?",
+    "choices": [
+      "A slate",
+      "A laptop",
+      "A printer"
+    ],
+    "correctAnswer": "A slate",
+    "explanation": "A slate was a small board that children wrote on with chalk. Paper was costly, so a slate could be wiped clean and used again.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "People long ago needed some of the same things we need today. Which things do all people need to live? Select all that apply.",
+    "choices": [
+      "Food",
+      "Television",
+      "Water",
+      "Shelter",
+      "Video games"
+    ],
+    "correctAnswers": [
+      "Food",
+      "Water",
+      "Shelter"
+    ],
+    "explanation": "People in every time and place need food, water and shelter. Television and video games are newer inventions that people can live without.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g1_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "Long ago, how did most families get their food?",
+    "choices": [
+      "They ordered it on a phone",
+      "They grew, hunted or gathered it",
+      "They bought it frozen"
+    ],
+    "correctAnswer": "They grew, hunted or gathered it",
+    "explanation": "Long ago most families grew crops, raised animals, hunted or gathered wild plants to get food.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_008",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.1.K-2",
+    "prompt": "On a timeline of Sam's life, which event comes first?",
+    "choices": [
+      "Sam starts first grade",
+      "Sam loses a tooth",
+      "Sam is born"
+    ],
+    "correctAnswer": "Sam is born",
+    "explanation": "A timeline of someone's life starts when the person is born. Everything else comes after.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_009",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "According to the passage, which animals did people ride to travel?",
+    "passage": "Long ago, people did not have cars or buses. They walked from place to place. Some people rode on horses or camels. They also used boats to cross rivers.",
+    "choices": [
+      "Dogs",
+      "Cats",
+      "Horses",
+      "Birds"
+    ],
+    "correctAnswer": "Horses",
+    "explanation": "The passage says that some people rode on horses or camels to travel from place to place.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g1_010",
+    "subject": "WORLD_HISTORY",
+    "type": "CLOZE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.1.4",
+    "prompt": "Use the words: past, present. Things happening now are in the ___. Things that happened long ago are in the ___.",
+    "blanks": [
+      "present",
+      "past"
+    ],
+    "explanation": "The present is now. The past is the time that has already happened.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g1_011",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.1.4.3",
+    "prompt": "Families in many countries celebrate the New Year in their own ways. What does this show?",
+    "choices": [
+      "People in many places have special traditions",
+      "Only one country in the whole world has holidays",
+      "Holidays are only for children, not grown-ups"
+    ],
+    "correctAnswer": "People in many places have special traditions",
+    "explanation": "A tradition is something people do again and again over many years. People all around the world have their own traditions and celebrations.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_012",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.K-2",
+    "prompt": "Long ago in Egypt, people built huge stone buildings with a square bottom and a pointed top. What are they called?",
+    "choices": [
+      "Igloos",
+      "Pyramids",
+      "Skyscrapers"
+    ],
+    "correctAnswer": "Pyramids",
+    "explanation": "The ancient Egyptians built pyramids out of stone thousands of years ago. Some are still standing today.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_013",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "CA.HSS.1.4.2",
+    "prompt": "Put these ways to travel in order from the oldest to the newest.",
+    "orderedItems": [
+      "Walking",
+      "Horse and wagon",
+      "Car",
+      "Rocket ship"
+    ],
+    "explanation": "People have always walked. Later they used horses and wagons. Cars were invented more than 100 years ago, and rocket ships that carry people into space came after that.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g1_014",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "What is one way school long ago was DIFFERENT from school today?",
+    "choices": [
+      "Children learned to read",
+      "Children had teachers",
+      "Children had no computers"
+    ],
+    "correctAnswer": "Children had no computers",
+    "explanation": "Children long ago also had teachers and learned to read. But there were no computers, so that is a way school was different.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_015",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.14.K-2",
+    "prompt": "Why did it take a long time to travel far away long ago?",
+    "choices": [
+      "There were no cars, trains or airplanes",
+      "The roads were all too short to go far",
+      "People long ago did not ever want to go anywhere"
+    ],
+    "correctAnswer": "There were no cars, trains or airplanes",
+    "explanation": "Long ago people had to walk, ride animals or sail. Without cars, trains or airplanes, long trips took days, weeks or even months.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_g1_016",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.10.K-2",
+    "prompt": "Lena wants to know what her town looked like 100 years ago. What should she look at?",
+    "choices": [
+      "A cartoon about space",
+      "Old photographs of the town",
+      "A menu for lunch today"
+    ],
+    "correctAnswer": "Old photographs of the town",
+    "explanation": "Old photographs are a source from the past. They can show how streets, buildings and people in a town looked long ago.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  }
+]

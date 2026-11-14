@@ -1,0 +1,420 @@
+[
+  {
+    "id": "reading_gk_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.K.1",
+    "prompt": "What does Sam have?",
+    "passage": "Sam has a cat. The cat is tan. The cat sat on a mat.",
+    "choices": [
+      "a cat",
+      "a dog",
+      "a pig"
+    ],
+    "correctAnswer": "a cat",
+    "explanation": "The first sentence says, 'Sam has a cat.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.K.5a",
+    "prompt": "Which one is an animal?",
+    "choices": [
+      "bed",
+      "pig",
+      "cup"
+    ],
+    "correctAnswer": "pig",
+    "explanation": "A pig is an animal. A bed and a cup are things, not animals.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.K.1",
+    "prompt": "Where is the pig?",
+    "passage": "A pig is in the mud. The pig is big. It has fun in the mud.",
+    "choices": [
+      "in a bed",
+      "on a bus",
+      "in the mud"
+    ],
+    "correctAnswer": "in the mud",
+    "explanation": "The story says, 'A pig is in the mud.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.K.5b",
+    "prompt": "Which word is the opposite of hot?",
+    "choices": [
+      "big",
+      "wet",
+      "cold"
+    ],
+    "correctAnswer": "cold",
+    "explanation": "Hot and cold are opposites.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.K.1",
+    "prompt": "Who sits on the bus?",
+    "passage": "A bus is big. It can go fast. Kids sit on the bus.",
+    "choices": [
+      "kids",
+      "pigs",
+      "cats"
+    ],
+    "correctAnswer": "kids",
+    "explanation": "The text says, 'Kids sit on the bus.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.K.1",
+    "prompt": "What is hot?",
+    "passage": "The sun is hot. The sun is up in the day. It is big.",
+    "choices": [
+      "the mud",
+      "the sun",
+      "the mat"
+    ],
+    "correctAnswer": "the sun",
+    "explanation": "The text says, 'The sun is hot.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RL.K.1",
+    "prompt": "Where did the cat sit?",
+    "passage": "Sam has a cat. The cat is tan. The cat sat on a mat.",
+    "choices": [
+      "on a bed",
+      "on a cap",
+      "on a mat"
+    ],
+    "correctAnswer": "on a mat",
+    "explanation": "The last sentence says, 'The cat sat on a mat.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.K.4",
+    "prompt": "Word bank: sun, bed, hat. Type the word that fits. I nap in my ___.",
+    "blanks": [
+      "bed"
+    ],
+    "explanation": "You nap in a bed. You do not nap in a sun or in a hat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_gk_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RL.K.3",
+    "prompt": "What did the dog get?",
+    "passage": "Dan has a red cap. His dog got the cap. The dog ran. Dan ran to get it.",
+    "choices": [
+      "the mat",
+      "the cap",
+      "the bus"
+    ],
+    "correctAnswer": "the cap",
+    "explanation": "The story says, 'His dog got the cap.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.K.5a",
+    "prompt": "Which one can you eat?",
+    "choices": [
+      "a bun",
+      "a bed",
+      "a bus"
+    ],
+    "correctAnswer": "a bun",
+    "explanation": "A bun is food. You cannot eat a bed or a bus.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.K.2",
+    "prompt": "What is this text about?",
+    "passage": "A bus is big. It can go fast. Kids sit on the bus.",
+    "choices": [
+      "a cat",
+      "a hat",
+      "a bus"
+    ],
+    "correctAnswer": "a bus",
+    "explanation": "Every sentence tells about a bus: it is big, it can go fast, and kids sit on it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "RL.K.2",
+    "prompt": "Read: Dan got up. Then Dan ran. Then Dan sat. Put what Dan did in order.",
+    "orderedItems": [
+      "Dan got up.",
+      "Dan ran.",
+      "Dan sat."
+    ],
+    "explanation": "The sentences tell the order: first Dan got up, then he ran, then he sat. (Retelling events in order from a short text the child can see is an early, EASY version of this skill.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_gk_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.K.5a",
+    "prompt": "Which ones are animals? Select all that apply.",
+    "choices": [
+      "cat",
+      "cup",
+      "pig",
+      "bed"
+    ],
+    "correctAnswers": [
+      "cat",
+      "pig"
+    ],
+    "explanation": "A cat and a pig are animals. A cup and a bed are things.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_gk_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RL.K.1",
+    "prompt": "Why did Dan run?",
+    "passage": "Dan has a red cap. His dog got the cap. The dog ran. Dan ran to get it.",
+    "choices": [
+      "to nap",
+      "to get on a bus",
+      "to get his cap"
+    ],
+    "correctAnswer": "to get his cap",
+    "explanation": "The dog ran off with the cap, and the story says, 'Dan ran to get it.' 'It' is the cap.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RL.K.3",
+    "prompt": "How does the pig feel in the mud?",
+    "passage": "A pig is in the mud. The pig is big. It has fun in the mud.",
+    "choices": [
+      "glad",
+      "sad",
+      "mad"
+    ],
+    "correctAnswer": "glad",
+    "explanation": "The story says the pig 'has fun in the mud,' so the pig is glad.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.K.1",
+    "prompt": "Read: The pup ran outside. Now the pup is wet. Where did the pup run?",
+    "choices": [
+      "in the sun",
+      "in the rain",
+      "in the bed"
+    ],
+    "correctAnswer": "in the rain",
+    "explanation": "Rain makes a pup wet. The sun and a bed would not make the pup wet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "reading_gk_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RI.K.1",
+    "prompt": "Pam sat in the sun. Use the text. How did Pam feel?",
+    "passage": "The sun is hot. The sun is up in the day. It is big.",
+    "choices": [
+      "hot",
+      "wet",
+      "cold"
+    ],
+    "correctAnswer": "hot",
+    "explanation": "The text says, 'The sun is hot,' so sitting in the sun made Pam hot.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  }
+]

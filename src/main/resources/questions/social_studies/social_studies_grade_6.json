@@ -1,0 +1,386 @@
+[
+  {
+    "id": "social_studies_g6_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.2.6-8",
+    "prompt": "Lines of latitude measure distance north and south of the equator. What do lines of longitude measure?",
+    "choices": [
+      "Distance north and south of the equator",
+      "Elevation above sea level",
+      "Distance east and west of the Prime Meridian",
+      "Distance between any two cities measured in miles"
+    ],
+    "correctAnswer": "Distance east and west of the Prime Meridian",
+    "explanation": "Lines of longitude (meridians) measure distance in degrees east and west of the Prime Meridian, which passes through Greenwich, England.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.3.6-8",
+    "prompt": "Which continent has the largest population?",
+    "choices": [
+      "Africa",
+      "Europe",
+      "South America",
+      "Asia"
+    ],
+    "correctAnswer": "Asia",
+    "explanation": "Asia is home to more than half of the world's people.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Eco.1.6-8",
+    "prompt": "In which type of economic system does the government make most decisions about what to produce?",
+    "choices": [
+      "Command economy",
+      "Market economy",
+      "Traditional economy",
+      "Free enterprise economy"
+    ],
+    "correctAnswer": "Command economy",
+    "explanation": "In a command economy, the government decides what is produced, how, and for whom. In a market (free enterprise) economy, buyers and sellers decide; in a traditional economy, custom decides.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.2.6-8",
+    "prompt": "The line of 0 degrees longitude that passes through Greenwich, England, is called the ___ Meridian.",
+    "correctAnswer": "Prime",
+    "correctAnswers": [
+      "Prime",
+      "Prime Meridian"
+    ],
+    "explanation": "The Prime Meridian (0 degrees longitude) divides the Eastern and Western Hemispheres.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g6_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.6.6-8",
+    "prompt": "Which of these is an example of culture?",
+    "choices": [
+      "The amount of rain a place gets",
+      "The language and traditions people share",
+      "The height of a mountain range",
+      "The minerals found underground"
+    ],
+    "correctAnswer": "The language and traditions people share",
+    "explanation": "Culture is a people's way of life, including language, beliefs, customs, food and arts. Rainfall, mountains and minerals are physical features.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.4.6-8",
+    "prompt": "The climate of lowland areas near the equator is generally ___.",
+    "choices": [
+      "cold throughout the year",
+      "frozen in winter and mild in summer",
+      "warm or hot throughout the year",
+      "the same as the climate at the poles"
+    ],
+    "correctAnswer": "warm or hot throughout the year",
+    "explanation": "Places near the equator receive direct sunlight all year, so lowland areas there stay warm or hot in every season.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Eco.3.6-8",
+    "prompt": "Which of the following are characteristics of a market economy? Select all that apply.",
+    "choices": [
+      "Private ownership of property",
+      "Government sets all prices",
+      "Competition among businesses",
+      "Consumer choice drives production",
+      "A central authority plans all economic activity"
+    ],
+    "correctAnswers": [
+      "Private ownership of property",
+      "Competition among businesses",
+      "Consumer choice drives production"
+    ],
+    "explanation": "A market economy features private ownership, competition and consumer choice. Government price-setting and central planning are features of a command economy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g6_008",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.7.6-8",
+    "prompt": "The spread of ideas, foods, or customs from one culture to another is called ___.",
+    "choices": [
+      "urbanization",
+      "erosion",
+      "irrigation",
+      "cultural diffusion"
+    ],
+    "correctAnswer": "cultural diffusion",
+    "explanation": "Cultural diffusion is the spread of cultural traits, such as foods, languages or technologies, from one group or place to another.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_009",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Geo.7.6-8",
+    "prompt": "Which of these is a \"pull factor\" that might attract migrants to a new country?",
+    "choices": [
+      "More job opportunities there",
+      "A war in their home country",
+      "A drought in their home country",
+      "A lack of farmland in their home country"
+    ],
+    "correctAnswer": "More job opportunities there",
+    "explanation": "Pull factors attract people to a new place (jobs, freedom, family). War, drought and lack of land are push factors that drive people away from home.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_010",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.3.6-8",
+    "prompt": "Arrange these continents from largest to smallest in land area.",
+    "orderedItems": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "explanation": "Asia is the largest continent (about 44 million square kilometers), followed by Africa (about 30 million), Europe (about 10 million) and Australia (about 8 million).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g6_011",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Eco.1.6-8",
+    "prompt": "Most countries today, including the United States, have a mixed economy. What does that mean?",
+    "choices": [
+      "All businesses and farms are owned and run by the national government",
+      "Private markets are combined with some government involvement",
+      "People trade goods and services only by barter, without using any money",
+      "Custom alone decides what is produced"
+    ],
+    "correctAnswer": "Private markets are combined with some government involvement",
+    "explanation": "A mixed economy combines market decision-making by private buyers and sellers with some government regulation and services.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_012",
+    "subject": "SOCIAL_STUDIES",
+    "type": "CLOZE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.14.6-8",
+    "prompt": "Use the word bank: imports, exports. Goods a country sells to other countries are its ___. Goods a country buys from other countries are its ___.",
+    "blanks": [
+      "exports",
+      "imports"
+    ],
+    "explanation": "Exports are goods sent out and sold abroad; imports are goods brought in from other countries.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g6_013",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Civ.8.6-8",
+    "prompt": "Which statement best describes a difference between a democracy and a dictatorship?",
+    "choices": [
+      "A democracy has a written language; a dictatorship does not",
+      "A democracy is always small; a dictatorship is always large",
+      "Citizens freely choose leaders in a democracy but not in a dictatorship",
+      "A democracy has an army; a dictatorship does not"
+    ],
+    "correctAnswer": "Citizens freely choose leaders in a democracy but not in a dictatorship",
+    "explanation": "In a democracy, power comes from the people, who choose leaders in free elections. In a dictatorship, one person or small group holds power that citizens cannot freely vote out.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_014",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Geo.3.6-8",
+    "prompt": "Which conclusion is best supported by the data?",
+    "passage": "The table describes an imaginary country called Aridia. River Valley: 60 cm of rain per year, 8 million people. Coastal Plain: 45 cm of rain per year, 3 million people. Interior Desert: 5 cm of rain per year, 0.2 million people.",
+    "choices": [
+      "The desert region has the most farmland",
+      "Population is spread evenly across the country",
+      "Rainfall has no connection to where people live",
+      "Most people live where more water is available"
+    ],
+    "correctAnswer": "Most people live where more water is available",
+    "explanation": "The wettest region, the River Valley, has by far the most people, and the driest region has the fewest. The data support a link between water and settlement.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_015",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Geo.5.6-8",
+    "prompt": "Two countries share one river. The upstream country builds a large dam. What is the most likely concern of the downstream country?",
+    "choices": [
+      "Less water may flow to its farms and cities",
+      "Its mountains will grow taller because of the new dam",
+      "Its climate will become tropical",
+      "Its people will have to change languages"
+    ],
+    "correctAnswer": "Less water may flow to its farms and cities",
+    "explanation": "A dam lets the upstream country hold back or divert water, which can reduce the flow that downstream farms and cities depend on.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g6_016",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Eco.14.6-8",
+    "prompt": "The world price of coffee beans rises sharply. Which country would benefit most?",
+    "choices": [
+      "A country that imports all of its coffee",
+      "A country that exports large amounts of coffee",
+      "A country that neither grows nor drinks coffee",
+      "A country that does not trade with other countries"
+    ],
+    "correctAnswer": "A country that exports large amounts of coffee",
+    "explanation": "Exporters earn more when the price of what they sell rises. Importers must pay more, and countries outside the coffee trade are little affected.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  }
+]

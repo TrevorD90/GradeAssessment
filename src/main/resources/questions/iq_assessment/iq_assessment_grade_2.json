@@ -1,0 +1,360 @@
+[
+  {
+    "id": "iq_assessment_g2_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Which two words mean almost the same thing? Select all that apply.",
+    "choices": [
+      "big",
+      "fast",
+      "large",
+      "tiny"
+    ],
+    "correctAnswers": [
+      "big",
+      "large"
+    ],
+    "explanation": "Big and large both mean great in size. Tiny is the opposite, and fast is about speed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g2_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 5, 10, 15, 20, ___",
+    "correctAnswer": "25",
+    "correctAnswers": [
+      "25",
+      "twenty-five",
+      "twenty five"
+    ],
+    "explanation": "The numbers go up by 5 each time. 20 + 5 = 25.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g2_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? A, A, B, A, A, B, A, ___",
+    "choices": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The pattern is A, A, B and then it repeats. The last group has only one A so far, so the next letter is A.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g2_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A square piece of paper is folded in half one time. How many layers of paper are there?",
+    "choices": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Folding once puts one half on top of the other half, which makes 2 layers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g2_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Say the numbers backward: 4, 9, 1.",
+    "choices": [
+      "1, 9, 4",
+      "9, 1, 4",
+      "4, 1, 9",
+      "1, 4, 9"
+    ],
+    "correctAnswer": "1, 9, 4",
+    "explanation": "Backward means start with the last number: 1, then 9, then 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g2_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Which word does NOT belong with the others? apple, banana, carrot, grape",
+    "choices": [
+      "apple",
+      "carrot",
+      "banana",
+      "grape"
+    ],
+    "correctAnswer": "carrot",
+    "explanation": "Apple, banana and grape are fruits. A carrot is a vegetable.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g2_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "3 + 4 is the same as 5 + ___",
+    "correctAnswer": "2",
+    "correctAnswers": [
+      "2",
+      "two"
+    ],
+    "explanation": "3 + 4 = 7. To make 7 starting from 5 you need 2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g2_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What number comes next? 2, 4, 3, 5, 4, 6, ___",
+    "choices": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "explanation": "The rule takes turns: add 2, then take away 1. After 6 it is time to take away 1, which gives 5.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g2_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Lee takes 2 steps forward, then 2 steps back, then 3 steps forward. How many steps in front of the start is Lee?",
+    "choices": [
+      "1",
+      "5",
+      "7",
+      "3"
+    ],
+    "correctAnswer": "3",
+    "explanation": "2 forward and 2 back puts Lee at the start again. Then 3 steps forward puts Lee 3 steps in front of the start.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g2_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Put these letters in ABC order.",
+    "orderedItems": [
+      "B",
+      "D",
+      "F",
+      "K"
+    ],
+    "explanation": "In the alphabet B comes first, then D, then F, then K.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g2_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "How are a car and a boat alike?",
+    "choices": [
+      "Both take people places",
+      "Both have wheels and drive on roads",
+      "Both float on water",
+      "Both have sails that catch the wind"
+    ],
+    "correctAnswer": "Both take people places",
+    "explanation": "A car goes on roads and a boat goes on water, but both are used to carry people from place to place.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g2_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "Two boxes weigh the same as 6 balls. The boxes are the same as each other. One box weighs the same as how many balls?",
+    "correctAnswer": "3",
+    "correctAnswers": [
+      "3",
+      "three"
+    ],
+    "explanation": "If 2 equal boxes balance 6 balls, each box balances half of them: 3 balls.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g2_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Who is the youngest?",
+    "choices": [
+      "Kim",
+      "Zoe",
+      "Max",
+      "They are all the same age"
+    ],
+    "correctAnswer": "Zoe",
+    "passage": "Kim is older than Max. Max is older than Zoe.",
+    "explanation": "From oldest to youngest the order is Kim, Max, Zoe. Zoe is the youngest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g2_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Ben stands in a line. He is third from the front and also third from the back. How many children are in the line?",
+    "choices": [
+      "3",
+      "6",
+      "5",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Two children are in front of Ben and two are behind him. 2 + 1 + 2 = 5.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g2_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Say the numbers backward: 6, 2, 8, 3.",
+    "choices": [
+      "3, 2, 8, 6",
+      "6, 8, 2, 3",
+      "8, 3, 2, 6",
+      "3, 8, 2, 6"
+    ],
+    "correctAnswer": "3, 8, 2, 6",
+    "explanation": "Backward means start with the last number and go back to the first: 3, 8, 2, 6.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  }
+]

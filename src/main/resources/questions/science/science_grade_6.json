@@ -1,0 +1,435 @@
+[
+  {
+    "id": "science_g6_001",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-LS1-1",
+    "prompt": "What is the basic unit of structure and function in all living things?",
+    "choices": [
+      "Atom",
+      "Cell",
+      "Tissue",
+      "Organ"
+    ],
+    "correctAnswer": "Cell",
+    "explanation": "All living things are made of one or more cells. The cell is the smallest unit that can be said to be alive.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "MS-LS1-2",
+    "prompt": "Which of the following best describes the role of the cell membrane?",
+    "choices": [
+      "It stores genetic information",
+      "It converts sunlight into food",
+      "It releases energy from food molecules",
+      "It controls what enters and leaves the cell"
+    ],
+    "correctAnswer": "It controls what enters and leaves the cell",
+    "explanation": "The cell membrane is a selectively permeable boundary that regulates which substances move into and out of the cell.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_003",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-ESS2-4",
+    "prompt": "In the water cycle, the process in which liquid water changes into water vapor is called ___.",
+    "correctAnswer": "evaporation",
+    "correctAnswers": [
+      "evaporation"
+    ],
+    "explanation": "Energy from the Sun causes liquid water to evaporate, changing into water vapor (a gas) that enters the atmosphere.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g6_004",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-PS3-3",
+    "prompt": "In which direction does thermal energy move on its own?",
+    "choices": [
+      "From warmer objects to cooler objects",
+      "From cooler objects to warmer objects",
+      "From larger objects to smaller objects",
+      "From heavier objects to lighter objects"
+    ],
+    "correctAnswer": "From warmer objects to cooler objects",
+    "explanation": "Thermal energy is transferred spontaneously from hotter regions or objects to colder ones until they reach the same temperature.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MS-ESS3-5",
+    "prompt": "Which gas released by burning fossil fuels is a major greenhouse gas?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Helium"
+    ],
+    "correctAnswer": "Carbon dioxide",
+    "explanation": "Burning fossil fuels releases carbon dioxide, a greenhouse gas that traps heat in Earth's atmosphere.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_006",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-LS1-3",
+    "prompt": "Order the levels of organization in a multicellular organism from smallest to largest.",
+    "orderedItems": [
+      "Cell",
+      "Tissue",
+      "Organ",
+      "Organ system",
+      "Organism"
+    ],
+    "explanation": "Cells form tissues, tissues form organs, organs work together in organ systems, and organ systems make up the organism.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g6_007",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-LS1-2",
+    "prompt": "Which organelle releases energy from food molecules for the cell to use?",
+    "choices": [
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondrion",
+      "Cell wall"
+    ],
+    "correctAnswer": "Mitochondrion",
+    "explanation": "Mitochondria carry out cellular respiration, releasing energy from food molecules. Chloroplasts capture light energy to make food; the nucleus holds genetic material.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_008",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "MS-ESS3-5",
+    "prompt": "Which statement is supported by the passage?",
+    "passage": "Scientists analyzed records of average global temperature going back to the 1800s. The data showed that the average global temperature increased by approximately 1.1 degrees Celsius between 1880 and 2020. The rate of warming has accelerated since the 1970s, with each of the last four decades being warmer than any decade that preceded it since 1850. Researchers attribute much of this warming to the increased concentration of greenhouse gases in the atmosphere, primarily from burning fossil fuels.",
+    "choices": [
+      "Global temperature has risen at the same steady rate since 1880",
+      "The rate of warming has increased since the 1970s",
+      "Average global temperature decreased between 1880 and 2020",
+      "Most of the warming is attributed to volcanic eruptions"
+    ],
+    "correctAnswer": "The rate of warming has increased since the 1970s",
+    "explanation": "The passage states that the rate of warming has accelerated since the 1970s and that researchers attribute much of the warming to greenhouse gases from burning fossil fuels.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_009",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-LS3-2",
+    "prompt": "A strawberry plant sends out a runner that grows into a new plant (asexual reproduction). How does the new plant's genetic information compare with the parent's?",
+    "choices": [
+      "It is identical to the parent's",
+      "It is a mix from two different parents",
+      "It is completely different from the parent's",
+      "It has half as many genes as the parent"
+    ],
+    "correctAnswer": "It is identical to the parent's",
+    "explanation": "Asexual reproduction involves one parent and produces offspring with genetic information identical to the parent's. Sexual reproduction combines genetic information from two parents, producing variation.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_010",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-PS3-3",
+    "prompt": "Which of these materials are good thermal insulators (they slow the transfer of thermal energy)? Select all that apply.",
+    "choices": [
+      "Plastic foam",
+      "Copper",
+      "Wool",
+      "Aluminum",
+      "Air trapped in feathers"
+    ],
+    "correctAnswers": [
+      "Plastic foam",
+      "Wool",
+      "Air trapped in feathers"
+    ],
+    "explanation": "Foam, wool, and trapped air transfer thermal energy slowly, so they are good insulators. Metals such as copper and aluminum are good conductors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g6_011",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-ESS2-6",
+    "prompt": "Why are places near the equator generally warmer than places near the poles?",
+    "choices": [
+      "The equator is much closer to the Sun",
+      "The equator has more volcanoes",
+      "The air is thinner at the equator",
+      "The equator receives more direct sunlight"
+    ],
+    "correctAnswer": "The equator receives more direct sunlight",
+    "explanation": "Because Earth is a sphere, sunlight strikes the equator more directly and is more concentrated there. Near the poles the same sunlight is spread over a larger area.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_012",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MS-ESS2-4",
+    "prompt": "Word bank: condensation, precipitation, evaporation. Fill in the blanks. When water vapor cools and changes into liquid droplets that form clouds, the process is called ___. Water that falls from clouds as rain, snow, or hail is called ___.",
+    "blanks": [
+      "condensation",
+      "precipitation"
+    ],
+    "explanation": "Condensation is the change from water vapor to liquid water. Precipitation is water falling from clouds to Earth's surface.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g6_013",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MS-LS1-8",
+    "prompt": "You touch a hot pan and quickly pull your hand away. Which path does the information follow?",
+    "choices": [
+      "Muscles in the hand, then nerves, then the brain, then receptors in the skin",
+      "Receptors in the skin, then nerves, then spinal cord and brain, then muscles",
+      "The brain first, then blood vessels, then the heart, then receptors in the skin",
+      "Receptors in the skin, then blood, then the heart, then muscles of the hand"
+    ],
+    "correctAnswer": "Receptors in the skin, then nerves, then spinal cord and brain, then muscles",
+    "explanation": "Sensory receptors in the skin detect the heat and send signals along nerves to the spinal cord and brain, and signals then travel to the muscles that move the hand. In a fast reflex like this, the spinal cord sends the signal to the muscles even before the brain notices the pain.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_014",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-PS3-4",
+    "prompt": "Which conclusion is best supported by the data?",
+    "passage": "A student heated two beakers of water on identical hot plates for 5 minutes. Both began at 20 degrees C. Beaker A held 100 g of water and ended at 60 degrees C. Beaker B held 200 g of water and ended at 40 degrees C.",
+    "choices": [
+      "Beaker B received less energy than Beaker A, because it ended at a lower temperature",
+      "The water in Beaker B is a different substance",
+      "With the same energy added, a larger mass of water has a smaller temperature change",
+      "Temperature change does not depend on the mass of the water"
+    ],
+    "correctAnswer": "With the same energy added, a larger mass of water has a smaller temperature change",
+    "explanation": "Both beakers received the same energy from identical hot plates for the same time. Beaker B had twice the mass and half the temperature change (20 degrees C compared with 40 degrees C), so temperature change depends on the mass of the sample.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_015",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-PS3-3",
+    "prompt": "A student tests which cup keeps hot water warm the longest. She pours the same amount of water at the same starting temperature into a foam cup, a paper cup, and a metal cup, then measures each temperature after 10 minutes. What is the independent variable?",
+    "choices": [
+      "The temperature after 10 minutes",
+      "The material of the cup",
+      "The amount of water",
+      "The starting temperature of the water"
+    ],
+    "correctAnswer": "The material of the cup",
+    "explanation": "The independent variable is the one the experimenter changes on purpose: the cup material. The temperature after 10 minutes is the dependent variable, and the amount of water and starting temperature are controlled variables.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_016",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-ESS2-5",
+    "prompt": "A cold air mass moves into a region of warm, humid air. What weather is most likely along the boundary between them?",
+    "choices": [
+      "Clear skies, because the cold air holds more water vapor than the warm air does",
+      "No change in the weather, because air masses never interact with each other",
+      "Dry, calm weather, because the warm, humid air sinks below the cold air mass",
+      "Clouds and precipitation, as the warm, humid air is pushed up and cools"
+    ],
+    "correctAnswer": "Clouds and precipitation, as the warm, humid air is pushed up and cools",
+    "explanation": "At a cold front, denser cold air pushes under the warm, humid air. The warm air rises and cools, its water vapor condenses, and clouds and precipitation (often storms) form.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_017",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-LS1-3",
+    "prompt": "During exercise, both your breathing rate and your heart rate increase. What is the best explanation?",
+    "choices": [
+      "The respiratory and circulatory systems work together to get more oxygen to muscle cells",
+      "The two systems work independently, and the increases just happen at the same time by chance",
+      "The digestive system needs more air during exercise, so the lungs and heart speed up",
+      "The heart makes extra oxygen during exercise, and the lungs carry it out to the muscles"
+    ],
+    "correctAnswer": "The respiratory and circulatory systems work together to get more oxygen to muscle cells",
+    "explanation": "Body systems interact. Working muscle cells need more oxygen, so the lungs take in oxygen faster and the heart pumps blood faster to deliver it and remove carbon dioxide.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g6_018",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MS-LS1-5",
+    "prompt": "Two cuttings from the same plant are genetically identical. One is grown in full sun with fertilizer, and the other in shade with poor soil. After two months the first plant is much taller. What does this show?",
+    "choices": [
+      "The taller plant's genes changed as it grew because it got more sunlight",
+      "The growth of a plant depends only on its genes",
+      "Environmental factors, as well as genes, affect how an organism grows",
+      "The two plants must have had different parents"
+    ],
+    "correctAnswer": "Environmental factors, as well as genes, affect how an organism grows",
+    "explanation": "The plants have the same genes, so the difference in growth must be due to environmental factors such as light and nutrients. Both genetic and environmental factors influence growth.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  }
+]

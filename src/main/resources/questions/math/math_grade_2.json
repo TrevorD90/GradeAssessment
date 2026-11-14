@@ -1,0 +1,378 @@
+[
+  {
+    "id": "math_g2_001",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "2.OA.B.2",
+    "prompt": "What is 8 + 9?",
+    "choices": [
+      "17",
+      "16",
+      "18",
+      "15"
+    ],
+    "correctAnswer": "17",
+    "explanation": "8 + 8 = 16, and one more makes 17. So 8 + 9 = 17.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g2_002",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "2.NBT.A.2",
+    "prompt": "Skip-count by 5s: 15, 20, 25. What number comes next?",
+    "choices": [
+      "26",
+      "35",
+      "30",
+      "50"
+    ],
+    "correctAnswer": "30",
+    "explanation": "Each number is 5 more than the one before. 25 + 5 = 30.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g2_003",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "2.NBT.A.1",
+    "prompt": "What digit is in the hundreds place of 364? Type the digit.",
+    "correctAnswer": "3",
+    "correctAnswers": [
+      "3",
+      "three"
+    ],
+    "explanation": "364 is 3 hundreds, 6 tens and 4 ones. The digit in the hundreds place is 3.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g2_004",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "2.OA.C.3",
+    "prompt": "Which number is even?",
+    "choices": [
+      "7",
+      "11",
+      "14",
+      "19"
+    ],
+    "correctAnswer": "14",
+    "explanation": "An even number can be split into two equal groups. 14 is 7 + 7. The numbers 7, 11 and 19 are odd.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g2_005",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "2.G.A.1",
+    "prompt": "Which shape has exactly 5 sides?",
+    "choices": [
+      "Pentagon",
+      "Hexagon",
+      "Triangle",
+      "Quadrilateral"
+    ],
+    "correctAnswer": "Pentagon",
+    "explanation": "A pentagon has 5 sides. A triangle has 3, a quadrilateral has 4, and a hexagon has 6.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g2_006",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "2.NBT.B.5",
+    "prompt": "What is 47 + 36?",
+    "choices": [
+      "73",
+      "82",
+      "93",
+      "83"
+    ],
+    "correctAnswer": "83",
+    "explanation": "Add the ones: 7 + 6 = 13. That is 1 ten and 3 ones. Add the tens: 4 + 3 + 1 = 8 tens. The answer is 83.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g2_007",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "2.NBT.B.5",
+    "prompt": "What is 62 - 28? Type the number.",
+    "correctAnswer": "34",
+    "correctAnswers": [
+      "34"
+    ],
+    "explanation": "62 - 20 = 42. Then 42 - 8 = 34. You can check: 34 + 28 = 62.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g2_008",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "2.MD.C.8",
+    "prompt": "Mia has 2 quarters, 1 dime, and 3 pennies. How much money does she have?",
+    "choices": [
+      "38 cents",
+      "63 cents",
+      "60 cents",
+      "6 cents"
+    ],
+    "correctAnswer": "63 cents",
+    "explanation": "2 quarters are 50 cents. A dime is 10 cents. 3 pennies are 3 cents. 50 + 10 + 3 = 63 cents.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g2_009",
+    "subject": "MATH",
+    "type": "CLOZE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "2.NBT.A.3",
+    "prompt": "500 + 30 + 7 = ___",
+    "blanks": [
+      "537"
+    ],
+    "explanation": "5 hundreds, 3 tens and 7 ones make the number 537.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g2_010",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "2.NBT.A.4",
+    "prompt": "Put these numbers in order from least to greatest.",
+    "orderedItems": [
+      "199",
+      "219",
+      "291",
+      "912"
+    ],
+    "explanation": "Compare the hundreds first. 199 has 1 hundred, so it is least. 219 and 291 both have 2 hundreds, and 1 ten is less than 9 tens. 912 has 9 hundreds, so it is greatest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g2_011",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "2.OA.A.1",
+    "prompt": "Leo had 45 cards. He gave 18 cards to a friend. Then he bought 26 more cards. How many cards does Leo have now?",
+    "choices": [
+      "27",
+      "53",
+      "89",
+      "43"
+    ],
+    "correctAnswer": "53",
+    "explanation": "First subtract: 45 - 18 = 27. Then add: 27 + 26 = 53. Leo has 53 cards.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g2_012",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "2.NBT.B.7",
+    "prompt": "What is 358 + 276? Type the number.",
+    "correctAnswer": "634",
+    "correctAnswers": [
+      "634"
+    ],
+    "explanation": "Ones: 8 + 6 = 14, write 4 and carry 1. Tens: 5 + 7 + 1 = 13, write 3 and carry 1. Hundreds: 3 + 2 + 1 = 6. The answer is 634.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g2_013",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "2.OA.C.4",
+    "prompt": "An array has 4 rows. Each row has 5 dots. How many dots are there in all?",
+    "choices": [
+      "9",
+      "15",
+      "25",
+      "20"
+    ],
+    "correctAnswer": "20",
+    "explanation": "Add 5 four times: 5 + 5 + 5 + 5 = 20. There are 20 dots.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g2_014",
+    "subject": "MATH",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "2.NBT.A.1",
+    "prompt": "Which are equal to 240? Select all that apply.",
+    "choices": [
+      "2 hundreds and 4 tens",
+      "24 tens",
+      "2 hundreds and 4 ones",
+      "200 + 40",
+      "24 ones"
+    ],
+    "correctAnswers": [
+      "2 hundreds and 4 tens",
+      "24 tens",
+      "200 + 40"
+    ],
+    "explanation": "2 hundreds and 4 tens is 200 + 40 = 240. 24 tens is also 240, because 10 tens make 100. 2 hundreds and 4 ones is 204, and 24 ones is just 24.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g2_015",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "2.MD.B.5",
+    "prompt": "A ribbon is 72 inches long. Kim cuts off 35 inches. How long is the ribbon now?",
+    "choices": [
+      "37 inches",
+      "47 inches",
+      "107 inches",
+      "43 inches"
+    ],
+    "correctAnswer": "37 inches",
+    "explanation": "Subtract to find what is left: 72 - 35 = 37. The ribbon is 37 inches long.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g2_016",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "2.MD.D.10",
+    "prompt": "A class made a bar graph of votes for favorite fruits. The Apples bar shows 7 votes, the Bananas bar shows 4 votes, and the Grapes bar shows 9 votes. How many more votes did grapes get than bananas?",
+    "choices": [
+      "13",
+      "2",
+      "5",
+      "3"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Grapes got 9 votes and bananas got 4 votes. 9 - 4 = 5, so grapes got 5 more votes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  }
+]

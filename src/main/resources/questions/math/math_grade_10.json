@@ -1,0 +1,382 @@
+[
+  {
+    "id": "math_g10_001",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "HSG-CO.C.9",
+    "prompt": "Two parallel lines are cut by a transversal. One angle measures 65 degrees. What is the measure of its alternate interior angle?",
+    "choices": [
+      "65 degrees",
+      "115 degrees",
+      "25 degrees",
+      "130 degrees"
+    ],
+    "correctAnswer": "65 degrees",
+    "explanation": "When parallel lines are cut by a transversal, alternate interior angles are congruent, so the angle is also 65 degrees.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_002",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "HSG-GPE.B.6",
+    "prompt": "A segment has endpoints (2, 3) and (8, 11). What is the x-coordinate of its midpoint? Write your answer as a number.",
+    "correctAnswer": "5",
+    "correctAnswers": [
+      "5",
+      "x = 5",
+      "x=5"
+    ],
+    "explanation": "The midpoint's x-coordinate is the average of the endpoints' x-coordinates: (2 + 8) / 2 = 5. (The full midpoint is (5, 7).)",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g10_003",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "HSG-SRT.B.5",
+    "prompt": "Triangle ABC is similar to triangle DEF. AB = 4, BC = 6, and DE = 10. What is the length of EF?",
+    "choices": [
+      "12",
+      "8",
+      "15",
+      "2.4"
+    ],
+    "correctAnswer": "15",
+    "explanation": "Matching sides of similar triangles are proportional. DE / AB = 10 / 4 = 2.5, so EF = 2.5 x BC = 2.5 x 6 = 15.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_004",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "HSG-CO.A.5",
+    "prompt": "The point (3, -2) is reflected across the x-axis. What are the coordinates of its image?",
+    "choices": [
+      "(-3, -2)",
+      "(-3, 2)",
+      "(3, 2)",
+      "(-2, 3)"
+    ],
+    "correctAnswer": "(3, 2)",
+    "explanation": "A reflection across the x-axis keeps the x-coordinate and changes the sign of the y-coordinate, so (3, -2) becomes (3, 2).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_005",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HSG-SRT.C.8",
+    "prompt": "In a right triangle, one acute angle is 30 degrees and the hypotenuse is 10. What is the length of the side opposite the 30-degree angle?",
+    "choices": [
+      "5",
+      "5 sqrt(2)",
+      "5 sqrt(3)",
+      "10 sqrt(3)"
+    ],
+    "correctAnswer": "5",
+    "explanation": "In a 30-60-90 triangle, the side opposite the 30-degree angle is half the hypotenuse: 10 / 2 = 5. (This is also 10 x sin 30.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_006",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HSG-SRT.C.6",
+    "prompt": "In a right triangle, the side opposite angle A is 3, the side adjacent to angle A is 4, and the hypotenuse is 5. What is sin A?",
+    "choices": [
+      "4/5",
+      "3/4",
+      "5/3",
+      "3/5"
+    ],
+    "correctAnswer": "3/5",
+    "explanation": "Sine is opposite over hypotenuse, so sin A = 3/5. (4/5 is cos A and 3/4 is tan A.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_007",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HSG-GPE.A.1",
+    "prompt": "What are the center and radius of the circle (x - 2)^2 + (y + 3)^2 = 25?",
+    "choices": [
+      "Center (-2, 3), radius 5",
+      "Center (2, -3), radius 5",
+      "Center (2, -3), radius 25",
+      "Center (-2, 3), radius 25"
+    ],
+    "correctAnswer": "Center (2, -3), radius 5",
+    "explanation": "A circle (x - h)^2 + (y - k)^2 = r^2 has center (h, k) and radius r. Here h = 2, k = -3, and r^2 = 25, so r = 5.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_008",
+    "subject": "MATH",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "HSG-CO.C.11",
+    "prompt": "Which statements are true for every parallelogram? Select all that apply.",
+    "choices": [
+      "Opposite sides are congruent",
+      "The diagonals are congruent",
+      "The diagonals bisect each other",
+      "All four angles are right angles",
+      "Opposite angles are congruent"
+    ],
+    "correctAnswers": [
+      "Opposite sides are congruent",
+      "The diagonals bisect each other",
+      "Opposite angles are congruent"
+    ],
+    "explanation": "In every parallelogram, opposite sides are congruent, opposite angles are congruent, and the diagonals bisect each other. Congruent diagonals and four right angles are only true for special parallelograms such as rectangles.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g10_009",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HSG-GMD.A.3",
+    "prompt": "A cone has a radius of 3 cm and a height of 4 cm. What is its volume in terms of pi?",
+    "choices": [
+      "36 pi cubic cm",
+      "12 pi cubic cm",
+      "16 pi cubic cm",
+      "48 pi cubic cm"
+    ],
+    "correctAnswer": "12 pi cubic cm",
+    "explanation": "Volume of a cone = (1/3) x pi x r^2 x h = (1/3) x pi x 9 x 4 = 12 pi cubic cm.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_010",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "HSG-CO.C.10",
+    "prompt": "Triangle ABC has side lengths AB = 5, AC = 7, and BC = 9. Put the angles in order from smallest to largest.",
+    "orderedItems": [
+      "Angle C",
+      "Angle B",
+      "Angle A"
+    ],
+    "explanation": "In a triangle, the smallest angle is opposite the shortest side. Angle C is opposite AB = 5, angle B is opposite AC = 7, and angle A is opposite BC = 9.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g10_011",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HSG-SRT.C.8",
+    "prompt": "A 20-foot ladder leans against a wall and makes a 60-degree angle with the ground. How high up the wall does the ladder reach?",
+    "choices": [
+      "10 feet",
+      "10 sqrt(2) feet",
+      "20 sqrt(3) feet",
+      "10 sqrt(3) feet"
+    ],
+    "correctAnswer": "10 sqrt(3) feet",
+    "explanation": "The height is opposite the 60-degree angle and the ladder is the hypotenuse. height = 20 x sin 60 = 20 x sqrt(3)/2 = 10 sqrt(3) feet, about 17.3 feet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_012",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "HSG-C.B.5",
+    "prompt": "A circle has a radius of 6. What is the area of a sector with a central angle of 60 degrees?",
+    "choices": [
+      "6 pi",
+      "2 pi",
+      "12 pi",
+      "36 pi"
+    ],
+    "correctAnswer": "6 pi",
+    "explanation": "The whole circle has area pi x 6^2 = 36 pi. A 60-degree sector is 60/360 = 1/6 of the circle, so its area is 36 pi / 6 = 6 pi.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_013",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HSG-SRT.C.8",
+    "prompt": "A right triangle has a hypotenuse of 17 and one leg of 8. What is the area of the triangle? Write your answer as a number.",
+    "correctAnswer": "60",
+    "correctAnswers": [
+      "60",
+      "60 square units"
+    ],
+    "explanation": "Find the other leg: 17^2 - 8^2 = 289 - 64 = 225, and sqrt(225) = 15. The legs are the base and height, so area = 1/2 x 8 x 15 = 60.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g10_014",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HSS-CP.A.3",
+    "prompt": "In a class of 30 students, 18 play a sport. Of those 18 students, 6 also play an instrument. A student who plays a sport is chosen at random. What is the probability that this student also plays an instrument?",
+    "choices": [
+      "1/5",
+      "3/5",
+      "1/3",
+      "1/2"
+    ],
+    "correctAnswer": "1/3",
+    "explanation": "We only look at the 18 students who play a sport. 6 of them play an instrument, so the probability is 6/18 = 1/3.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g10_015",
+    "subject": "MATH",
+    "type": "CLOZE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "HSG-GPE.B.5",
+    "prompt": "A line is perpendicular to the line y = (1/3)x + 2. The slope of the perpendicular line is ___.",
+    "blanks": [
+      "-3"
+    ],
+    "explanation": "Perpendicular lines have slopes that are negative reciprocals. The reciprocal of 1/3 is 3, and making it negative gives -3. Check: (1/3) x (-3) = -1.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g10_016",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "HSN-RN.A.2",
+    "prompt": "Which is equal to 8^(2/3)?",
+    "choices": [
+      "16/3",
+      "2",
+      "4",
+      "64"
+    ],
+    "correctAnswer": "4",
+    "explanation": "The denominator 3 means cube root and the numerator 2 means square. The cube root of 8 is 2, and 2^2 = 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  }
+]

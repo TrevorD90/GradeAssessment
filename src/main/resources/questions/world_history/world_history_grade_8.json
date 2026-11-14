@@ -1,0 +1,415 @@
+[
+  {
+    "id": "world_history_g8_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.7.10.2",
+    "prompt": "Which scientist published a book in 1543 arguing that Earth and the other planets revolve around the Sun?",
+    "choices": [
+      "Claudius Ptolemy of Alexandria",
+      "Nicolaus Copernicus",
+      "Aristotle",
+      "Isaac Newton"
+    ],
+    "correctAnswer": "Nicolaus Copernicus",
+    "explanation": "Copernicus published his Sun-centered (heliocentric) model in 1543, challenging the older Earth-centered model of Ptolemy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_002",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TEKS.WH.7B",
+    "prompt": "What is the name for the transfer of plants, animals and diseases between the Eastern and Western Hemispheres after 1492?",
+    "choices": [
+      "The Columbian Exchange",
+      "The Silk Road",
+      "The Middle Passage",
+      "The Commercial Revolution"
+    ],
+    "correctAnswer": "The Columbian Exchange",
+    "explanation": "The Columbian Exchange moved crops such as maize and potatoes to Afro-Eurasia and brought horses, wheat and diseases such as smallpox to the Americas.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_003",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.2.4",
+    "prompt": "In 1789, the storming of the Bastille in Paris marked the start of which revolution?",
+    "choices": [
+      "The Russian Revolution",
+      "The Glorious Revolution",
+      "The French Revolution",
+      "The Industrial Revolution"
+    ],
+    "correctAnswer": "The French Revolution",
+    "explanation": "The attack on the Bastille prison on July 14, 1789, is remembered as the beginning of the French Revolution.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_004",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.7.11.4",
+    "prompt": "The intellectual movement of the 1700s that stressed reason and natural rights is called the ___.",
+    "correctAnswer": "Enlightenment",
+    "correctAnswers": [
+      "Enlightenment",
+      "the Enlightenment",
+      "Age of Enlightenment",
+      "the Age of Enlightenment",
+      "Age of Reason",
+      "the Age of Reason"
+    ],
+    "explanation": "Enlightenment thinkers such as Locke, Voltaire and Montesquieu applied reason to questions of government, religion and society.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g8_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TEKS.WH.9C",
+    "prompt": "Which leader, known as \"the Liberator,\" helped free much of northern South America from Spanish rule?",
+    "choices": [
+      "Toussaint Louverture",
+      "Napoleon Bonaparte",
+      "Hernán Cortés",
+      "Simón Bolívar"
+    ],
+    "correctAnswer": "Simón Bolívar",
+    "explanation": "Simón Bolívar led independence movements in the 1810s and 1820s in what are now Venezuela, Colombia, Ecuador, Peru and Bolivia.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.7.11.5",
+    "prompt": "Which Enlightenment philosopher argued that people have natural rights to life, liberty and property and may replace a government that fails to protect those rights?",
+    "choices": [
+      "Thomas Hobbes",
+      "John Locke",
+      "Voltaire",
+      "Baron de Montesquieu"
+    ],
+    "correctAnswer": "John Locke",
+    "explanation": "In his Two Treatises of Government (1689), John Locke argued that government rests on the consent of the governed and exists to protect natural rights.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.7.11.5",
+    "prompt": "The Enlightenment thinker Montesquieu argued that government power should be arranged in what way?",
+    "choices": [
+      "Divided among separate branches",
+      "Held by one absolute monarch",
+      "Given to the church",
+      "Passed to the army"
+    ],
+    "correctAnswer": "Divided among separate branches",
+    "explanation": "In The Spirit of the Laws (1748), Montesquieu argued that separating legislative, executive and judicial powers protects liberty.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_008",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "TEKS.WH.7C",
+    "prompt": "What does the term \"Middle Passage\" refer to?",
+    "choices": [
+      "The overland trade route that linked Han China with the Roman Empire",
+      "Magellan's route around South America",
+      "The forced voyage of enslaved Africans across the Atlantic",
+      "The sea route Portuguese sailors took around Africa to reach India"
+    ],
+    "correctAnswer": "The forced voyage of enslaved Africans across the Atlantic",
+    "explanation": "The Middle Passage was the Atlantic crossing in which millions of enslaved Africans were transported to the Americas under brutal conditions between the 1500s and 1800s.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_009",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.7.11.2",
+    "prompt": "Which of the following were carried from the Americas to Europe, Africa and Asia in the Columbian Exchange? Select all that apply.",
+    "choices": [
+      "Maize (corn)",
+      "Potatoes",
+      "Horses",
+      "Wheat",
+      "Tomatoes"
+    ],
+    "correctAnswers": [
+      "Maize (corn)",
+      "Potatoes",
+      "Tomatoes"
+    ],
+    "explanation": "Maize, potatoes and tomatoes are native to the Americas. Horses and wheat traveled the other way, from Afro-Eurasia to the Americas.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g8_010",
+    "subject": "WORLD_HISTORY",
+    "type": "CLOZE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "NY.GH.9.9",
+    "prompt": "Use the word bank: absolute, Versailles, divine. Louis XIV of France was an ___ monarch who claimed to rule by ___ right. He built a grand palace at ___.",
+    "blanks": [
+      "absolute",
+      "divine",
+      "Versailles"
+    ],
+    "explanation": "Louis XIV (reigned 1643-1715) is the classic example of an absolute monarch. He claimed divine right, the idea that a king's authority comes from God, and ruled from the palace of Versailles.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g8_011",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CA.HSS.7.10.3",
+    "prompt": "What was most new about the scientific method promoted by thinkers such as Francis Bacon?",
+    "choices": [
+      "Accepting the writings of Aristotle and other ancient authorities without question",
+      "Keeping all discoveries secret",
+      "Rejecting the use of mathematics and careful measurement in studying nature",
+      "Testing ideas by observation and experiment, not only ancient authority"
+    ],
+    "correctAnswer": "Testing ideas by observation and experiment, not only ancient authority",
+    "explanation": "The scientific method relies on observation, experiment and reasoning from evidence. This was a break from accepting ancient or traditional authorities without testing.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_012",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "TEKS.WH.7D",
+    "prompt": "In 1453, which empire captured Constantinople, ending the Byzantine Empire?",
+    "choices": [
+      "The Mongol Empire",
+      "The Ottoman Empire",
+      "The Mughal Empire",
+      "The Holy Roman Empire"
+    ],
+    "correctAnswer": "The Ottoman Empire",
+    "explanation": "Ottoman forces under Sultan Mehmed II captured Constantinople in 1453. The city, later known as Istanbul, became the Ottoman capital.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_013",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CA.HSS.10.2.2",
+    "prompt": "Arrange these events in chronological order from earliest to latest.",
+    "orderedItems": [
+      "England's Glorious Revolution",
+      "The American Declaration of Independence",
+      "The storming of the Bastille in France",
+      "Haiti declares its independence"
+    ],
+    "explanation": "The Glorious Revolution took place in 1688-1689, the Declaration of Independence was adopted in 1776, the Bastille was stormed in 1789 and Haiti declared independence in 1804.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g8_014",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CA.HSS.10.2.1",
+    "prompt": "How did Enlightenment ideas contribute to the revolutions of the late 1700s?",
+    "choices": [
+      "They argued that government power comes from the people and must protect rights",
+      "They taught that kings receive their power directly from God and answer only to Him",
+      "They encouraged people to follow old traditions and their rulers without question",
+      "They ended trade between Europe and the Americas"
+    ],
+    "correctAnswer": "They argued that government power comes from the people and must protect rights",
+    "explanation": "Ideas such as natural rights, the social contract and popular sovereignty gave revolutionaries in North America, France and Latin America arguments for replacing governments that denied those rights.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_015",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CA.HSS.10.2.2",
+    "prompt": "Which idea of the old French monarchy does this document most directly reject?",
+    "passage": "\"Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good. ... The principle of all sovereignty resides essentially in the nation.\" - Declaration of the Rights of Man and of the Citizen, France, 1789 (Articles 1 and 3)",
+    "choices": [
+      "That France should have an army",
+      "That a king holds absolute power by divine right",
+      "That the nation should trade with other countries",
+      "That people should pay taxes"
+    ],
+    "correctAnswer": "That a king holds absolute power by divine right",
+    "explanation": "By declaring that people are equal in rights and that sovereignty belongs to the nation, the document rejects the claim that a king holds absolute power given by God.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_016",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "TEKS.WH.7C",
+    "prompt": "Which was a major long-term effect of the Atlantic slave trade on West and Central Africa?",
+    "choices": [
+      "Rapid industrialization",
+      "The end of all trade between African kingdoms and European merchants",
+      "The loss of millions of people and more warfare and instability",
+      "A rapid increase in population as farms and towns grew across the region"
+    ],
+    "correctAnswer": "The loss of millions of people and more warfare and instability",
+    "explanation": "An estimated 12.5 million Africans were forced onto slave ships. The trade removed many young adults, encouraged raiding and warfare and disrupted many African societies.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g8_017",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "TEKS.WH.9A",
+    "prompt": "Which statement accurately compares the American and French Revolutions?",
+    "choices": [
+      "Both were led by Napoleon Bonaparte, who commanded armies in America and France",
+      "Both began as revolts by enslaved people against plantation owners",
+      "Neither produced a written statement of rights or principles",
+      "Both drew on Enlightenment ideas, but only France's executed its own king"
+    ],
+    "correctAnswer": "Both drew on Enlightenment ideas, but only France's executed its own king",
+    "explanation": "Both revolutions drew on Enlightenment ideas and produced declarations of rights. The American colonists broke away from a distant king, while French revolutionaries abolished their own monarchy and executed Louis XVI in 1793.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  }
+]

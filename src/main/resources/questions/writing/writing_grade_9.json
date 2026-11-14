@@ -1,0 +1,412 @@
+[
+  {
+    "id": "writing_g9_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "L.9-10.1.A",
+    "prompt": "Which sentence demonstrates correct parallel structure?",
+    "choices": [
+      "She likes hiking, to swim, and riding bikes.",
+      "She likes hiking, swimming, and riding bikes.",
+      "She likes to hike, swimming, and to ride bikes.",
+      "She likes hiking, swimming, and to ride bikes."
+    ],
+    "correctAnswer": "She likes hiking, swimming, and riding bikes.",
+    "explanation": "Parallel structure requires items in a series to share the same grammatical form. Here all three are gerunds: hiking, swimming, riding.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "L.9-10.2.A",
+    "prompt": "Which sentence correctly uses a semicolon?",
+    "choices": [
+      "I like pizza; and hamburgers.",
+      "She went to the store after school; bought milk and bread for dinner.",
+      "The test was difficult; many students did not finish it.",
+      "Running quickly; he reached the bus."
+    ],
+    "correctAnswer": "The test was difficult; many students did not finish it.",
+    "explanation": "A semicolon links two closely related independent clauses. Each side of the semicolon must be able to stand alone as a sentence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_003",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.9-10.1.B",
+    "prompt": "Which group of words is the participial phrase in this sentence?\nExhausted from the climb, the hikers rested by the stream.",
+    "choices": [
+      "the hikers rested",
+      "by the stream",
+      "rested by the stream",
+      "Exhausted from the climb"
+    ],
+    "correctAnswer": "Exhausted from the climb",
+    "explanation": "A participial phrase begins with a participle (exhausted) and functions as an adjective; here it describes the hikers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_004",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.9-10.1.A",
+    "prompt": "Type the correct form of the verb 'write' to keep the sentence parallel: She enjoys reading novels, painting landscapes, and ___ poetry.",
+    "correctAnswer": "writing",
+    "correctAnswers": [
+      "writing"
+    ],
+    "explanation": "Items in a series must be parallel. 'Reading' and 'painting' are gerunds, so the third item must be 'writing.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g9_005",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.9-10.2.C",
+    "prompt": "Which word is spelled correctly?",
+    "choices": [
+      "necessary",
+      "neccessary",
+      "necesary",
+      "neccesary"
+    ],
+    "correctAnswer": "necessary",
+    "explanation": "'Necessary' has one c and a double s.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_006",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.2.B",
+    "prompt": "Which sentence correctly uses a colon?",
+    "choices": [
+      "The ingredients are: flour, sugar, and eggs.",
+      "She wanted one thing: a chance to prove herself.",
+      "He ran quickly: because he was late.",
+      "They traveled to: Paris, Rome, and London."
+    ],
+    "correctAnswer": "She wanted one thing: a chance to prove herself.",
+    "explanation": "A colon follows a complete independent clause and introduces a list, a quotation, or an explanation. It should not separate a verb or a preposition from its object.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_007",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.9-10.3.A",
+    "prompt": "Which in-text citation follows MLA style for a quotation from page 42 of a book by John Smith?",
+    "choices": [
+      "(Smith, 2019, p. 42)",
+      "(John Smith, page 42)",
+      "(Smith 42)",
+      "(Smith, p. 42)"
+    ],
+    "correctAnswer": "(Smith 42)",
+    "explanation": "An MLA in-text citation gives the author's last name and the page number with no comma and no 'p.' between them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.9-10.2.A",
+    "prompt": "Which sentence is punctuated correctly?",
+    "choices": [
+      "The road was closed, however, we found another route.",
+      "The road was closed however; we found another route.",
+      "The road was closed; however we, found another route.",
+      "The road was closed; however, we found another route."
+    ],
+    "correctAnswer": "The road was closed; however, we found another route.",
+    "explanation": "When a conjunctive adverb such as 'however' links two independent clauses, put a semicolon before it and a comma after it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_009",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.1.B",
+    "prompt": "In the sentence 'The scientist who discovered the fossil gave a lecture,' what is the function of the clause 'who discovered the fossil'?",
+    "choices": [
+      "It is a relative clause that modifies 'scientist.'",
+      "It is an adverbial clause that tells when the lecture happened.",
+      "It is a noun clause that acts as the subject.",
+      "It is an independent clause."
+    ],
+    "correctAnswer": "It is a relative clause that modifies 'scientist.'",
+    "explanation": "A relative (adjective) clause begins with a relative pronoun such as who, which, or that and modifies a noun.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_010",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "W.9-10.1.A",
+    "prompt": "Which is the strongest thesis statement for an argumentative essay?",
+    "choices": [
+      "Public transit systems, including buses, subways, and light rail, exist in many large cities around the world today.",
+      "Cities should invest in public transit because it reduces traffic, lowers pollution, and expands access to jobs.",
+      "This essay is about public transit.",
+      "Is public transit a good idea?"
+    ],
+    "correctAnswer": "Cities should invest in public transit because it reduces traffic, lowers pollution, and expands access to jobs.",
+    "explanation": "An argumentative thesis makes a precise, debatable claim and previews the reasons that support it. A fact, an announcement, or a question is not a claim.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_011",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "W.9-10.1.B",
+    "prompt": "Use each term from the word bank once (ethos, logos, pathos).\nA writer uses ___ to appeal to the audience's emotions, ___ to establish credibility, and ___ to present logical reasoning.",
+    "blanks": [
+      "pathos",
+      "ethos",
+      "logos"
+    ],
+    "explanation": "The three classical rhetorical appeals are pathos (emotion), ethos (credibility), and logos (logic).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g9_012",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.1.A",
+    "prompt": "Which sentences use parallel structure correctly? Select all that apply.",
+    "choices": [
+      "The coach told the players to stretch, to hydrate, and to rest.",
+      "The job requires patience, creativity, and being able to focus.",
+      "He is not only a talented singer but also a skilled dancer.",
+      "We spent the day swimming, hiking, and we fished.",
+      "The report was clear, accurate, and thorough."
+    ],
+    "correctAnswers": [
+      "The coach told the players to stretch, to hydrate, and to rest.",
+      "He is not only a talented singer but also a skilled dancer.",
+      "The report was clear, accurate, and thorough."
+    ],
+    "explanation": "Items in a series and elements joined by correlative conjunctions (not only ... but also) must have the same grammatical form.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g9_013",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.9-10.1.D",
+    "prompt": "Which sentence should be revised to maintain the formal style and objective tone of the paragraph?",
+    "passage": "(1) Health experts recommend that teenagers sleep at least eight hours each night. (2) Insufficient sleep has been linked to lower grades and slower reaction times. (3) Honestly, it's kind of crazy that schools still start so early. (4) A later start time would allow students to get the rest they need.",
+    "choices": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+    ],
+    "correctAnswer": "Sentence 3",
+    "explanation": "Academic writing maintains a formal style and objective tone. Sentence 3 uses casual wording ('Honestly,' 'kind of crazy') that does not match the rest of the paragraph.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_014",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "L.9-10.1.A",
+    "prompt": "Which revision corrects the error in parallel structure?\nThe new policy is designed to reduce waste, saving money, and to protect local wildlife.",
+    "choices": [
+      "The new policy is designed to reduce waste, saving money, and protecting local wildlife.",
+      "The new policy is designed for reducing waste, to save money, and to protect local wildlife.",
+      "The new policy is designed to reduce waste, to save money, and to protect local wildlife.",
+      "The new policy is designed to reduce waste, money is saved, and to protect local wildlife."
+    ],
+    "correctAnswer": "The new policy is designed to reduce waste, to save money, and to protect local wildlife.",
+    "explanation": "Each item in a series must have the same form. Changing 'saving money' to 'to save money' makes all three items infinitive phrases.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_015",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.9-10.2.C",
+    "prompt": "Which transition best fills the blank?",
+    "passage": "Solar panels have become far cheaper over the past decade. ______, many homeowners still hesitate to install them because of the up-front cost.",
+    "choices": [
+      "Consequently",
+      "Likewise",
+      "For example",
+      "Nevertheless"
+    ],
+    "correctAnswer": "Nevertheless",
+    "explanation": "The second sentence contrasts with what the first would lead a reader to expect, so a transition showing contrast is needed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g9_016",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.9-10.2.A",
+    "prompt": "Arrange these sentences to make a logical, well-organized paragraph.",
+    "orderedItems": [
+      "Urban trees do far more than decorate city streets.",
+      "For one thing, their shade can lower summer temperatures on the pavement beneath them.",
+      "This cooling effect, in turn, reduces the energy that nearby buildings use for air conditioning.",
+      "Trees also absorb rainwater that would otherwise flood storm drains.",
+      "Given these benefits, planting trees is one of the most practical investments a city can make."
+    ],
+    "explanation": "The topic sentence comes first, supporting ideas follow in a logical order linked by transitions (for one thing, in turn, also), and the conclusion follows from the information presented.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g9_017",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.2.B",
+    "prompt": "Which sentence is punctuated correctly?",
+    "choices": [
+      "The recipe calls for three spices: cumin, paprika, and turmeric; the rest is up to you.",
+      "The recipe calls for: cumin, paprika, and turmeric; the rest is up to you.",
+      "The recipe calls for three spices; cumin, paprika, and turmeric: the rest is up to you.",
+      "The recipe calls for three spices: cumin, paprika, and turmeric, the rest is up to you."
+    ],
+    "correctAnswer": "The recipe calls for three spices: cumin, paprika, and turmeric; the rest is up to you.",
+    "explanation": "A colon follows a complete clause to introduce a list, and a semicolon (not a comma) links two independent clauses.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  }
+]

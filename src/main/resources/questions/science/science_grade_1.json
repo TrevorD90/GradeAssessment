@@ -1,0 +1,394 @@
+[
+  {
+    "id": "science_g1_001",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "1-PS4-1",
+    "prompt": "When does a guitar string make sound?",
+    "choices": [
+      "When it shakes fast",
+      "When it is still",
+      "When it is in the dark"
+    ],
+    "correctAnswer": "When it shakes fast",
+    "explanation": "Sound is made when something shakes back and forth very fast. This is called vibrating.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "1-ESS1-1",
+    "prompt": "When can you see the Sun in the sky?",
+    "choices": [
+      "Only at night",
+      "In the daytime",
+      "Never"
+    ],
+    "correctAnswer": "In the daytime",
+    "explanation": "The Sun is in the sky during the day. It rises in the morning and sets in the evening.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_003",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "1-LS3-1",
+    "prompt": "A kitten is a baby animal. What will it look like when it grows up?",
+    "choices": [
+      "A dog",
+      "A bird",
+      "A cat"
+    ],
+    "correctAnswer": "A cat",
+    "explanation": "Young animals grow up to look like their parents. A kitten grows up to be a cat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_004",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "1-PS4-2",
+    "prompt": "You are in a room with no light at all. What can you see?",
+    "choices": [
+      "Everything",
+      "Only big things",
+      "Nothing"
+    ],
+    "correctAnswer": "Nothing",
+    "explanation": "We need light to see. With no light at all, you cannot see anything.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_005",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "1-ESS1-1",
+    "prompt": "Word bank: day, night. Fill in the blank. We can see many stars at ___.",
+    "blanks": [
+      "night"
+    ],
+    "explanation": "Stars can be seen at night when the sky is dark.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g1_006",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "1-PS4-3",
+    "prompt": "Which one lets the most light go through?",
+    "choices": [
+      "A clear glass window",
+      "A wood door",
+      "A thick book"
+    ],
+    "correctAnswer": "A clear glass window",
+    "explanation": "Clear glass lets light pass through. Wood and thick books block light.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_007",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "1-LS1-2",
+    "prompt": "A baby bird chirps loudly in the nest. Why?",
+    "choices": [
+      "To make its wings strong so it can fly",
+      "To tell its parent it is hungry",
+      "To keep the nest warm at night"
+    ],
+    "correctAnswer": "To tell its parent it is hungry",
+    "explanation": "Baby birds chirp to tell their parents they need food. Then the parent brings food. This helps the baby live.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_008",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "1-LS1-1",
+    "prompt": "Which parts help an animal stay safe? Select all that apply.",
+    "choices": [
+      "A turtle's hard shell",
+      "A porcupine's sharp quills",
+      "A dog's wagging tail",
+      "A cat's soft purr"
+    ],
+    "correctAnswers": [
+      "A turtle's hard shell",
+      "A porcupine's sharp quills"
+    ],
+    "explanation": "A hard shell and sharp quills protect animals from being hurt.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g1_009",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "1-ESS1-2",
+    "prompt": "Which season has the most hours of daylight?",
+    "choices": [
+      "Winter",
+      "Summer",
+      "Fall"
+    ],
+    "correctAnswer": "Summer",
+    "explanation": "Summer days are the longest. Winter days are the shortest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_010",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "1-PS4-3",
+    "prompt": "What makes a shadow?",
+    "choices": [
+      "Light goes through clear glass",
+      "A light is turned off",
+      "Something blocks the light"
+    ],
+    "correctAnswer": "Something blocks the light",
+    "explanation": "A shadow is a dark shape made when an object blocks light.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_011",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "1-ESS1-1",
+    "prompt": "Put the Sun's day in order, from morning to evening.",
+    "orderedItems": [
+      "The Sun rises",
+      "The Sun is high in the sky",
+      "The Sun sets"
+    ],
+    "explanation": "Each day the Sun rises in the morning, is high in the sky at midday, and sets in the evening.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g1_012",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "1-PS4-4",
+    "prompt": "Two friends are far apart. They cannot hear each other. What can they use to send a message with light?",
+    "choices": [
+      "A flashlight",
+      "A whisper",
+      "A blanket"
+    ],
+    "correctAnswer": "A flashlight",
+    "explanation": "Flashes of light can be seen from far away. People can use light to send messages.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_013",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "1-ESS1-2",
+    "prompt": "Which season had the least daylight?",
+    "passage": "Ben wrote down the hours of daylight. Winter: 9 hours. Spring: 12 hours. Summer: 15 hours. Fall: 12 hours.",
+    "choices": [
+      "Summer",
+      "Spring",
+      "Winter"
+    ],
+    "correctAnswer": "Winter",
+    "explanation": "9 hours is the smallest number. Winter had the least daylight.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_014",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "1-LS1-1",
+    "prompt": "People wear bike helmets to keep their heads safe. Which animal part works like a helmet?",
+    "choices": [
+      "A fish's fin",
+      "A turtle's shell",
+      "A bird's wing"
+    ],
+    "correctAnswer": "A turtle's shell",
+    "explanation": "A turtle's hard shell protects its body, just as a helmet protects your head. People copy ideas from animals.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_015",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "1-PS4-3",
+    "prompt": "You shine a flashlight at a mirror. What happens to the light?",
+    "choices": [
+      "It goes through the mirror",
+      "It stops and is gone",
+      "It bounces off the mirror"
+    ],
+    "correctAnswer": "It bounces off the mirror",
+    "explanation": "A mirror reflects light. The light bounces off and goes in a new direction.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_016",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "1-LS3-1",
+    "prompt": "A brown mother dog has four puppies. Two are brown, one is black, and one has spots. What does this show?",
+    "choices": [
+      "Puppies always look exactly the same as their mother",
+      "Puppies look like their parents, but not exactly",
+      "Puppies do not grow up to be dogs"
+    ],
+    "correctAnswer": "Puppies look like their parents, but not exactly",
+    "explanation": "Young animals are very much like their parents, but not exactly the same.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_g1_017",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "1-PS4-1",
+    "prompt": "Tia puts rice on a drum. She hits the drum. The rice jumps. Why?",
+    "choices": [
+      "The drum is shaking",
+      "The rice is alive",
+      "The rice is hot"
+    ],
+    "correctAnswer": "The drum is shaking",
+    "explanation": "Hitting the drum makes it vibrate (shake fast). The shaking drum makes the rice jump and also makes the sound.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  }
+]

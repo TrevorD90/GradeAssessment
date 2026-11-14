@@ -1,0 +1,360 @@
+[
+  {
+    "id": "iq_assessment_g3_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Which of these words name a feeling? Select all that apply.",
+    "choices": [
+      "happy",
+      "table",
+      "angry",
+      "scared",
+      "green"
+    ],
+    "correctAnswers": [
+      "happy",
+      "angry",
+      "scared"
+    ],
+    "explanation": "Happy, angry and scared are feelings. A table is a thing and green is a color.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g3_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 3, 6, 9, 12, ___",
+    "correctAnswer": "15",
+    "correctAnswers": [
+      "15",
+      "fifteen"
+    ],
+    "explanation": "The pattern adds 3 each time: 12 + 3 = 15.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g3_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What letter comes next? A, C, E, G, ___",
+    "choices": [
+      "H",
+      "J",
+      "K",
+      "I"
+    ],
+    "correctAnswer": "I",
+    "explanation": "The pattern skips one letter each time: A (b) C (d) E (f) G (h) I.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g3_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "The small letter b is flipped left to right, like in a mirror. Which letter does it look like now?",
+    "choices": [
+      "d",
+      "p",
+      "q",
+      "b"
+    ],
+    "correctAnswer": "d",
+    "explanation": "A left-to-right flip moves the round part of b to the other side of the tall line, which makes d.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g3_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Which list shows the letters T, C, M, H in alphabetical order?",
+    "choices": [
+      "C, M, H, T",
+      "C, H, M, T",
+      "H, C, M, T",
+      "T, M, H, C"
+    ],
+    "correctAnswer": "C, H, M, T",
+    "explanation": "In the alphabet C comes first, then H, then M, then T.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g3_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Hungry is to eat as tired is to ___",
+    "choices": [
+      "bed",
+      "yawn",
+      "sleep",
+      "night"
+    ],
+    "correctAnswer": "sleep",
+    "explanation": "When you are hungry, you fix it by eating. When you are tired, you fix it by sleeping.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g3_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "The same rule changes each first number into the second number: 2 → 6, 4 → 12, 5 → ?",
+    "choices": [
+      "9",
+      "13",
+      "20",
+      "15"
+    ],
+    "correctAnswer": "15",
+    "explanation": "The rule is multiply by 3: 2 × 3 = 6, 4 × 3 = 12, so 5 × 3 = 15.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g3_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What number comes next? 1, 2, 4, 7, 11, ___",
+    "correctAnswer": "16",
+    "correctAnswers": [
+      "16",
+      "sixteen"
+    ],
+    "explanation": "The amount added grows by one each time: +1, +2, +3, +4, so next is +5. 11 + 5 = 16.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g3_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "You are facing north. You make a quarter turn to your right. Then you make another quarter turn to your right. Which way are you facing now?",
+    "choices": [
+      "south",
+      "north",
+      "east",
+      "west"
+    ],
+    "correctAnswer": "south",
+    "explanation": "One quarter turn right from north is east. Another quarter turn right is south. Two quarter turns make a half turn, so you face the opposite way.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g3_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read these numbers: 7, 2, 9, 4. Say them backward. What is the third number you say?",
+    "choices": [
+      "9",
+      "2",
+      "7",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Backward the numbers are 4, 9, 2, 7. The third one is 2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g3_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "How are a clock and a ruler alike?",
+    "choices": [
+      "Both are made of wood",
+      "Both hang on a wall",
+      "Both are used to measure",
+      "Both make a ticking sound"
+    ],
+    "correctAnswer": "Both are used to measure",
+    "explanation": "A clock measures time and a ruler measures length, so both are tools for measuring.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g3_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "One box weighs the same as 2 balls. One ball weighs the same as 3 cubes. How many cubes weigh the same as one box?",
+    "correctAnswer": "6",
+    "correctAnswers": [
+      "6",
+      "six"
+    ],
+    "explanation": "One box = 2 balls, and each ball = 3 cubes, so one box = 2 × 3 = 6 cubes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g3_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Four children ran a race. Ana finished before Ben. Ben finished before Cal. Dee finished before Ana. Put the children in order from first place to last place.",
+    "orderedItems": [
+      "Dee",
+      "Ana",
+      "Ben",
+      "Cal"
+    ],
+    "explanation": "Dee was before Ana, Ana was before Ben, and Ben was before Cal, so the order is Dee, Ana, Ben, Cal.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g3_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A square piece of paper is folded in half, and then folded in half again. One hole is punched through all the layers near the middle of the folded paper, away from every edge and fold. How many holes are in the paper when it is unfolded?",
+    "choices": [
+      "1",
+      "2",
+      "8",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Two folds make 4 layers. One punch goes through all 4 layers, so the open sheet has 4 holes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g3_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read: 5, B, 2, A. Say the numbers first, from smallest to biggest. Then say the letters in ABC order. Which is right?",
+    "choices": [
+      "2, 5, A, B",
+      "5, 2, B, A",
+      "A, B, 2, 5",
+      "2, 5, B, A"
+    ],
+    "correctAnswer": "2, 5, A, B",
+    "explanation": "The numbers in order are 2, 5. The letters in order are A, B. Numbers first gives 2, 5, A, B.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  }
+]

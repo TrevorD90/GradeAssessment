@@ -1,0 +1,410 @@
+[
+  {
+    "id": "writing_g7_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.7.2.A",
+    "prompt": "Which sentence uses a comma correctly between adjectives?",
+    "choices": [
+      "It was a long tiring, hike.",
+      "It was a, long tiring hike.",
+      "It was a long, tiring, hike.",
+      "It was a long, tiring hike."
+    ],
+    "correctAnswer": "It was a long, tiring hike.",
+    "explanation": "Use a comma between coordinate adjectives (adjectives that could be joined by 'and' or reversed). Do not put a comma between the last adjective and the noun.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.7.1.A",
+    "prompt": "Which group of words is a dependent clause?",
+    "choices": [
+      "because the bus was late",
+      "the bus was late",
+      "late for the bus",
+      "the bus arrived"
+    ],
+    "correctAnswer": "because the bus was late",
+    "explanation": "A dependent clause has a subject and a verb but begins with a subordinating word (because), so it cannot stand alone as a sentence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_003",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.7.1.B",
+    "prompt": "Which sentence is a complex sentence?",
+    "choices": [
+      "It was raining, but we finished the game.",
+      "Although it was raining, we finished the game.",
+      "We finished the game in the rain.",
+      "It was raining; we finished the game."
+    ],
+    "correctAnswer": "Although it was raining, we finished the game.",
+    "explanation": "A complex sentence has one independent clause and at least one dependent clause.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_004",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.7.3.A",
+    "prompt": "Which sentence avoids redundancy?",
+    "choices": [
+      "The two twins arrived at 12 noon.",
+      "The twins arrived at noon in the middle of the day.",
+      "The twins arrived at noon.",
+      "Both of the two twins arrived at noon."
+    ],
+    "correctAnswer": "The twins arrived at noon.",
+    "explanation": "Redundant words repeat an idea that has already been expressed. 'Twins' already means two, and 'noon' already means 12 o'clock in the middle of the day.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_005",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.7.1.B",
+    "prompt": "A sentence made of two independent clauses joined by a comma and a coordinating conjunction, with no dependent clauses, is called a ___ sentence.",
+    "correctAnswer": "compound",
+    "correctAnswers": [
+      "compound"
+    ],
+    "explanation": "A compound sentence contains two or more independent clauses and no dependent clauses.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g7_006",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.7.1.C",
+    "prompt": "Which sentence contains a dangling modifier?",
+    "choices": [
+      "Walking to school, I got soaked by the rain.",
+      "While I was walking to school, the rain soaked my backpack.",
+      "The rain soaked my backpack as I walked to school.",
+      "Walking to school, the rain soaked my backpack."
+    ],
+    "correctAnswer": "Walking to school, the rain soaked my backpack.",
+    "explanation": "A dangling modifier has nothing logical to modify. 'Walking to school' seems to describe the rain, which cannot walk.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_007",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.7.1.C",
+    "prompt": "Which sentence places the modifier correctly?",
+    "choices": [
+      "The waiter served a steaming bowl of soup to the customer.",
+      "The waiter served a bowl of soup to the customer that was steaming.",
+      "Steaming, the waiter served a bowl of soup to the customer.",
+      "The waiter served a bowl to the customer of steaming soup."
+    ],
+    "correctAnswer": "The waiter served a steaming bowl of soup to the customer.",
+    "explanation": "Place a modifier next to the word it describes. 'Steaming' describes the bowl of soup, not the customer or the waiter.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.7.2.A",
+    "prompt": "Which sentence is punctuated correctly?",
+    "choices": [
+      "Two, tired hikers rested beside the calm, clear lake.",
+      "Two tired hikers rested beside the calm, clear lake.",
+      "Two tired hikers rested beside the calm clear, lake.",
+      "Two, tired hikers rested beside the calm clear lake."
+    ],
+    "correctAnswer": "Two tired hikers rested beside the calm, clear lake.",
+    "explanation": "Use a comma between coordinate adjectives (calm, clear). Do not use a comma after a number word (two tired), because those adjectives are not coordinate.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_009",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.7.1.B",
+    "prompt": "What type of sentence is this?\nWhen the bell rang, the students packed their bags, and the teacher erased the board.",
+    "choices": [
+      "simple",
+      "compound",
+      "compound-complex",
+      "complex"
+    ],
+    "correctAnswer": "compound-complex",
+    "explanation": "A compound-complex sentence has two or more independent clauses and at least one dependent clause ('When the bell rang').",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_010",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.7.3.A",
+    "prompt": "Which revision states the idea most concisely without changing its meaning?\nDue to the fact that it was raining, the game was postponed until a later time.",
+    "choices": [
+      "Due to the fact of rain, the game was postponed until later on in time.",
+      "The game was postponed.",
+      "Because of the fact that rain was falling, the game was postponed to a later time.",
+      "Because it was raining, the game was postponed."
+    ],
+    "correctAnswer": "Because it was raining, the game was postponed.",
+    "explanation": "Concise writing removes wordy phrases ('due to the fact that') and redundant ones ('postponed until a later time') while keeping all the ideas.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_011",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "W.7.2.C",
+    "prompt": "Use each word from the word bank once (however, knew, therefore).\nThe students ___ their research papers were due on Friday; ___, most of them started working early in the week. ___, a few students still waited until Thursday night to begin.",
+    "blanks": [
+      "knew",
+      "therefore",
+      "however"
+    ],
+    "explanation": "'Knew' is the verb the first clause needs. 'Therefore' shows a result (knowing the deadline, most started early), and 'however' introduces a contrast (a few still waited).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g7_012",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.7.1.A",
+    "prompt": "Which of these are independent clauses (groups of words that could stand alone as sentences)? Select all that apply.",
+    "choices": [
+      "the river flooded the valley",
+      "after the river flooded",
+      "she laughed",
+      "which surprised everyone",
+      "running along the shore"
+    ],
+    "correctAnswers": [
+      "the river flooded the valley",
+      "she laughed"
+    ],
+    "explanation": "An independent clause has a subject and a verb and expresses a complete thought. Clauses that begin with 'after' or 'which' are dependent, and 'running along the shore' is a phrase.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g7_013",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.7.3.A",
+    "prompt": "Which word most precisely replaces 'bad' in this sentence?\nThe bad storm knocked down power lines across the county.",
+    "choices": [
+      "severe",
+      "naughty",
+      "poor",
+      "unpleasant"
+    ],
+    "correctAnswer": "severe",
+    "explanation": "Precise language expresses the exact meaning intended. 'Severe' describes a storm strong enough to cause damage.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_014",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.7.1.A",
+    "prompt": "Which sentence best acknowledges an opposing claim?",
+    "passage": "Schools should require students to wear uniforms. Uniforms reduce pressure to buy expensive clothes, and they make it easier to identify visitors on campus.",
+    "choices": [
+      "Uniforms also save families time in the morning because students do not have to choose an outfit.",
+      "Some people argue that uniforms limit students' self-expression.",
+      "Uniforms come in many colors.",
+      "Therefore, uniforms are the best choice for every school."
+    ],
+    "correctAnswer": "Some people argue that uniforms limit students' self-expression.",
+    "explanation": "A strong argument acknowledges alternate or opposing claims. Only this sentence presents a view held by people who disagree with the writer.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_015",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.7.1.C",
+    "prompt": "Arrange these sentences to make a logical, cohesive paragraph.",
+    "orderedItems": [
+      "Many people believe that reading on a screen is just as effective as reading on paper.",
+      "However, some researchers have questioned that belief.",
+      "For example, in one experiment, students remembered more details from a printed story than from the same story on a tablet.",
+      "Results like these suggest that printed books still have a place in classrooms."
+    ],
+    "explanation": "Transitions and reference words (however, that belief, for example, results like these) create cohesion and show how each sentence relates to the one before it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g7_016",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.7.1.C",
+    "prompt": "What is the best revision of sentence 2?",
+    "passage": "(1) Our class visited the science museum last week. (2) Hanging from the ceiling, we saw the skeleton of a whale. (3) The guide explained how whales breathe. (4) We also built small robots in the workshop.",
+    "choices": [
+      "Hanging from the ceiling, the skeleton of a whale we saw.",
+      "We saw, hanging from the ceiling, and the skeleton of a whale.",
+      "We saw the skeleton of a whale hanging from the ceiling.",
+      "Hanging from the ceiling, our class saw the skeleton of a whale."
+    ],
+    "correctAnswer": "We saw the skeleton of a whale hanging from the ceiling.",
+    "explanation": "In the draft, 'Hanging from the ceiling' seems to describe 'we.' Placing the phrase next to 'skeleton of a whale' corrects the misplaced modifier.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g7_017",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.7.1.B",
+    "prompt": "A student is writing an argument about the health effects of energy drinks. Which source would be the most credible?",
+    "choices": [
+      "An advertisement from an energy drink company",
+      "A comment posted on social media by an anonymous user who says energy drinks are safe",
+      "A classmate's opinion about which drink tastes best",
+      "An article in a medical journal that was reviewed by doctors"
+    ],
+    "correctAnswer": "An article in a medical journal that was reviewed by doctors",
+    "explanation": "Arguments should be supported with evidence from accurate, credible sources. A reviewed medical journal is written and checked by experts who do not profit from selling the product.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  }
+]

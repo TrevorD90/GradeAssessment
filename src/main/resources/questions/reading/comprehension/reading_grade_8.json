@@ -1,0 +1,466 @@
+[
+  {
+    "id": "reading_g8_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.8.1",
+    "prompt": "What did Ebbinghaus memorize for his experiments?",
+    "passage": "In 1885, the German psychologist Hermann Ebbinghaus set out to measure something that seemed unmeasurable: forgetting. Using himself as the only subject, he memorized lists of meaningless syllables and then tested his recall after various intervals. His results traced a steep downward slope now known as the forgetting curve. Within an hour, he had lost more than half of what he had learned; after a day, roughly two-thirds was gone. After that, the losses slowed, and a small remainder persisted for weeks. Ebbinghaus's more hopeful discovery concerned how forgetting can be resisted. Each time he reviewed a list, the curve flattened, and the material took longer to fade. Reviews spread out over several days proved far more effective than the same amount of study crammed into a single session, a principle now called spaced repetition. Modern research has repeatedly confirmed this finding. The implication for students is uncomfortable but clear: the all-night cram session before an exam may produce a passing grade the next morning, but it builds knowledge on sand.",
+    "choices": [
+      "lines of poetry",
+      "lists of meaningless syllables",
+      "names of his students",
+      "long strings of numbers"
+    ],
+    "correctAnswer": "lists of meaningless syllables",
+    "explanation": "The passage says 'he memorized lists of meaningless syllables and then tested his recall.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.8.1",
+    "prompt": "What did Tomas have to bring up from the bottom of the pool?",
+    "passage": "The whistle shrieked, and Tomas dove. For three summers he had watched the lifeguards from his towel, envying their red suits and their easy authority, and now the only thing between him and that tall white chair was a ten-pound brick at the bottom of the deep end. He kicked downward. The water pressed against his ears, and the brick, when his fingers finally closed around it, seemed bolted to the tiles. His lungs began their familiar protest. Last year, at exactly this moment, he had let go and surfaced empty-handed, and he had spent the following twelve months telling everyone that he had not really wanted the job anyway. He thought of that lie now, how it had tasted worse than chlorine. He planted his feet against the bottom, hugged the brick to his chest, and pushed. When he broke the surface, gasping, the instructor glanced at her stopwatch and said nothing at all. She simply nodded toward the shelf where the red suits were folded.",
+    "choices": [
+      "a ten-pound brick",
+      "a whistle",
+      "a red suit",
+      "a stopwatch"
+    ],
+    "correctAnswer": "a ten-pound brick",
+    "explanation": "The passage says the only thing between him and the lifeguard chair 'was a ten-pound brick at the bottom of the deep end.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.8.1",
+    "prompt": "According to the passage, why is the diner still open?",
+    "passage": "The Harlow textile mill had once employed half the town. Now its windows stared out like hollow eyes, every pane shattered or missing. Weeds pushed through cracks in the parking lot where hundreds of cars had once lined up at shift change. On Main Street, three of every five storefronts stood empty, their faded signs advertising businesses that had closed years ago. The diner still operated, but only because old Mr. Petersen refused to retire, even though most afternoons he served more coffee to the walls than to customers.",
+    "choices": [
+      "It is always crowded with customers",
+      "The mill has reopened",
+      "Mr. Petersen refuses to retire",
+      "It is the newest business on Main Street"
+    ],
+    "correctAnswer": "Mr. Petersen refuses to retire",
+    "explanation": "The passage says the diner operated 'only because old Mr. Petersen refused to retire.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.8.4b",
+    "prompt": "The Greek root 'chron' means 'time.' Events listed in chronological order are arranged",
+    "choices": [
+      "from most to least important",
+      "alphabetically",
+      "by where they took place",
+      "in the order they happened"
+    ],
+    "correctAnswer": "in the order they happened",
+    "explanation": "Because 'chron' means 'time,' chronological order is time order: earliest to latest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "RI.8.4",
+    "prompt": "As it is used in the passage, the term 'spaced repetition' refers to",
+    "passage": "In 1885, the German psychologist Hermann Ebbinghaus set out to measure something that seemed unmeasurable: forgetting. Using himself as the only subject, he memorized lists of meaningless syllables and then tested his recall after various intervals. His results traced a steep downward slope now known as the forgetting curve. Within an hour, he had lost more than half of what he had learned; after a day, roughly two-thirds was gone. After that, the losses slowed, and a small remainder persisted for weeks. Ebbinghaus's more hopeful discovery concerned how forgetting can be resisted. Each time he reviewed a list, the curve flattened, and the material took longer to fade. Reviews spread out over several days proved far more effective than the same amount of study crammed into a single session, a principle now called spaced repetition. Modern research has repeatedly confirmed this finding. The implication for students is uncomfortable but clear: the all-night cram session before an exam may produce a passing grade the next morning, but it builds knowledge on sand.",
+    "choices": [
+      "reviewing material in sessions spread over several days",
+      "studying all of the material in one long session the night before",
+      "repeating words aloud while reading",
+      "memorizing meaningless syllables"
+    ],
+    "correctAnswer": "reviewing material in sessions spread over several days",
+    "explanation": "The passage defines the term in context: 'Reviews spread out over several days ... a principle now called spaced repetition.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RL.8.1",
+    "prompt": "What do the details in the passage reveal about the town's economic situation?",
+    "passage": "The Harlow textile mill had once employed half the town. Now its windows stared out like hollow eyes, every pane shattered or missing. Weeds pushed through cracks in the parking lot where hundreds of cars had once lined up at shift change. On Main Street, three of every five storefronts stood empty, their faded signs advertising businesses that had closed years ago. The diner still operated, but only because old Mr. Petersen refused to retire, even though most afternoons he served more coffee to the walls than to customers.",
+    "choices": [
+      "The town is thriving because new businesses are opening",
+      "The town has declined severely since the mill closed",
+      "The town has always been small and quiet",
+      "The mill was recently damaged by a storm"
+    ],
+    "correctAnswer": "The town has declined severely since the mill closed",
+    "explanation": "The mill that 'once employed half the town' is in ruins, 'three of every five storefronts stood empty,' and the diner has almost no customers. Together these details show economic decline.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RL.8.4",
+    "prompt": "What is the effect of describing the mill's windows as staring 'like hollow eyes'?",
+    "passage": "The Harlow textile mill had once employed half the town. Now its windows stared out like hollow eyes, every pane shattered or missing. Weeds pushed through cracks in the parking lot where hundreds of cars had once lined up at shift change. On Main Street, three of every five storefronts stood empty, their faded signs advertising businesses that had closed years ago. The diner still operated, but only because old Mr. Petersen refused to retire, even though most afternoons he served more coffee to the walls than to customers.",
+    "choices": [
+      "It makes the mill seem cheerful and welcoming",
+      "It suggests that someone is hiding inside the mill",
+      "It shows that the mill is being repaired",
+      "It makes the mill seem lifeless and abandoned"
+    ],
+    "correctAnswer": "It makes the mill seem lifeless and abandoned",
+    "explanation": "'Hollow eyes' suggests emptiness and death. The simile is followed by 'every pane shattered or missing,' reinforcing the sense of abandonment.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.8.2",
+    "prompt": "Which statement best expresses the central idea of the passage?",
+    "passage": "In 1885, the German psychologist Hermann Ebbinghaus set out to measure something that seemed unmeasurable: forgetting. Using himself as the only subject, he memorized lists of meaningless syllables and then tested his recall after various intervals. His results traced a steep downward slope now known as the forgetting curve. Within an hour, he had lost more than half of what he had learned; after a day, roughly two-thirds was gone. After that, the losses slowed, and a small remainder persisted for weeks. Ebbinghaus's more hopeful discovery concerned how forgetting can be resisted. Each time he reviewed a list, the curve flattened, and the material took longer to fade. Reviews spread out over several days proved far more effective than the same amount of study crammed into a single session, a principle now called spaced repetition. Modern research has repeatedly confirmed this finding. The implication for students is uncomfortable but clear: the all-night cram session before an exam may produce a passing grade the next morning, but it builds knowledge on sand.",
+    "choices": [
+      "Ebbinghaus had an unusually poor memory",
+      "Meaningless syllables are harder to learn than words",
+      "Forgetting happens quickly, but reviewing over time slows it",
+      "Cramming all night before a test is the surest way to pass an exam"
+    ],
+    "correctAnswer": "Forgetting happens quickly, but reviewing over time slows it",
+    "explanation": "The first half describes the steep 'forgetting curve'; the second half explains that spaced reviews make material 'take longer to fade.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RL.8.3",
+    "prompt": "What most motivates Tomas to hold on to the brick this time?",
+    "passage": "The whistle shrieked, and Tomas dove. For three summers he had watched the lifeguards from his towel, envying their red suits and their easy authority, and now the only thing between him and that tall white chair was a ten-pound brick at the bottom of the deep end. He kicked downward. The water pressed against his ears, and the brick, when his fingers finally closed around it, seemed bolted to the tiles. His lungs began their familiar protest. Last year, at exactly this moment, he had let go and surfaced empty-handed, and he had spent the following twelve months telling everyone that he had not really wanted the job anyway. He thought of that lie now, how it had tasted worse than chlorine. He planted his feet against the bottom, hugged the brick to his chest, and pushed. When he broke the surface, gasping, the instructor glanced at her stopwatch and said nothing at all. She simply nodded toward the shelf where the red suits were folded.",
+    "choices": [
+      "He does not want to repeat last year's failure and the excuses that followed",
+      "The instructor is shouting at him from the deck",
+      "He wants to beat another swimmer's time",
+      "He is afraid he will be banned from the pool"
+    ],
+    "correctAnswer": "He does not want to repeat last year's failure and the excuses that followed",
+    "explanation": "At the moment he let go last year, Tomas recalls the 'lie' that he had not wanted the job and 'how it had tasted worse than chlorine.' Right after that thought, he plants his feet and pushes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.8.4a",
+    "prompt": "Word bank: interval, implication, remainder. Use each word only once. After a short ___ of ten minutes, the second half of the concert began. She did not say I was wrong, but the ___ of her frown was clear.",
+    "blanks": [
+      "interval",
+      "implication"
+    ],
+    "explanation": "An interval is a period of time between two events. An implication is something suggested without being said directly.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g8_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.8.5a",
+    "prompt": "After his team lost 9-0, the coach said, 'Well, that went perfectly.' The coach's remark is an example of",
+    "choices": [
+      "personification",
+      "verbal irony",
+      "alliteration",
+      "onomatopoeia"
+    ],
+    "correctAnswer": "verbal irony",
+    "explanation": "Verbal irony is saying the opposite of what is meant. A 9-0 loss did not go 'perfectly.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.8.3",
+    "prompt": "Read: Last summer, Tomas let go of the brick and failed the lifeguard test. For a year he told people he had never wanted the job. This summer he dove again, gripped the brick, and pushed off the bottom. When he surfaced, the instructor nodded toward the red suits. Put the events in the order they happened.",
+    "orderedItems": [
+      "Tomas fails the lifeguard test",
+      "Tomas tells people he never wanted the job",
+      "Tomas dives again and grips the brick",
+      "The instructor nods toward the red suits"
+    ],
+    "explanation": "Chronologically, the failure and the year of excuses come before this summer's dive and the instructor's nod.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g8_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RL.8.4",
+    "prompt": "How does the extended metaphor of a chess game develop the passage's central idea?",
+    "passage": "Negotiations between the two nations had become a chess game played in slow motion. Each diplomatic note was a pawn pushed forward with calculated precision, testing the opponent's response. The trade embargo was a bishop cutting diagonally across the board, threatening positions that seemed secure. When the smaller nation unexpectedly formed an alliance with a neighboring power, it was a knight's move -- surprising, indirect, and suddenly putting the larger nation's king in check. The diplomats on both sides understood that in this game, there were no spare pieces. Every move spent a resource that could not be recovered.",
+    "choices": [
+      "It suggests that diplomacy is a trivial game that politicians play for fun",
+      "It implies that one nation is clearly winning and the other is losing",
+      "It shows that diplomacy involves calculated moves, each of which carries a permanent cost",
+      "It shows that diplomacy follows predictable, rule-based patterns that lead to guaranteed outcomes"
+    ],
+    "correctAnswer": "It shows that diplomacy involves calculated moves, each of which carries a permanent cost",
+    "explanation": "Each diplomatic act is a deliberate chess move, and the passage ends, 'Every move spent a resource that could not be recovered,' stressing lasting consequences.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.8.1",
+    "prompt": "What does the comparison to 'a knight's move' suggest about the smaller nation's alliance?",
+    "passage": "Negotiations between the two nations had become a chess game played in slow motion. Each diplomatic note was a pawn pushed forward with calculated precision, testing the opponent's response. The trade embargo was a bishop cutting diagonally across the board, threatening positions that seemed secure. When the smaller nation unexpectedly formed an alliance with a neighboring power, it was a knight's move -- surprising, indirect, and suddenly putting the larger nation's king in check. The diplomats on both sides understood that in this game, there were no spare pieces. Every move spent a resource that could not be recovered.",
+    "choices": [
+      "It was unexpected and put sudden pressure on the larger nation",
+      "It broke the rules of diplomacy",
+      "It was a careless mistake that left the smaller nation weaker than before",
+      "It ended the negotiations peacefully"
+    ],
+    "correctAnswer": "It was unexpected and put sudden pressure on the larger nation",
+    "explanation": "The passage calls the move 'surprising, indirect, and suddenly putting the larger nation's king in check' -- an unforeseen threat to the stronger side.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.8.4",
+    "prompt": "What does the phrase 'builds knowledge on sand' imply about cramming?",
+    "passage": "In 1885, the German psychologist Hermann Ebbinghaus set out to measure something that seemed unmeasurable: forgetting. Using himself as the only subject, he memorized lists of meaningless syllables and then tested his recall after various intervals. His results traced a steep downward slope now known as the forgetting curve. Within an hour, he had lost more than half of what he had learned; after a day, roughly two-thirds was gone. After that, the losses slowed, and a small remainder persisted for weeks. Ebbinghaus's more hopeful discovery concerned how forgetting can be resisted. Each time he reviewed a list, the curve flattened, and the material took longer to fade. Reviews spread out over several days proved far more effective than the same amount of study crammed into a single session, a principle now called spaced repetition. Modern research has repeatedly confirmed this finding. The implication for students is uncomfortable but clear: the all-night cram session before an exam may produce a passing grade the next morning, but it builds knowledge on sand.",
+    "choices": [
+      "It is a dishonest way to study",
+      "It takes more time than other methods",
+      "It works only for difficult subjects",
+      "It produces learning that will not last"
+    ],
+    "correctAnswer": "It produces learning that will not last",
+    "explanation": "Something built on sand has no firm foundation. The passage says cramming may bring 'a passing grade the next morning,' but the forgetting curve shows the material fades quickly.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RL.8.3",
+    "prompt": "What does the instructor's nod toward the red suits reveal?",
+    "passage": "The whistle shrieked, and Tomas dove. For three summers he had watched the lifeguards from his towel, envying their red suits and their easy authority, and now the only thing between him and that tall white chair was a ten-pound brick at the bottom of the deep end. He kicked downward. The water pressed against his ears, and the brick, when his fingers finally closed around it, seemed bolted to the tiles. His lungs began their familiar protest. Last year, at exactly this moment, he had let go and surfaced empty-handed, and he had spent the following twelve months telling everyone that he had not really wanted the job anyway. He thought of that lie now, how it had tasted worse than chlorine. He planted his feet against the bottom, hugged the brick to his chest, and pushed. When he broke the surface, gasping, the instructor glanced at her stopwatch and said nothing at all. She simply nodded toward the shelf where the red suits were folded.",
+    "choices": [
+      "She is disappointed in his time",
+      "Tomas has passed the test",
+      "She did not see him surface",
+      "Tomas must try again tomorrow"
+    ],
+    "correctAnswer": "Tomas has passed the test",
+    "explanation": "Lifeguards wear the red suits Tomas has envied. By nodding toward them without a word, the instructor shows he has earned one.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.8.4",
+    "prompt": "What does the phrase 'how it had tasted worse than chlorine' suggest about Tomas?",
+    "passage": "The whistle shrieked, and Tomas dove. For three summers he had watched the lifeguards from his towel, envying their red suits and their easy authority, and now the only thing between him and that tall white chair was a ten-pound brick at the bottom of the deep end. He kicked downward. The water pressed against his ears, and the brick, when his fingers finally closed around it, seemed bolted to the tiles. His lungs began their familiar protest. Last year, at exactly this moment, he had let go and surfaced empty-handed, and he had spent the following twelve months telling everyone that he had not really wanted the job anyway. He thought of that lie now, how it had tasted worse than chlorine. He planted his feet against the bottom, hugged the brick to his chest, and pushed. When he broke the surface, gasping, the instructor glanced at her stopwatch and said nothing at all. She simply nodded toward the shelf where the red suits were folded.",
+    "choices": [
+      "He swallowed pool water during last year's test",
+      "He dislikes the smell of the pool",
+      "He was ashamed of pretending that he did not care",
+      "He lied to the instructor about his age"
+    ],
+    "correctAnswer": "He was ashamed of pretending that he did not care",
+    "explanation": "The 'it' is 'that lie' -- telling everyone he had not wanted the job. Describing it as a bad taste shows how much the pretense bothered him.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g8_018",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.8.8",
+    "prompt": "A writer claims that the school library should stay open until 6 p.m. Which statements are RELEVANT evidence for this claim? Select all that apply.",
+    "choices": [
+      "In a school survey, 4 in 10 students said they have no quiet place to study at home.",
+      "The school library has blue carpet and tall windows.",
+      "The nearest public library closes at 4 p.m. on weekdays.",
+      "The librarian has worked at the school for twenty years.",
+      "Students who stay for sports practice cannot currently borrow books after 3 p.m."
+    ],
+    "correctAnswers": [
+      "In a school survey, 4 in 10 students said they have no quiet place to study at home.",
+      "The nearest public library closes at 4 p.m. on weekdays.",
+      "Students who stay for sports practice cannot currently borrow books after 3 p.m."
+    ],
+    "explanation": "The survey, the early closing of the public library, and athletes' lack of access all show a need for longer hours. The carpet and the librarian's years of service have nothing to do with the hours.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.0
+    }
+  }
+]

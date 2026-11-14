@@ -1,0 +1,386 @@
+[
+  {
+    "id": "world_history_g3_001",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.4.3-5",
+    "prompt": "The ___ River gave the ancient Egyptians water for farming and a way to travel by boat.",
+    "correctAnswer": "Nile",
+    "correctAnswers": [
+      "Nile",
+      "the Nile"
+    ],
+    "explanation": "The Nile River flows through Egypt. Its yearly floods left rich soil along its banks, and boats carried people and goods along it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g3_002",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "What were the kings of ancient Egypt called?",
+    "choices": [
+      "Emperors",
+      "Pharaohs",
+      "Presidents",
+      "Knights"
+    ],
+    "correctAnswer": "Pharaohs",
+    "explanation": "The rulers of ancient Egypt were called pharaohs. Egyptians believed the pharaoh was connected to the gods.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_003",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.2.3-5",
+    "prompt": "Early people who moved from place to place to hunt animals and collect wild plants are called what?",
+    "choices": [
+      "Merchants and traders",
+      "Pharaohs",
+      "Scribes",
+      "Hunter-gatherers"
+    ],
+    "correctAnswer": "Hunter-gatherers",
+    "explanation": "Hunter-gatherers got food by hunting animals and gathering wild plants. They moved often to follow food sources.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.1.3-5",
+    "prompt": "What does a timeline show?",
+    "choices": [
+      "Events in the order they happened",
+      "The distance between cities",
+      "How tall mountains are",
+      "The weather for a week"
+    ],
+    "correctAnswer": "Events in the order they happened",
+    "explanation": "A timeline places events in order by date so we can see what happened earlier and later.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "The ancient Egyptians used a writing system made of pictures and symbols. What is it called?",
+    "choices": [
+      "Cursive",
+      "Braille",
+      "Hieroglyphs",
+      "Morse code"
+    ],
+    "correctAnswer": "Hieroglyphs",
+    "explanation": "Egyptian writing used picture-symbols called hieroglyphs. They were carved on stone and written on papyrus.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.14.3-5",
+    "prompt": "What was one major effect of the development of farming on early people?",
+    "choices": [
+      "People began to move from place to place more often",
+      "People could settle down in permanent villages",
+      "People stopped using tools",
+      "People no longer needed water"
+    ],
+    "correctAnswer": "People could settle down in permanent villages",
+    "explanation": "Farming let people grow food in one place instead of moving to find it. This led to permanent villages and, later, cities.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.9.3-5",
+    "prompt": "Which of these is a primary source about ancient Egypt?",
+    "choices": [
+      "A textbook chapter about Egypt written last year",
+      "A new movie about mummies",
+      "A wall painting made by ancient Egyptians",
+      "A website about the pyramids made by a third-grade class"
+    ],
+    "correctAnswer": "A wall painting made by ancient Egyptians",
+    "explanation": "A primary source was made at the time by people who were there. A wall painting made by ancient Egyptians is a primary source; the others were made long afterward.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_008",
+    "subject": "WORLD_HISTORY",
+    "type": "CLOZE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.4.3-5",
+    "prompt": "Use the word bank: Tigris, farming, Mesopotamia. The land between the ___ and Euphrates rivers was called ___. The rich soil there was good for ___.",
+    "blanks": [
+      "Tigris",
+      "Mesopotamia",
+      "farming"
+    ],
+    "explanation": "Mesopotamia means \"land between the rivers.\" It lay between the Tigris and Euphrates rivers, where rich soil made farming possible.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g3_009",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.2.3-5",
+    "prompt": "Which of these did early people do BEFORE farming began? Select all that apply.",
+    "choices": [
+      "Hunted wild animals",
+      "Gathered wild plants",
+      "Shopped at markets in big cities",
+      "Made tools from stone",
+      "Wrote books"
+    ],
+    "correctAnswers": [
+      "Hunted wild animals",
+      "Gathered wild plants",
+      "Made tools from stone"
+    ],
+    "explanation": "Before farming, people hunted, gathered wild plants and made stone tools. Cities, markets and writing came only after farming.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g3_010",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.14.3-5",
+    "prompt": "Why did the yearly flooding of the Nile help Egyptian farmers?",
+    "choices": [
+      "It washed away all the weeds from the fields forever",
+      "It made the desert colder",
+      "It filled the pyramids and temples with cool, fresh water",
+      "It left behind rich soil for growing crops"
+    ],
+    "correctAnswer": "It left behind rich soil for growing crops",
+    "explanation": "Each year the Nile flooded and left a layer of dark, rich soil called silt. Farmers planted crops in it after the water went down.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_011",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.16.3-5",
+    "prompt": "Based on the passage, what was cuneiform used for in Mesopotamia?",
+    "passage": "Mesopotamia was located between the Tigris and Euphrates rivers in what is now Iraq. The people there invented one of the earliest writing systems, called cuneiform. They pressed wedge-shaped marks into soft clay tablets to keep records of trade, laws and stories.",
+    "choices": [
+      "To decorate pottery",
+      "To keep records of trade, laws and stories",
+      "To send secret messages to enemies in other lands",
+      "To teach children how to draw"
+    ],
+    "correctAnswer": "To keep records of trade, laws and stories",
+    "explanation": "The passage says people pressed marks into clay tablets to keep records of trade, laws and stories.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_012",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.1.3-5",
+    "prompt": "Put these stages in the story of early people in order from earliest to latest.",
+    "orderedItems": [
+      "People live as hunter-gatherers",
+      "People begin farming and settle in villages",
+      "Large cities with kings and writing grow"
+    ],
+    "explanation": "People lived as hunter-gatherers for a very long time. Farming began more than 10,000 years ago and led to villages; cities with rulers and writing appeared thousands of years after that.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g3_013",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.2.3-5",
+    "prompt": "How was the life of a hunter-gatherer child most different from the life of a child in an early farming village?",
+    "choices": [
+      "The hunter-gatherer child's group moved often to find food",
+      "The hunter-gatherer child went to a large stone school every day",
+      "The farming child never ate plants",
+      "The farming child lived in a tall apartment building in a city"
+    ],
+    "correctAnswer": "The hunter-gatherer child's group moved often to find food",
+    "explanation": "Hunter-gatherer groups moved from camp to camp following animals and ripening plants, while farming families stayed near their fields.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_014",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.14.3-5",
+    "prompt": "Farmers in early river valleys began to grow more food than their own families needed. What was one result?",
+    "choices": [
+      "Everyone had to go back to hunting and gathering wild food",
+      "People stopped living near rivers",
+      "Some people could do other jobs, such as making pottery",
+      "Villages became smaller"
+    ],
+    "correctAnswer": "Some people could do other jobs, such as making pottery",
+    "explanation": "Extra food (a surplus) meant not everyone had to farm. Some people became potters, builders, weavers, traders or priests.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_015",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.His.16.3-5",
+    "prompt": "Archaeologists dig up a 5,000-year-old clay pot decorated with pictures of boats. What can they most reasonably conclude?",
+    "choices": [
+      "The people who made it had airplanes",
+      "The pot was made last year",
+      "The people could not make anything from clay",
+      "The people who made it knew about boats"
+    ],
+    "correctAnswer": "The people who made it knew about boats",
+    "explanation": "People draw what they know. Pictures of boats are evidence that the pot's makers knew about boats and probably used them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g3_016",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.2.3-5",
+    "prompt": "Ancient Egypt and Mesopotamia were alike in which way?",
+    "choices": [
+      "Both were built on small islands far out in the ocean",
+      "Both grew up along rivers that made farming possible",
+      "Both were ruled by pharaohs",
+      "Both built the Great Wall"
+    ],
+    "correctAnswer": "Both grew up along rivers that made farming possible",
+    "explanation": "Egypt grew along the Nile and Mesopotamia along the Tigris and Euphrates. In both places, river water and rich soil supported farming and cities.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  }
+]

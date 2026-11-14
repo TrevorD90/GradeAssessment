@@ -1,0 +1,438 @@
+[
+  {
+    "id": "reading_g2_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.2.1",
+    "prompt": "What was the weather like at recess?",
+    "passage": "It was raining hard at recess. Maya had her big blue umbrella. She noticed a new girl standing alone by the door, getting wet. The girl looked nervous and did not know anyone yet. Maya walked over and held the umbrella over both of them. 'I'm Maya,' she said. 'Want to walk together?' The new girl smiled and said, 'I'm Sofia. Thank you!'",
+    "choices": [
+      "sunny",
+      "snowy",
+      "rainy",
+      "windy"
+    ],
+    "correctAnswer": "rainy",
+    "explanation": "The first sentence says, 'It was raining hard at recess.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.2.1",
+    "prompt": "What is a group of ants called?",
+    "passage": "Ants are small, but they are very strong. An ant can carry things that are much heavier than its own body. Ants live together in a group called a colony. Each ant has a job. Some ants dig tunnels. Some ants find food. Other ants take care of the baby ants. The queen ant lays all the eggs. By working together, the ants keep the colony safe and fed.",
+    "choices": [
+      "a colony",
+      "a nest",
+      "a team",
+      "a tunnel"
+    ],
+    "correctAnswer": "a colony",
+    "explanation": "The passage says, 'Ants live together in a group called a colony.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.2.1",
+    "prompt": "Where should you put the cup?",
+    "passage": "You can grow a bean plant at home. First, fill a cup with soil. Next, push a bean seed into the soil with your finger. Then, pour in a little water. Put the cup by a sunny window. Water the seed every few days. In about a week, a tiny green sprout will pop up. Soon it will grow leaves.",
+    "choices": [
+      "in a dark kitchen closet",
+      "by a sunny window",
+      "in the refrigerator",
+      "under a bed"
+    ],
+    "correctAnswer": "by a sunny window",
+    "explanation": "The directions say, 'Put the cup by a sunny window.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.2.5b",
+    "prompt": "Which word means almost the same as 'happy'?",
+    "choices": [
+      "angry",
+      "sleepy",
+      "afraid",
+      "glad"
+    ],
+    "correctAnswer": "glad",
+    "explanation": "Glad and happy both mean feeling good or pleased.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.2.1",
+    "prompt": "Where did Rabbit hide the carrots?",
+    "passage": "Rabbit found ten carrots in the field. 'These are all mine,' he said. He hid them under a bush and did not tell his friends. That night it rained hard. In the morning, the carrots were soft and rotten. Rabbit was sad. Then Squirrel came by with a basket of nuts. 'Have some of mine,' she said. Rabbit ate the nuts and felt ashamed. The next day he found more carrots. This time he gave some to every friend.",
+    "choices": [
+      "in a basket",
+      "in a hole",
+      "in his house",
+      "under a bush"
+    ],
+    "correctAnswer": "under a bush",
+    "explanation": "The story says, 'He hid them under a bush.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RL.2.3",
+    "prompt": "Why did Maya share her umbrella with the new girl?",
+    "passage": "It was raining hard at recess. Maya had her big blue umbrella. She noticed a new girl standing alone by the door, getting wet. The girl looked nervous and did not know anyone yet. Maya walked over and held the umbrella over both of them. 'I'm Maya,' she said. 'Want to walk together?' The new girl smiled and said, 'I'm Sofia. Thank you!'",
+    "choices": [
+      "Because the teacher told her to",
+      "Because the new girl was her best friend",
+      "Because the new girl was alone and getting wet",
+      "Because Maya did not want her umbrella"
+    ],
+    "correctAnswer": "Because the new girl was alone and getting wet",
+    "explanation": "Maya noticed the new girl 'standing alone by the door, getting wet,' so she walked over to share the umbrella.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.2.2",
+    "prompt": "What is the main idea of this passage?",
+    "passage": "Ants are small, but they are very strong. An ant can carry things that are much heavier than its own body. Ants live together in a group called a colony. Each ant has a job. Some ants dig tunnels. Some ants find food. Other ants take care of the baby ants. The queen ant lays all the eggs. By working together, the ants keep the colony safe and fed.",
+    "choices": [
+      "Ants are strong and work together in a colony",
+      "The queen ant is bigger than the other ants",
+      "Ants like to dig long tunnels",
+      "Ants are pests inside houses"
+    ],
+    "correctAnswer": "Ants are strong and work together in a colony",
+    "explanation": "The passage begins by saying ants are strong and ends by saying they work together to keep the colony safe and fed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.2.3",
+    "prompt": "Read: To make a bird feeder, Jo first tied a string to a pine cone. Next, she spread peanut butter on it. Then she rolled it in seeds. Last, she hung it in a tree. Put the steps in the order Jo did them.",
+    "orderedItems": [
+      "Tie a string to the pine cone",
+      "Spread peanut butter on it",
+      "Roll it in seeds",
+      "Hang it in a tree"
+    ],
+    "explanation": "The words first, next, then, and last show the order: string, peanut butter, seeds, hang in a tree.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g2_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.2.4a",
+    "prompt": "Word bank: loud, tiny, brave. Use each word only once. The ant was so ___ that I needed a magnifying glass to see it. The thunder was so ___ that it woke the baby.",
+    "blanks": [
+      "tiny",
+      "loud"
+    ],
+    "explanation": "Something you need a magnifying glass to see is tiny. Thunder that wakes a baby is loud.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g2_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.2.3",
+    "prompt": "What should you do right after you push the bean seed into the soil?",
+    "passage": "You can grow a bean plant at home. First, fill a cup with soil. Next, push a bean seed into the soil with your finger. Then, pour in a little water. Put the cup by a sunny window. Water the seed every few days. In about a week, a tiny green sprout will pop up. Soon it will grow leaves.",
+    "choices": [
+      "Fill a cup with soil",
+      "Pour in a little water",
+      "Wait for leaves to grow",
+      "Pick the tiny green sprout"
+    ],
+    "correctAnswer": "Pour in a little water",
+    "explanation": "After 'Next, push a bean seed into the soil,' the directions say, 'Then, pour in a little water.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.2.4b",
+    "prompt": "The prefix 're-' means 'again.' Dad had to reheat the soup. What does reheat mean?",
+    "choices": [
+      "not heat",
+      "heat before",
+      "heat again",
+      "stop heating"
+    ],
+    "correctAnswer": "heat again",
+    "explanation": "Because 're-' means 'again,' reheat means to heat again.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.2.1",
+    "prompt": "Read: Penguins are birds, but they cannot fly. They use their wings to swim fast under the water. Thick feathers keep them warm in the icy cold. Which statements are true according to the text? Select all that apply.",
+    "choices": [
+      "Penguins cannot fly",
+      "Penguins live in hot deserts",
+      "Penguins have thin fur",
+      "Penguins use their wings to swim"
+    ],
+    "correctAnswers": [
+      "Penguins cannot fly",
+      "Penguins use their wings to swim"
+    ],
+    "explanation": "The text says penguins 'cannot fly' and 'use their wings to swim.' It says they have thick feathers and live in icy cold, not thin fur or hot deserts.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g2_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.2.3",
+    "prompt": "Why did Rabbit feel ashamed when he ate the nuts?",
+    "passage": "Rabbit found ten carrots in the field. 'These are all mine,' he said. He hid them under a bush and did not tell his friends. That night it rained hard. In the morning, the carrots were soft and rotten. Rabbit was sad. Then Squirrel came by with a basket of nuts. 'Have some of mine,' she said. Rabbit ate the nuts and felt ashamed. The next day he found more carrots. This time he gave some to every friend.",
+    "choices": [
+      "He had eaten too many of Squirrel's nuts",
+      "Squirrel had found and taken his hidden carrots",
+      "He did not like the taste of Squirrel's nuts at all",
+      "Squirrel shared with him, but he did not share"
+    ],
+    "correctAnswer": "Squirrel shared with him, but he did not share",
+    "explanation": "Rabbit kept all ten carrots and 'did not tell his friends,' but Squirrel freely said, 'Have some of mine.' Her kindness made him feel bad about not sharing.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.2.2",
+    "prompt": "What lesson does Rabbit learn in this story?",
+    "passage": "Rabbit found ten carrots in the field. 'These are all mine,' he said. He hid them under a bush and did not tell his friends. That night it rained hard. In the morning, the carrots were soft and rotten. Rabbit was sad. Then Squirrel came by with a basket of nuts. 'Have some of mine,' she said. Rabbit ate the nuts and felt ashamed. The next day he found more carrots. This time he gave some to every friend.",
+    "choices": [
+      "It is good to share with your friends",
+      "Carrots must always be kept dry when it rains",
+      "Nuts taste much better than carrots do",
+      "Friends should not visit after it rains"
+    ],
+    "correctAnswer": "It is good to share with your friends",
+    "explanation": "The hidden carrots rotted, and Squirrel's sharing made Rabbit ashamed. The next time, 'he gave some to every friend,' which shows he learned to share.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RI.2.8",
+    "prompt": "Which sentence from the passage best supports the idea that ants are strong?",
+    "passage": "Ants are small, but they are very strong. An ant can carry things that are much heavier than its own body. Ants live together in a group called a colony. Each ant has a job. Some ants dig tunnels. Some ants find food. Other ants take care of the baby ants. The queen ant lays all the eggs. By working together, the ants keep the colony safe and fed.",
+    "choices": [
+      "Ants live together in a group called a colony.",
+      "The queen ant lays all the eggs.",
+      "An ant can carry things that are much heavier than its own body.",
+      "Some ants dig tunnels."
+    ],
+    "correctAnswer": "An ant can carry things that are much heavier than its own body.",
+    "explanation": "Carrying things much heavier than its own body is the detail that shows an ant's strength.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.2.3",
+    "prompt": "Which word best describes Maya?",
+    "passage": "It was raining hard at recess. Maya had her big blue umbrella. She noticed a new girl standing alone by the door, getting wet. The girl looked nervous and did not know anyone yet. Maya walked over and held the umbrella over both of them. 'I'm Maya,' she said. 'Want to walk together?' The new girl smiled and said, 'I'm Sofia. Thank you!'",
+    "choices": [
+      "shy",
+      "kind",
+      "bossy",
+      "silly"
+    ],
+    "correctAnswer": "kind",
+    "explanation": "Maya noticed someone who was alone and getting wet, shared her umbrella, and offered to walk together. These actions show she is kind.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g2_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.2.6",
+    "prompt": "Why did the author write this passage?",
+    "passage": "You can grow a bean plant at home. First, fill a cup with soil. Next, push a bean seed into the soil with your finger. Then, pour in a little water. Put the cup by a sunny window. Water the seed every few days. In about a week, a tiny green sprout will pop up. Soon it will grow leaves.",
+    "choices": [
+      "to tell a funny story about a bean",
+      "to get readers to eat more beans",
+      "to describe many kinds of seeds",
+      "to explain how to grow a bean plant"
+    ],
+    "correctAnswer": "to explain how to grow a bean plant",
+    "explanation": "The passage begins, 'You can grow a bean plant at home,' and then gives steps in order, so its purpose is to explain how.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  }
+]

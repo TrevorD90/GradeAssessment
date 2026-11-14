@@ -1,0 +1,363 @@
+[
+  {
+    "id": "iq_assessment_g5_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Three of these words belong to the same group. Which three? Select all that apply.",
+    "choices": [
+      "hour",
+      "mile",
+      "minute",
+      "pound",
+      "second"
+    ],
+    "correctAnswers": [
+      "hour",
+      "minute",
+      "second"
+    ],
+    "explanation": "Hour, minute and second all measure time. A mile measures distance and a pound measures weight.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g5_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 81, 27, 9, 3, ___",
+    "correctAnswer": "1",
+    "correctAnswers": [
+      "1",
+      "one"
+    ],
+    "explanation": "Each number is the one before it divided by 3: 3 ÷ 3 = 1.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g5_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "All squares are rectangles. All rectangles have four sides. Which statement must be true?",
+    "choices": [
+      "All rectangles are squares",
+      "All squares have four sides",
+      "All four-sided shapes are squares",
+      "All four-sided shapes are rectangles"
+    ],
+    "correctAnswer": "All squares have four sides",
+    "explanation": "Squares are inside the group of rectangles, and every rectangle has four sides, so every square has four sides. The other statements reverse the direction of a rule.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A sheet of paper is folded in half three times in a row. How many layers thick is the folded paper?",
+    "choices": [
+      "3",
+      "6",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "8",
+    "explanation": "Each fold doubles the layers: 2, then 4, then 8.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read these numbers: 5, 9, 2, 7, 4. Say them backward. What is the second number you say?",
+    "choices": [
+      "9",
+      "2",
+      "4",
+      "7"
+    ],
+    "correctAnswer": "7",
+    "explanation": "Backward the numbers are 4, 7, 2, 9, 5. The second one is 7.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Thermometer is to temperature as scale is to ___",
+    "choices": [
+      "weight",
+      "heat",
+      "balance",
+      "kitchen"
+    ],
+    "correctAnswer": "weight",
+    "explanation": "A thermometer is the tool that measures temperature. A scale is the tool that measures weight.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next in the sequence? 1, 4, 9, 16, 25, ___",
+    "correctAnswer": "36",
+    "correctAnswers": [
+      "36",
+      "thirty-six",
+      "thirty six"
+    ],
+    "explanation": "The amounts added are 3, 5, 7, 9, so the next is 11: 25 + 11 = 36. These are also the square numbers 1×1, 2×2, ... 6×6.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g5_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "A grid has three rows. Row 1: circle, square, triangle. Row 2: square, triangle, circle. Row 3: triangle, ___, square. Each shape appears once in every row and once in every column. Which shape is missing?",
+    "choices": [
+      "triangle",
+      "circle",
+      "square",
+      "diamond"
+    ],
+    "correctAnswer": "circle",
+    "explanation": "Row 3 already has a triangle and a square, so the missing shape is a circle. The middle column (square, triangle, circle) confirms it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Dan walks 3 blocks north, then 2 blocks east, then 3 blocks south. Where is he compared with where he started?",
+    "choices": [
+      "2 blocks west",
+      "8 blocks north",
+      "2 blocks east",
+      "3 blocks south"
+    ],
+    "correctAnswer": "2 blocks east",
+    "explanation": "The 3 blocks north and 3 blocks south cancel out. Only the 2 blocks east are left.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read: T, 6, B, 3, M, 9. Say the numbers from smallest to largest, then the letters in alphabetical order. Which is right?",
+    "choices": [
+      "3, 6, 9, B, T, M",
+      "B, M, T, 3, 6, 9",
+      "9, 6, 3, B, M, T",
+      "3, 6, 9, B, M, T"
+    ],
+    "correctAnswer": "3, 6, 9, B, M, T",
+    "explanation": "The numbers in order are 3, 6, 9 and the letters in order are B, M, T.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "How are a key and a password alike?",
+    "choices": [
+      "Both control who can get in",
+      "Both are made of strong metal",
+      "Both are typed on a keyboard",
+      "Both fit easily in your pocket"
+    ],
+    "correctAnswer": "Both control who can get in",
+    "explanation": "A key opens a lock and a password opens an account. Both control who is allowed in.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "On a balance, 2 stars weigh the same as 6 moons. 1 moon weighs the same as 2 suns. How many suns weigh the same as 1 star?",
+    "choices": [
+      "3",
+      "6",
+      "4",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "explanation": "2 stars = 6 moons, so 1 star = 3 moons. Each moon = 2 suns, so 1 star = 3 × 2 = 6 suns.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Four students sit in a row of four seats. Ben sits immediately to the right of Ava. Cam sits somewhere to the left of Ava. Dee does not sit at either end of the row. Put the students in order from left to right.",
+    "orderedItems": [
+      "Cam",
+      "Dee",
+      "Ava",
+      "Ben"
+    ],
+    "explanation": "Ava cannot be in seat 1 because Cam is to her left. If Ava and Ben took seats 2 and 3, Dee would be forced to an end seat. So Ava and Ben take seats 3 and 4, Dee must take seat 2 (not an end), and Cam takes seat 1.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g5_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A round clock with hands shows 3:00. You look at the clock in an ordinary wall mirror that faces it. What time does the mirror image seem to show?",
+    "choices": [
+      "3:00",
+      "6:00",
+      "9:00",
+      "12:00"
+    ],
+    "correctAnswer": "9:00",
+    "explanation": "A mirror swaps left and right. The hour hand pointing right at the 3 appears to point left at the 9, while the minute hand at 12 stays at the top.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g5_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Put the letters of the word GARDEN in alphabetical order. Which is correct?",
+    "choices": [
+      "ADGENR",
+      "ADEGRN",
+      "AEDGNR",
+      "ADEGNR"
+    ],
+    "correctAnswer": "ADEGNR",
+    "explanation": "In alphabetical order the letters G, A, R, D, E, N become A, D, E, G, N, R.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  }
+]

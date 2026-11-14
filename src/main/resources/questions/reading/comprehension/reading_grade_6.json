@@ -1,0 +1,463 @@
+[
+  {
+    "id": "reading_g6_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.6.1",
+    "prompt": "According to the passage, what did the students do right after the announcement?",
+    "passage": "After the announcement, nobody spoke. The silence was a thick blanket draped over the entire auditorium. Students glanced at one another with wide eyes. A few shifted uncomfortably in their seats. The principal stood at the podium, waiting for the weight of the news to settle before continuing.",
+    "choices": [
+      "They glanced at one another with wide eyes",
+      "They cheered and clapped",
+      "They hurried out of the auditorium",
+      "They began asking the principal questions"
+    ],
+    "correctAnswer": "They glanced at one another with wide eyes",
+    "explanation": "The passage says 'nobody spoke' and 'Students glanced at one another with wide eyes.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.6.1",
+    "prompt": "What does the length of the straight run in the waggle dance tell the other bees?",
+    "passage": "When a honeybee discovers a rich patch of flowers, she cannot simply tell her sisters where to find it. Instead, she dances. Back inside the dark hive, the forager performs what scientists call the waggle dance. She runs forward in a straight line while shaking her body rapidly, then circles back and repeats the run again and again. The dance is a kind of map. The direction of the straight run shows the direction of the flowers in relation to the sun. The length of the run reveals the distance: the longer she waggles, the farther the bees must fly. Other workers crowd around the dancer, following her movements with their antennae. Then they leave the hive and fly directly to the food. Austrian scientist Karl von Frisch decoded this behavior in the 1940s after years of patient observation. Many researchers doubted that an insect could communicate such detailed information, but later experiments confirmed his findings, and in 1973 he shared a Nobel Prize for his work.",
+    "choices": [
+      "what kind of flowers were found",
+      "how many bees should leave the hive",
+      "how far away the flowers are",
+      "what time of day to fly"
+    ],
+    "correctAnswer": "how far away the flowers are",
+    "explanation": "The passage says, 'The length of the run reveals the distance: the longer she waggles, the farther the bees must fly.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.6.1",
+    "prompt": "Where did the narrator live before moving to Cedar Falls?",
+    "passage": "On my first morning in Cedar Falls, I stood at the edge of the school courtyard, clutching my schedule like a shield. Back in Tucson I had known every hallway, every teacher, every shortcut to the cafeteria. Here, the buildings were brick instead of adobe, and the air smelled of rain instead of dust. Clusters of students laughed at jokes I had not heard. I studied my schedule for the tenth time, pretending to be busy. 'You're holding it upside down,' said a voice. A girl with paint-spattered sneakers was grinning at me. Heat rushed to my face as I flipped the paper over. 'I'm Jo,' she said. 'I moved here last year, and I did the exact same thing for a week.' She pointed across the courtyard. 'Room 114 is that way. Come on, I'll walk you.' The courtyard had not changed, but somehow it seemed smaller, and the brick walls a little less tall.",
+    "choices": [
+      "Phoenix",
+      "Tucson",
+      "Denver",
+      "Portland"
+    ],
+    "correctAnswer": "Tucson",
+    "explanation": "The narrator says, 'Back in Tucson I had known every hallway.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.6.5b",
+    "prompt": "Complete the analogy. Chapter is to book as scene is to",
+    "choices": [
+      "actor",
+      "author",
+      "page",
+      "play"
+    ],
+    "correctAnswer": "play",
+    "explanation": "A chapter is a part of a book, and a scene is a part of a play. Both pairs show a part-to-whole relationship.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.6.1",
+    "prompt": "What happened to Marcus at the next meet?",
+    "passage": "Darius had always been the fastest runner in his grade. When Marcus transferred to the school and beat him in the first race, Darius refused to speak to him. He practiced harder than ever, running extra laps until his legs ached. At the next meet, Darius won by a full second, but when he looked back at the finish line, he saw Marcus clutching his knee in pain. Instead of celebrating, Darius jogged back, offered Marcus his hand, and helped him to the bench. 'Good race,' Darius said. Marcus grinned despite the pain. 'Next time, I'll get you.'",
+    "choices": [
+      "He won the race",
+      "He hurt his knee",
+      "He quit the team",
+      "He refused to shake hands"
+    ],
+    "correctAnswer": "He hurt his knee",
+    "explanation": "After the race Darius 'saw Marcus clutching his knee in pain.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RL.6.4",
+    "prompt": "What does the figurative language 'the silence was a thick blanket' suggest about the atmosphere in the auditorium?",
+    "passage": "After the announcement, nobody spoke. The silence was a thick blanket draped over the entire auditorium. Students glanced at one another with wide eyes. A few shifted uncomfortably in their seats. The principal stood at the podium, waiting for the weight of the news to settle before continuing.",
+    "choices": [
+      "The room was cold and students needed blankets",
+      "The students were sleepy and wanted to rest",
+      "The silence was overwhelming and felt heavy",
+      "The principal was wrapping up the assembly"
+    ],
+    "correctAnswer": "The silence was overwhelming and felt heavy",
+    "explanation": "The metaphor compares the silence to a thick blanket covering everyone, and the phrase 'the weight of the news' reinforces the heavy feeling.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RL.6.2",
+    "prompt": "Which statement best expresses the theme of this passage?",
+    "passage": "Darius had always been the fastest runner in his grade. When Marcus transferred to the school and beat him in the first race, Darius refused to speak to him. He practiced harder than ever, running extra laps until his legs ached. At the next meet, Darius won by a full second, but when he looked back at the finish line, he saw Marcus clutching his knee in pain. Instead of celebrating, Darius jogged back, offered Marcus his hand, and helped him to the bench. 'Good race,' Darius said. Marcus grinned despite the pain. 'Next time, I'll get you.'",
+    "choices": [
+      "True character is shown in how you treat others, not just in winning",
+      "Winning is the most important thing in sports",
+      "You should always practice harder than everyone else",
+      "Injuries are a normal part of competitive running"
+    ],
+    "correctAnswer": "True character is shown in how you treat others, not just in winning",
+    "explanation": "Darius wins, but 'instead of celebrating' he goes back to help his injured rival, which shows that how he treats Marcus matters more than the victory.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.6.2",
+    "prompt": "What is the central idea of this passage?",
+    "passage": "When a honeybee discovers a rich patch of flowers, she cannot simply tell her sisters where to find it. Instead, she dances. Back inside the dark hive, the forager performs what scientists call the waggle dance. She runs forward in a straight line while shaking her body rapidly, then circles back and repeats the run again and again. The dance is a kind of map. The direction of the straight run shows the direction of the flowers in relation to the sun. The length of the run reveals the distance: the longer she waggles, the farther the bees must fly. Other workers crowd around the dancer, following her movements with their antennae. Then they leave the hive and fly directly to the food. Austrian scientist Karl von Frisch decoded this behavior in the 1940s after years of patient observation. Many researchers doubted that an insect could communicate such detailed information, but later experiments confirmed his findings, and in 1973 he shared a Nobel Prize for his work.",
+    "choices": [
+      "Honeybees are unable to see inside a dark hive",
+      "Karl von Frisch won a Nobel Prize in 1973 for his work on bees",
+      "Honeybees must fly long distances to find flowers",
+      "Honeybees use a dance to tell hive mates where to find food"
+    ],
+    "correctAnswer": "Honeybees use a dance to tell hive mates where to find food",
+    "explanation": "Most of the passage explains how the waggle dance works as 'a kind of map' showing direction and distance to food.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.6.4",
+    "prompt": "What does the simile 'clutching my schedule like a shield' suggest about the narrator?",
+    "passage": "On my first morning in Cedar Falls, I stood at the edge of the school courtyard, clutching my schedule like a shield. Back in Tucson I had known every hallway, every teacher, every shortcut to the cafeteria. Here, the buildings were brick instead of adobe, and the air smelled of rain instead of dust. Clusters of students laughed at jokes I had not heard. I studied my schedule for the tenth time, pretending to be busy. 'You're holding it upside down,' said a voice. A girl with paint-spattered sneakers was grinning at me. Heat rushed to my face as I flipped the paper over. 'I'm Jo,' she said. 'I moved here last year, and I did the exact same thing for a week.' She pointed across the courtyard. 'Room 114 is that way. Come on, I'll walk you.' The courtyard had not changed, but somehow it seemed smaller, and the brick walls a little less tall.",
+    "choices": [
+      "The narrator is ready to argue with someone",
+      "The narrator feels nervous and wants protection",
+      "The schedule is large and heavy",
+      "The narrator is blocking the sun"
+    ],
+    "correctAnswer": "The narrator feels nervous and wants protection",
+    "explanation": "A shield protects a person. Standing alone 'at the edge' of an unfamiliar courtyard, the narrator holds the schedule as if it could offer protection.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.6.4a",
+    "prompt": "Word bank: decoded, doubted, confirmed. Use each word only once. The spy ___ the secret message by replacing each number with a letter. A second test ___ that the first result had been correct.",
+    "blanks": [
+      "decoded",
+      "confirmed"
+    ],
+    "explanation": "To decode is to work out the meaning of a coded message. To confirm is to show that something is true or correct.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g6_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.6.4b",
+    "prompt": "The Latin root 'aud' means 'to hear.' Which word means 'able to be heard'?",
+    "choices": [
+      "audible",
+      "visible",
+      "edible",
+      "portable"
+    ],
+    "correctAnswer": "audible",
+    "explanation": "Audible contains the root 'aud' and the suffix '-ible' (able to be), so it means able to be heard.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.6.3",
+    "prompt": "Read: Marcus beat Darius in the first race of the season. Darius responded by running extra laps every day. At the next meet, Darius won by a full second. Afterward, he saw that Marcus was hurt and helped him to the bench. Put the events in order.",
+    "orderedItems": [
+      "Marcus beats Darius in the first race",
+      "Darius runs extra laps every day",
+      "Darius wins by a full second",
+      "Darius helps Marcus to the bench"
+    ],
+    "explanation": "The summary gives the plot in time order: the first loss, the extra practice, the win, and then helping Marcus.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g6_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.6.5c",
+    "prompt": "Which word has the most NEGATIVE connotation?",
+    "choices": [
+      "thrifty",
+      "careful",
+      "stingy",
+      "economical"
+    ],
+    "correctAnswer": "stingy",
+    "explanation": "All four words describe someone who avoids spending, but 'stingy' suggests an unpleasant unwillingness to share.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RI.6.3",
+    "prompt": "If a forager's waggle run is much shorter than usual, what should the other bees conclude?",
+    "passage": "When a honeybee discovers a rich patch of flowers, she cannot simply tell her sisters where to find it. Instead, she dances. Back inside the dark hive, the forager performs what scientists call the waggle dance. She runs forward in a straight line while shaking her body rapidly, then circles back and repeats the run again and again. The dance is a kind of map. The direction of the straight run shows the direction of the flowers in relation to the sun. The length of the run reveals the distance: the longer she waggles, the farther the bees must fly. Other workers crowd around the dancer, following her movements with their antennae. Then they leave the hive and fly directly to the food. Austrian scientist Karl von Frisch decoded this behavior in the 1940s after years of patient observation. Many researchers doubted that an insect could communicate such detailed information, but later experiments confirmed his findings, and in 1973 he shared a Nobel Prize for his work.",
+    "choices": [
+      "The flowers are far from the hive",
+      "The flowers have very little nectar",
+      "The flowers are close to the hive",
+      "The sun has already set"
+    ],
+    "correctAnswer": "The flowers are close to the hive",
+    "explanation": "The passage says 'the longer she waggles, the farther the bees must fly,' so a short run means a short distance.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.6.5",
+    "prompt": "Why does the author most likely include the detail that many researchers doubted von Frisch?",
+    "passage": "When a honeybee discovers a rich patch of flowers, she cannot simply tell her sisters where to find it. Instead, she dances. Back inside the dark hive, the forager performs what scientists call the waggle dance. She runs forward in a straight line while shaking her body rapidly, then circles back and repeats the run again and again. The dance is a kind of map. The direction of the straight run shows the direction of the flowers in relation to the sun. The length of the run reveals the distance: the longer she waggles, the farther the bees must fly. Other workers crowd around the dancer, following her movements with their antennae. Then they leave the hive and fly directly to the food. Austrian scientist Karl von Frisch decoded this behavior in the 1940s after years of patient observation. Many researchers doubted that an insect could communicate such detailed information, but later experiments confirmed his findings, and in 1973 he shared a Nobel Prize for his work.",
+    "choices": [
+      "To show the discovery was surprising and needed proof",
+      "To suggest that von Frisch's conclusions were probably wrong after all",
+      "To show that most scientists dislike studying tiny insects",
+      "To explain how bees follow the dancer"
+    ],
+    "correctAnswer": "To show the discovery was surprising and needed proof",
+    "explanation": "The doubt is followed by 'later experiments confirmed his findings,' which stresses how remarkable the claim was and that evidence settled it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.6.5",
+    "prompt": "What does the final sentence suggest about the narrator?",
+    "passage": "On my first morning in Cedar Falls, I stood at the edge of the school courtyard, clutching my schedule like a shield. Back in Tucson I had known every hallway, every teacher, every shortcut to the cafeteria. Here, the buildings were brick instead of adobe, and the air smelled of rain instead of dust. Clusters of students laughed at jokes I had not heard. I studied my schedule for the tenth time, pretending to be busy. 'You're holding it upside down,' said a voice. A girl with paint-spattered sneakers was grinning at me. Heat rushed to my face as I flipped the paper over. 'I'm Jo,' she said. 'I moved here last year, and I did the exact same thing for a week.' She pointed across the courtyard. 'Room 114 is that way. Come on, I'll walk you.' The courtyard had not changed, but somehow it seemed smaller, and the brick walls a little less tall.",
+    "choices": [
+      "The narrator has grown taller",
+      "The school has been rebuilt",
+      "The narrator has decided to ask to move back to Tucson as soon as possible",
+      "A friendly welcome has made the new school feel less intimidating"
+    ],
+    "correctAnswer": "A friendly welcome has made the new school feel less intimidating",
+    "explanation": "The courtyard 'had not changed,' so what changed is the narrator's feeling: after Jo offers to help, the place seems 'smaller' and the walls 'less tall.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.6.3",
+    "prompt": "Why does Jo most likely mention that she 'did the exact same thing for a week'?",
+    "passage": "On my first morning in Cedar Falls, I stood at the edge of the school courtyard, clutching my schedule like a shield. Back in Tucson I had known every hallway, every teacher, every shortcut to the cafeteria. Here, the buildings were brick instead of adobe, and the air smelled of rain instead of dust. Clusters of students laughed at jokes I had not heard. I studied my schedule for the tenth time, pretending to be busy. 'You're holding it upside down,' said a voice. A girl with paint-spattered sneakers was grinning at me. Heat rushed to my face as I flipped the paper over. 'I'm Jo,' she said. 'I moved here last year, and I did the exact same thing for a week.' She pointed across the courtyard. 'Room 114 is that way. Come on, I'll walk you.' The courtyard had not changed, but somehow it seemed smaller, and the brick walls a little less tall.",
+    "choices": [
+      "To brag about how long she has lived there",
+      "To reassure the narrator that feeling lost is normal",
+      "To make fun of the narrator's mistake",
+      "To prove that she is older than the narrator"
+    ],
+    "correctAnswer": "To reassure the narrator that feeling lost is normal",
+    "explanation": "Jo is grinning, introduces herself, and offers to walk the narrator to class. Sharing her own mistake is a kind way of easing the narrator's embarrassment.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g6_018",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.6.1",
+    "prompt": "Read these sentences from a story about a student at a new school: 'Here, the buildings were brick instead of adobe, and the air smelled of rain instead of dust. Clusters of students laughed at jokes I had not heard.' Which ideas do these sentences support? Select all that apply.",
+    "choices": [
+      "The narrator notices how different the new place is",
+      "The narrator dislikes rainy weather",
+      "The narrator feels like an outsider",
+      "The narrator already has many friends at the school"
+    ],
+    "correctAnswers": [
+      "The narrator notices how different the new place is",
+      "The narrator feels like an outsider"
+    ],
+    "explanation": "The 'instead of' comparisons show the narrator noticing differences, and 'jokes I had not heard' shows the narrator is outside the groups. Nothing says the narrator dislikes rain or has friends there.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.0
+    }
+  }
+]

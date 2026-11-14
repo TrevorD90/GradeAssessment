@@ -1,0 +1,385 @@
+[
+  {
+    "id": "math_g6_001",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "6.RP.A.1",
+    "prompt": "A bag has 3 red marbles and 5 blue marbles. What is the ratio of red marbles to all the marbles in the bag?",
+    "choices": [
+      "3:5",
+      "5:3",
+      "5:8",
+      "3:8"
+    ],
+    "correctAnswer": "3:8",
+    "explanation": "There are 3 red marbles and 3 + 5 = 8 marbles in total, so the ratio of red to total is 3:8.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_002",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "6.NS.C.6a",
+    "prompt": "Which number is the opposite of -7?",
+    "choices": [
+      "-7",
+      "7",
+      "1/7",
+      "0"
+    ],
+    "correctAnswer": "7",
+    "explanation": "Opposites are the same distance from 0 on the number line, but on different sides. The opposite of -7 is 7.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_003",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "6.EE.A.1",
+    "prompt": "What is the value of 5^3?",
+    "choices": [
+      "15",
+      "125",
+      "53",
+      "25"
+    ],
+    "correctAnswer": "125",
+    "explanation": "5^3 means 5 x 5 x 5. 5 x 5 = 25, and 25 x 5 = 125.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_004",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "6.EE.A.2c",
+    "prompt": "What is the value of 3x + 4 when x = 5?",
+    "choices": [
+      "12",
+      "39",
+      "27",
+      "19"
+    ],
+    "correctAnswer": "19",
+    "explanation": "Replace x with 5. 3x means 3 times x, so 3x + 4 = 3(5) + 4 = 15 + 4 = 19.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_005",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "6.RP.A.3b",
+    "prompt": "A store sells 3 notebooks for $7.50. At this rate, how much would 12 notebooks cost?",
+    "choices": [
+      "$30.00",
+      "$22.50",
+      "$25.00",
+      "$36.00"
+    ],
+    "correctAnswer": "$30.00",
+    "explanation": "First find the cost of one notebook: $7.50 / 3 = $2.50. Then multiply: $2.50 x 12 = $30.00.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_006",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "6.RP.A.3c",
+    "prompt": "What is 35% of 200? Write your answer as a number.",
+    "correctAnswer": "70",
+    "correctAnswers": [
+      "70"
+    ],
+    "explanation": "35% means 35 out of every 100. 200 is two hundreds, so 35 x 2 = 70. Or 0.35 x 200 = 70.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g6_007",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "6.NS.A.1",
+    "prompt": "What is 3/4 divided by 1/8?",
+    "choices": [
+      "3/32",
+      "1/6",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "6",
+    "explanation": "Dividing by 1/8 is the same as multiplying by 8: 3/4 x 8 = 24/4 = 6. There are six 1/8s in 3/4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_008",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "6.EE.B.7",
+    "prompt": "Solve for x: 4x = 52",
+    "choices": [
+      "x = 48",
+      "x = 56",
+      "x = 13",
+      "x = 208"
+    ],
+    "correctAnswer": "x = 13",
+    "explanation": "Divide both sides by 4: x = 52 / 4 = 13. Check: 4(13) = 52.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_009",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "6.G.A.1",
+    "prompt": "A triangle has a base of 10 cm and a height of 6 cm. What is its area?",
+    "choices": [
+      "30 square cm",
+      "60 square cm",
+      "16 square cm",
+      "32 square cm"
+    ],
+    "correctAnswer": "30 square cm",
+    "explanation": "Area of a triangle = 1/2 x base x height = 1/2 x 10 x 6 = 30 square centimeters.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_010",
+    "subject": "MATH",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "6.EE.A.4",
+    "prompt": "Which expressions are equivalent to 6x + 12? Select all that apply.",
+    "choices": [
+      "6(x + 2)",
+      "6(x + 12)",
+      "3(2x + 4)",
+      "18x",
+      "2(3x + 6)"
+    ],
+    "correctAnswers": [
+      "6(x + 2)",
+      "3(2x + 4)",
+      "2(3x + 6)"
+    ],
+    "explanation": "Use the distributive property. 6(x + 2) = 6x + 12, 3(2x + 4) = 6x + 12, and 2(3x + 6) = 6x + 12. But 6(x + 12) = 6x + 72, and 18x is not the same because 6x and 12 are not like terms.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g6_011",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "6.NS.C.7",
+    "prompt": "Put these numbers in order from least to greatest.",
+    "orderedItems": [
+      "-8",
+      "-2.5",
+      "0",
+      "1/2",
+      "3"
+    ],
+    "explanation": "On a number line, numbers further left are smaller. -8 is furthest left, then -2.5, then 0, then 1/2, then 3.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g6_012",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "6.SP.B.5c",
+    "prompt": "Five quiz scores are 6, 8, 8, 9, and 14. What is the mean (average) score?",
+    "choices": [
+      "8",
+      "45",
+      "10",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "explanation": "Add the scores: 6 + 8 + 8 + 9 + 14 = 45. Divide by the number of scores: 45 / 5 = 9.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_013",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "6.RP.A.3c",
+    "prompt": "30 is 40% of what number?",
+    "choices": [
+      "12",
+      "75",
+      "70",
+      "120"
+    ],
+    "correctAnswer": "75",
+    "explanation": "If 40% is 30, then 10% is 30 / 4 = 7.5, and 100% is 7.5 x 10 = 75. Check: 0.40 x 75 = 30.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_014",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "6.G.A.4",
+    "prompt": "A rectangular prism (box) is 4 cm long, 3 cm wide, and 2 cm tall. What is its total surface area in square centimeters? Write your answer as a number.",
+    "correctAnswer": "52",
+    "correctAnswers": [
+      "52",
+      "52 square cm",
+      "52 sq cm",
+      "52 cm^2",
+      "52 square centimeters"
+    ],
+    "explanation": "A box has 3 pairs of matching faces: 4 x 3 = 12, 4 x 2 = 8, and 3 x 2 = 6. Add them and double: (12 + 8 + 6) x 2 = 52 square cm.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g6_015",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "6.NS.B.4",
+    "prompt": "Hot dogs come in packs of 8. Buns come in packs of 12. What is the smallest number of hot dogs you can buy so that you can also buy exactly the same number of buns?",
+    "choices": [
+      "4",
+      "24",
+      "96",
+      "48"
+    ],
+    "correctAnswer": "24",
+    "explanation": "You need the least common multiple of 8 and 12. Multiples of 8: 8, 16, 24. Multiples of 12: 12, 24. The first one they share is 24.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g6_016",
+    "subject": "MATH",
+    "type": "CLOZE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "6.EE.C.9",
+    "prompt": "A table shows these pairs: when x = 1, y = 4; when x = 2, y = 7; when x = 3, y = 10. The rule is y = 3x + ___.",
+    "blanks": [
+      "1"
+    ],
+    "explanation": "Each time x goes up by 1, y goes up by 3, so the rule starts with 3x. When x = 1, 3x = 3, and you need 1 more to reach 4. The rule is y = 3x + 1.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.0
+    }
+  }
+]

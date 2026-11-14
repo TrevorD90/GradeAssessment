@@ -1,0 +1,387 @@
+[
+  {
+    "id": "social_studies_g3_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.3.3-5",
+    "prompt": "How many continents are there on Earth?",
+    "choices": [
+      "5",
+      "9",
+      "4",
+      "7"
+    ],
+    "correctAnswer": "7",
+    "explanation": "Earth's land is usually divided into seven continents: Africa, Antarctica, Asia, Australia, Europe, North America and South America.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.2.3-5",
+    "prompt": "Which are the four cardinal directions?",
+    "choices": [
+      "North, south, east, and west",
+      "Up, down, left, and right",
+      "Near, far, above, and below",
+      "Land, water, sky, and space"
+    ],
+    "correctAnswer": "North, south, east, and west",
+    "explanation": "The four cardinal directions are north, south, east and west.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.1.3-5",
+    "prompt": "Who is the leader of a state's government?",
+    "choices": [
+      "The mayor",
+      "The governor",
+      "The President",
+      "The principal"
+    ],
+    "correctAnswer": "The governor",
+    "explanation": "A governor is the elected leader of a state. A mayor leads a city, and the President leads the nation.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Eco.5.3-5",
+    "prompt": "Trading goods or services without using money is called ___.",
+    "choices": [
+      "saving",
+      "taxing",
+      "barter",
+      "borrowing"
+    ],
+    "correctAnswer": "barter",
+    "explanation": "Barter is trading one good or service directly for another without money.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.2.3-5",
+    "prompt": "Which map tool shows directions such as north and south?",
+    "choices": [
+      "The map scale",
+      "The map title",
+      "The map key",
+      "The compass rose"
+    ],
+    "correctAnswer": "The compass rose",
+    "explanation": "A compass rose shows the directions on a map. The scale shows distance, and the key explains the symbols.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.2.3-5",
+    "prompt": "The imaginary line that divides Earth into the Northern Hemisphere and the Southern Hemisphere is called the ___.",
+    "correctAnswer": "equator",
+    "correctAnswers": [
+      "equator",
+      "the equator"
+    ],
+    "explanation": "The equator is the imaginary line at 0 degrees latitude, halfway between the North Pole and the South Pole.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g3_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.3.3-5",
+    "prompt": "A baker uses an oven to make bread. The oven is an example of a ___.",
+    "choices": [
+      "capital resource",
+      "natural resource",
+      "human resource",
+      "consumer"
+    ],
+    "correctAnswer": "capital resource",
+    "explanation": "Capital resources are tools, machines and buildings used to make goods. Natural resources come from nature, and human resources are workers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_008",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.2.3-5",
+    "prompt": "Which of the following are responsibilities of a good citizen in a community? Select all that apply.",
+    "choices": [
+      "Obeying laws",
+      "Paying taxes",
+      "Ignoring elections",
+      "Volunteering to help others",
+      "Littering in public spaces"
+    ],
+    "correctAnswers": [
+      "Obeying laws",
+      "Paying taxes",
+      "Volunteering to help others"
+    ],
+    "explanation": "Good citizens obey laws, pay taxes and help others. Ignoring elections and littering are not responsible civic behaviors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g3_009",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.12.3-5",
+    "prompt": "Why do communities collect taxes?",
+    "choices": [
+      "To give every worker in town the very same kind of job",
+      "To pay for services such as roads, schools, and parks",
+      "To stop families from moving away to other towns",
+      "To decide the prices of everything sold in stores"
+    ],
+    "correctAnswer": "To pay for services such as roads, schools, and parks",
+    "explanation": "Taxes are money people pay to the government. Governments use taxes to pay for public goods and services.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_010",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Geo.3.3-5",
+    "prompt": "A child lives in Austin. Put these places in order from the smallest area to the largest.",
+    "orderedItems": [
+      "The city of Austin",
+      "The state of Texas",
+      "The United States",
+      "North America"
+    ],
+    "explanation": "A city is inside a state, a state is inside a country, and a country is on a continent.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g3_011",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Geo.3.3-5",
+    "prompt": "Which ocean lies between the east coast of the United States and Europe?",
+    "choices": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Southern Ocean"
+    ],
+    "correctAnswer": "Atlantic Ocean",
+    "explanation": "The Atlantic Ocean lies east of the United States, between North America and Europe. The Pacific Ocean is to the west.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_012",
+    "subject": "SOCIAL_STUDIES",
+    "type": "CLOZE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Civ.1.3-5",
+    "prompt": "Use the word bank: local, state, national. A city council is part of ___ government. A governor leads a ___ government. Congress is part of the ___ government.",
+    "blanks": [
+      "local",
+      "state",
+      "national"
+    ],
+    "explanation": "The United States has three levels of government: local (cities, towns and counties), state, and national.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g3_013",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Eco.2.3-5",
+    "prompt": "Why did both stores most likely lower their prices after the second store opened?",
+    "passage": "In the town of Riverside, there was only one store that sold fresh fruit. Last summer, a second fruit store opened across the street. Within a few weeks, both stores lowered their prices on apples and oranges. More people in the town started buying fresh fruit than before.",
+    "choices": [
+      "The fruit was going bad and they needed to sell it quickly",
+      "The government told them to lower the prices",
+      "People in the town stopped eating fruit",
+      "They were competing for customers"
+    ],
+    "correctAnswer": "They were competing for customers",
+    "explanation": "When the second store opened, shoppers had a choice. Each store lowered its prices to attract customers. This is called competition.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_014",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Eco.1.3-5",
+    "prompt": "Maya has enough money for either a soccer ball or a board game. She chooses the soccer ball. What is the opportunity cost of her choice?",
+    "choices": [
+      "The board game",
+      "The soccer ball",
+      "The time she spends playing soccer",
+      "The store where she shops"
+    ],
+    "correctAnswer": "The board game",
+    "explanation": "Opportunity cost is the next-best thing you give up when you make a choice. Maya gave up the board game.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_015",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Geo.8.3-5",
+    "prompt": "Why were many early towns and cities built near rivers?",
+    "choices": [
+      "Rivers kept the weather exactly the same all year long",
+      "Rivers provided water, food, and a way to move goods",
+      "Rivers kept people from trading with other towns",
+      "Land near rivers was too wet to be used for farming"
+    ],
+    "correctAnswer": "Rivers provided water, food, and a way to move goods",
+    "explanation": "Rivers gave settlers drinking water, fish, water for crops and an easy route for boats carrying people and goods.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g3_016",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Civ.12.3-5",
+    "prompt": "A town passes a law that dogs must be on a leash in the park. What is the most likely reason for this law?",
+    "choices": [
+      "To raise the price of dog food",
+      "To make the park smaller",
+      "To keep people and pets safe",
+      "To stop people from owning dogs"
+    ],
+    "correctAnswer": "To keep people and pets safe",
+    "explanation": "Communities make laws to keep people safe and to help everyone share public places fairly.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  }
+]

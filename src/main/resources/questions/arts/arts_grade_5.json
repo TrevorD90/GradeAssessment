@@ -1,0 +1,508 @@
+[
+  {
+    "id": "arts_g5_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.3.5a",
+    "prompt": "Which Italian term tells a musician to play at a fast, lively tempo?",
+    "choices": [
+      "Largo",
+      "Allegro",
+      "Piano",
+      "Adagio"
+    ],
+    "correctAnswer": "Allegro",
+    "explanation": "Allegro means fast and lively. Adagio and largo are slow tempos, and piano is a dynamic marking meaning soft.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_002",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.5a",
+    "prompt": "Which of the following are principles of design? Select all that apply.",
+    "choices": [
+      "Emphasis",
+      "Balance",
+      "Texture",
+      "Line",
+      "Rhythm"
+    ],
+    "correctAnswers": [
+      "Emphasis",
+      "Balance",
+      "Rhythm"
+    ],
+    "explanation": "Balance, emphasis, and rhythm are principles of design. Texture and line are elements of art.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g5_003",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MU:Re7.2.5a",
+    "prompt": "Which musical form best describes this piece?",
+    "passage": "A piece of music begins with a lively main tune. Next comes a new, slower section. Then the lively main tune returns. After another, completely different section, the main tune comes back one last time.",
+    "choices": [
+      "Binary (AB)",
+      "Ternary (ABA)",
+      "Rondo (ABACA)",
+      "Theme and variations"
+    ],
+    "correctAnswer": "Rondo (ABACA)",
+    "explanation": "In rondo form, a main theme (A) keeps returning between contrasting sections: A B A C A.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.5a",
+    "prompt": "Which principle of design describes how visual weight is distributed in an artwork?",
+    "choices": [
+      "Balance",
+      "Unity",
+      "Rhythm",
+      "Emphasis"
+    ],
+    "correctAnswer": "Balance",
+    "explanation": "Balance is the way visual weight is arranged, for example symmetrically or asymmetrically.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Pr4.1.5.a",
+    "prompt": "On a stage, \"downstage\" is the area ___.",
+    "choices": [
+      "closest to the audience",
+      "underneath the stage floor",
+      "farthest from the audience",
+      "hidden behind the back curtain"
+    ],
+    "correctAnswer": "closest to the audience",
+    "explanation": "Downstage is toward the audience and upstage is away from it. The terms come from old stages that sloped down toward the audience.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_006",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.3.5a",
+    "prompt": "Put these tempo markings in order from slowest to fastest.",
+    "orderedItems": [
+      "Largo",
+      "Andante",
+      "Allegro",
+      "Presto"
+    ],
+    "explanation": "Largo is very slow, andante is a walking pace, allegro is fast, and presto is very fast.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g5_007",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Cr1.1.5.a",
+    "prompt": "A long speech given by one character in a play is called a ___.",
+    "choices": [
+      "dialogue",
+      "monologue",
+      "cue",
+      "chorus"
+    ],
+    "correctAnswer": "monologue",
+    "explanation": "A monologue is an extended speech by a single character. Dialogue is conversation between characters.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.5b",
+    "prompt": "A sharp sign placed in front of a note ___.",
+    "choices": [
+      "makes the note last longer",
+      "lowers the note by a half step",
+      "makes the note louder",
+      "raises the note by a half step"
+    ],
+    "correctAnswer": "raises the note by a half step",
+    "explanation": "A sharp raises a pitch by a half step. A flat lowers a pitch by a half step.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_009",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "VA:Re7.2.5a",
+    "prompt": "In a painting of a long road, the artist makes the road narrower and the trees beside it smaller as they get closer to the horizon. What effect does this create?",
+    "choices": [
+      "A flat, decorative pattern",
+      "The illusion of depth and distance",
+      "Perfectly symmetrical balance",
+      "A rough surface texture"
+    ],
+    "correctAnswer": "The illusion of depth and distance",
+    "explanation": "Making objects smaller and lines converge toward the horizon creates the illusion of depth. This is the basis of linear perspective.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.5a",
+    "prompt": "What is the name for the person who leads an orchestra, using gestures to keep the musicians together?",
+    "choices": [
+      "Choreographer",
+      "Soloist",
+      "Composer",
+      "Conductor"
+    ],
+    "correctAnswer": "Conductor",
+    "explanation": "The conductor leads the orchestra. A composer writes music, and a soloist performs alone.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_011",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.5b",
+    "prompt": "In 4/4 time, a half note lasts 2 beats. How many beats does a dotted half note last?",
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "3",
+    "explanation": "A dot adds half of the note's value. A half note is 2 beats, half of that is 1, so a dotted half note lasts 3 beats.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_012",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.5b",
+    "prompt": "In 6/8 time, how many eighth notes fill one measure?",
+    "choices": [
+      "8",
+      "4",
+      "6",
+      "3"
+    ],
+    "correctAnswer": "6",
+    "explanation": "In 6/8 time the top number shows 6 eighth-note counts in each measure and the bottom number (8) shows that the eighth note gets one count, so six eighth notes fill a measure. Musicians often feel 6/8 as two big beats, each made of three eighth notes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_013",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cn11.1.5a",
+    "prompt": "A picture that an artist makes of himself or herself is called a self-___.",
+    "correctAnswer": "portrait",
+    "correctAnswers": [
+      "portrait",
+      "self-portrait",
+      "self portrait"
+    ],
+    "explanation": "A self-portrait is an artwork in which the artist is the subject.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g5_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.5a",
+    "prompt": "Adding white to a color makes a ___, and adding black to a color makes a ___.",
+    "choices": [
+      "shade; hue",
+      "shade; tint",
+      "tint; shade",
+      "hue; tint"
+    ],
+    "correctAnswer": "tint; shade",
+    "explanation": "A tint is a color lightened with white. A shade is a color darkened with black.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_015",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MU:Re7.2.5a",
+    "prompt": "A composer writes a melody and then repeats it several times. Each time the rhythm, harmony, or mood changes, but the tune can still be recognized. What is this form called?",
+    "choices": [
+      "Theme and variations",
+      "Rondo",
+      "Round",
+      "Call and response"
+    ],
+    "correctAnswer": "Theme and variations",
+    "explanation": "In theme and variations, a main melody (the theme) is stated and then repeated in altered versions (the variations).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_016",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Cn11.1.5a",
+    "prompt": "Which style of dance began in the royal courts of Europe and uses steps and positions such as the plie and the arabesque?",
+    "choices": [
+      "Tap",
+      "Square dance",
+      "Hip-hop",
+      "Ballet"
+    ],
+    "correctAnswer": "Ballet",
+    "explanation": "Ballet developed in the courts of Renaissance Italy and France. Plie and arabesque are ballet terms.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_017",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MA:Cr2.1.5a",
+    "prompt": "Filmmakers and animators often make a storyboard before they begin. What is a storyboard?",
+    "choices": [
+      "The finished, edited video",
+      "A series of sketches showing each shot in order",
+      "The music played in the background of each scene",
+      "A list of the actors' names and the roles that each one will play"
+    ],
+    "correctAnswer": "A series of sketches showing each shot in order",
+    "explanation": "A storyboard is a sequence of drawings that plans each shot of a film or animation before production begins.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_018",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Re7.1.5.a",
+    "prompt": "Which moment is the climax of the play?",
+    "passage": "In a short play, Rosa spends the first scenes training for a race against her rival. In the final scene the two runners are side by side with ten steps to go, and no one knows who will win. Then Rosa crosses the line first, and the two runners shake hands.",
+    "choices": [
+      "The two runners are side by side near the finish line",
+      "The curtain opens on the first scene",
+      "The two runners shake hands",
+      "Rosa trains hard for the race against her rival in the first scenes"
+    ],
+    "correctAnswer": "The two runners are side by side near the finish line",
+    "explanation": "The climax is the moment of greatest tension, when the outcome is about to be decided. Training is rising action and the handshake is the resolution.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_019",
+    "subject": "ARTS",
+    "type": "CLOZE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cr2.1.5a",
+    "prompt": "Use the word bank: foreground, middle ground, background. In a landscape painting, objects that appear closest to the viewer are in the ___. Objects that appear farthest away are in the ___.",
+    "blanks": [
+      "foreground",
+      "background"
+    ],
+    "explanation": "The foreground is the part of a picture that seems nearest, and the background seems farthest away. The middle ground lies between them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g5_020",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Re7.2.5a",
+    "prompt": "A design has one large, dark shape on the left and several small, light shapes on the right that together feel equally \"heavy.\" What type of balance is this?",
+    "choices": [
+      "Symmetrical balance",
+      "Radial balance",
+      "No balance at all",
+      "Asymmetrical balance"
+    ],
+    "correctAnswer": "Asymmetrical balance",
+    "explanation": "Asymmetrical balance uses different elements with equal visual weight on each side. Symmetrical balance mirrors the two sides, and radial balance spreads out from a center.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g5_021",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Pr4.1.5b",
+    "prompt": "In dance, \"unison\" means that the dancers ___.",
+    "choices": [
+      "perform the same movement at the same time",
+      "take turns performing one after another in a line",
+      "dance without any music",
+      "each make up their own different movements on the spot"
+    ],
+    "correctAnswer": "perform the same movement at the same time",
+    "explanation": "Dancing in unison means everyone does the same movement at the same time.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  }
+]

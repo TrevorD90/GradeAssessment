@@ -1,0 +1,384 @@
+[
+  {
+    "id": "science_g4_001",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "4-LS1-1",
+    "prompt": "What is the main function of a plant's roots?",
+    "choices": [
+      "To absorb water and nutrients from the soil",
+      "To make food using sunlight",
+      "To attract insects for pollination",
+      "To release oxygen into the air"
+    ],
+    "correctAnswer": "To absorb water and nutrients from the soil",
+    "explanation": "Roots grow into the soil, hold the plant in place, and absorb the water and dissolved nutrients the plant needs.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "4-ESS3-1",
+    "prompt": "Which of these is a renewable energy resource?",
+    "choices": [
+      "Coal",
+      "Oil",
+      "Natural gas",
+      "Wind"
+    ],
+    "correctAnswer": "Wind",
+    "explanation": "Wind is renewable because it is naturally replaced and will not run out. Coal, oil, and natural gas are fossil fuels that take millions of years to form.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_003",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "4-ESS2-1",
+    "prompt": "The process in which water, wind, or ice carries away bits of rock and soil is called ___.",
+    "correctAnswer": "erosion",
+    "correctAnswers": [
+      "erosion"
+    ],
+    "explanation": "Weathering breaks rock into smaller pieces. Erosion is the carrying away of those pieces by water, wind, ice, or gravity.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g4_004",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "4-PS3-1",
+    "prompt": "The same ball is rolled three times. When does the ball have the most energy of motion?",
+    "choices": [
+      "When it is not moving",
+      "When it rolls slowly",
+      "When it rolls fast",
+      "It has the same energy every time"
+    ],
+    "correctAnswer": "When it rolls fast",
+    "explanation": "The faster an object moves, the more energy it has.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "4-LS1-2",
+    "prompt": "Which body part receives information from the eyes, ears, and skin and decides how to respond?",
+    "choices": [
+      "Heart",
+      "Brain",
+      "Stomach",
+      "Lungs"
+    ],
+    "correctAnswer": "Brain",
+    "explanation": "Sense receptors send information to the brain. The brain processes the information and guides the animal's actions.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_006",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "4-PS4-2",
+    "prompt": "How are you able to see a tree during the day?",
+    "choices": [
+      "Your eyes send out light that hits the tree",
+      "The tree makes its own light",
+      "Light reflects off the tree and enters your eyes",
+      "Sound bounces off the tree to your eyes"
+    ],
+    "correctAnswer": "Light reflects off the tree and enters your eyes",
+    "explanation": "We see an object when light reflects from its surface and enters our eyes. Eyes do not send out light.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_007",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "4-LS1-1",
+    "prompt": "A cactus has a thick stem with a waxy covering. How does this structure help the cactus survive in the desert?",
+    "choices": [
+      "It attracts animals that eat the cactus",
+      "It helps the cactus make seeds faster",
+      "It lets the cactus move toward water",
+      "It stores water and slows down water loss"
+    ],
+    "correctAnswer": "It stores water and slows down water loss",
+    "explanation": "The thick stem stores water and the waxy covering reduces water loss, which helps the cactus survive long dry periods.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_008",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "4-PS3-2",
+    "prompt": "A wire connects a battery to a bulb, and the bulb lights. How is energy carried from the battery to the bulb?",
+    "choices": [
+      "By sound",
+      "By electric current",
+      "By moving water",
+      "By wind"
+    ],
+    "correctAnswer": "By electric current",
+    "explanation": "Energy can be transferred from place to place by electric currents. The current in the wire carries energy to the bulb, which gives off light and heat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_009",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "4-ESS3-1",
+    "prompt": "Which of these are fossil fuels? Select all that apply.",
+    "choices": [
+      "Coal",
+      "Sunlight",
+      "Oil",
+      "Natural gas",
+      "Wind"
+    ],
+    "correctAnswers": [
+      "Coal",
+      "Oil",
+      "Natural gas"
+    ],
+    "explanation": "Coal, oil, and natural gas are fossil fuels formed from the remains of ancient organisms. Sunlight and wind are renewable energy sources.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g4_010",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "4-ESS1-1",
+    "prompt": "A cliff shows rock layers that have not been disturbed. Where is the oldest layer usually found?",
+    "choices": [
+      "At the bottom",
+      "In the middle",
+      "At the top",
+      "All the layers are the same age"
+    ],
+    "correctAnswer": "At the bottom",
+    "explanation": "Rock layers form one on top of another over time, so in undisturbed layers the bottom layer formed first and is the oldest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_011",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "4-PS4-1",
+    "prompt": "Word bank: amplitude, wavelength. Fill in the blanks. The height of a wave above its rest position is its ___. The distance from one wave crest to the next crest is its ___.",
+    "blanks": [
+      "amplitude",
+      "wavelength"
+    ],
+    "explanation": "Amplitude is the height of a wave from its rest position. Wavelength is the distance between one crest and the next.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g4_012",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "4-PS3-3",
+    "prompt": "Which statement best explains the results?",
+    "passage": "A student rolled a marble down a ramp into a small plastic cup and measured how far the cup slid. Ramp height 10 cm: the cup slid 8 cm. Ramp height 20 cm: the cup slid 17 cm. Ramp height 30 cm: the cup slid 25 cm.",
+    "choices": [
+      "A higher ramp made the marble heavier, so it pushed the cup with more weight",
+      "A higher ramp made the marble faster, so it transferred more energy to the cup",
+      "The cup became lighter in each trial, so the same push moved it farther each time",
+      "The marble did not transfer any energy to the cup"
+    ],
+    "correctAnswer": "A higher ramp made the marble faster, so it transferred more energy to the cup",
+    "explanation": "A marble released from a higher ramp is moving faster at the bottom and has more energy. When it collides with the cup, it transfers more energy, so the cup slides farther.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_013",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "4-ESS1-1",
+    "prompt": "Scientists find fossils of seashells in rock layers high on a mountain. What is the best explanation?",
+    "choices": [
+      "Sea animals climbed the mountain long ago",
+      "Seashells form on mountains when it rains",
+      "The rock formed when the area was covered by ocean water long ago",
+      "The fossils were made by mountain animals that looked like shells"
+    ],
+    "correctAnswer": "The rock formed when the area was covered by ocean water long ago",
+    "explanation": "Fossils show what an environment was like when the rock formed. Seashell fossils mean the area was once under the sea; the land changed over a very long time.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_014",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "4-ESS2-2",
+    "prompt": "A world map shows that most volcanoes and earthquakes occur in the same long, narrow bands, including a ring around the Pacific Ocean. What can you conclude from this map?",
+    "choices": [
+      "Volcanoes and earthquakes occur in patterns, often along the edges of continents and oceans",
+      "Volcanoes and earthquakes occur randomly, so they are just as likely anywhere on Earth",
+      "Volcanoes and earthquakes happen mostly in the coldest places, near the North and South Poles",
+      "Volcanoes cause the oceans to form"
+    ],
+    "correctAnswer": "Volcanoes and earthquakes occur in patterns, often along the edges of continents and oceans",
+    "explanation": "Maps show that earthquakes and volcanoes are not random. They occur in patterns, mostly in bands that often follow the boundaries between continents and oceans.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_015",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "4-PS4-3",
+    "prompt": "Two students send messages with a flashlight code: 1 flash means A, 2 flashes mean B, and 3 flashes mean C, with a pause between letters. Which pattern sends the word CAB?",
+    "choices": [
+      "1 flash, pause, 2 flashes, pause, 3 flashes",
+      "2 flashes, pause, 1 flash, pause, 3 flashes",
+      "3 flashes, pause, 2 flashes, pause, 1 flash",
+      "3 flashes, pause, 1 flash, pause, 2 flashes"
+    ],
+    "correctAnswer": "3 flashes, pause, 1 flash, pause, 2 flashes",
+    "explanation": "C = 3 flashes, A = 1 flash, B = 2 flashes. Patterns such as flashes of light can be used to send information.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g4_016",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "4-ESS2-1",
+    "prompt": "A rock on a mountain ends up as sand on a beach. Put the events in order.",
+    "orderedItems": [
+      "Rain and ice break the rock into small pieces",
+      "A river carries the small pieces downhill",
+      "The river slows down and drops the pieces near the coast"
+    ],
+    "explanation": "First weathering breaks the rock apart, then erosion carries the pieces away, and finally the pieces are deposited (dropped) in a new place.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.0
+    }
+  }
+]

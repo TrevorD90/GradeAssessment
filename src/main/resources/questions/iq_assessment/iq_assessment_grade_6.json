@@ -1,0 +1,389 @@
+[
+  {
+    "id": "iq_assessment_g6_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Architect is to building as author is to ___",
+    "choices": [
+      "library",
+      "reader",
+      "book",
+      "pen"
+    ],
+    "correctAnswer": "book",
+    "explanation": "An architect creates a building. An author creates a book. The relationship is creator to creation.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 2, 6, 18, 54, ___",
+    "correctAnswer": "162",
+    "correctAnswers": [
+      "162"
+    ],
+    "explanation": "Each number is 3 times the one before it: 54 × 3 = 162.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g6_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What letter comes next? B, E, H, K, ___",
+    "choices": [
+      "M",
+      "O",
+      "L",
+      "N"
+    ],
+    "correctAnswer": "N",
+    "explanation": "Each letter is 3 places after the one before it: B, E, H, K, N.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "You are facing east. You make three quarter turns to your right (clockwise). Which way are you facing now?",
+    "choices": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ],
+    "correctAnswer": "north",
+    "explanation": "Turning right from east: first south, then west, then north.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Say the letters of the word BRIDGE in reverse order. Which letter is fourth?",
+    "choices": [
+      "D",
+      "I",
+      "R",
+      "G"
+    ],
+    "correctAnswer": "I",
+    "explanation": "BRIDGE reversed is E, G, D, I, R, B. The fourth letter is I.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Choose the word that best completes the sentence: Although the trail looked short on the map, the hike turned out to be ___.",
+    "choices": [
+      "quick",
+      "flat",
+      "long",
+      "sunny"
+    ],
+    "correctAnswer": "long",
+    "explanation": "'Although' signals a contrast with 'looked short', so the hike must have been long.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next in the sequence? 1, 1, 2, 3, 5, 8, ___",
+    "choices": [
+      "10",
+      "11",
+      "15",
+      "13"
+    ],
+    "correctAnswer": "13",
+    "explanation": "Each number is the sum of the two numbers before it: 5 + 8 = 13.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "A number series starts 4, 7, 10, 13 and keeps going with the same rule. Which of these numbers will appear later in the series? Select all that apply.",
+    "choices": [
+      "19",
+      "21",
+      "25",
+      "30",
+      "34"
+    ],
+    "correctAnswers": [
+      "19",
+      "25",
+      "34"
+    ],
+    "explanation": "The series adds 3 each time: 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34. So 19, 25 and 34 appear; 21 and 30 do not.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g6_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Which conclusion is definitely true?",
+    "choices": [
+      "Some sea creatures are warm-blooded",
+      "All sea creatures are warm-blooded",
+      "All warm-blooded animals are mammals",
+      "No sea creatures are cold-blooded"
+    ],
+    "correctAnswer": "Some sea creatures are warm-blooded",
+    "passage": "All mammals are warm-blooded. All whales are mammals. Some sea creatures are whales.",
+    "explanation": "The sea creatures that are whales are mammals, and all mammals are warm-blooded, so at least some sea creatures are warm-blooded. Nothing is said about the other sea creatures.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Eight small cubes are stacked to make one larger cube (2 by 2 by 2). The outside of the large cube is painted. How many of the small cubes have paint on exactly 3 faces?",
+    "choices": [
+      "0",
+      "8",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "8",
+    "explanation": "In a 2 by 2 by 2 cube every small cube sits at a corner, and a corner cube shows exactly 3 faces on the outside. So all 8 have 3 painted faces.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read: 4, R, 9, C, 1, H. Put the numbers first, from largest to smallest, and then the letters in REVERSE alphabetical order.",
+    "orderedItems": [
+      "9",
+      "4",
+      "1",
+      "R",
+      "H",
+      "C"
+    ],
+    "explanation": "The numbers from largest to smallest are 9, 4, 1. The letters in reverse alphabetical order are R, H, C.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g6_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "How are a lighthouse and a traffic light alike?",
+    "choices": [
+      "Both stand beside the sea to warn ships",
+      "Both switch between red, yellow and green",
+      "Both use light to guide travelers",
+      "Both are taller than most buildings"
+    ],
+    "correctAnswer": "Both use light to guide travelers",
+    "explanation": "A lighthouse guides ships and a traffic light guides drivers. Both are light signals that keep travelers safe.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.QUANT",
+    "prompt": "A balance is level. On the left side are 3 identical boxes and a 2 kg weight. On the right side are 1 of the same boxes and a 10 kg weight. How many kilograms does one box weigh?",
+    "correctAnswer": "4",
+    "correctAnswers": [
+      "4",
+      "four",
+      "4 kg"
+    ],
+    "explanation": "Take one box and 2 kg off each side: 2 boxes balance 8 kg, so one box weighs 4 kg.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g6_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What number comes next? 3, 5, 9, 17, 33, ___",
+    "choices": [
+      "49",
+      "57",
+      "66",
+      "65"
+    ],
+    "correctAnswer": "65",
+    "explanation": "The amount added doubles each time: +2, +4, +8, +16, so next is +32. 33 + 32 = 65. (Equivalently: double the number and subtract 1.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Six identical squares are joined to make a flat shape: four squares in a column, with one extra square attached to the left side and one to the right side of the second square from the top. The shape is folded into a cube. Which square ends up opposite the TOP square of the column?",
+    "choices": [
+      "The third square in the column",
+      "The second square in the column",
+      "The bottom square in the column",
+      "The square attached on the left"
+    ],
+    "correctAnswer": "The third square in the column",
+    "explanation": "The four squares in the column wrap around the cube like a belt, so squares two apart in the column end up opposite each other: the top (first) square is opposite the third, and the second is opposite the bottom. The left and right squares are opposite each other.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g6_016",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Take the word STREAM. Remove its first letter, then write the remaining letters in reverse order. What do you get?",
+    "choices": [
+      "MAETR",
+      "MAERT",
+      "MERAT",
+      "TREAM"
+    ],
+    "correctAnswer": "MAERT",
+    "explanation": "Removing S leaves TREAM. Reversed, that is M, A, E, R, T.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  }
+]

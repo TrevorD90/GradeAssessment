@@ -1,0 +1,383 @@
+[
+  {
+    "id": "iq_assessment_g9_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Editor is to manuscript as mechanic is to ___",
+    "choices": [
+      "garage",
+      "engine",
+      "wrench",
+      "driver"
+    ],
+    "correctAnswer": "engine",
+    "explanation": "An editor works on a manuscript to correct and improve it. A mechanic works on an engine to repair it. The relationship is worker to the thing worked on.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "CLOZE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "Fill in both missing numbers so one rule fits the whole series: 2, 5, 11, ___, 47, ___",
+    "blanks": [
+      "23",
+      "95"
+    ],
+    "explanation": "Each number is double the one before it plus 1: 11 × 2 + 1 = 23, 23 × 2 + 1 = 47, and 47 × 2 + 1 = 95.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g9_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? AZ, CX, EV, GT, ___",
+    "choices": [
+      "HS",
+      "IQ",
+      "IR",
+      "JR"
+    ],
+    "correctAnswer": "IR",
+    "explanation": "The first letter moves forward two places (A, C, E, G, I) and the second letter moves backward two places (Z, X, V, T, R).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A solid cube has one corner sliced off with a single flat cut that crosses the three edges meeting at that corner. What shape is the new flat face?",
+    "choices": [
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Triangle"
+    ],
+    "correctAnswer": "Triangle",
+    "explanation": "The cut crosses exactly three edges, so the new face has three sides: a triangle.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Start with the sequence 4, 1, 7, 3, 9. Reverse it. Then delete the 2nd and 4th numbers. What is left?",
+    "choices": [
+      "9, 7, 4",
+      "4, 7, 9",
+      "3, 1",
+      "9, 7, 1"
+    ],
+    "correctAnswer": "9, 7, 4",
+    "explanation": "Reversed, the sequence is 9, 3, 7, 1, 4. Deleting the 2nd (3) and 4th (1) numbers leaves 9, 7, 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Choose the word that best completes the sentence: Because the evidence was ___, the jury could not reach a confident verdict.",
+    "choices": [
+      "overwhelming",
+      "ambiguous",
+      "recent",
+      "public"
+    ],
+    "correctAnswer": "ambiguous",
+    "explanation": "Evidence that can be read more than one way (ambiguous) explains why the jury could not be confident. Overwhelming evidence would have the opposite effect.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "If 3 workers build 3 chairs in 3 days, how many chairs can 6 workers build in 6 days at the same rate?",
+    "choices": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "correctAnswer": "12",
+    "explanation": "Each worker builds 1 chair every 3 days. In 6 days each worker builds 2 chairs, so 6 workers build 12 chairs.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Suppose the statement 'All brilliant students study hard' is true. Which of the following MUST also be true?",
+    "choices": [
+      "If a student studies hard, that student is brilliant",
+      "Only brilliant students study hard",
+      "If a student is not brilliant, that student does not study hard",
+      "A student who does not study hard is not brilliant"
+    ],
+    "correctAnswer": "A student who does not study hard is not brilliant",
+    "explanation": "'If brilliant, then studies hard' is logically the same as its contrapositive: 'if a student does not study hard, the student is not brilliant'. 'If a student studies hard, that student is brilliant' and 'Only brilliant students study hard' reverse the direction of the statement, and 'If not brilliant, then does not study hard' is the inverse, which also does not follow.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A die sits on a table with 1 on top and 2 on the side facing you. It rolls once away from you, over its far bottom edge, so it lands on the next face. Which number is on top now?",
+    "choices": [
+      "2",
+      "1",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Tipping the die away from you moves the top face to the far side and brings the face that was toward you up to the top. That face is 2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read: 6, 2, 9, 4, 7, 1. Add the first and last numbers, then the second and second-to-last, then the two middle numbers. What are the three sums, in that order?",
+    "choices": [
+      "8, 11, 11",
+      "7, 9, 13",
+      "7, 13, 9",
+      "8, 9, 13"
+    ],
+    "correctAnswer": "7, 9, 13",
+    "explanation": "6 + 1 = 7, 2 + 7 = 9, and 9 + 4 = 13.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "How are a metaphor and a map alike?",
+    "choices": [
+      "Both are always written on paper",
+      "Both give exact measurements of things",
+      "Both stand for something else",
+      "Both are used only by writers"
+    ],
+    "correctAnswer": "Both stand for something else",
+    "explanation": "A metaphor stands for an idea by using a different image, and a map stands for a place by using a drawing. Both are representations.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.QUANT",
+    "prompt": "A snail is at the bottom of a 10-meter wall. Each day it climbs up 3 meters, and each night it slips back 2 meters. On which day does it first reach the top? (Type the day number.)",
+    "correctAnswer": "8",
+    "correctAnswers": [
+      "8",
+      "eight",
+      "day 8",
+      "8th"
+    ],
+    "explanation": "The snail gains 1 meter per full day and night, so after 7 nights it is at 7 meters. On day 8 it climbs 3 meters and reaches 10 meters before it can slip back.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g9_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? A1, C3, F6, J10, ___",
+    "choices": [
+      "M15",
+      "N14",
+      "M14",
+      "O15"
+    ],
+    "correctAnswer": "O15",
+    "explanation": "The jump grows by one each time: +2, +3, +4, so next is +5. Five letters after J is O, and 10 + 5 = 15. The number always matches the letter's position in the alphabet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Five people sit in a row of five seats. Uma is in the middle seat. Raj sits immediately to the right of Uma. Vic sits next to Raj. Tia does not sit next to Uma. Sol takes the remaining seat. Put the people in order from left to right.",
+    "orderedItems": [
+      "Tia",
+      "Sol",
+      "Uma",
+      "Raj",
+      "Vic"
+    ],
+    "explanation": "Uma is in seat 3 and Raj in seat 4. Vic is next to Raj and seat 3 is taken, so Vic is in seat 5. Tia cannot sit next to Uma (seat 2), so Tia is in seat 1 and Sol is in seat 2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g9_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "An arrow points up. It is rotated a quarter turn clockwise, then flipped left to right (as in a mirror), then rotated another quarter turn clockwise. Which way does the arrow point now?",
+    "choices": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "correctAnswer": "Up",
+    "explanation": "Up rotated a quarter turn clockwise points right. Flipped left to right, it points left. Left rotated a quarter turn clockwise points up.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g9_016",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Take the digits 5, 2, 8, 1, 9, 4. Sort them from largest to smallest. Keep only the 1st, 3rd and 5th digits of the sorted list. Then reverse those three. What is the result?",
+    "choices": [
+      "9, 5, 2",
+      "2, 5, 9",
+      "1, 4, 8",
+      "2, 4, 9"
+    ],
+    "correctAnswer": "2, 5, 9",
+    "explanation": "Sorted from largest to smallest: 9, 8, 5, 4, 2, 1. The 1st, 3rd and 5th are 9, 5, 2. Reversed: 2, 5, 9.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  }
+]

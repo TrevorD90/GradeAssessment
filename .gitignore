@@ -45,3 +45,5 @@ bin/
 
 ### Claude Code ###
 .claude/
+### Logs ###
+*.log

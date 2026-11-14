@@ -1,0 +1,355 @@
+[
+  {
+    "id": "social_studies_gk_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.3.K-2",
+    "prompt": "What is a rule?",
+    "choices": [
+      "It tells us what to do",
+      "It is a game we play at recess",
+      "It is a snack we eat"
+    ],
+    "correctAnswer": "It tells us what to do",
+    "explanation": "A rule tells people what they should or should not do. Rules keep us safe and help everyone get along.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.2.K-2",
+    "prompt": "What does a map show?",
+    "choices": [
+      "What time it is",
+      "Where places are",
+      "How much you weigh"
+    ],
+    "correctAnswer": "Where places are",
+    "explanation": "A map is a drawing that shows where places are.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.2.K-2",
+    "prompt": "Who puts out fires?",
+    "choices": [
+      "A teacher",
+      "A mail carrier",
+      "A firefighter"
+    ],
+    "correctAnswer": "A firefighter",
+    "explanation": "Firefighters are community helpers who put out fires and keep people safe.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.7.K-2",
+    "prompt": "Which are good ways to act at school? Select all that apply.",
+    "choices": [
+      "Take turns",
+      "Push in line",
+      "Share",
+      "Grab toys"
+    ],
+    "correctAnswers": [
+      "Take turns",
+      "Share"
+    ],
+    "explanation": "Taking turns and sharing are ways to be a good citizen at school. Pushing and grabbing are not.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_gk_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.1.K-2",
+    "prompt": "Which one is a need?",
+    "choices": [
+      "Food",
+      "A toy car",
+      "A video game"
+    ],
+    "correctAnswer": "Food",
+    "explanation": "A need is something people must have to live, like food, water, clothing and a home. Toys and games are wants.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HSS-K.2",
+    "prompt": "Which is a symbol of the United States?",
+    "choices": [
+      "A stop sign",
+      "The American flag",
+      "A birthday cake"
+    ],
+    "correctAnswer": "The American flag",
+    "explanation": "The American flag is a symbol that stands for the United States.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.1.K-2",
+    "prompt": "Put these in order, from first to last in a day.",
+    "orderedItems": [
+      "Wake up in the morning",
+      "Eat lunch at noon",
+      "Go to bed at night"
+    ],
+    "explanation": "Morning comes first, then noon, then night.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_gk_008",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.6.K-2",
+    "prompt": "Why do people have jobs?",
+    "choices": [
+      "To get more sleep",
+      "To stay home all day",
+      "To earn money"
+    ],
+    "correctAnswer": "To earn money",
+    "explanation": "People work at jobs to earn money. They use the money to buy things they need and want.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_009",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HSS-K.4.1",
+    "prompt": "The ball is under the table. Where is the ball?",
+    "choices": [
+      "Below the table",
+      "On top of the table",
+      "Far away from the table"
+    ],
+    "correctAnswer": "Below the table",
+    "explanation": "Under means below. Words like under, above, near and far tell where things are.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_010",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "HSS-K.4.2",
+    "prompt": "On a globe, what does the blue part show?",
+    "choices": [
+      "Land",
+      "Water",
+      "Roads"
+    ],
+    "correctAnswer": "Water",
+    "explanation": "A globe is a model of Earth. Blue shows water, such as oceans.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_011",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Eco.1.K-2",
+    "prompt": "Sam has money for one thing. He wants a ball and a book. What must Sam do?",
+    "choices": [
+      "Get both",
+      "Give his money away",
+      "Choose one"
+    ],
+    "correctAnswer": "Choose one",
+    "explanation": "Sam cannot have everything he wants, so he has to make a choice.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_012",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Civ.3.K-2",
+    "prompt": "Why do we walk, not run, in the hall?",
+    "choices": [
+      "So no one gets hurt",
+      "So we get to class late",
+      "So the hall is very loud"
+    ],
+    "correctAnswer": "So no one gets hurt",
+    "explanation": "Rules like walking in the hall help keep everyone safe.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_013",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Civ.11.K-2",
+    "prompt": "Which pet did the class choose?",
+    "passage": "Mia's class wants a pet. The teacher says, \"Let's vote.\" Nine children vote for a fish. Five children vote for a hamster.",
+    "choices": [
+      "The hamster",
+      "The fish",
+      "A puppy"
+    ],
+    "correctAnswer": "The fish",
+    "explanation": "Nine is more than five. The fish got the most votes, so the class chose the fish. Voting is a fair way for a group to decide.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "social_studies_gk_014",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Eco.1.K-2",
+    "prompt": "Which are wants, not needs? Select all that apply.",
+    "choices": [
+      "A toy robot",
+      "Water",
+      "Candy",
+      "A warm coat"
+    ],
+    "correctAnswers": [
+      "A toy robot",
+      "Candy"
+    ],
+    "explanation": "Toys and candy are wants: nice to have, but we can live without them. Water and warm clothing are needs.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_gk_015",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "Long ago, there were no cars. How did many people travel?",
+    "choices": [
+      "By airplane",
+      "By school bus",
+      "By horse"
+    ],
+    "correctAnswer": "By horse",
+    "explanation": "Before cars were invented, many people walked or rode horses. Airplanes and buses came later.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  }
+]

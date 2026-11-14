@@ -1,0 +1,410 @@
+[
+  {
+    "id": "writing_g6_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.6.1.A",
+    "prompt": "Which sentence uses the correct pronoun?",
+    "choices": [
+      "Maya and me went to the store.",
+      "Me and Maya went to the store.",
+      "Maya and I went to the store.",
+      "Maya and myself went to the store."
+    ],
+    "correctAnswer": "Maya and I went to the store.",
+    "explanation": "Use a subjective-case pronoun (I, he, she, we, they) as the subject of a sentence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.6.1.A",
+    "prompt": "Which pronoun correctly completes the sentence?\nThe coach gave Luis and ___ new uniforms.",
+    "choices": [
+      "I",
+      "myself",
+      "we",
+      "me"
+    ],
+    "correctAnswer": "me",
+    "explanation": "Use an objective-case pronoun (me, him, her, us, them) as the object of a verb. Test it by removing 'Luis and': The coach gave me new uniforms.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_003",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.6.1.B",
+    "prompt": "Which sentence uses an intensive pronoun?",
+    "choices": [
+      "The mayor herself answered the phone.",
+      "The mayor answered her phone.",
+      "She told the mayor about it.",
+      "The mayor called them back."
+    ],
+    "correctAnswer": "The mayor herself answered the phone.",
+    "explanation": "An intensive pronoun (myself, herself, themselves) emphasizes the noun or pronoun it follows and could be removed without changing the meaning.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_004",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.6.1.A",
+    "prompt": "Type the correct pronoun (they or them): Mr. Diaz asked ___ to help with the science fair.",
+    "correctAnswer": "them",
+    "correctAnswers": [
+      "them"
+    ],
+    "explanation": "Use the objective-case pronoun 'them' as the object of the verb 'asked.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g6_005",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.6.2.B",
+    "prompt": "Which word is spelled correctly?",
+    "choices": [
+      "seperate",
+      "separate",
+      "separete",
+      "sepparate"
+    ],
+    "correctAnswer": "separate",
+    "explanation": "'Separate' is spelled with an a after the p: sep-a-rate.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_006",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.6.2.A",
+    "prompt": "Which sentence uses commas correctly?",
+    "choices": [
+      "My mother who grew up in Texas is visiting us.",
+      "My mother who grew up in Texas, is visiting us.",
+      "My mother, who grew up in Texas, is visiting us.",
+      "My mother, who grew up in Texas is visiting us."
+    ],
+    "correctAnswer": "My mother, who grew up in Texas, is visiting us.",
+    "explanation": "A nonrestrictive clause adds extra information about a noun that is already clearly identified. Set it off with a comma on both sides.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_007",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.6.1.C",
+    "prompt": "Which sentence has an incorrect shift in pronoun person?",
+    "choices": [
+      "When students study hard, they get better grades.",
+      "When you study hard, you get better grades.",
+      "When we study hard, we get better grades.",
+      "When students study hard, you get better grades."
+    ],
+    "correctAnswer": "When students study hard, you get better grades.",
+    "explanation": "A pronoun should match the person of the word it refers to. 'Students' is third person, so it should be followed by 'they,' not 'you.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.6.1.D",
+    "prompt": "Which sentence contains a vague pronoun?",
+    "choices": [
+      "When Anna called Beth, she was upset.",
+      "Anna called Beth because Anna was upset.",
+      "Beth was upset when Anna called.",
+      "Anna and Beth were upset when they talked."
+    ],
+    "correctAnswer": "When Anna called Beth, she was upset.",
+    "explanation": "A pronoun is vague when it could refer to more than one noun. In this sentence, 'she' could mean Anna or Beth.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_009",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.6.2.A",
+    "prompt": "Which sentence correctly uses dashes to set off extra information?",
+    "choices": [
+      "My neighbor's dog—a huge, friendly sheepdog, follows me to school.",
+      "My neighbor's dog—a huge, friendly sheepdog—follows me to school.",
+      "My neighbor's dog, a huge, friendly sheepdog—follows me to school.",
+      "My neighbor's—dog a huge, friendly sheepdog follows—me to school."
+    ],
+    "correctAnswer": "My neighbor's dog—a huge, friendly sheepdog—follows me to school.",
+    "explanation": "A parenthetical element in the middle of a sentence is set off with a matching pair of marks: two dashes, two commas, or two parentheses.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_010",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.6.3.B",
+    "prompt": "A student is writing a formal report about volcanoes. Which sentence best maintains a formal style?",
+    "choices": [
+      "Volcanoes are super scary, no joke.",
+      "You wouldn't believe how crazy eruptions get!",
+      "Volcanic eruptions can destroy entire towns.",
+      "Eruptions are, like, totally destructive."
+    ],
+    "correctAnswer": "Volcanic eruptions can destroy entire towns.",
+    "explanation": "A formal style avoids slang, filler words, and casual expressions and keeps a consistent tone.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_011",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.6.1.A",
+    "prompt": "Choose the correct pronoun in parentheses for each blank.\n___ (She / Her) and Tom built a model rocket. The teacher praised Tom and ___ (she / her) for their work.",
+    "blanks": [
+      "She",
+      "her"
+    ],
+    "explanation": "Use the subjective case (she) for a subject and the objective case (her) for the object of a verb.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g6_012",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.6.1.A",
+    "prompt": "Which sentences use pronouns correctly? Select all that apply.",
+    "choices": [
+      "Between you and me, the test was easy.",
+      "Us students voted for a longer recess.",
+      "The prize was shared by Kim and him.",
+      "Her and I walked home.",
+      "We players practiced every day."
+    ],
+    "correctAnswers": [
+      "Between you and me, the test was easy.",
+      "The prize was shared by Kim and him.",
+      "We players practiced every day."
+    ],
+    "explanation": "Use objective-case pronouns (me, him) after prepositions such as 'between' and 'by,' and subjective-case pronouns (we, she) as subjects.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g6_013",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.6.1.B",
+    "prompt": "Which sentence would best support the writer's claim with relevant evidence?",
+    "passage": "Our school should replace its disposable lunch trays with reusable ones. Reusable trays would greatly reduce the amount of waste the school produces.",
+    "choices": [
+      "Lunch is the best part of the school day.",
+      "Some students bring lunch from home.",
+      "The cafeteria's lunch trays come in several bright colors, including red, blue, and green.",
+      "The cafeteria currently throws away about 2,000 disposable trays every week."
+    ],
+    "correctAnswer": "The cafeteria currently throws away about 2,000 disposable trays every week.",
+    "explanation": "A claim should be supported with clear reasons and relevant evidence. Only the fact about how many trays are thrown away shows that reusable trays would reduce waste.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_014",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.6.1.C",
+    "prompt": "Which sentence contains an incorrect shift in pronoun person?",
+    "passage": "(1) Volunteers arrived at the park early on Saturday. (2) They picked up litter along the trails. (3) After you finished, they planted two new trees. (4) They were proud of their work.",
+    "choices": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+    ],
+    "correctAnswer": "Sentence 3",
+    "explanation": "The paragraph is about the volunteers ('they'). Sentence 3 shifts to 'you' and should read 'After they finished.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_015",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.6.3.A",
+    "prompt": "Which revision best combines these sentences to vary the sentence pattern?\nThe storm ended. We went outside. We saw a rainbow.",
+    "choices": [
+      "After the storm ended, we went outside and saw a rainbow.",
+      "The storm ended, we went outside, we saw a rainbow.",
+      "The storm ended. And we went outside. And we saw a rainbow.",
+      "The storm ended we went outside and saw a rainbow."
+    ],
+    "correctAnswer": "After the storm ended, we went outside and saw a rainbow.",
+    "explanation": "Combining short sentences with a dependent clause and a compound predicate adds variety without creating a run-on or comma splice.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_016",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.6.4",
+    "prompt": "A student is writing a letter to the city council to ask for a new crosswalk near the school. Which opening sentence is most appropriate for the purpose and audience?",
+    "choices": [
+      "Hey guys, we really need a crosswalk ASAP!",
+      "I am writing to request that a crosswalk be installed on Maple Street near Lincoln Middle School.",
+      "Crosswalks are marked areas of a road, often painted with white stripes, where people on foot can cross safely.",
+      "Have you ever wondered what it would be like to fly?"
+    ],
+    "correctAnswer": "I am writing to request that a crosswalk be installed on Maple Street near Lincoln Middle School.",
+    "explanation": "Writing should fit its task, purpose, and audience. A request to city officials should state the purpose clearly in a formal style.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g6_017",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.6.1.A",
+    "prompt": "Arrange these sentences to make a well-organized argument paragraph.",
+    "orderedItems": [
+      "Middle schools should offer a daily recess.",
+      "One reason is that short breaks help students focus on their work.",
+      "Recess also gives students time to exercise during the school day.",
+      "Clearly, a daily recess would benefit both learning and health."
+    ],
+    "explanation": "An argument paragraph introduces the claim, organizes the reasons clearly, and ends with a concluding statement that follows from the argument.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.0
+    }
+  }
+]

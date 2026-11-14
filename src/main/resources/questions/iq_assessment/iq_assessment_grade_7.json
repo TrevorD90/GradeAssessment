@@ -1,0 +1,357 @@
+[
+  {
+    "id": "iq_assessment_g7_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Chapter is to book as scene is to ___",
+    "choices": [
+      "actor",
+      "stage",
+      "page",
+      "play"
+    ],
+    "correctAnswer": "play",
+    "explanation": "A chapter is one section of a book. A scene is one section of a play.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 1, 3, 6, 10, 15, ___",
+    "correctAnswer": "21",
+    "correctAnswers": [
+      "21",
+      "twenty-one",
+      "twenty one"
+    ],
+    "explanation": "The amount added grows by one each time: +2, +3, +4, +5, so next is +6. 15 + 6 = 21.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g7_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What letter comes next? A, B, D, G, K, ___",
+    "choices": [
+      "P",
+      "O",
+      "Q",
+      "N"
+    ],
+    "correctAnswer": "P",
+    "explanation": "The jump grows by one each time: +1, +2, +3, +4, so next is +5. Five letters after K is P.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A card shows an arrow pointing up. The card is turned a quarter turn clockwise, then a half turn, then another quarter turn clockwise. Which way does the arrow point now?",
+    "choices": [
+      "Down",
+      "Up",
+      "Left",
+      "Right"
+    ],
+    "correctAnswer": "Up",
+    "explanation": "A quarter turn, a half turn and another quarter turn add up to one full turn, so the arrow ends where it started: pointing up. Step by step: up, then right, then left, then up.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Start with the sequence 3, 8, 1, 6. Reverse it. Then swap the first and last numbers. What is the result?",
+    "choices": [
+      "6, 1, 8, 3",
+      "3, 8, 1, 6",
+      "3, 1, 8, 6",
+      "6, 8, 1, 3"
+    ],
+    "correctAnswer": "3, 1, 8, 6",
+    "explanation": "Reversed, the sequence is 6, 1, 8, 3. Swapping the first and last numbers gives 3, 1, 8, 6.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Which word does NOT belong with the others? telescope, microscope, periscope, stethoscope",
+    "choices": [
+      "telescope",
+      "microscope",
+      "periscope",
+      "stethoscope"
+    ],
+    "correctAnswer": "stethoscope",
+    "explanation": "A telescope, a microscope and a periscope are all instruments for seeing. A stethoscope is for listening.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next in the sequence? 2, 6, 12, 20, 30, ___",
+    "correctAnswer": "42",
+    "correctAnswers": [
+      "42",
+      "forty-two",
+      "forty two"
+    ],
+    "explanation": "The amount added grows by 2 each time: +4, +6, +8, +10, so next is +12. 30 + 12 = 42.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g7_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Five runners finished a race. Ana finished ahead of Ben but behind Cy. Eli finished immediately behind Ben. Dev finished last. Put the runners in order from first to last.",
+    "orderedItems": [
+      "Cy",
+      "Ana",
+      "Ben",
+      "Eli",
+      "Dev"
+    ],
+    "explanation": "Dev is fifth. Cy is ahead of Ana, Ana is ahead of Ben, and Eli is right behind Ben, so the first four are Cy, Ana, Ben, Eli.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g7_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A square sheet of paper is folded in half, then in half again, making a smaller square. The corner of the small square that was the CENTER of the original sheet is cut off. What do you see when the paper is unfolded?",
+    "choices": [
+      "One hole in the middle",
+      "Four holes, one near each corner",
+      "Two holes along the middle of one edge",
+      "All four corners of the sheet cut off"
+    ],
+    "correctAnswer": "One hole in the middle",
+    "explanation": "All four layers meet at the point that was the center of the sheet. Cutting that corner removes a piece from each layer around the center, which opens into a single hole in the middle.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read: 7, Q, 2, F, 9, L, 5. Say the letters in alphabetical order first, then the numbers from largest to smallest. What is the fifth thing you say?",
+    "choices": [
+      "9",
+      "7",
+      "5",
+      "Q"
+    ],
+    "correctAnswer": "7",
+    "explanation": "The full answer is F, L, Q, 9, 7, 5, 2. The fifth item is 7.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "How are praise and criticism alike?",
+    "choices": [
+      "Both make people feel good about themselves",
+      "Both are given only by teachers in school",
+      "Both judge what someone did",
+      "Both are always deserved"
+    ],
+    "correctAnswer": "Both judge what someone did",
+    "explanation": "Praise is a positive judgment and criticism is a negative one, but both are feedback that evaluates someone's actions or work.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.QUANT",
+    "prompt": "A notebook and a pen cost $11.00 together. The notebook costs $10.00 more than the pen. How much does the pen cost?",
+    "choices": [
+      "$1.00",
+      "$1.50",
+      "$10.00",
+      "$0.50"
+    ],
+    "correctAnswer": "$0.50",
+    "explanation": "If the pen costs $0.50, the notebook costs $10.50, and together they cost $11.00. A $1.00 pen would make the notebook $11.00 and the total $12.00.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What number comes next? 1, 2, 6, 24, 120, ___",
+    "correctAnswer": "720",
+    "correctAnswers": [
+      "720"
+    ],
+    "explanation": "The multiplier grows by one each time: ×2, ×3, ×4, ×5, so next is ×6. 120 × 6 = 720.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g7_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A cube is painted red on all sides and then cut into 27 equal small cubes (3 by 3 by 3). How many of the small cubes have exactly two red faces?",
+    "choices": [
+      "12",
+      "6",
+      "8",
+      "16"
+    ],
+    "correctAnswer": "12",
+    "explanation": "Small cubes with exactly two painted faces sit in the middle of an edge of the big cube. A cube has 12 edges with one such cube on each, so there are 12. (The 8 corners have three red faces and the 6 face centers have one.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g7_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Take the word PLASTIC. Remove the 2nd, 4th and 6th letters. Then write the letters that are left in reverse order. What do you get?",
+    "choices": [
+      "PATC",
+      "CTAP",
+      "CITS",
+      "CTSP"
+    ],
+    "correctAnswer": "CTAP",
+    "explanation": "Removing L, S and I leaves P, A, T, C. Reversed, that is C, T, A, P.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "science_g9_001",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-LS1-1",
+    "prompt": "The double-helix molecule that carries the genetic instructions of living organisms is called ___ (use the three-letter abbreviation).",
+    "correctAnswer": "DNA",
+    "correctAnswers": [
+      "DNA",
+      "deoxyribonucleic acid"
+    ],
+    "explanation": "DNA (deoxyribonucleic acid) stores genetic information in the sequence of its bases. Its instructions direct the making of proteins.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g9_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-LS1-1",
+    "prompt": "Which cell structure is the site of protein synthesis?",
+    "choices": [
+      "Ribosome",
+      "Lysosome",
+      "Golgi apparatus",
+      "Vacuole"
+    ],
+    "correctAnswer": "Ribosome",
+    "explanation": "Ribosomes assemble amino acids into proteins using the instructions carried by messenger RNA.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_003",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-PS2-1",
+    "prompt": "According to Newton's second law, the net force on an object equals which of the following?",
+    "choices": [
+      "Mass times velocity",
+      "Mass times acceleration",
+      "Mass divided by acceleration",
+      "Weight times height"
+    ],
+    "correctAnswer": "Mass times acceleration",
+    "explanation": "Newton's second law: net force = mass x acceleration (F = ma).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_004",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-LS2-4",
+    "prompt": "Which group of organisms makes up the first trophic level of an ecosystem?",
+    "choices": [
+      "Primary consumers",
+      "Decomposers",
+      "Producers",
+      "Top predators"
+    ],
+    "correctAnswer": "Producers",
+    "explanation": "Producers (autotrophs) capture energy, usually from sunlight, and form the first trophic level that supports all other levels.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-LS1-5",
+    "prompt": "What are the reactants (starting materials) of photosynthesis?",
+    "choices": [
+      "Glucose and oxygen",
+      "Oxygen and water",
+      "Glucose and carbon dioxide",
+      "Carbon dioxide and water"
+    ],
+    "correctAnswer": "Carbon dioxide and water",
+    "explanation": "Photosynthesis uses light energy to convert carbon dioxide and water into glucose and oxygen.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_006",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HS-LS1-4",
+    "prompt": "Arrange the stages of mitosis in the correct order, from first to last.",
+    "orderedItems": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "explanation": "Prophase (chromosomes condense), metaphase (chromosomes line up at the middle of the cell), anaphase (sister chromatids separate), telophase (new nuclei form).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g9_007",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HS-PS3-1",
+    "prompt": "A 2-kilogram object is moving at 3 meters per second. What is its kinetic energy?",
+    "choices": [
+      "3 J",
+      "6 J",
+      "9 J",
+      "18 J"
+    ],
+    "correctAnswer": "9 J",
+    "explanation": "KE = 1/2 x m x v^2 = 1/2 x 2 kg x (3 m/s)^2 = 9 joules.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_008",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HS-LS1-3",
+    "prompt": "After a meal, blood glucose rises. The pancreas releases insulin, which causes cells to take up glucose, and blood glucose returns to its normal level. What is this an example of?",
+    "choices": [
+      "Negative feedback",
+      "Positive feedback",
+      "Genetic mutation",
+      "Natural selection"
+    ],
+    "correctAnswer": "Negative feedback",
+    "explanation": "In negative feedback, a change triggers a response that reverses the change and returns the body to its set point, maintaining homeostasis.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_009",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HS-LS1-7",
+    "prompt": "Which equation summarizes aerobic cellular respiration?",
+    "choices": [
+      "6CO2 + 6H2O + light energy -> C6H12O6 + 6O2",
+      "C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy (ATP)",
+      "C6H12O6 -> 6O2 + 6H2O + light energy",
+      "6CO2 + 6O2 -> C6H12O6 + 6H2O + energy (ATP)"
+    ],
+    "correctAnswer": "C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy (ATP)",
+    "explanation": "In aerobic cellular respiration, glucose and oxygen react to form carbon dioxide and water, and energy is transferred to ATP. The first equation is photosynthesis.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_010",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HS-LS2-1",
+    "prompt": "Which of these are density-dependent limiting factors (their effect becomes stronger as a population becomes more crowded)? Select all that apply.",
+    "choices": [
+      "Competition for food",
+      "Spread of an infectious disease",
+      "A hurricane",
+      "Predation",
+      "A volcanic eruption"
+    ],
+    "correctAnswers": [
+      "Competition for food",
+      "Spread of an infectious disease",
+      "Predation"
+    ],
+    "explanation": "Competition, disease, and predation have greater effects as population density increases. Hurricanes and volcanic eruptions affect populations regardless of density.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g9_011",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HS-LS1-1",
+    "prompt": "Word bank: transcription, translation, replication. Fill in the blanks. In ___, the DNA sequence of a gene is copied into messenger RNA. In ___, a ribosome uses the messenger RNA sequence to assemble a chain of amino acids.",
+    "blanks": [
+      "transcription",
+      "translation"
+    ],
+    "explanation": "Transcription copies a gene's DNA sequence into mRNA. Translation uses the mRNA sequence to build a protein at a ribosome. Replication is the copying of DNA before cell division.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g9_012",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HS-PS2-1",
+    "prompt": "A net force of 20 newtons acts on a 4-kilogram object. What is the object's acceleration?",
+    "choices": [
+      "0.2 m/s^2",
+      "5 m/s^2",
+      "16 m/s^2",
+      "80 m/s^2"
+    ],
+    "correctAnswer": "5 m/s^2",
+    "explanation": "a = F / m = 20 N / 4 kg = 5 m/s^2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_013",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HS-LS1-4",
+    "prompt": "What is the main role of mitosis in a multicellular organism?",
+    "choices": [
+      "To produce sex cells with half the number of chromosomes",
+      "To combine genetic material from two parents",
+      "To convert glucose into ATP",
+      "To produce genetically identical cells for growth and repair"
+    ],
+    "correctAnswer": "To produce genetically identical cells for growth and repair",
+    "explanation": "Mitosis produces two daughter cells genetically identical to the parent cell, allowing organisms to grow and to replace damaged cells. Meiosis produces sex cells.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_014",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HS-ESS2-4",
+    "prompt": "A large air mass is moving northward from the equator in the Northern Hemisphere. Based on the passage, in which direction will the Coriolis effect deflect it?",
+    "passage": "The Coriolis effect is caused by the rotation of the Earth. Objects moving over the surface of the Earth, such as air masses and ocean currents, are deflected from a straight-line path. In the Northern Hemisphere, moving objects are deflected to the right of their direction of motion, while in the Southern Hemisphere, they are deflected to the left. This effect is significant in determining large-scale weather patterns and ocean circulation but is negligible for small-scale phenomena.",
+    "choices": [
+      "To the west (left of its motion)",
+      "Directly back toward the equator",
+      "To the east (right of its motion)",
+      "Straight upward into the atmosphere"
+    ],
+    "correctAnswer": "To the east (right of its motion)",
+    "explanation": "In the Northern Hemisphere moving objects are deflected to the right of their direction of motion. For an air mass moving north, right is toward the east.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_015",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HS-LS1-1",
+    "prompt": "Which is the best explanation for the lower reaction rates at 50 degrees C and 65 degrees C?",
+    "passage": "Students measured the rate of an enzyme-catalyzed reaction at different temperatures. The pH, enzyme concentration, and starting substrate concentration were the same in every trial. Results: 10 degrees C: 4 units per minute. 25 degrees C: 11 units per minute. 37 degrees C: 20 units per minute. 50 degrees C: 9 units per minute. 65 degrees C: 1 unit per minute.",
+    "choices": [
+      "Heat changed the enzyme's shape, so the substrate no longer fit its active site",
+      "The substrate was used up before the high-temperature trials began",
+      "Molecules move more slowly at higher temperatures, so they collide less often",
+      "The enzyme molecules were used up faster at the higher temperatures and could not be replaced"
+    ],
+    "correctAnswer": "Heat changed the enzyme's shape, so the substrate no longer fit its active site",
+    "explanation": "An enzyme's function depends on its three-dimensional shape. Above the optimum temperature (about 37 degrees C here) the protein denatures, the active site changes shape, and the rate falls. The passage states that substrate and enzyme concentrations were kept constant.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_016",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "HS-LS1-3",
+    "prompt": "A student is designing an experiment to test whether temperature affects the rate of an enzyme-catalyzed reaction. Which of the following are features of a well-designed experiment? Select all that apply.",
+    "choices": [
+      "Keeping the pH and enzyme concentration the same in every trial",
+      "Repeating the trials at each temperature",
+      "Changing the substrate concentration along with the temperature",
+      "Measuring the reaction rate the same way each time",
+      "Running only one trial at each temperature to save time"
+    ],
+    "correctAnswers": [
+      "Keeping the pH and enzyme concentration the same in every trial",
+      "Repeating the trials at each temperature",
+      "Measuring the reaction rate the same way each time"
+    ],
+    "explanation": "A valid experiment changes only the independent variable (temperature), holds other variables constant, uses a consistent measurement, and repeats trials for reliability. Changing a second variable would make the results impossible to interpret.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g9_017",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "HS-LS2-4",
+    "prompt": "The producers in an ecosystem store 10,000 kilojoules of energy. If about 10% of the energy is transferred from each trophic level to the next, about how much energy is available to the secondary consumers?",
+    "choices": [
+      "10 kJ",
+      "100 kJ",
+      "1,000 kJ",
+      "9,000 kJ"
+    ],
+    "correctAnswer": "100 kJ",
+    "explanation": "Primary consumers receive about 10% of 10,000 kJ = 1,000 kJ. Secondary consumers receive about 10% of 1,000 kJ = 100 kJ.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_018",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HS-PS3-2",
+    "prompt": "A 2-kilogram ball is dropped from rest from a height of 5 meters. Ignoring air resistance and using g = 10 m/s^2, what is the ball's speed just before it reaches the ground?",
+    "choices": [
+      "100 m/s",
+      "20 m/s",
+      "10 m/s",
+      "5 m/s"
+    ],
+    "correctAnswer": "10 m/s",
+    "explanation": "Gravitational potential energy converts to kinetic energy: mgh = 1/2 mv^2, so 2 x 10 x 5 = 100 J = 1/2 x 2 x v^2. Then v^2 = 100 and v = 10 m/s.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g9_019",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HS-LS1-3",
+    "prompt": "A red blood cell is placed in a solution that has a much higher salt concentration than the cell's cytoplasm. What will happen to the cell?",
+    "choices": [
+      "Water will move into the cell, and the cell will swell",
+      "Salt will leave the cell until the cell is empty",
+      "Nothing will happen, because the membrane blocks water",
+      "Water will move out of the cell, and the cell will shrink"
+    ],
+    "correctAnswer": "Water will move out of the cell, and the cell will shrink",
+    "explanation": "By osmosis, water moves across the membrane toward the region of higher solute concentration. In a hypertonic solution, water leaves the cell and the cell shrinks.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  }
+]

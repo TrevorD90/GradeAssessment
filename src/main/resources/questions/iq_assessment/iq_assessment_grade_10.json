@@ -1,0 +1,387 @@
+[
+  {
+    "id": "iq_assessment_g10_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Scarce is to abundant as fragile is to ___",
+    "choices": [
+      "delicate",
+      "rare",
+      "sturdy",
+      "broken"
+    ],
+    "correctAnswer": "sturdy",
+    "explanation": "Scarce and abundant are opposites. The opposite of fragile is sturdy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 0, 3, 8, 15, 24, ___",
+    "correctAnswer": "35",
+    "correctAnswers": [
+      "35",
+      "thirty-five",
+      "thirty five"
+    ],
+    "explanation": "The amount added grows by 2 each time: +3, +5, +7, +9, so next is +11. 24 + 11 = 35. (Each term is also one less than a square number.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g10_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "A 3 by 3 grid of figures follows a pattern. Row 1: empty circle, striped square, filled triangle. Row 2: striped circle, filled square, empty triangle. Row 3: filled circle, empty square, ___. Which figure completes the grid?",
+    "choices": [
+      "Filled triangle",
+      "Empty triangle",
+      "Striped square",
+      "Striped triangle"
+    ],
+    "correctAnswer": "Striped triangle",
+    "explanation": "Every row goes circle, square, triangle, so the missing shape is a triangle. Each row and each column contains each shading once; row 3 already has filled and empty, so the triangle is striped.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "On a standard die, opposite faces always add up to 7. The die sits on a table with 3 on top. What is the sum of the four side faces?",
+    "choices": [
+      "14",
+      "11",
+      "17",
+      "18"
+    ],
+    "correctAnswer": "14",
+    "explanation": "All six faces add up to 21. The top is 3 and the bottom is 4, so the four sides add up to 21 − 7 = 14.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Start with the sequence 7, 2, 5, 9, 1, 6. Swap the first and last numbers. Then reverse the whole sequence. Then remove the second number. What is the result?",
+    "choices": [
+      "6, 5, 9, 1, 7",
+      "7, 9, 5, 2, 6",
+      "7, 1, 5, 2, 6",
+      "6, 2, 5, 9, 7"
+    ],
+    "correctAnswer": "7, 9, 5, 2, 6",
+    "explanation": "After the swap: 6, 2, 5, 9, 1, 7. Reversed: 7, 1, 9, 5, 2, 6. Removing the second number (1) leaves 7, 9, 5, 2, 6.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Choose the pair of words that best completes the sentence: The author's argument was ___ but not ___: every step followed logically from the one before, yet few readers changed their minds.",
+    "choices": [
+      "emotional ... logical",
+      "brief ... clear",
+      "valid ... persuasive",
+      "popular ... correct"
+    ],
+    "correctAnswer": "valid ... persuasive",
+    "explanation": "'Every step followed logically' describes a valid argument, and 'few readers changed their minds' means it was not persuasive.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "A price is raised by 20%, and then the new price is lowered by 20%. How does the final price compare with the original price?",
+    "choices": [
+      "It is the same",
+      "It is 4% higher",
+      "It is 20% lower",
+      "It is 4% lower"
+    ],
+    "correctAnswer": "It is 4% lower",
+    "explanation": "Start with 100. Raising by 20% gives 120. Lowering 120 by 20% removes 24 and gives 96, which is 4% below the original, because the decrease is taken from a larger amount.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Which box holds the prize?",
+    "choices": [
+      "Box B",
+      "Box A",
+      "Box C",
+      "It cannot be determined"
+    ],
+    "correctAnswer": "Box B",
+    "passage": "Exactly one of three boxes holds a prize. Each box has a label, and exactly ONE of the three labels is true. Box A says: 'The prize is in this box.' Box B says: 'The prize is not in this box.' Box C says: 'The prize is not in Box A.'",
+    "explanation": "If the prize were in A, labels A and B would both be true. If it were in C, labels B and C would both be true. If it is in B, only label C is true. So the prize is in Box B.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A 3 by 3 by 3 cube is built from 27 small cubes. The small cube at the center of each of the six faces is removed, and so is the small cube at the very center of the large cube. How many small cubes remain?",
+    "choices": [
+      "18",
+      "20",
+      "21",
+      "26"
+    ],
+    "correctAnswer": "20",
+    "explanation": "Six face-center cubes and one middle cube are removed: 27 − 7 = 20.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read: 3, T, 8, D, 6, P, 1, H. Put the letters in REVERSE alphabetical order and the numbers in order from smallest to largest. Then pair them: first letter with first number, second with second, and so on. Which is correct?",
+    "choices": [
+      "D1, H3, P6, T8",
+      "T8, P6, H3, D1",
+      "T1, P3, H6, D8",
+      "T3, P8, H6, D1"
+    ],
+    "correctAnswer": "T1, P3, H6, D8",
+    "explanation": "Letters in reverse alphabetical order: T, P, H, D. Numbers from smallest to largest: 1, 3, 6, 8. Paired in order: T1, P3, H6, D8.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Which pair of words has the same relationship as THERMOSTAT : TEMPERATURE?",
+    "choices": [
+      "thermometer : temperature",
+      "oven : baking",
+      "clock : time",
+      "cruise control : speed"
+    ],
+    "correctAnswer": "cruise control : speed",
+    "explanation": "A thermostat automatically keeps temperature at a set level. Cruise control automatically keeps speed at a set level. A thermometer and a clock only measure; they do not regulate.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.QUANT",
+    "prompt": "In a tournament, every team plays every other team exactly once. There are 28 games in total. How many teams are in the tournament?",
+    "correctAnswer": "8",
+    "correctAnswers": [
+      "8",
+      "eight"
+    ],
+    "explanation": "With n teams there are n × (n − 1) ÷ 2 games. 8 × 7 ÷ 2 = 28, so there are 8 teams.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g10_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "If the alarm sounds, the door locks. If the door locks, the lights turn off. Right now the lights are ON. Which of these statements MUST be true? Select all that apply.",
+    "choices": [
+      "The door is not locked",
+      "The alarm is broken",
+      "The alarm has not sounded",
+      "If the lights are off, the alarm has sounded"
+    ],
+    "correctAnswers": [
+      "The door is not locked",
+      "The alarm has not sounded"
+    ],
+    "explanation": "If the door were locked the lights would be off, so the door is not locked. If the alarm had sounded the door would be locked, so the alarm has not sounded. Nothing says the alarm is broken, and lights being off would not prove the alarm sounded.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g10_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Five runners finished a race with no ties. Kai finished exactly two places ahead of Lin. Mo finished immediately after Kai. Oz finished after Lin. Nia did not finish first or last. Put the runners in order from first to last.",
+    "orderedItems": [
+      "Kai",
+      "Mo",
+      "Lin",
+      "Nia",
+      "Oz"
+    ],
+    "explanation": "Kai, Mo and Lin fill three places in a row. Oz is after Lin, so that block cannot end in fifth place. If the block were 2nd to 4th, Oz would be 5th and Nia 1st, which is not allowed. So the block is 1st to 3rd. Nia cannot be last, so Nia is 4th and Oz is 5th.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g10_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Five gears are arranged in a closed ring, so that each gear meshes with the two gears beside it. Someone tries to turn one gear. What happens?",
+    "choices": [
+      "The gears lock and none can turn",
+      "All five gears turn clockwise",
+      "The gears turn in alternating directions",
+      "Only the gear that is pushed turns"
+    ],
+    "correctAnswer": "The gears lock and none can turn",
+    "explanation": "Neighboring gears must turn in opposite directions. Going around a ring of five, the directions alternate until the fifth gear would need to turn the same way as the first gear it touches, which is impossible, so the ring locks. (A ring with an even number of gears can turn.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g10_016",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Put the letters of the word DIAGRAMS in alphabetical order. Take the letters in positions 2, 4, 6 and 8 of that ordered list, and write those four letters in reverse order. What do you get?",
+    "choices": [
+      "AGMS",
+      "SMGA",
+      "RIDA",
+      "SMGD"
+    ],
+    "correctAnswer": "SMGA",
+    "explanation": "In alphabetical order: A, A, D, G, I, M, R, S. Positions 2, 4, 6, 8 are A, G, M, S. Reversed: S, M, G, A.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "id": "arts_g9_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.Ia",
+    "prompt": "Which technique involves applying pigment to wet plaster on a wall or ceiling, so that the paint becomes part of the surface as it dries?",
+    "choices": [
+      "Encaustic",
+      "Impasto",
+      "Fresco",
+      "Gouache"
+    ],
+    "correctAnswer": "Fresco",
+    "explanation": "In fresco, pigment is applied to fresh, wet plaster and bonds with it as it dries. Michelangelo's Sistine Chapel ceiling is a famous example.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_002",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cn11.1.Ia",
+    "prompt": "Which of the following artists are associated with the Surrealist movement? Select all that apply.",
+    "choices": [
+      "Salvador Dali",
+      "Andy Warhol",
+      "Claude Monet",
+      "Max Ernst",
+      "Rene Magritte"
+    ],
+    "correctAnswers": [
+      "Salvador Dali",
+      "Max Ernst",
+      "Rene Magritte"
+    ],
+    "explanation": "Dali, Magritte, and Ernst were leading Surrealists. Monet was an Impressionist, and Warhol was a Pop artist.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g9_003",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Cn11.1.Ia",
+    "prompt": "Arrange these periods and movements of Western art in chronological order from earliest to latest.",
+    "orderedItems": [
+      "Classical Greek",
+      "Gothic",
+      "Renaissance",
+      "Baroque",
+      "Impressionism",
+      "Abstract Expressionism"
+    ],
+    "explanation": "Classical Greek art (5th-4th centuries BCE) was followed by Gothic (12th-15th centuries), Renaissance (15th-16th), Baroque (17th), Impressionism (1870s-1880s), and Abstract Expressionism (1940s-1950s).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g9_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.C.Ia",
+    "prompt": "Which element of music is concerned with chords and how they progress, often called the \"vertical\" dimension of music?",
+    "choices": [
+      "Rhythm",
+      "Timbre",
+      "Harmony",
+      "Melody"
+    ],
+    "correctAnswer": "Harmony",
+    "explanation": "Harmony is the simultaneous combination of pitches into chords and the way those chords progress.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re9.1.Ia",
+    "prompt": "In the four-step model of art criticism (description, analysis, interpretation, judgment), which step examines how the elements of art and principles of design are organized in the work?",
+    "choices": [
+      "Interpretation",
+      "Analysis",
+      "Description",
+      "Judgment"
+    ],
+    "correctAnswer": "Analysis",
+    "explanation": "Description lists what is seen, analysis examines how the elements and principles are organized, interpretation explores meaning, and judgment evaluates the work.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_006",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Re7.2.C.Ia",
+    "prompt": "In sonata form, what happens in the development section?",
+    "choices": [
+      "Themes from the exposition are broken up, varied, and taken through different keys",
+      "The main themes are presented for the first time",
+      "A brief closing passage brings the movement to an end",
+      "The main themes return in the home key, with the second theme now moved into the tonic"
+    ],
+    "correctAnswer": "Themes from the exposition are broken up, varied, and taken through different keys",
+    "explanation": "Sonata form has an exposition (themes presented), a development (themes transformed and moved through other keys), and a recapitulation (themes return in the tonic).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_007",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Cn11.2.I.a",
+    "prompt": "The two main genres of ancient Greek drama were comedy and ___.",
+    "correctAnswer": "tragedy",
+    "correctAnswers": [
+      "tragedy",
+      "tragedies"
+    ],
+    "explanation": "Greek drama, performed at festivals honoring Dionysus, was divided mainly into tragedy and comedy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g9_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.E.Ia",
+    "prompt": "Which chord is the dominant (V) chord in the key of C major?",
+    "choices": [
+      "G major",
+      "D minor",
+      "A minor",
+      "F major"
+    ],
+    "correctAnswer": "G major",
+    "explanation": "The dominant chord is built on the fifth scale degree. In C major the fifth degree is G, so V is G major. F major is IV.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_009",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MU:Cr2.1.C.Ia",
+    "prompt": "Which chord progression in C major ends with an authentic (V-I) cadence?",
+    "choices": [
+      "C - F - G",
+      "G - C - F",
+      "C - A minor - F",
+      "D minor - G - C"
+    ],
+    "correctAnswer": "D minor - G - C",
+    "explanation": "An authentic cadence moves from the dominant (V) to the tonic (I). In C major that is G to C, as in D minor - G - C (ii-V-I).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.E.Ia",
+    "prompt": "How many half steps are in one octave?",
+    "choices": [
+      "7",
+      "8",
+      "12",
+      "10"
+    ],
+    "correctAnswer": "12",
+    "explanation": "An octave contains 12 half steps, which is why the chromatic scale has twelve different pitches.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_011",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.C.Ia",
+    "prompt": "A major triad consists of a root, a major third above the root, and which interval above the root?",
+    "choices": [
+      "A major seventh",
+      "A perfect fifth",
+      "A perfect fourth",
+      "A diminished fifth"
+    ],
+    "correctAnswer": "A perfect fifth",
+    "explanation": "A major triad is made of a root, a major third, and a perfect fifth, for example C-E-G.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_012",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Cn11.2.I.a",
+    "prompt": "The general's excessive pride is an example of which concept from Greek tragedy?",
+    "passage": "In a tragedy, a respected general is so certain of his own judgment that he ignores every warning from his advisers. His refusal to listen leads to the destruction of his city and his family. Only at the end does he understand his mistake.",
+    "choices": [
+      "Chorus",
+      "Deus ex machina",
+      "Hubris",
+      "Catharsis"
+    ],
+    "correctAnswer": "Hubris",
+    "explanation": "Hubris is the excessive pride that leads a tragic hero to ignore warnings and brings about his downfall. Catharsis is the audience's emotional release.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_013",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Cn11.1.Ia",
+    "prompt": "Which dance style grew out of African American communities in the early twentieth century, shares its name with a style of music, and features syncopated rhythms, isolations, and improvisation?",
+    "choices": [
+      "Jazz dance",
+      "The waltz",
+      "Ballet",
+      "Flamenco"
+    ],
+    "correctAnswer": "Jazz dance",
+    "explanation": "Jazz dance developed alongside jazz music from African American vernacular dance and emphasizes syncopation, isolations, and improvisation.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Re7.1.I.a",
+    "prompt": "In traditional dramatic structure (Freytag's pyramid), which part introduces the characters, the setting, and the basic situation?",
+    "choices": [
+      "Climax",
+      "Denouement",
+      "Rising action",
+      "Exposition"
+    ],
+    "correctAnswer": "Exposition",
+    "explanation": "The exposition gives the background the audience needs. It is followed by rising action, climax, falling action, and denouement.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_015",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "VA:Re9.1.Ia",
+    "prompt": "Two critics view the same abstract painting. One calls it \"chaotic\" and the other calls it \"energetic.\" What would most strengthen either critic's judgment?",
+    "choices": [
+      "Stating how much the painting sold for at a major auction and how many bidders competed for it",
+      "Mentioning how famous the painter is",
+      "Describing the critic's mood on the day of the visit",
+      "Citing specific visual evidence in the work, such as its jagged lines and clashing colors"
+    ],
+    "correctAnswer": "Citing specific visual evidence in the work, such as its jagged lines and clashing colors",
+    "explanation": "A sound critical judgment is supported by evidence that can be observed in the artwork itself and by clear criteria, not by price, fame, or mood.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_016",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Re7.2.Ia",
+    "prompt": "Which term refers to the arrangement of visual elements within an artwork?",
+    "choices": [
+      "Provenance",
+      "Composition",
+      "Medium",
+      "Patina"
+    ],
+    "correctAnswer": "Composition",
+    "explanation": "Composition is the way an artist organizes the elements of a work. Medium is the material used, and provenance is a work's history of ownership.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_017",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cn11.1.Ia",
+    "prompt": "Which style of architecture is characterized by pointed arches, ribbed vaults, flying buttresses, and large stained-glass windows?",
+    "choices": [
+      "Romanesque",
+      "Gothic",
+      "Baroque",
+      "Neoclassical"
+    ],
+    "correctAnswer": "Gothic",
+    "explanation": "Gothic cathedrals, such as Chartres and Notre-Dame de Paris, used pointed arches, ribbed vaults, and flying buttresses to build tall, light-filled interiors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_018",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "MA:Re7.1.Ia",
+    "prompt": "A documentary interviews only people who support one side of an issue and plays ominous music whenever the other side is mentioned. What should a media-literate viewer conclude?",
+    "choices": [
+      "The selection of interviews and the music are shaping a one-sided point of view",
+      "The other side of the issue does not exist",
+      "The film must be objective because it shows real people",
+      "The music has no effect on how viewers understand the issue"
+    ],
+    "correctAnswer": "The selection of interviews and the music are shaping a one-sided point of view",
+    "explanation": "Choices about what to include and how to use sound shape the audience's response. Recognizing these choices is part of analyzing media messages.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_019",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MA:Cr3.1.Ia",
+    "prompt": "In film, a montage is ___.",
+    "choices": [
+      "a single long, unbroken shot that follows the action for a whole scene without any cuts",
+      "the music recorded for a film",
+      "a sequence of short shots edited together to condense time or convey an idea",
+      "the printed list of cast and crew"
+    ],
+    "correctAnswer": "a sequence of short shots edited together to condense time or convey an idea",
+    "explanation": "A montage joins a series of brief shots, often to compress time or build an idea or emotion.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_020",
+    "subject": "ARTS",
+    "type": "CLOZE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.C.Ia",
+    "prompt": "Use the word bank: monophonic, homophonic, polyphonic. A single unaccompanied melody has a ___ texture. A melody supported by chordal accompaniment has a ___ texture.",
+    "blanks": [
+      "monophonic",
+      "homophonic"
+    ],
+    "explanation": "Monophonic texture is one melodic line alone. Homophonic texture is a melody with chordal accompaniment. Polyphonic texture has several independent lines.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g9_021",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "DA:Re8.1.Ia",
+    "prompt": "A choreographer sets bright, bouncy movement to slow, mournful music. What is the most likely artistic purpose?",
+    "choices": [
+      "To make the movement match the mood of the music so the audience feels one single, unified emotion",
+      "To create a contrast between movement and sound that makes the audience question the meaning",
+      "To help the dancers count the beats more easily",
+      "To shorten the length of the dance"
+    ],
+    "correctAnswer": "To create a contrast between movement and sound that makes the audience question the meaning",
+    "explanation": "Deliberately mismatching movement and music creates tension or irony, prompting viewers to look for deeper meaning.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_022",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Cr2.1.Ia",
+    "prompt": "In choreography, the device called \"retrograde\" means ___.",
+    "choices": [
+      "performing a movement phrase in reverse order",
+      "performing a phrase twice as fast",
+      "performing a phrase at a lower level, closer to the floor",
+      "performing a phrase on the other side of the body"
+    ],
+    "correctAnswer": "performing a movement phrase in reverse order",
+    "explanation": "Retrograde reverses a movement phrase, like playing a film backward.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g9_023",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "VA:Re7.2.Ia",
+    "prompt": "How does tenebrism differ from standard chiaroscuro?",
+    "passage": "Chiaroscuro, derived from the Italian words for 'light' and 'dark,' is a technique that uses strong contrasts between light and shadow to model three-dimensional forms. Caravaggio mastered this technique in the late 16th and early 17th centuries, often placing his figures against very dark backgrounds and illuminating them with a single, dramatic light source. This extreme form of chiaroscuro is sometimes called tenebrism.",
+    "choices": [
+      "Tenebrism spreads light evenly across the whole composition",
+      "Tenebrism uses only warm colors, while chiaroscuro uses cool colors",
+      "Tenebrism avoids the use of shadow entirely",
+      "Tenebrism uses more extreme, dramatic contrasts between light and dark"
+    ],
+    "correctAnswer": "Tenebrism uses more extreme, dramatic contrasts between light and dark",
+    "explanation": "The passage calls tenebrism an \"extreme form of chiaroscuro,\" with very dark backgrounds and a single dramatic light source.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  }
+]

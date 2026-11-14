@@ -1,0 +1,464 @@
+[
+  {
+    "id": "science_g10_001",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-PS1-1",
+    "prompt": "The atomic number of an element is equal to the number of which particles in one atom of the element?",
+    "choices": [
+      "Neutrons",
+      "Electron shells",
+      "Protons plus neutrons",
+      "Protons"
+    ],
+    "correctAnswer": "Protons",
+    "explanation": "The atomic number is the number of protons in the nucleus. It identifies the element. Protons plus neutrons gives the mass number.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-LS3-1",
+    "prompt": "What is a segment of DNA that codes for a particular protein called?",
+    "choices": [
+      "A gene",
+      "A chromosome",
+      "A ribosome",
+      "A codon"
+    ],
+    "correctAnswer": "A gene",
+    "explanation": "A gene is a segment of DNA with the instructions for making a protein. A chromosome is a long DNA molecule containing many genes; a codon is a three-base unit that codes for one amino acid.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_003",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-PS1-1",
+    "prompt": "The elements in group 18 of the periodic table, such as helium, neon, and argon, are very unreactive. They are called the ___ gases.",
+    "correctAnswer": "noble",
+    "correctAnswers": [
+      "noble",
+      "inert",
+      "noble gases",
+      "noble gas",
+      "inert gases"
+    ],
+    "explanation": "Group 18 elements are the noble gases. Their outer electron shells are full, so they rarely react.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g10_004",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-PS1-3",
+    "prompt": "Which type of chemical bond forms when two nonmetal atoms share electrons?",
+    "choices": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Nuclear bond"
+    ],
+    "correctAnswer": "Covalent bond",
+    "explanation": "A covalent bond forms when atoms share pairs of electrons. An ionic bond forms when electrons are transferred, producing oppositely charged ions that attract.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HS-LS3-3",
+    "prompt": "An organism has two different alleles for a gene. What term describes its genotype for that gene?",
+    "choices": [
+      "Homozygous",
+      "Haploid",
+      "Heterozygous",
+      "Purebred"
+    ],
+    "correctAnswer": "Heterozygous",
+    "explanation": "Heterozygous means having two different alleles for a gene (for example, Tt). Homozygous means having two identical alleles (TT or tt).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_006",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "HS-PS1-1",
+    "prompt": "Which of the following best explains why elements in the same group (column) of the periodic table have similar chemical properties?",
+    "choices": [
+      "They have the same number of protons",
+      "They have the same atomic mass",
+      "They have the same number of valence electrons",
+      "They have the same number of neutrons"
+    ],
+    "correctAnswer": "They have the same number of valence electrons",
+    "explanation": "Elements in the same group have the same number of valence (outermost) electrons. Valence electrons largely determine how an atom bonds and reacts.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_007",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HS-LS3-3",
+    "prompt": "In pea plants, the allele for tall (T) is dominant over the allele for short (t). Two heterozygous plants (Tt x Tt) are crossed. What is the probability that an offspring will be short?",
+    "choices": [
+      "0%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correctAnswer": "25%",
+    "explanation": "The cross Tt x Tt gives offspring in the ratio 1 TT : 2 Tt : 1 tt. Only tt plants are short, so the probability is 1 in 4, or 25%.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_008",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HS-PS1-7",
+    "prompt": "Which equation for the reaction of hydrogen gas with oxygen gas to form water is correctly balanced?",
+    "choices": [
+      "2H2 + O2 -> 2H2O",
+      "H2 + O2 -> H2O",
+      "H2 + 2O2 -> 2H2O",
+      "2H2 + 2O2 -> 2H2O"
+    ],
+    "correctAnswer": "2H2 + O2 -> 2H2O",
+    "explanation": "A balanced equation has the same number of each kind of atom on both sides. 2H2 + O2 -> 2H2O has 4 hydrogen atoms and 2 oxygen atoms on each side.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_009",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HS-PS1-5",
+    "prompt": "Which changes generally increase the rate of a chemical reaction? Select all that apply.",
+    "choices": [
+      "Increasing the temperature",
+      "Increasing the concentration of the reactants",
+      "Adding a suitable catalyst",
+      "Using one large lump of a solid reactant instead of a powder",
+      "Lowering the temperature"
+    ],
+    "correctAnswers": [
+      "Increasing the temperature",
+      "Increasing the concentration of the reactants",
+      "Adding a suitable catalyst"
+    ],
+    "explanation": "Higher temperature and higher concentration cause more frequent and more energetic collisions, and a catalyst lowers the activation energy. A large lump has less surface area than powder, and cooling slows particles, so both slow the reaction.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g10_010",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HS-PS1-4",
+    "prompt": "Word bank: exothermic, endothermic. Fill in the blanks. A reaction that releases energy to its surroundings is ___. A reaction that absorbs energy from its surroundings is ___.",
+    "blanks": [
+      "exothermic",
+      "endothermic"
+    ],
+    "explanation": "Exothermic reactions release energy (the surroundings get warmer). Endothermic reactions absorb energy (the surroundings get cooler).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g10_011",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HS-PS4-1",
+    "prompt": "Order these types of electromagnetic radiation from lowest frequency to highest frequency.",
+    "orderedItems": [
+      "Radio waves",
+      "Microwaves",
+      "Infrared",
+      "Visible light",
+      "Ultraviolet",
+      "X-rays"
+    ],
+    "explanation": "In order of increasing frequency (and decreasing wavelength): radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and then gamma rays.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g10_012",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HS-LS4-2",
+    "prompt": "Which condition is necessary for natural selection to change a population over generations?",
+    "choices": [
+      "All individuals must be genetically identical",
+      "Resources must be unlimited so every individual can survive and reproduce",
+      "Traits acquired during an individual's life must be passed on to all of its offspring",
+      "Individuals must have heritable variations that affect survival or reproduction"
+    ],
+    "correctAnswer": "Individuals must have heritable variations that affect survival or reproduction",
+    "explanation": "Natural selection requires heritable variation in traits, more offspring than can survive, competition for limited resources, and greater survival and reproduction of individuals with advantageous traits.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_013",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HS-PS1-1",
+    "prompt": "Lithium, sodium, and potassium are in group 1 of the periodic table, and reactivity increases down the group. Which element reacts most vigorously with water?",
+    "choices": [
+      "Potassium",
+      "Sodium",
+      "Lithium",
+      "They all react equally"
+    ],
+    "correctAnswer": "Potassium",
+    "explanation": "Reactivity of the group 1 metals increases down the group because the outer electron is farther from the nucleus and more easily lost. Of the three, potassium is lowest in the group and most reactive.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_014",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HS-PS1-7",
+    "prompt": "Hydrogen reacts with oxygen according to the equation 2H2 + O2 -> 2H2O. What mass of water forms when 4.0 grams of H2 react completely with excess oxygen? (Atomic masses: H = 1.0, O = 16.0)",
+    "choices": [
+      "72 g",
+      "36 g",
+      "32 g",
+      "18 g"
+    ],
+    "correctAnswer": "36 g",
+    "explanation": "4.0 g of H2 is 4.0 / 2.0 = 2.0 mol. The equation shows 2 mol H2 forms 2 mol H2O. The molar mass of water is 18.0 g/mol, so 2.0 mol x 18.0 g/mol = 36 g.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_015",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HS-PS1-5",
+    "prompt": "Which statement best explains why Trial 2 was faster than Trial 1?",
+    "passage": "Students reacted 1.0 gram of calcium carbonate with the same volume of excess hydrochloric acid in each trial and timed how long the fizzing lasted. Trial 1: one large chip at 20 degrees C took 300 seconds. Trial 2: fine powder at 20 degrees C took 45 seconds. Trial 3: one large chip at 40 degrees C took 120 seconds.",
+    "choices": [
+      "The powder had a greater mass than the chip",
+      "The powder was at a higher temperature than the chip, so its particles moved faster",
+      "The powder acted as a catalyst and lowered the activation energy",
+      "The powder had more surface area, so acid particles hit the solid more often"
+    ],
+    "correctAnswer": "The powder had more surface area, so acid particles hit the solid more often",
+    "explanation": "Trials 1 and 2 used the same mass and temperature; only the particle size differed. Powder exposes far more surface area, so collisions between acid particles and the solid are more frequent and the reaction is faster.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_016",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HS-PS1-6",
+    "prompt": "Nitrogen and hydrogen react reversibly to form ammonia: N2(g) + 3H2(g) <=> 2NH3(g). The system is at equilibrium in a closed container. More N2 is then added. How does the system respond?",
+    "choices": [
+      "The reaction shifts toward the products, forming more NH3",
+      "The reaction shifts toward the reactants, forming more H2",
+      "Nothing changes, because the system was already at equilibrium",
+      "The reaction stops completely"
+    ],
+    "correctAnswer": "The reaction shifts toward the products, forming more NH3",
+    "explanation": "By Le Chatelier's principle, a system at equilibrium responds to a stress in a way that partly offsets it. Adding N2 increases the rate of the forward reaction, so more NH3 forms until a new equilibrium is reached.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_017",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HS-LS4-4",
+    "prompt": "A population of bacteria is treated with an antibiotic. Most of the bacteria die, but a few survive and reproduce. After many generations, most of the population is resistant to the antibiotic. What is the best explanation?",
+    "choices": [
+      "The antibiotic caused each bacterium to mutate in exactly the way it needed to survive",
+      "The bacteria learned to avoid the antibiotic and taught this behavior to their offspring",
+      "A few bacteria already had a heritable resistance trait; they survived and passed it on",
+      "The antibiotic became weaker each time it was used"
+    ],
+    "correctAnswer": "A few bacteria already had a heritable resistance trait; they survived and passed it on",
+    "explanation": "Resistance arises from random mutations that are already present in a few individuals. The antibiotic kills non-resistant bacteria, so resistant ones survive, reproduce, and the heritable trait becomes common. This is natural selection.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g10_018",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "HS-PS1-8",
+    "prompt": "A radioactive isotope has a half-life of 10 years. A sample starts with 80 grams of the isotope. How many grams of the isotope remain after 30 years? (Type the number only.)",
+    "correctAnswer": "10",
+    "correctAnswers": [
+      "10",
+      "10 g",
+      "10g",
+      "10 grams",
+      "10.0"
+    ],
+    "explanation": "30 years is three half-lives. The amount halves each time: 80 g to 40 g to 20 g to 10 g.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g10_019",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HS-PS1-3",
+    "prompt": "Water (H2O) and methane (CH4) have similar molecular masses, but water boils at 100 degrees C and methane boils at -162 degrees C. What is the best explanation?",
+    "choices": [
+      "Boiling breaks covalent bonds, and the bonds inside water are stronger than those in methane",
+      "Water molecules attract each other strongly through hydrogen bonds; methane molecules do not",
+      "Methane is an ionic compound, so its particles separate easily when heated",
+      "Water molecules are much heavier than methane molecules, so they need more energy to move"
+    ],
+    "correctAnswer": "Water molecules attract each other strongly through hydrogen bonds; methane molecules do not",
+    "explanation": "Boiling separates whole molecules from one another; it does not break the covalent bonds inside them. Water is polar and forms hydrogen bonds between molecules, which take much more energy to overcome than the weak attractions between nonpolar methane molecules.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  }
+]

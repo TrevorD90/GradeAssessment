@@ -1,0 +1,420 @@
+[
+  {
+    "id": "arts_g1_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.1a",
+    "prompt": "What are the three primary colors?",
+    "choices": [
+      "Black, white, and gray",
+      "Red, yellow, and blue",
+      "Green, orange, and purple"
+    ],
+    "correctAnswer": "Red, yellow, and blue",
+    "explanation": "Red, yellow, and blue are the primary colors. Other colors can be mixed from them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_002",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re8.1.1a",
+    "prompt": "A picture that shows a person's face is called a ___.",
+    "choices": [
+      "pattern",
+      "landscape",
+      "portrait"
+    ],
+    "correctAnswer": "portrait",
+    "explanation": "A portrait is a picture of a person. A landscape shows outdoor places like hills and trees.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_003",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "VA:Cr2.1.1a",
+    "prompt": "Lee has only red, yellow, and blue paint. He wants to mix green AND orange. Which color will Lee need for BOTH mixes?",
+    "choices": [
+      "Red",
+      "Yellow",
+      "Blue"
+    ],
+    "correctAnswer": "Yellow",
+    "explanation": "Green is made from blue and yellow. Orange is made from red and yellow. Yellow is in both mixes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.1a",
+    "prompt": "Which instrument do you play by hitting it with sticks?",
+    "choices": [
+      "Trumpet",
+      "Drum",
+      "Flute"
+    ],
+    "correctAnswer": "Drum",
+    "explanation": "A drum is played by hitting it. You blow into a flute and a trumpet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.1a",
+    "prompt": "How fast or slow the music goes is called the ___.",
+    "choices": [
+      "costume",
+      "pitch",
+      "tempo"
+    ],
+    "correctAnswer": "tempo",
+    "explanation": "Tempo is the speed of music. Pitch is how high or low a sound is.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_006",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Cr1.1.1a",
+    "prompt": "Clap, clap, stomp. Clap, clap, stomp. Clap, clap, ___. What comes next?",
+    "choices": [
+      "Stomp",
+      "Clap",
+      "Snap"
+    ],
+    "correctAnswer": "Stomp",
+    "explanation": "The pattern is clap, clap, stomp. After two claps comes a stomp.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_007",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cr2.1.1a",
+    "prompt": "What color do you get when you mix blue and yellow?",
+    "choices": [
+      "Orange",
+      "Green",
+      "Purple"
+    ],
+    "correctAnswer": "Green",
+    "explanation": "Blue and yellow mix to make green. Red and yellow make orange. Red and blue make purple.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.1a",
+    "prompt": "Which makes the LOWEST sound?",
+    "choices": [
+      "A tiny bell",
+      "A small whistle",
+      "A big tuba"
+    ],
+    "correctAnswer": "A big tuba",
+    "explanation": "Big instruments like the tuba make low sounds. Tiny bells and whistles make high sounds.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_009",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "VA:Re8.1.1a",
+    "prompt": "How does the painting most likely feel?",
+    "passage": "Mia painted the sea. She used dark blue and gray. She made big, pointy waves and black clouds.",
+    "choices": [
+      "Silly and funny",
+      "Sunny and calm",
+      "Stormy and scary"
+    ],
+    "correctAnswer": "Stormy and scary",
+    "explanation": "Dark colors, pointy waves, and black clouds make the painting feel stormy and scary.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Re7.1.1.a",
+    "prompt": "The people who watch a play are called the ___.",
+    "choices": [
+      "audience",
+      "painters",
+      "actors"
+    ],
+    "correctAnswer": "audience",
+    "explanation": "The audience watches and listens. The actors are the people who perform the play.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_011",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cr2.1.1a",
+    "prompt": "Which of these are kinds of lines? Select all that apply.",
+    "choices": [
+      "Purple",
+      "Zigzag",
+      "Curved",
+      "Straight"
+    ],
+    "correctAnswers": [
+      "Zigzag",
+      "Curved",
+      "Straight"
+    ],
+    "explanation": "Zigzag, curved, and straight are kinds of lines. Purple is a color.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g1_012",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.1a",
+    "prompt": "You sing a note, then a higher note, then an even higher note. The tune is going ___.",
+    "choices": [
+      "up",
+      "down",
+      "nowhere"
+    ],
+    "correctAnswer": "up",
+    "explanation": "When each note is higher than the last one, the melody is going up.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_013",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.1a",
+    "prompt": "Music that is quiet is ___.",
+    "choices": [
+      "fast",
+      "soft",
+      "loud"
+    ],
+    "correctAnswer": "soft",
+    "explanation": "Quiet music is soft. Loud music is the opposite of soft music.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "DA:Pr4.1.1a",
+    "prompt": "Which dance move travels across the room?",
+    "choices": [
+      "Skipping",
+      "Sitting very still",
+      "Bending your knees in place"
+    ],
+    "correctAnswer": "Skipping",
+    "explanation": "Skipping moves you from one place to another. Bending in place and sitting do not travel.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_015",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "TH:Re8.1.1.a",
+    "prompt": "In a play, Ben wears a crown and a long robe. What does his costume tell you?",
+    "choices": [
+      "He is playing a king",
+      "He is playing a baby",
+      "He is in the audience"
+    ],
+    "correctAnswer": "He is playing a king",
+    "explanation": "A costume helps show who the character is. A crown and robe show that Ben is a king.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "arts_g1_016",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cr2.1.1a",
+    "prompt": "Type the color. Red and blue mix to make ___.",
+    "correctAnswer": "purple",
+    "correctAnswers": [
+      "purple",
+      "violet"
+    ],
+    "explanation": "Red and blue mix to make purple (also called violet).",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g1_017",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "TH:Pr6.1.1.a",
+    "prompt": "Put the steps of doing a play in order.",
+    "orderedItems": [
+      "Practice the play",
+      "Perform for the audience",
+      "Take a bow"
+    ],
+    "explanation": "First actors practice (rehearse). Then they perform for the audience. At the end they take a bow.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g1_018",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MA:Re7.1.1a",
+    "prompt": "A cartoon is many drawings shown very fast. This makes the pictures look like they ___.",
+    "choices": [
+      "get bigger",
+      "smell",
+      "move"
+    ],
+    "correctAnswer": "move",
+    "explanation": "Showing many drawings quickly makes them look like they are moving. This is called animation.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  }
+]

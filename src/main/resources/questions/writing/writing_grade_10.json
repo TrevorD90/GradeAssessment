@@ -1,0 +1,413 @@
+[
+  {
+    "id": "writing_g10_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "L.9-10.1",
+    "prompt": "Which verb correctly completes the sentence?\nThe collection of rare coins ___ on display in the lobby.",
+    "choices": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "correctAnswer": "is",
+    "explanation": "The verb agrees with the subject, not with a noun in an intervening phrase. The subject is the singular 'collection,' so the verb is 'is.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.9-10.2.B",
+    "prompt": "Which sentence uses a colon correctly to introduce a quotation?",
+    "choices": [
+      "The coach repeated: her favorite motto \"Effort beats talent.\"",
+      "The coach: repeated her favorite motto \"Effort beats talent.\"",
+      "The coach repeated her favorite: motto \"Effort beats talent.\"",
+      "The coach repeated her favorite motto: \"Effort beats talent.\""
+    ],
+    "correctAnswer": "The coach repeated her favorite motto: \"Effort beats talent.\"",
+    "explanation": "A colon can introduce a quotation when it follows a complete independent clause.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_003",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "L.9-10.1.A",
+    "prompt": "Type the correct form of the verb 'analyze' to keep the sentence parallel: The lab assistants collected the samples, labeled the containers, and ___ the results.",
+    "correctAnswer": "analyzed",
+    "correctAnswers": [
+      "analyzed",
+      "analysed"
+    ],
+    "explanation": "Verbs in a series must be parallel. 'Collected' and 'labeled' are past tense, so the third verb must be 'analyzed.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g10_004",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.9-10.3",
+    "prompt": "Which sentence is the most concise?",
+    "choices": [
+      "The scientists collaborated on the project.",
+      "The scientists collaborated together on the project.",
+      "The scientists jointly collaborated together on the project.",
+      "The scientists worked in collaboration together with one another on the project."
+    ],
+    "correctAnswer": "The scientists collaborated on the project.",
+    "explanation": "Concise writing eliminates redundancy. 'Collaborated' already means 'worked together.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_005",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.9-10.1.B",
+    "prompt": "In the sentence 'We left before the storm arrived,' the words 'before the storm arrived' form which of the following?",
+    "choices": [
+      "a relative clause",
+      "an adverbial clause",
+      "a noun clause",
+      "a participial phrase"
+    ],
+    "correctAnswer": "an adverbial clause",
+    "explanation": "An adverbial clause has a subject and a verb, begins with a subordinating conjunction (before), and tells when, where, why, or how.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_006",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.2.A",
+    "prompt": "Which sentence is punctuated correctly?",
+    "choices": [
+      "Dr. Chen the lead researcher, presented the findings; her team answered questions afterward.",
+      "Dr. Chen, the lead researcher, presented the findings, her team answered questions afterward.",
+      "Dr. Chen, the lead researcher, presented the findings; her team answered questions afterward.",
+      "Dr. Chen, the lead researcher presented the findings; her team, answered questions afterward."
+    ],
+    "correctAnswer": "Dr. Chen, the lead researcher, presented the findings; her team answered questions afterward.",
+    "explanation": "Set off a nonrestrictive appositive with a pair of commas, and link two independent clauses with a semicolon rather than a comma.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_007",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.1.A",
+    "prompt": "Which sentence uses parallel structure in its comparison?",
+    "choices": [
+      "Writing a strong essay is harder than to give a short speech.",
+      "To write a strong essay is harder than giving a short speech.",
+      "Writing a strong essay is harder than a short speech given.",
+      "Writing a strong essay is harder than giving a short speech."
+    ],
+    "correctAnswer": "Writing a strong essay is harder than giving a short speech.",
+    "explanation": "The two things being compared should have the same grammatical form: 'writing' and 'giving' are both gerunds.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "W.9-10.1.B",
+    "prompt": "A writer makes this claim: School gardens improve students' eating habits. Which evidence best supports the claim?",
+    "choices": [
+      "In a district survey, students at schools with gardens reported eating vegetables nearly twice as often as students at schools without gardens.",
+      "According to a gardening guide, gardens need at least six hours of sunlight and about an inch of water each week to produce a healthy crop of vegetables.",
+      "Many people enjoy gardening as a hobby.",
+      "The school garden was planted in the spring."
+    ],
+    "correctAnswer": "In a district survey, students at schools with gardens reported eating vegetables nearly twice as often as students at schools without gardens.",
+    "explanation": "Evidence must be relevant to the claim. Only the survey result links school gardens to what students eat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_009",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.9-10.2.A",
+    "prompt": "Use each transition from the word bank once (however, moreover, therefore).\nThe experiment failed twice; ___, the team refused to give up. The data were incomplete; ___, the results could not be published. The new method is faster; ___, it is more accurate.",
+    "blanks": [
+      "however",
+      "therefore",
+      "moreover"
+    ],
+    "explanation": "A conjunctive adverb after a semicolon shows how two independent clauses are related: 'however' shows contrast, 'therefore' shows a result, and 'moreover' adds a point.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g10_010",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.1.B",
+    "prompt": "Which sentence uses the participial phrase correctly?",
+    "choices": [
+      "Having studied all week, the exam seemed easy to Priya.",
+      "Having studied all week, Priya felt confident about the exam.",
+      "Having studied all week, confidence filled Priya.",
+      "Having studied all week, Priya's confidence was high."
+    ],
+    "correctAnswer": "Having studied all week, Priya felt confident about the exam.",
+    "explanation": "An introductory participial phrase must be followed immediately by the noun it describes. Priya, not the exam or her confidence, is the one who studied.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_011",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.2",
+    "prompt": "Which sentences are punctuated correctly? Select all that apply.",
+    "choices": [
+      "The trail was steep; nevertheless, we reached the summit by noon.",
+      "The store sells: books, games, and puzzles.",
+      "She packed three things: a map, a compass, and a flashlight.",
+      "I enjoy cooking, my brother prefers baking.",
+      "He had one goal: to finish the race."
+    ],
+    "correctAnswers": [
+      "The trail was steep; nevertheless, we reached the summit by noon.",
+      "She packed three things: a map, a compass, and a flashlight.",
+      "He had one goal: to finish the race."
+    ],
+    "explanation": "A semicolon joins independent clauses; a comma alone creates a comma splice. A colon must follow a complete clause, not a verb.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g10_012",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "L.9-10.3.A",
+    "prompt": "In a paper that follows MLA style, where are the full details of the sources listed?",
+    "choices": [
+      "on a References page before the introduction",
+      "in a footnote on the title page",
+      "on a Works Cited page at the end of the paper",
+      "in an abstract at the beginning of the paper"
+    ],
+    "correctAnswer": "on a Works Cited page at the end of the paper",
+    "explanation": "MLA style lists full source information on a Works Cited page at the end of the paper; brief in-text citations point to those entries.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_013",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.9-10.2.B",
+    "prompt": "The student wants to emphasize how the garden helps people in need. Which choice most effectively uses information from the notes to accomplish this goal?",
+    "passage": "A student took these notes while researching a topic:\n- The Maple Street Community Garden opened in 2015.\n- Volunteers grow vegetables on what was once an empty lot.\n- Each year the garden donates about 900 kilograms of produce to a local food bank.\n- The garden also hosts weekend cooking classes.",
+    "choices": [
+      "The Maple Street Community Garden, which opened in 2015, sits on what was once an empty lot.",
+      "Volunteers grow vegetables at the Maple Street Community Garden.",
+      "Opened in 2015 on what was once an empty lot, the Maple Street Community Garden also hosts weekend cooking classes.",
+      "Each year, the Maple Street Community Garden donates about 900 kilograms of produce to a local food bank."
+    ],
+    "correctAnswer": "Each year, the Maple Street Community Garden donates about 900 kilograms of produce to a local food bank.",
+    "explanation": "Effective writing selects the facts most relevant to the writer's purpose. Only the donation to the food bank shows how the garden helps people in need.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_014",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.9-10.1.E",
+    "prompt": "Which sentence, if added after sentence 4, best concludes the paragraph while responding to the residents' concern?",
+    "passage": "(1) Many cities have begun replacing traditional streetlights with LED lamps. (2) LEDs use far less electricity than older bulbs. (3) They also last several times longer, which reduces maintenance costs. (4) Some residents complain that the new lights are harshly bright.",
+    "choices": [
+      "Still, because dimmable LED lamps can address that complaint, the switch remains a sound investment.",
+      "LEDs were first developed in the twentieth century.",
+      "Residents complain about many things.",
+      "Therefore, because the new lights are too bright, cities should return to traditional bulbs even though LEDs save money."
+    ],
+    "correctAnswer": "Still, because dimmable LED lamps can address that complaint, the switch remains a sound investment.",
+    "explanation": "A concluding statement should follow from and support the argument presented. This choice answers the counterclaim and reinforces the paragraph's main point.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_015",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "L.9-10.1.A",
+    "prompt": "Which revision best corrects the sentence?\nThe director praised the actors for their energy, their timing, and because they worked well together.",
+    "choices": [
+      "The director praised the actors for their energy, their timing, and they worked well together.",
+      "The director praised the actors for their energy, their timing, and their teamwork.",
+      "The director praised the actors for being energetic, their timing, and because of teamwork.",
+      "The director praised the actors for their energy, for timing, and working well together."
+    ],
+    "correctAnswer": "The director praised the actors for their energy, their timing, and their teamwork.",
+    "explanation": "Items in a series must be parallel. Replacing the clause 'because they worked well together' with the noun phrase 'their teamwork' matches the other two items.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_016",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.2.A",
+    "prompt": "Which version of the sentence conforms to the conventions of standard English?",
+    "choices": [
+      "The glacier has retreated nearly two kilometers since 1950, scientists expect the trend to continue.",
+      "The glacier has retreated nearly two kilometers since 1950 scientists expect the trend to continue.",
+      "The glacier has retreated nearly two kilometers since 1950; scientists expect the trend to continue.",
+      "The glacier has retreated nearly two kilometers since 1950; and scientists expecting the trend to continue."
+    ],
+    "correctAnswer": "The glacier has retreated nearly two kilometers since 1950; scientists expect the trend to continue.",
+    "explanation": "Two independent clauses must be separated by a semicolon, a period, or a comma with a coordinating conjunction. A comma alone is a comma splice, and no punctuation creates a run-on.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g10_017",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.9-10.1.A",
+    "prompt": "Arrange these sentences to make a logical argument paragraph.",
+    "orderedItems": [
+      "High schools should require every student to complete a course in personal finance.",
+      "Without such a course, many graduates leave school unsure how to budget, save, or manage debt.",
+      "Critics argue that the requirement would crowd out other electives.",
+      "Yet a single semester would leave ample room in a four-year schedule for those classes.",
+      "A modest requirement, then, would give students skills they will use for the rest of their lives."
+    ],
+    "explanation": "An argument introduces a precise claim, gives reasons, addresses a counterclaim, and concludes. Reference words (such a course, those classes) and transitions (yet, then) fix the order.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  }
+]

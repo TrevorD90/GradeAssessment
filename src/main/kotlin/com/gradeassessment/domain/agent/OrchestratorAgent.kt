@@ -43,12 +43,16 @@ class OrchestratorAgent(
         _subjectOrder = defaultSubjectOrder
         _currentSubject.value = Subject.MATH
         _event.value = null
+        engineAgent.reset()
         sessionId = 0
         student = null
         subjectResults.clear()
     }
 
     fun startSession(firstName: String, age: Int): Long {
+        // Defensive: never let a previous session's results leak into a new one.
+        subjectResults.clear()
+        engineAgent.reset()
         student = Student(firstName, age)
         startTime = Clock.System.now()
         sessionId = sessionRepository.createSession(firstName, age)

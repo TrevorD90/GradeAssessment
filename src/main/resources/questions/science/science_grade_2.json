@@ -1,0 +1,410 @@
+[
+  {
+    "id": "science_g2_001",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "2-PS1-4",
+    "prompt": "What happens to liquid water when it is put in a freezer?",
+    "choices": [
+      "It turns into steam",
+      "It turns into ice",
+      "It disappears",
+      "It turns into sand"
+    ],
+    "correctAnswer": "It turns into ice",
+    "explanation": "Cooling water enough makes it freeze. It changes from a liquid to a solid called ice.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "2-PS1-1",
+    "prompt": "Which of these is a liquid?",
+    "choices": [
+      "A wooden block",
+      "An ice cube",
+      "Milk",
+      "A spoon"
+    ],
+    "correctAnswer": "Milk",
+    "explanation": "Milk is a liquid. It flows and takes the shape of its container. The other objects are solids.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_003",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "2-ESS2-3",
+    "prompt": "Where is most of Earth's water found?",
+    "choices": [
+      "In the ocean",
+      "In rivers",
+      "In lakes",
+      "In clouds"
+    ],
+    "correctAnswer": "In the ocean",
+    "explanation": "Most of the water on Earth is in the ocean.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_004",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "2-ESS2-3",
+    "prompt": "Water that is frozen solid is called ___.",
+    "correctAnswer": "ice",
+    "correctAnswers": [
+      "ice"
+    ],
+    "explanation": "Water can be a liquid or a solid. Solid water is called ice.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g2_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "2-LS2-1",
+    "prompt": "What two things does a plant need to grow well?",
+    "choices": [
+      "Darkness and salt",
+      "Sand and wind",
+      "Ice and shade",
+      "Sunlight and water"
+    ],
+    "correctAnswer": "Sunlight and water",
+    "explanation": "Plants need sunlight and water to grow.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_006",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "2-ESS1-1",
+    "prompt": "Which event changes the land very quickly?",
+    "choices": [
+      "A river slowly carving a canyon",
+      "A volcano erupting",
+      "Wind wearing down a mountain",
+      "A glacier sliding slowly downhill"
+    ],
+    "correctAnswer": "A volcano erupting",
+    "explanation": "A volcanic eruption can change the land in hours or days. The other changes happen slowly over a very long time.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_007",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "2-LS4-1",
+    "prompt": "Which of these animals live in a pond habitat? Select all that apply.",
+    "choices": [
+      "Frog",
+      "Camel",
+      "Duck",
+      "Polar bear",
+      "Fish"
+    ],
+    "correctAnswers": [
+      "Frog",
+      "Duck",
+      "Fish"
+    ],
+    "explanation": "Frogs, ducks, and fish live in or around ponds. Camels live in deserts and polar bears live in the icy Arctic.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g2_008",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "2-PS1-2",
+    "prompt": "You want to make a raincoat. Which material is best?",
+    "choices": [
+      "Paper towel",
+      "Cotton cloth",
+      "Waterproof plastic",
+      "Cardboard"
+    ],
+    "correctAnswer": "Waterproof plastic",
+    "explanation": "A raincoat must keep water out. Waterproof plastic does not let water pass through.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_009",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "2-LS2-2",
+    "prompt": "A bee gets pollen on its body at one flower and carries it to another flower. How does this help the plants?",
+    "choices": [
+      "It moves pollen so the plants can make seeds",
+      "It brings water to the plants from the pond",
+      "It gives the plants sunlight",
+      "It keeps the plants warm by buzzing near them at night"
+    ],
+    "correctAnswer": "It moves pollen so the plants can make seeds",
+    "explanation": "Flowers need pollen from other flowers to make seeds. Bees carry the pollen from flower to flower. This is called pollination.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_010",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "2-PS1-4",
+    "prompt": "Which change can NOT be undone?",
+    "choices": [
+      "Melting an ice cube",
+      "Freezing juice",
+      "Melting butter",
+      "Cooking an egg"
+    ],
+    "correctAnswer": "Cooking an egg",
+    "explanation": "A cooked egg cannot be turned back into a raw egg. Melted ice, frozen juice, and melted butter can be changed back by cooling or warming.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_011",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "2-ESS2-2",
+    "prompt": "Word bank: river, mountain, lake. Fill in the blanks. A ___ is very high land. A ___ is water that flows across the land.",
+    "blanks": [
+      "mountain",
+      "river"
+    ],
+    "explanation": "A mountain is land that rises very high. A river is a stream of water that flows across the land. A lake is still water with land around it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g2_012",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "2-LS2-2",
+    "prompt": "A seed with tiny hooks sticks to a dog. Put what happens in order.",
+    "orderedItems": [
+      "A seed sticks to the dog's fur",
+      "The dog walks to a new place",
+      "The seed falls to the ground",
+      "A new plant grows"
+    ],
+    "explanation": "Animals can carry seeds to new places. The seed falls off and a new plant can grow there.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g2_013",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "2-LS2-1",
+    "prompt": "What does Ana's test show?",
+    "passage": "Ana grew three bean plants for two weeks. Plant A got water and sunlight. Plant B got water but stayed in a dark closet. Plant C got sunlight but no water. Plant A grew tall and green. Plant B was pale and weak. Plant C dried up.",
+    "choices": [
+      "Plants need only water",
+      "Plants need only sunlight",
+      "Plants need both sunlight and water",
+      "Plants do not need sunlight or water"
+    ],
+    "correctAnswer": "Plants need both sunlight and water",
+    "explanation": "Only Plant A, which had both water and sunlight, grew tall and green. The plant without light was weak and the plant without water dried up, so plants need both.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_014",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "2-ESS2-1",
+    "prompt": "Wind keeps blowing sand away from the dunes near a beach town. Which idea would best slow this down?",
+    "choices": [
+      "Pulling out the plants on the dunes",
+      "Planting grasses on the dunes to hold the sand",
+      "Raking the sand flat every day",
+      "Building the houses closer to the water"
+    ],
+    "correctAnswer": "Planting grasses on the dunes to hold the sand",
+    "explanation": "Plant roots hold sand and soil in place, and the plants block some wind. This slows down how fast wind changes the land.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_015",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "2-PS1-3",
+    "prompt": "Jo builds a tower from 20 small blocks. She takes it apart and uses the same 20 blocks to build a bridge. What does this show?",
+    "choices": [
+      "The blocks changed into a new material",
+      "The bridge must have more blocks in it than the tower had",
+      "The same pieces can make different objects",
+      "The blocks can only make one thing"
+    ],
+    "correctAnswer": "The same pieces can make different objects",
+    "explanation": "An object made of small pieces can be taken apart, and the same pieces can be used to make a new object.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_016",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "2-PS1-2",
+    "prompt": "Which material is best for cleaning up a spill?",
+    "passage": "Kim tested which material soaks up the most water. She dipped each one in water. The paper towel soaked up 8 spoonfuls. The plastic wrap soaked up 0 spoonfuls. The foil soaked up 0 spoonfuls. The sponge soaked up 12 spoonfuls.",
+    "choices": [
+      "Paper towel",
+      "Plastic wrap",
+      "Foil",
+      "Sponge"
+    ],
+    "correctAnswer": "Sponge",
+    "explanation": "The sponge soaked up the most water (12 spoonfuls), so it is the best choice for cleaning up a spill.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g2_017",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "2-ESS1-1",
+    "prompt": "A river flows through a canyon. Each year the river makes the canyon a tiny bit deeper. About how long did it take to make the deep canyon?",
+    "choices": [
+      "Much longer than a person's whole life",
+      "One day, during a big storm with a lot of rain",
+      "One week, if the river flows very fast",
+      "One year, from one summer to the next"
+    ],
+    "correctAnswer": "Much longer than a person's whole life",
+    "explanation": "Some Earth changes are very slow. A river needs a very long time, far longer than a person's life, to carve a deep canyon.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  }
+]

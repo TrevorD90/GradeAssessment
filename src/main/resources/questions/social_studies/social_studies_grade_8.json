@@ -1,0 +1,389 @@
+[
+  {
+    "id": "social_studies_g8_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HSS-8.10",
+    "prompt": "Who was President of the United States during the Civil War?",
+    "choices": [
+      "Abraham Lincoln",
+      "Andrew Jackson",
+      "Ulysses S. Grant",
+      "Thomas Jefferson"
+    ],
+    "correctAnswer": "Abraham Lincoln",
+    "explanation": "Abraham Lincoln was President from 1861 until his assassination in April 1865, as the Civil War was ending.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.1.6-8",
+    "prompt": "From which country did the United States buy the Louisiana Territory in 1803?",
+    "choices": [
+      "Spain",
+      "France",
+      "Great Britain",
+      "Mexico"
+    ],
+    "correctAnswer": "France",
+    "explanation": "The United States bought the Louisiana Territory from France in 1803, roughly doubling the size of the country.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "HSS-8.2",
+    "prompt": "In which city did delegates meet in 1787 to write the U.S. Constitution?",
+    "correctAnswer": "Philadelphia",
+    "correctAnswers": [
+      "Philadelphia",
+      "Philadelphia, Pennsylvania",
+      "Philadelphia, PA"
+    ],
+    "explanation": "The Constitutional Convention met in Philadelphia, Pennsylvania, in the summer of 1787.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g8_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.4.6-8",
+    "prompt": "Which amendment abolished slavery in the United States?",
+    "choices": [
+      "Tenth Amendment",
+      "Nineteenth Amendment",
+      "Thirteenth Amendment",
+      "Second Amendment"
+    ],
+    "correctAnswer": "Thirteenth Amendment",
+    "explanation": "The Thirteenth Amendment, ratified in 1865, abolished slavery.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "HSS-8.8",
+    "prompt": "The belief in the 1800s that the United States was meant to expand across North America to the Pacific Ocean was called ___.",
+    "choices": [
+      "the Monroe Doctrine",
+      "nullification",
+      "Reconstruction",
+      "Manifest Destiny"
+    ],
+    "correctAnswer": "Manifest Destiny",
+    "explanation": "Manifest Destiny was the widely held belief that the nation was destined to spread across the continent.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HSS-8.10",
+    "prompt": "What did the Emancipation Proclamation (1863) declare?",
+    "choices": [
+      "That enslaved people in areas in rebellion against the Union were free",
+      "That slavery was abolished everywhere in the United States, including the border states",
+      "That the Civil War was over",
+      "That the Southern states could leave the Union and form their own separate nation"
+    ],
+    "correctAnswer": "That enslaved people in areas in rebellion against the Union were free",
+    "explanation": "President Lincoln's Emancipation Proclamation declared free the enslaved people in Confederate areas still in rebellion. It did not apply to the loyal border states or to areas already under Union control. Slavery was ended everywhere by the Thirteenth Amendment in 1865.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.3.6-8",
+    "prompt": "The Great Compromise at the Constitutional Convention settled a dispute about ___.",
+    "choices": [
+      "whether the nation would have a single president or a council",
+      "how states would be represented in Congress",
+      "where to build the national capital",
+      "how to pay the nation's war debts"
+    ],
+    "correctAnswer": "how states would be represented in Congress",
+    "explanation": "The Great Compromise created a two-house Congress: equal representation for each state in the Senate and representation by population in the House.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_008",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.1.6-8",
+    "prompt": "Put these events in order from earliest to latest.",
+    "orderedItems": [
+      "The Louisiana Purchase",
+      "The Missouri Compromise",
+      "The U.S.-Mexican War begins",
+      "The Civil War begins at Fort Sumter",
+      "The Thirteenth Amendment is ratified"
+    ],
+    "explanation": "Louisiana Purchase (1803), Missouri Compromise (1820), start of the U.S.-Mexican War (1846), attack on Fort Sumter (1861), Thirteenth Amendment (1865).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g8_009",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HSS-8.11",
+    "prompt": "Which amendments were ratified during Reconstruction? Select all that apply.",
+    "choices": [
+      "First Amendment",
+      "Fourteenth Amendment",
+      "Nineteenth Amendment",
+      "Fifteenth Amendment",
+      "Thirteenth Amendment"
+    ],
+    "correctAnswers": [
+      "Fourteenth Amendment",
+      "Fifteenth Amendment",
+      "Thirteenth Amendment"
+    ],
+    "explanation": "The Thirteenth (1865), Fourteenth (1868) and Fifteenth (1870) Amendments abolished slavery, defined citizenship and equal protection, and barred denying the vote because of race.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g8_010",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HSS-8.5",
+    "prompt": "The Monroe Doctrine (1823) warned European nations ___.",
+    "choices": [
+      "to stop trading with the United States",
+      "to pay for the Louisiana Territory",
+      "not to establish new colonies in the Western Hemisphere",
+      "to give up all of their existing colonies in Africa and Asia"
+    ],
+    "correctAnswer": "not to establish new colonies in the Western Hemisphere",
+    "explanation": "The Monroe Doctrine declared that the Americas were closed to further European colonization and interference.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_011",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.1.6-8",
+    "prompt": "Arrange the following events in United States constitutional history in chronological order.",
+    "orderedItems": [
+      "The Articles of Confederation are ratified",
+      "The Constitutional Convention meets in Philadelphia",
+      "The Constitution is ratified by the required nine states",
+      "The Bill of Rights is added as the first ten amendments"
+    ],
+    "explanation": "The Articles of Confederation were ratified in 1781, the Constitutional Convention met in 1787, the ninth state ratified the Constitution in 1788, and the Bill of Rights was ratified in 1791.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g8_012",
+    "subject": "SOCIAL_STUDIES",
+    "type": "CLOZE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HSS-8.6",
+    "prompt": "Use the word bank: North, South, cotton, factories. Before the Civil War, the ___ had more railroads and ___, while the economy of the ___ relied on ___ grown on plantations.",
+    "blanks": [
+      "North",
+      "factories",
+      "South",
+      "cotton"
+    ],
+    "explanation": "The North industrialized, with more factories and railroads, while the Southern economy depended on plantation crops, especially cotton, grown with enslaved labor.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g8_013",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.Eco.1.6-8",
+    "prompt": "Based on the passage, what was the most significant economic effect of the Erie Canal?",
+    "passage": "The Erie Canal, built between 1817 and 1825, connected Lake Erie at Buffalo to the Hudson River, and through it to the Atlantic Ocean at New York City. Before the canal, shipping one ton of goods overland from Buffalo to New York City cost roughly $100 and took weeks. After the canal opened in 1825, the cost fell to about $10 per ton or less, and the trip took far less time. Towns along the canal grew rapidly, and New York City became the busiest port in the country.",
+    "choices": [
+      "It eliminated the need for roads in New York State",
+      "It caused towns along the canal to lose population",
+      "It made the Great Lakes the busiest port system in the country",
+      "It drastically reduced the cost and time of transporting goods"
+    ],
+    "correctAnswer": "It drastically reduced the cost and time of transporting goods",
+    "explanation": "The passage shows shipping costs falling by about 90 percent (from roughly $100 to about $10 or less per ton) and travel time falling sharply, which spurred trade and growth. (Historians' figures vary somewhat; these are commonly cited estimates.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_014",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.14.6-8",
+    "prompt": "What was a major effect of the invention of the cotton gin in 1793?",
+    "choices": [
+      "Cotton became more profitable, and the demand for enslaved labor grew",
+      "Slavery quickly ended in the South",
+      "Cotton farming moved north to New England, and slavery in the South declined",
+      "Southern planters stopped exporting cotton and switched to growing tobacco and rice"
+    ],
+    "correctAnswer": "Cotton became more profitable, and the demand for enslaved labor grew",
+    "explanation": "The cotton gin made cleaning cotton far faster, so planters grew much more cotton and slavery expanded across the South.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_015",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.His.14.6-8",
+    "prompt": "The Supreme Court's decision in Dred Scott v. Sandford (1857) increased tensions between North and South mainly because the Court ruled that ___.",
+    "choices": [
+      "slavery was illegal in every state",
+      "Congress could not ban slavery in the territories",
+      "Southern states had the right to secede",
+      "enslaved people in every state must be freed within ten years"
+    ],
+    "correctAnswer": "Congress could not ban slavery in the territories",
+    "explanation": "The Court held that African Americans were not citizens and that Congress had no power to prohibit slavery in the territories, which outraged many Northerners.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g8_016",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Civ.4.6-8",
+    "prompt": "Which of the following is an example of checks and balances?",
+    "choices": [
+      "Each state has its own constitution",
+      "Voters elect all House members every two years",
+      "The Senate must approve the President's nominees to the Supreme Court",
+      "The Bill of Rights lists individual freedoms"
+    ],
+    "correctAnswer": "The Senate must approve the President's nominees to the Supreme Court",
+    "explanation": "Checks and balances are powers one branch uses to limit another. Senate confirmation of judges is a legislative check on the executive branch.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  }
+]

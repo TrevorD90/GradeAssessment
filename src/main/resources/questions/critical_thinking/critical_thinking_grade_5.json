@@ -1,0 +1,348 @@
+[
+  {
+    "id": "critical_thinking_g5_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ASSUMPTIONS",
+    "prompt": "Maria says, 'I studied really hard, so I will get an A on the test.' What is Maria taking for granted?",
+    "choices": [
+      "The test will be canceled.",
+      "Her teacher likes her.",
+      "She does not need to study.",
+      "Studying hard is enough to get an A."
+    ],
+    "correctAnswer": "Studying hard is enough to get an A.",
+    "explanation": "Maria jumps from 'I studied hard' to 'I will get an A.' That only works if studying hard is enough to earn an A. She does not say this out loud, so it is an unstated assumption.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Which statement is a fact that could be checked?",
+    "choices": [
+      "The school day should be shorter.",
+      "The cafeteria served 300 lunches on Monday.",
+      "Recess is the best part of the day.",
+      "Our mascot is cooler than theirs."
+    ],
+    "correctAnswer": "The cafeteria served 300 lunches on Monday.",
+    "explanation": "The number of lunches served can be checked in the cafeteria's records. 'Should', 'best', and 'cooler' express opinions that cannot be proved true or false.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Every Zib is a Mip. Every Mip is a Tok. Lum is a Zib. What must be true?",
+    "choices": [
+      "Every Tok is a Zib.",
+      "Lum is not a Mip.",
+      "Lum is a Tok.",
+      "Every Mip is a Zib."
+    ],
+    "correctAnswer": "Lum is a Tok.",
+    "explanation": "Lum is a Zib, and every Zib is a Mip, so Lum is a Mip. Every Mip is a Tok, so Lum is a Tok. The clues do not say the rules work backward.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Pilot is to airplane as captain is to ___. (Think about what each person is in charge of steering.) Type the missing word.",
+    "correctAnswer": "ship",
+    "correctAnswers": [
+      "ship",
+      "boat",
+      "a ship",
+      "a boat",
+      "vessel",
+      "a vessel",
+      "the ship",
+      "the boat",
+      "ships",
+      "boats"
+    ],
+    "explanation": "A pilot is the person in charge of an airplane. A captain is the person in charge of a ship.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g5_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "A sign on a shop door says 'Back in 10 minutes.' The lights are on, and a cup of hot, steaming coffee sits on the counter. What is the most reasonable conclusion?",
+    "choices": [
+      "The worker stepped out a short time ago.",
+      "The shop has closed forever.",
+      "The shop has never opened.",
+      "The worker left on a week-long trip."
+    ],
+    "correctAnswer": "The worker stepped out a short time ago.",
+    "explanation": "The sign says the worker will be back soon, the lights are still on, and the coffee is still hot. All three clues point to someone who left only a little while ago.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "If it is raining, then the game is canceled. The game is canceled. What can we conclude?",
+    "choices": [
+      "It is raining for sure, because the game is canceled.",
+      "It is not raining.",
+      "It may or may not be raining.",
+      "The game will be played tomorrow."
+    ],
+    "correctAnswer": "It may or may not be raining.",
+    "explanation": "The rule says rain cancels the game. It does not say rain is the only thing that cancels it. The game could be canceled for another reason, so we cannot be sure it is raining.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION/RI.5.8",
+    "prompt": "Which sentence gives the strongest evidence for building the bike path?",
+    "passage": "Our town should build a new bike path. A count last month showed that over 200 children ride bikes to school each day. Bike paths are fun. The mayor's favorite color is green, which is the same color as the signs that would go along the path.",
+    "choices": [
+      "A count last month showed that over 200 children ride bikes to school each day.",
+      "Bike paths are fun.",
+      "The mayor's favorite color is green, which is the same color as the signs that would go along the path.",
+      "Our town should build a new bike path."
+    ],
+    "correctAnswer": "A count last month showed that over 200 children ride bikes to school each day.",
+    "explanation": "The count of riders is a fact that shows many children would use the path. 'Fun' is an opinion, the mayor's favorite color has nothing to do with the path, and the last choice is the claim itself, not evidence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.CREDIBILITY",
+    "prompt": "Ravi is writing a report about how much sleep kids need. Which sources are most likely to be trustworthy? Select all that apply.",
+    "choices": [
+      "An article on a children's hospital website, written by a doctor",
+      "An ad for a mattress store",
+      "A health book from the school library",
+      "A comment from a stranger in an online game chat"
+    ],
+    "correctAnswers": [
+      "An article on a children's hospital website, written by a doctor",
+      "A health book from the school library"
+    ],
+    "explanation": "A doctor writing for a hospital and a library health book come from people who know the subject and are not trying to sell anything. An ad wants to sell mattresses, and a stranger in a chat may know nothing about sleep.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g5_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Five runners finished a race. Use the clues to put them in order from first place to last place. Clues: Dev finished right after Ben. Ana finished before Eli. Ben finished right after Eli. Cruz finished before Ana.",
+    "orderedItems": [
+      "Cruz",
+      "Ana",
+      "Eli",
+      "Ben",
+      "Dev"
+    ],
+    "explanation": "Ben is right after Eli and Dev is right after Ben, so Eli, Ben, Dev finish back to back in that order. Ana is before Eli, and Cruz is before Ana, so both come before that group. The order is Cruz, Ana, Eli, Ben, Dev.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g5_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Every Friday for the past six weeks, the cafeteria has served pizza. Which statement is best supported by this?",
+    "choices": [
+      "The cafeteria must serve pizza every Friday forever.",
+      "The cafeteria never serves pizza on other days.",
+      "Pizza is every student's favorite lunch.",
+      "The cafeteria will probably serve pizza this Friday."
+    ],
+    "correctAnswer": "The cafeteria will probably serve pizza this Friday.",
+    "explanation": "A pattern that has held for six weeks makes pizza this Friday likely, but not certain. The facts say nothing about other days or about what students like, and 'must' and 'forever' claim too much.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Kim, Leo, and Max ran a race. Each wore a different color shirt: red, blue, or green. The runner in the red shirt finished first. Leo wore blue. Kim did not wear red. Who finished first?",
+    "choices": [
+      "Max",
+      "Kim",
+      "Leo",
+      "We cannot tell."
+    ],
+    "correctAnswer": "Max",
+    "explanation": "The winner wore red. Leo wore blue and Kim did not wear red, so the only person who could have worn red is Max. Max finished first.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION/W.5.1",
+    "prompt": "Two students argue that school should start later. Ali says, 'A study of many schools found that grades went up after start times were moved later.' Bea says, 'Everyone I know hates waking up early.' Whose argument is stronger, and why?",
+    "choices": [
+      "Bea's, because she knows a lot of people.",
+      "Ali's, because it uses evidence from many schools.",
+      "Bea's, because waking up early is hard.",
+      "They are equally strong, because both are only opinions."
+    ],
+    "correctAnswer": "Ali's, because it uses evidence from many schools.",
+    "explanation": "Ali gives evidence that was gathered from many schools and that shows a real result (better grades). Bea reports the feelings of the people she happens to know. Evidence from a wide study is stronger support than a few people's feelings.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Jen tests two brands of paper towel. She pours 1 cup of water on Brand A and 2 cups of water on Brand B. Brand B leaves more water behind, so Jen says Brand B is worse. What is wrong with her test?",
+    "choices": [
+      "She should have used juice instead of water, since juice is stickier.",
+      "Brand B costs more than Brand A at most of the stores in town.",
+      "She did not pour the same amount of water on both brands.",
+      "Paper towels cannot be tested."
+    ],
+    "correctAnswer": "She did not pour the same amount of water on both brands.",
+    "explanation": "In a fair test, only the thing being compared should be different. Brand B got twice as much water, so of course more was left behind. We cannot tell whether the towel or the extra water caused the result.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g5_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Four children sit in a row of seats numbered 1 to 4 from left to right. Ada sits in seat 1. Ben sits right next to Ada. Cy does not sit next to Ben. What is the number of Dot's seat?",
+    "correctAnswer": "3",
+    "correctAnswers": [
+      "3",
+      "three",
+      "seat 3",
+      "seat three"
+    ],
+    "explanation": "Ada is in seat 1, and the only seat next to seat 1 is seat 2, so Ben is in seat 2. Seat 3 is next to Ben, so Cy must be in seat 4. That leaves seat 3 for Dot.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.0
+    }
+  }
+]

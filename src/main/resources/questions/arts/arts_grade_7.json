@@ -1,0 +1,530 @@
+[
+  {
+    "id": "arts_g7_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.7b",
+    "prompt": "Which term tells musicians to gradually slow down?",
+    "choices": [
+      "Staccato",
+      "Ritardando",
+      "Crescendo",
+      "Accelerando"
+    ],
+    "correctAnswer": "Ritardando",
+    "explanation": "Ritardando means gradually slowing down. Accelerando means gradually speeding up, and crescendo means gradually getting louder.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_002",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.7a",
+    "prompt": "Which art movement is characterized by visible brushstrokes, everyday subject matter, and an interest in capturing the changing effects of light?",
+    "choices": [
+      "Impressionism",
+      "Surrealism",
+      "Baroque",
+      "Cubism"
+    ],
+    "correctAnswer": "Impressionism",
+    "explanation": "Impressionism began in France in the 1870s with artists such as Monet, Renoir, and Degas, who painted fleeting effects of light with loose, visible brushwork.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_003",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Cr2.1.7a",
+    "prompt": "A melody in C major is transposed up one whole step. What is the new key?",
+    "choices": [
+      "D major",
+      "E major",
+      "C-sharp major",
+      "B major"
+    ],
+    "correctAnswer": "D major",
+    "explanation": "One whole step above C is D, so a melody in C major transposed up a whole step is in D major.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.7a",
+    "prompt": "Which paint is made of pigment that is thinned with water and usually applied to paper in transparent washes?",
+    "choices": [
+      "Watercolor",
+      "Pastel",
+      "Charcoal",
+      "Oil paint"
+    ],
+    "correctAnswer": "Watercolor",
+    "explanation": "Watercolor is a water-based paint known for its transparent washes. Pastel and charcoal are dry drawing media.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.7b",
+    "prompt": "How many sharps are in the key signature of G major?",
+    "choices": [
+      "Two",
+      "None",
+      "One",
+      "Three"
+    ],
+    "correctAnswer": "One",
+    "explanation": "G major has one sharp, F-sharp.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_006",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "VA:Re8.1.7a",
+    "prompt": "Which art movement does this painting most closely represent?",
+    "passage": "A painting shows a woman holding a guitar. Her face is shown from the front and from the side at the same time. The guitar is broken into flat, angular planes of brown and gray that overlap like pieces of broken glass.",
+    "choices": [
+      "Impressionism",
+      "Pop Art",
+      "Cubism",
+      "Realism"
+    ],
+    "correctAnswer": "Cubism",
+    "explanation": "Cubism, developed by Picasso and Braque, breaks subjects into geometric planes and shows several viewpoints at once.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_007",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Pr4.1.7.a",
+    "prompt": "In theatre, \"blocking\" refers to ___.",
+    "choices": [
+      "building, painting, and moving the scenery between scenes",
+      "memorizing the lines of the script",
+      "the planned movement and positioning of actors on stage",
+      "selling tickets before the show"
+    ],
+    "correctAnswer": "the planned movement and positioning of actors on stage",
+    "explanation": "Blocking is the planned pattern of where actors stand and move during a scene.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.7b",
+    "prompt": "The interval from C up to the G above it is a ___.",
+    "choices": [
+      "perfect fifth",
+      "perfect fourth",
+      "major sixth",
+      "major third"
+    ],
+    "correctAnswer": "perfect fifth",
+    "explanation": "Counting C as 1 (C-D-E-F-G), G is the fifth note, so the interval is a perfect fifth.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_009",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MU:Re7.2.7a",
+    "prompt": "Partway through a piece, the time signature changes from 4/4 to 3/4 while the tempo stays the same. What will a listener notice?",
+    "choices": [
+      "Different instruments begin to play",
+      "The melody moves up to a higher octave for the rest of the piece",
+      "The music suddenly becomes louder",
+      "The beats are now grouped in threes instead of fours"
+    ],
+    "correctAnswer": "The beats are now grouped in threes instead of fours",
+    "explanation": "A time signature sets how beats are grouped into measures. Changing from 4/4 to 3/4 changes the grouping from fours to threes, so the strong first beat now comes every three beats instead of every four.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.7b",
+    "prompt": "A key signature with no sharps and no flats belongs to which major key?",
+    "choices": [
+      "F major",
+      "C major",
+      "D major",
+      "G major"
+    ],
+    "correctAnswer": "C major",
+    "explanation": "C major has no sharps or flats. G major has one sharp, D major has two sharps, and F major has one flat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_011",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cr2.1.7a",
+    "prompt": "Colors that sit next to each other on the color wheel, such as yellow, yellow-green, and green, form what kind of color scheme?",
+    "choices": [
+      "Analogous",
+      "Monochromatic",
+      "Triadic",
+      "Complementary"
+    ],
+    "correctAnswer": "Analogous",
+    "explanation": "An analogous scheme uses neighboring colors. Complementary colors are opposites, and a monochromatic scheme uses values of one color.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_012",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Re8.1.7.a",
+    "prompt": "An actor says the line \"I'm fine\" while turning away with clenched fists and a tight voice. What does this performance communicate?",
+    "choices": [
+      "The character is relaxed, content, and happy with how things are going",
+      "The character is upset, even though the words say otherwise",
+      "The character did not hear the question",
+      "The character is joking with a friend and trying to make everyone laugh"
+    ],
+    "correctAnswer": "The character is upset, even though the words say otherwise",
+    "explanation": "The meaning beneath the spoken words is called subtext. Clenched fists and a tight voice show the character is not really fine.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_013",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Cr1.1.7a",
+    "prompt": "Dance that is created on the spot, without planned choreography, is called ___.",
+    "choices": [
+      "notation",
+      "repertoire",
+      "rehearsal",
+      "improvisation"
+    ],
+    "correctAnswer": "improvisation",
+    "explanation": "Improvisation is movement invented in the moment. Choreographers often improvise to discover new movement ideas.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_014",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.7b",
+    "prompt": "The interval between a note and the next note of the same letter name, such as C to the next higher C, is called an ___.",
+    "correctAnswer": "octave",
+    "correctAnswers": [
+      "octave"
+    ],
+    "explanation": "An octave spans eight letter names (for example C-D-E-F-G-A-B-C). The two notes sound alike, one higher than the other.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g7_015",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Cn11.1.7a",
+    "prompt": "Arrange these Western art movements in chronological order from earliest to latest.",
+    "orderedItems": [
+      "Renaissance",
+      "Baroque",
+      "Impressionism",
+      "Cubism",
+      "Pop Art"
+    ],
+    "explanation": "The Renaissance (about 1400-1600) was followed by the Baroque (1600s-early 1700s), Impressionism (1870s-1880s), Cubism (from about 1907), and Pop Art (1950s-1960s).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g7_016",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MA:Cr3.1.7a",
+    "prompt": "The tiny squares of color that make up a digital image are called ___.",
+    "choices": [
+      "frames",
+      "layers",
+      "fonts",
+      "pixels"
+    ],
+    "correctAnswer": "pixels",
+    "explanation": "A digital image is a grid of tiny colored squares called pixels (picture elements).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_017",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Pr5.1.7.b",
+    "prompt": "A stage that extends into the audience so that spectators sit on three sides is called a ___ stage.",
+    "choices": [
+      "proscenium",
+      "arena",
+      "revolving",
+      "thrust"
+    ],
+    "correctAnswer": "thrust",
+    "explanation": "A thrust stage has the audience on three sides. An arena stage (theatre in the round) has the audience on all sides.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_018",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MA:Re7.1.7a",
+    "prompt": "A filmmaker shoots a character from a very low camera angle, looking up at him. What is the usual effect on viewers?",
+    "choices": [
+      "The character seems to be far away in the distance",
+      "The character seems powerful or intimidating",
+      "The character seems to be dreaming",
+      "The character seems small, weak, and vulnerable to others"
+    ],
+    "correctAnswer": "The character seems powerful or intimidating",
+    "explanation": "A low-angle shot looks up at the subject, which tends to make the subject seem large, powerful, or threatening. A high-angle shot does the opposite.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_019",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Cn11.1.7a",
+    "prompt": "Which of these are characteristics of Italian Renaissance painting? Select all that apply.",
+    "choices": [
+      "Renewed interest in ancient Greek and Roman ideas",
+      "Use of linear perspective to show depth",
+      "Images borrowed from advertisements and comic strips",
+      "Realistic human anatomy and proportion",
+      "Subjects broken into flat geometric fragments"
+    ],
+    "correctAnswers": [
+      "Renewed interest in ancient Greek and Roman ideas",
+      "Use of linear perspective to show depth",
+      "Realistic human anatomy and proportion"
+    ],
+    "explanation": "Renaissance artists revived classical ideas, studied anatomy, and used linear perspective. Fragmented geometric forms belong to Cubism, and advertising imagery belongs to Pop Art.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g7_020",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "DA:Cr2.1.7a",
+    "prompt": "A choreographer repeats one short movement phrase throughout a dance, sometimes faster, sometimes at a lower level, sometimes facing a new direction. What is the main purpose of this?",
+    "choices": [
+      "To avoid having to use any music or sound during the dance",
+      "To unify the dance around a motif while adding variety",
+      "To make the dance impossible to follow",
+      "To give the dancers time to rest between the more difficult sections"
+    ],
+    "correctAnswer": "To unify the dance around a motif while adding variety",
+    "explanation": "A motif is a movement idea that is repeated and varied. Developing a motif gives a dance both unity and variety.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g7_021",
+    "subject": "ARTS",
+    "type": "CLOZE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "TH:Re7.1.7.a",
+    "prompt": "Use the word bank: protagonist, antagonist, narrator. The main character of a play is the ___. The character or force that opposes the main character is the ___.",
+    "blanks": [
+      "protagonist",
+      "antagonist"
+    ],
+    "explanation": "The protagonist is the central character. The antagonist opposes the protagonist and creates the conflict.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g7_022",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Cn11.1.7a",
+    "prompt": "Which dance culture developed in the Bronx, New York, in the 1970s and includes breaking (b-boying and b-girling)?",
+    "choices": [
+      "Flamenco",
+      "Ballet",
+      "Hip-hop",
+      "Swing"
+    ],
+    "correctAnswer": "Hip-hop",
+    "explanation": "Hip-hop dance grew out of 1970s block parties in the Bronx. Breaking was its first major dance style.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  }
+]

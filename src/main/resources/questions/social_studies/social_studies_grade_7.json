@@ -1,0 +1,385 @@
+[
+  {
+    "id": "social_studies_g7_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.4.6-8",
+    "prompt": "Which amendment to the United States Constitution guarantees the right to freedom of speech?",
+    "choices": [
+      "The Second Amendment",
+      "The Fifth Amendment",
+      "The Tenth Amendment",
+      "The First Amendment"
+    ],
+    "correctAnswer": "The First Amendment",
+    "explanation": "The First Amendment protects freedom of speech, the press, religion, assembly and petition.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.4.6-8",
+    "prompt": "The system in which the three branches of government limit each other's power is called checks and ___.",
+    "correctAnswer": "balances",
+    "correctAnswers": [
+      "balances"
+    ],
+    "explanation": "Under checks and balances, each branch has powers that can limit the other two, so no branch becomes too powerful.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g7_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.1.6-8",
+    "prompt": "How many U.S. senators does each state have?",
+    "choices": [
+      "2",
+      "1",
+      "4",
+      "It depends on the state's population"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Every state elects two senators, no matter how large or small its population is.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.1.6-8",
+    "prompt": "What is the highest court in the United States?",
+    "choices": [
+      "The Court of Appeals",
+      "The Supreme Court",
+      "The Senate",
+      "The Electoral College"
+    ],
+    "correctAnswer": "The Supreme Court",
+    "explanation": "The Supreme Court is the highest court in the federal judicial branch.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.1.6-8",
+    "prompt": "In economics, what is the opportunity cost of a decision?",
+    "choices": [
+      "The total amount of money spent on the item you chose",
+      "The tax paid on a purchase",
+      "The next-best alternative that is given up",
+      "The profit a business earns"
+    ],
+    "correctAnswer": "The next-best alternative that is given up",
+    "explanation": "Opportunity cost is the value of the next-best alternative you give up when you choose something.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Civ.11.6-8",
+    "prompt": "Place the following steps of how a bill becomes a federal law in the correct order.",
+    "orderedItems": [
+      "A member of Congress introduces a bill",
+      "A committee studies and votes on the bill",
+      "Both the House and the Senate pass the bill",
+      "The President signs the bill into law"
+    ],
+    "explanation": "A bill is introduced, reviewed in committee, passed by both chambers of Congress, and then signed by the President.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g7_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.4.6-8",
+    "prompt": "Which power belongs to the President?",
+    "choices": [
+      "Declaring laws unconstitutional",
+      "Writing and passing federal laws",
+      "Ratifying constitutional amendments",
+      "Vetoing bills passed by Congress"
+    ],
+    "correctAnswer": "Vetoing bills passed by Congress",
+    "explanation": "The President can veto bills. Courts can declare laws unconstitutional, Congress passes laws, and the states ratify amendments.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_008",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.1.6-8",
+    "prompt": "The number of members a state has in the U.S. House of Representatives is based on the state's ___.",
+    "choices": [
+      "population",
+      "land area",
+      "number of counties",
+      "date of statehood"
+    ],
+    "correctAnswer": "population",
+    "explanation": "Seats in the House are divided among the states according to population, as counted in the census every ten years.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_009",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.2.6-8",
+    "prompt": "Which of these are duties that U.S. citizens are required by law to carry out? Select all that apply.",
+    "choices": [
+      "Serving on a jury when called",
+      "Voting in every election",
+      "Obeying laws",
+      "Running for office",
+      "Paying taxes"
+    ],
+    "correctAnswers": [
+      "Serving on a jury when called",
+      "Obeying laws",
+      "Paying taxes"
+    ],
+    "explanation": "Jury service, obeying laws and paying taxes are legal duties. Voting and running for office are important but voluntary.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g7_010",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Eco.6.6-8",
+    "prompt": "If the price of a popular video game falls and nothing else changes, what will most likely happen to the quantity people want to buy?",
+    "choices": [
+      "It will decrease",
+      "It will increase",
+      "It will stay exactly the same",
+      "It will fall to zero"
+    ],
+    "correctAnswer": "It will increase",
+    "explanation": "The law of demand says that when the price of a good falls, people generally want to buy more of it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_011",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.4.6-8",
+    "prompt": "A region's long-term pattern of temperature and precipitation is called its ___.",
+    "choices": [
+      "weather",
+      "elevation",
+      "climate",
+      "latitude"
+    ],
+    "correctAnswer": "climate",
+    "explanation": "Climate is the average pattern of weather over many years. Weather is the condition of the atmosphere at a particular time.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_012",
+    "subject": "SOCIAL_STUDIES",
+    "type": "CLOZE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.3.6-8",
+    "prompt": "Use the word bank: amendment, veto, ratify. A formal change to the Constitution is called an ___. To formally approve a proposed change is to ___ it.",
+    "blanks": [
+      "amendment",
+      "ratify"
+    ],
+    "explanation": "An amendment is a change to the Constitution. Three-fourths of the states must ratify (approve) a proposed amendment.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g7_013",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Civ.11.6-8",
+    "prompt": "What happens to the bill?",
+    "passage": "Congress passes a bill. The President vetoes it. Congress votes again, and two-thirds of the members of both the House of Representatives and the Senate vote in favor of the bill.",
+    "choices": [
+      "It is sent to the Supreme Court for approval",
+      "It fails and cannot become law",
+      "It must be approved by the state governors",
+      "It becomes law despite the veto"
+    ],
+    "correctAnswer": "It becomes law despite the veto",
+    "explanation": "Congress can override a presidential veto with a two-thirds vote in both the House and the Senate, and the bill then becomes law.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_014",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.Eco.14.6-8",
+    "prompt": "A country has abundant natural resources but limited technology and skilled labor. Another country has advanced technology and skilled workers but few natural resources. Which economic concept best explains why these two countries would benefit from exchanging goods?",
+    "choices": [
+      "Comparative advantage",
+      "Inflation",
+      "Budget deficit",
+      "Monetary policy"
+    ],
+    "correctAnswer": "Comparative advantage",
+    "explanation": "Comparative advantage explains that countries gain by specializing in what they can produce at the lowest opportunity cost and trading for other goods.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_015",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Civ.4.6-8",
+    "prompt": "The Supreme Court case Marbury v. Madison (1803) is important because it established ___.",
+    "choices": [
+      "the President's power to veto laws",
+      "the power of judicial review",
+      "the right of states to leave the Union",
+      "the two-party political system"
+    ],
+    "correctAnswer": "the power of judicial review",
+    "explanation": "In Marbury v. Madison the Supreme Court asserted the power of judicial review, allowing courts to strike down laws that conflict with the Constitution.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g7_016",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Geo.8.6-8",
+    "prompt": "As a country industrializes, what usually happens to where its people live?",
+    "choices": [
+      "More people move from cities back to farms in the countryside",
+      "The population spreads out evenly",
+      "More people move from rural areas to cities",
+      "Cities shrink and disappear"
+    ],
+    "correctAnswer": "More people move from rural areas to cities",
+    "explanation": "Industrialization creates factory and service jobs in cities, so people move from rural areas to urban areas. This is called urbanization.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  }
+]

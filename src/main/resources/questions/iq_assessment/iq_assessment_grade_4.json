@@ -1,0 +1,363 @@
+[
+  {
+    "id": "iq_assessment_g4_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Page is to book as petal is to ___",
+    "choices": [
+      "flower",
+      "leaf",
+      "garden",
+      "stem"
+    ],
+    "correctAnswer": "flower",
+    "explanation": "A page is one part of a book. A petal is one part of a flower.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next in the pattern? 2, 4, 8, 16, ___",
+    "choices": [
+      "18",
+      "32",
+      "24",
+      "20"
+    ],
+    "correctAnswer": "32",
+    "explanation": "Each number is double the one before it: 16 × 2 = 32.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What letter comes next? Z, X, V, T, ___",
+    "choices": [
+      "S",
+      "Q",
+      "R",
+      "P"
+    ],
+    "correctAnswer": "R",
+    "explanation": "The pattern goes backward through the alphabet, skipping one letter each time: Z (y) X (w) V (u) T (s) R.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Each of these capital letters is flipped upside down (top to bottom). Which one still looks the same?",
+    "choices": [
+      "A",
+      "M",
+      "T",
+      "H"
+    ],
+    "correctAnswer": "H",
+    "explanation": "H has the same shape above and below its middle bar, so it looks the same upside down. A, M and T do not.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "CLOZE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Write the numbers 8, 3, 6, 1 in order from smallest to largest: ___, ___, ___, ___",
+    "blanks": [
+      "1",
+      "3",
+      "6",
+      "8"
+    ],
+    "explanation": "From smallest to largest the numbers are 1, 3, 6, 8.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g4_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Which of these words describe a LOUD way of using your voice? Select all that apply.",
+    "choices": [
+      "shout",
+      "whisper",
+      "yell",
+      "murmur",
+      "scream"
+    ],
+    "correctAnswers": [
+      "shout",
+      "yell",
+      "scream"
+    ],
+    "explanation": "Shout, yell and scream are all loud. Whisper and murmur are quiet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g4_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "The same rule changes each first number into the second number: 12 → 6, 20 → 10, 18 → ?",
+    "choices": [
+      "9",
+      "12",
+      "8",
+      "16"
+    ],
+    "correctAnswer": "9",
+    "explanation": "The rule is take half: half of 12 is 6, half of 20 is 10, so half of 18 is 9.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Four friends stand in a line. Sam is first. Tess is last. Mia is right behind Leo. Put the friends in order from the front of the line to the back.",
+    "orderedItems": [
+      "Sam",
+      "Leo",
+      "Mia",
+      "Tess"
+    ],
+    "explanation": "Sam is first and Tess is last, so Leo and Mia fill the two middle places. Mia is right behind Leo, so the order is Sam, Leo, Mia, Tess.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g4_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "You are facing north. You make a half turn so you face the opposite way. Then you make a quarter turn to your left. Which way are you facing now?",
+    "choices": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "correctAnswer": "east",
+    "explanation": "A half turn from north faces south. When you face south, east is on your left, so a quarter turn left faces east.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read: 9, K, 4, D, 7. Say the numbers from smallest to largest, then the letters in alphabetical order. Which is right?",
+    "choices": [
+      "4, 7, 9, K, D",
+      "D, K, 4, 7, 9",
+      "4, 7, 9, D, K",
+      "9, 7, 4, D, K"
+    ],
+    "correctAnswer": "4, 7, 9, D, K",
+    "explanation": "The numbers in order are 4, 7, 9 and the letters in order are D, K.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "How are a seed and an egg alike?",
+    "choices": [
+      "Both are laid by birds in nests",
+      "Both must be planted in soil to grow",
+      "Both are always round and white",
+      "Both can grow into a living thing"
+    ],
+    "correctAnswer": "Both can grow into a living thing",
+    "explanation": "A seed can grow into a plant and an egg can grow into an animal, so both are the start of a new living thing.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "The same rule changes each first number into the second number: 3 → 10, 5 → 16, 6 → ?",
+    "correctAnswer": "19",
+    "correctAnswers": [
+      "19",
+      "nineteen"
+    ],
+    "explanation": "The rule is multiply by 3, then add 1: 3 × 3 + 1 = 10, 5 × 3 + 1 = 16, so 6 × 3 + 1 = 19.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g4_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? AZ, BY, CX, DW, ___",
+    "choices": [
+      "EV",
+      "EU",
+      "FV",
+      "EX"
+    ],
+    "correctAnswer": "EV",
+    "explanation": "The first letter moves forward one step (A, B, C, D, E) while the second letter moves backward one step (Z, Y, X, W, V).",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A square piece of paper is folded in half. A small V-shaped notch (a triangle) is cut out of the folded edge. What does the hole look like when the paper is unfolded?",
+    "choices": [
+      "One small triangle",
+      "A four-sided diamond",
+      "A long, thin straight slit",
+      "Two separate triangles"
+    ],
+    "correctAnswer": "A four-sided diamond",
+    "explanation": "The fold is a mirror line. The cut triangle and its mirror image join along the fold to make one four-sided diamond.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g4_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Think of the word PLANET. Put its six letters in alphabetical order. Which letter is fourth?",
+    "choices": [
+      "L",
+      "P",
+      "N",
+      "E"
+    ],
+    "correctAnswer": "N",
+    "explanation": "In alphabetical order the letters are A, E, L, N, P, T. The fourth letter is N.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  }
+]

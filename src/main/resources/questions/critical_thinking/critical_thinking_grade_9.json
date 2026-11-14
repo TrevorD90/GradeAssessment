@@ -1,0 +1,363 @@
+[
+  {
+    "id": "critical_thinking_g9_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION/RI.9-10.8",
+    "prompt": "A politician argues, 'My opponent's tax plan is wrong because he was caught speeding last year.' Which fallacy is this?",
+    "choices": [
+      "Straw man",
+      "Ad hominem",
+      "False dilemma",
+      "Slippery slope"
+    ],
+    "correctAnswer": "Ad hominem",
+    "explanation": "The argument attacks the opponent as a person instead of addressing the tax plan. A speeding ticket has no bearing on whether a tax plan is good. Attacking the person rather than the argument is an ad hominem fallacy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION/RI.9-10.8",
+    "prompt": "Consider this statement: 'Either you support building the new highway, or you do not care about economic growth.' Which fallacy is present?",
+    "choices": [
+      "Appeal to authority",
+      "Circular reasoning",
+      "False dilemma",
+      "Red herring"
+    ],
+    "correctAnswer": "False dilemma",
+    "explanation": "The statement allows only two positions, but others exist: someone could care about economic growth and prefer a different project. Presenting two options as the only ones is a false dilemma.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Read this argument: 'Because the bridge has cracks in two supports, and cracked supports can fail under heavy loads, the city should close the bridge to trucks.' Which statement is the conclusion?",
+    "choices": [
+      "The bridge has cracks in two supports.",
+      "Cracked supports can fail under heavy loads.",
+      "Trucks are heavy.",
+      "The city should close the bridge to trucks."
+    ],
+    "correctAnswer": "The city should close the bridge to trucks.",
+    "explanation": "'Because' introduces the reasons (premises). The statement those reasons are meant to establish is that the city should close the bridge to trucks. 'Trucks are heavy' is an unstated assumption, not the conclusion.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "If a number is on List A, then it is on List B. The number 17 is not on List B. What follows?",
+    "choices": [
+      "17 is not on List A.",
+      "17 is on List A.",
+      "Every number on List B is on List A.",
+      "Nothing can be concluded about 17."
+    ],
+    "correctAnswer": "17 is not on List A.",
+    "explanation": "If 17 were on List A, it would have to be on List B. It is not on List B, so it cannot be on List A. This valid pattern is called modus tollens (reasoning by the contrapositive).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION/RI.9-10.8",
+    "prompt": "An editorial argues, 'If we allow students to use calculators in math class, they will never learn arithmetic. Then they will fail every math course, and in the end they will be unable to hold any job.' Which fallacy is this?",
+    "choices": [
+      "Straw man: misrepresenting the other side's view",
+      "Begging the question: assuming the conclusion in a premise",
+      "Slippery slope: claiming one step must lead to extreme results",
+      "Appeal to tradition: claiming something is right because it is old"
+    ],
+    "correctAnswer": "Slippery slope: claiming one step must lead to extreme results",
+    "explanation": "The editorial strings together a chain of worse and worse outcomes without showing that any step must follow from the one before. Treating a first step as if it leads inevitably to disaster is a slippery slope fallacy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "At Pine High, a student must pass the swim test to join the sailing club, and must also pay a fee. For joining the sailing club, passing the swim test is:",
+    "choices": [
+      "necessary but not sufficient",
+      "sufficient but not necessary",
+      "both necessary and sufficient",
+      "neither necessary nor sufficient"
+    ],
+    "correctAnswer": "necessary but not sufficient",
+    "explanation": "A student cannot join without passing the test, so passing is necessary. But passing alone does not get the student in, because the fee is also required, so it is not sufficient.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "A study finds that countries with more teachers per person have lower crime rates. A commentator concludes, 'Hiring more teachers will reduce crime.' What is the main flaw in this reasoning?",
+    "choices": [
+      "The study looked at only one country.",
+      "It treats a correlation as a cause; wealth could raise both teacher numbers and safety.",
+      "Teachers have no effect on anything outside school, so the link must be pure coincidence.",
+      "Crime rates cannot be compared between countries."
+    ],
+    "correctAnswer": "It treats a correlation as a cause; wealth could raise both teacher numbers and safety.",
+    "explanation": "The study shows only that the two measures go together. A wealthy country may be able to afford both more teachers and conditions that lower crime, so wealth could explain both. A causal claim needs alternative explanations ruled out.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION/RI.9-10.8",
+    "prompt": "Which statement, if true, most weakens the council member's argument?",
+    "passage": "A city council member argues: 'After we installed cameras at ten intersections, crashes at those intersections fell by 20% over the next year. Therefore, the cameras made those intersections safer.'",
+    "choices": [
+      "The cameras cost more than expected.",
+      "Some drivers dislike the cameras and say they feel watched at those intersections.",
+      "The cameras were installed in the spring.",
+      "Crashes also fell about 20% that year at city intersections without cameras."
+    ],
+    "correctAnswer": "Crashes also fell about 20% that year at city intersections without cameras.",
+    "explanation": "If crashes fell just as much where there were no cameras, something else (weather, less traffic, safer cars) probably caused the drop. That removes the reason for crediting the cameras. Cost, popularity, and season of installation do not touch the causal claim.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Consider the statement: 'If a student is on the honor roll, then the student has no failing grades.' Which of the following are logically guaranteed by this statement? Select all that apply.",
+    "choices": [
+      "A student with a failing grade is not on the honor roll.",
+      "Every honor-roll student has no failing grades.",
+      "A student with no failing grades is on the honor roll.",
+      "A student who is not on the honor roll has a failing grade."
+    ],
+    "correctAnswers": [
+      "A student with a failing grade is not on the honor roll.",
+      "Every honor-roll student has no failing grades."
+    ],
+    "explanation": "The second choice restates the statement. The first is its contrapositive, which is always equivalent. The third is the converse and the fourth is the inverse; neither follows, since a student could have no failing grades and still miss the honor roll.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g9_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Five talks (A, B, C, D, E) are given one at a time. Use the clues to put them in order from first to last. Clues: Talk C is third. Talk A is immediately before Talk D. Talk B is after Talk C. Talk E is after Talk B.",
+    "orderedItems": [
+      "Talk A",
+      "Talk D",
+      "Talk C",
+      "Talk B",
+      "Talk E"
+    ],
+    "explanation": "C is third. B comes after C and E comes after B, so B is fourth and E is fifth. That leaves the first two slots for A and D, with A immediately before D.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g9_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.CREDIBILITY",
+    "prompt": "An ad says, 'Nine out of ten dentists recommend our toothpaste.' Which question is MOST important to ask when evaluating this claim?",
+    "choices": [
+      "What brand of toothbrush do the dentists use?",
+      "How were the dentists chosen, and were they paid by the company?",
+      "How many tubes does the company sell each year?",
+      "Do the dentists also recommend mouthwash?"
+    ],
+    "correctAnswer": "How were the dentists chosen, and were they paid by the company?",
+    "explanation": "The number means little unless the dentists were chosen fairly and were free of influence. If the company picked or paid them, the result is biased. The other questions do not bear on whether the statistic can be trusted.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Consider this argument: 'If it snowed, then school is closed. School is closed. So it snowed.' Which argument below has the same logical flaw?",
+    "choices": [
+      "If Ana studied, then she passed. Ana passed. So Ana studied.",
+      "If Ana studied, then she passed. Ana studied. So Ana passed.",
+      "If Ana studied, then she passed. Ana did not pass. So Ana did not study.",
+      "Ana either studied or slept. Ana did not sleep. So Ana studied."
+    ],
+    "correctAnswer": "If Ana studied, then she passed. Ana passed. So Ana studied.",
+    "explanation": "The original argument sees the 'then' part come true and concludes that the 'if' part must be true (affirming the consequent). School could be closed for another reason. The first choice does the same thing: Ana could have passed without studying. The other three are valid forms.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "A researcher finds that students who took notes by hand scored higher on a quiz than students who typed notes on laptops. She concludes that writing by hand improves learning. Which statement, if true, most strengthens her conclusion?",
+    "choices": [
+      "Handwriting has been taught in schools for much longer than typing has.",
+      "Some of the laptops were new.",
+      "The students were randomly assigned to write by hand or to type.",
+      "The quiz was given on a Friday, right after a long school assembly."
+    ],
+    "correctAnswer": "The students were randomly assigned to write by hand or to type.",
+    "explanation": "Without random assignment, students who prefer handwriting might simply differ from laptop users (for example, in study habits). Random assignment makes the groups alike on average, so the note-taking method becomes the best explanation for the score difference.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "A headline says, 'New snack DOUBLES the risk of a rare illness!' The study behind it found that the risk rose from 1 in 1,000,000 people to 2 in 1,000,000 people. What is the best evaluation of the headline?",
+    "choices": [
+      "It is false, because going from 1 to 2 in a million is not really doubling.",
+      "It proves the study was faked.",
+      "It shows the snack is dangerous for most people.",
+      "It is accurate but misleading, because the risk is still extremely small."
+    ],
+    "correctAnswer": "It is accurate but misleading, because the risk is still extremely small.",
+    "explanation": "Going from 1 to 2 in a million is a doubling, so the headline is literally true. But the absolute risk went up by only one in a million. Reporting a relative change without the tiny base rate makes a small risk sound alarming.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g9_015",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "One of three students (Ana, Raj, or Li) broke a vase. Ana says, 'Raj did it.' Raj says, 'I did not do it.' Li says, 'I did not do it.' Exactly one of the three statements is true. Who broke the vase? Type the name.",
+    "correctAnswer": "Li",
+    "correctAnswers": [
+      "Li"
+    ],
+    "explanation": "Test each case. If Ana did it, Raj's and Li's statements are both true (two true). If Raj did it, Ana's and Li's statements are both true (two true). If Li did it, Ana's statement is false, Raj's is true, and Li's is false: exactly one true. So Li broke the vase.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  }
+]

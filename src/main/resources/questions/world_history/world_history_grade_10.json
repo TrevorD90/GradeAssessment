@@ -1,0 +1,437 @@
+[
+  {
+    "id": "world_history_g10_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.6.1",
+    "prompt": "Which treaty, signed in 1919, formally ended World War I between the Allies and Germany?",
+    "choices": [
+      "Treaty of Tordesillas",
+      "Treaty of Versailles",
+      "Treaty of Westphalia",
+      "Treaty of Nanjing"
+    ],
+    "correctAnswer": "Treaty of Versailles",
+    "explanation": "The Treaty of Versailles was signed in June 1919. It required Germany to accept responsibility for the war, pay reparations, give up territory and limit its military.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_002",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.8.3",
+    "prompt": "Germany's invasion of which country in September 1939 began World War II in Europe?",
+    "choices": [
+      "France",
+      "Belgium",
+      "Norway",
+      "Poland"
+    ],
+    "correctAnswer": "Poland",
+    "explanation": "Germany invaded Poland on September 1, 1939. Britain and France declared war on Germany two days later.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_003",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TEKS.WH.13E",
+    "prompt": "The leader of India's nonviolent independence movement against British rule was Mohandas ___.",
+    "correctAnswer": "Gandhi",
+    "explanation": "Mohandas (Mahatma) Gandhi led campaigns of nonviolent resistance such as the Salt March of 1930. India became independent in 1947.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.0
+    },
+    "correctAnswers": [
+      "Gandhi",
+      "Karamchand Gandhi"
+    ]
+  },
+  {
+    "id": "world_history_g10_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.9.2",
+    "prompt": "The Cold War was mainly a rivalry between which two superpowers?",
+    "choices": [
+      "The United States and the Soviet Union",
+      "Germany and Japan",
+      "Britain and France",
+      "China and India"
+    ],
+    "correctAnswer": "The United States and the Soviet Union",
+    "explanation": "From the late 1940s until about 1991, the United States and the Soviet Union competed for global influence without fighting each other directly.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.10.9.8",
+    "prompt": "Which international organization was founded in 1945 to promote peace and cooperation among nations?",
+    "choices": [
+      "The League of Nations",
+      "NATO",
+      "The United Nations",
+      "The European Union"
+    ],
+    "correctAnswer": "The United Nations",
+    "explanation": "The United Nations was founded in 1945, at the end of World War II, replacing the League of Nations.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.10.7.3",
+    "prompt": "Which is a defining feature of a totalitarian state?",
+    "choices": [
+      "Power is shared among several competing parties chosen in free elections",
+      "One party controls the government and tries to control nearly all of life",
+      "The press is free to criticize the leaders and their policies openly",
+      "Courts are independent and can overrule the ruler's decisions"
+    ],
+    "correctAnswer": "One party controls the government and tries to control nearly all of life",
+    "explanation": "Totalitarian regimes, such as Nazi Germany and the Soviet Union under Stalin, used a single party, propaganda, censorship and terror to control society.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.10.9.3",
+    "prompt": "The Marshall Plan, begun in 1948, was designed to do what?",
+    "choices": [
+      "Punish Germany with reparations",
+      "Create a military alliance of communist states in Eastern Europe",
+      "Help rebuild the economies of Western Europe after World War II",
+      "Divide Korea into two countries at the 38th parallel after the war"
+    ],
+    "correctAnswer": "Help rebuild the economies of Western Europe after World War II",
+    "explanation": "The Marshall Plan provided American economic aid to rebuild Western Europe. It was also intended to reduce the appeal of communism.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_008",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "TEKS.WH.13C",
+    "prompt": "Which of the following were events of the Cold War? Select all that apply.",
+    "choices": [
+      "The Berlin Airlift",
+      "The Cuban Missile Crisis",
+      "The Korean War",
+      "The Congress of Vienna",
+      "The Boxer Rebellion"
+    ],
+    "correctAnswers": [
+      "The Berlin Airlift",
+      "The Cuban Missile Crisis",
+      "The Korean War"
+    ],
+    "explanation": "The Berlin Airlift (1948-1949), the Korean War (1950-1953) and the Cuban Missile Crisis (1962) were Cold War confrontations. The Congress of Vienna (1814-1815) and the Boxer Rebellion (1899-1901) came earlier.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g10_009",
+    "subject": "WORLD_HISTORY",
+    "type": "CLOZE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "NY.GH.10.10",
+    "prompt": "Use the word bank: apartheid, Mandela, 1994. South Africa's system of legal racial segregation was called ___. Nelson ___ spent 27 years in prison for opposing it. He was elected president in the country's first fully democratic election in ___.",
+    "blanks": [
+      "apartheid",
+      "Mandela",
+      "1994"
+    ],
+    "explanation": "Apartheid was in force in South Africa from 1948 until the early 1990s. Nelson Mandela was released in 1990 after 27 years in prison and was elected president in 1994.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g10_010",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "NY.GH.10.10",
+    "prompt": "The Universal Declaration of Human Rights (1948) was adopted largely in response to what?",
+    "choices": [
+      "The atrocities of World War II, including the Holocaust",
+      "The collapse of the Soviet Union and the end of the Cold War",
+      "The Industrial Revolution",
+      "The Berlin Conference"
+    ],
+    "correctAnswer": "The atrocities of World War II, including the Holocaust",
+    "explanation": "After the Holocaust and other atrocities of World War II, the United Nations adopted the declaration in 1948 to state the rights to which all people are entitled.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_011",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.10.9.7",
+    "prompt": "Which event in 1989 became a symbol of the end of communist rule in Eastern Europe?",
+    "choices": [
+      "The Cuban Missile Crisis",
+      "The Suez Crisis",
+      "The partition of India",
+      "The fall of the Berlin Wall"
+    ],
+    "correctAnswer": "The fall of the Berlin Wall",
+    "explanation": "The Berlin Wall, which had divided the city since 1961, was opened in November 1989. Germany reunified in 1990 and the Soviet Union dissolved in 1991.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_012",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CA.HSS.10.11",
+    "prompt": "Which is the best example of economic globalization?",
+    "choices": [
+      "A village that grows all of its own food and trades with no outsiders at all",
+      "A phone designed in one country, assembled in another from foreign parts",
+      "A country that bans all imports to protect its own factories",
+      "A government that prints its own money for use inside its borders"
+    ],
+    "correctAnswer": "A phone designed in one country, assembled in another from foreign parts",
+    "explanation": "Globalization is the growing integration of economies through trade, investment, technology and supply chains that cross many borders.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_013",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CA.HSS.10.7.3",
+    "prompt": "A historian argues that the Treaty of Versailles was more responsible than the Great Depression for the rise of dictatorship in Germany. Which piece of evidence would most effectively challenge this interpretation?",
+    "choices": [
+      "Germany suffered severe hyperinflation in 1923, during the crisis over paying war reparations",
+      "The Treaty of Versailles required Germany to accept responsibility for World War I",
+      "Nazi support was tiny in the prosperous late 1920s and surged only after the Depression began",
+      "Many Germans bitterly resented the land and colonies that the treaty took away from Germany"
+    ],
+    "correctAnswer": "Nazi support was tiny in the prosperous late 1920s and surged only after the Depression began",
+    "explanation": "The Nazi Party won under 3 percent of the vote in 1928 but over 37 percent in July 1932, after mass unemployment set in. This timing suggests the Depression, not the treaty alone, was decisive. The other options support the historian's claim.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_014",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.1.9-12",
+    "prompt": "Arrange these events in chronological order from earliest to latest.",
+    "orderedItems": [
+      "The Treaty of Versailles is signed",
+      "World War II begins in Europe",
+      "India gains independence",
+      "The Cuban Missile Crisis",
+      "The Berlin Wall falls",
+      "The Soviet Union dissolves"
+    ],
+    "explanation": "The Treaty of Versailles was signed in 1919, World War II began in 1939, India became independent in 1947, the Cuban Missile Crisis occurred in 1962, the Berlin Wall fell in 1989 and the Soviet Union dissolved in 1991.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g10_015",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CA.HSS.10.9.3",
+    "prompt": "This statement announced which Cold War policy?",
+    "passage": "\"I believe that it must be the policy of the United States to support free peoples who are resisting attempted subjugation by armed minorities or by outside pressures.\" - President Harry S. Truman, address to the United States Congress, March 12, 1947",
+    "choices": [
+      "Appeasement of aggressors",
+      "Isolation from world affairs",
+      "Détente with the Soviet Union",
+      "Containment of the spread of communism"
+    ],
+    "correctAnswer": "Containment of the spread of communism",
+    "explanation": "The speech, known as the Truman Doctrine, committed the United States to aiding countries threatened by communist movements or Soviet pressure, the policy called containment.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_016",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.His.15.9-12",
+    "prompt": "Which of the following was a long-term cause, rather than a triggering event, of World War II in Europe?",
+    "choices": [
+      "Resentment in Germany over the terms of the Treaty of Versailles",
+      "Germany's invasion of Poland on September 1, 1939, with tanks and aircraft",
+      "Britain and France's declaration of war on Germany in September 1939",
+      "The German attack on France in 1940"
+    ],
+    "correctAnswer": "Resentment in Germany over the terms of the Treaty of Versailles",
+    "explanation": "Long-term causes build up over years; triggering events set off the conflict. Resentment of the Versailles settlement grew for two decades, whereas the invasion of Poland was the trigger and the other events followed it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_017",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "NY.GH.10.7",
+    "prompt": "Which statement best compares the independence movements in India and Algeria?",
+    "choices": [
+      "Both gained independence through votes of the United Nations",
+      "India relied mostly on nonviolent protest; Algeria fought a long war against France",
+      "Both were colonies of Belgium",
+      "India fought an eight-year war against Britain, while Algeria relied only on boycotts"
+    ],
+    "correctAnswer": "India relied mostly on nonviolent protest; Algeria fought a long war against France",
+    "explanation": "India's independence movement, led by Gandhi and the Indian National Congress, relied largely on nonviolent resistance and negotiation (1947). Algeria became independent in 1962 after an eight-year war against France.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g10_018",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.His.11.9-12",
+    "prompt": "A historian is studying how ordinary Soviet citizens experienced the 1930s. Why should a 1935 government poster showing cheerful collective farmers be used with caution?",
+    "choices": [
+      "It was produced too long ago to tell us anything useful about the 1930s",
+      "Posters are artwork, so they can never be used as historical evidence",
+      "It was made by the state to show how the government wanted life to look",
+      "It was made by a foreign government"
+    ],
+    "correctAnswer": "It was made by the state to show how the government wanted life to look",
+    "explanation": "A propaganda poster is good evidence of the message a government wanted to send, but its purpose makes it unreliable as a description of daily life. It should be compared with other sources such as letters, diaries and statistics.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  }
+]

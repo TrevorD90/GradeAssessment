@@ -1,0 +1,393 @@
+[
+  {
+    "id": "writing_g1_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.1.2.B",
+    "prompt": "What is your name\nWhich mark goes at the end?",
+    "choices": [
+      ".",
+      "?",
+      "!"
+    ],
+    "correctAnswer": "?",
+    "explanation": "A question ends with a question mark.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.1.2.A",
+    "prompt": "Which name is written the right way?",
+    "choices": [
+      "sam",
+      "kiM",
+      "Ben"
+    ],
+    "correctAnswer": "Ben",
+    "explanation": "The name of a person starts with a capital letter.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_003",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.1.1.C",
+    "prompt": "The dogs ___ fast. Which word fits?",
+    "choices": [
+      "run",
+      "runs",
+      "running"
+    ],
+    "correctAnswer": "run",
+    "explanation": "When the naming part means more than one (dogs), the verb does not end in -s: The dogs run.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_004",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.1.1.C",
+    "prompt": "Type the right word: has or have.\nShe ___ two cats.",
+    "correctAnswer": "has",
+    "correctAnswers": [
+      "has"
+    ],
+    "explanation": "Use 'has' with he, she, or it. Use 'have' with I, you, we, or they.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g1_005",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.1.1.B",
+    "prompt": "Which word names a thing?",
+    "choices": [
+      "jump",
+      "hat",
+      "happy"
+    ],
+    "correctAnswer": "hat",
+    "explanation": "A noun names a person, place, or thing. A hat is a thing.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_006",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.1.1.E",
+    "prompt": "Which sentence tells about something that already happened?",
+    "choices": [
+      "I walk to school.",
+      "I will walk to school.",
+      "I walked to school."
+    ],
+    "correctAnswer": "I walked to school.",
+    "explanation": "Many verbs end in -ed to tell about the past: walked.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_007",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.1.1.C",
+    "prompt": "Use these words: is, am.\nMy name ___ Sam. I ___ six years old.",
+    "blanks": [
+      "is",
+      "am"
+    ],
+    "explanation": "Use 'is' with one person or thing (my name is). Use 'am' with the word I (I am).",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g1_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.1.2.C",
+    "prompt": "Which date is written the right way?",
+    "choices": [
+      "May 5, 2024",
+      "May, 5 2024",
+      "May 5 2024,"
+    ],
+    "correctAnswer": "May 5, 2024",
+    "explanation": "In a date, a comma goes between the day and the year.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_009",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.1.1.G",
+    "prompt": "I wore my coat ___ it was cold. Which word fits best?",
+    "choices": [
+      "but",
+      "because",
+      "or"
+    ],
+    "correctAnswer": "because",
+    "explanation": "The word 'because' tells why something happens.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_010",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "L.1.2.D",
+    "prompt": "Which word is spelled the right way?",
+    "choices": [
+      "thay",
+      "tha",
+      "they"
+    ],
+    "correctAnswer": "they",
+    "explanation": "'They' is a common word with an unusual spelling: t-h-e-y.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_011",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.1.1.F",
+    "prompt": "Which words tell what something is like? Select all that apply.",
+    "choices": [
+      "soft",
+      "run",
+      "big",
+      "desk"
+    ],
+    "correctAnswers": [
+      "soft",
+      "big"
+    ],
+    "explanation": "Adjectives are describing words. 'Soft' and 'big' tell what something is like.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g1_012",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.1.1.D",
+    "prompt": "Tom and I play ball. Which word can take the place of 'Tom and I'?",
+    "choices": [
+      "We",
+      "They",
+      "He"
+    ],
+    "correctAnswer": "We",
+    "explanation": "The pronoun 'we' takes the place of another person and me together.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_013",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.1.2.A",
+    "prompt": "Which sentence is written the right way?",
+    "choices": [
+      "my friend Ana has a dog.",
+      "My friend Ana has a cat.",
+      "My friend ana has a cat"
+    ],
+    "correctAnswer": "My friend Ana has a cat.",
+    "explanation": "A sentence starts with a capital letter, a person's name starts with a capital letter, and a telling sentence ends with a period.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_014",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "L.1.2.C",
+    "prompt": "Which sentence uses commas the right way?",
+    "choices": [
+      "I see, red blue and green.",
+      "I see red blue, and green,",
+      "I see red, blue, and green."
+    ],
+    "correctAnswer": "I see red, blue, and green.",
+    "explanation": "Use commas to separate the words in a list of three or more things.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_015",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "W.1.3",
+    "prompt": "Put the story in order.",
+    "orderedItems": [
+      "First, Mia found a seed.",
+      "Next, she put it in the dirt.",
+      "Then, she gave it water.",
+      "Last, a flower grew."
+    ],
+    "explanation": "A story tells events in order. Words like first, next, then, and last show when things happen.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g1_016",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.1.2",
+    "prompt": "Jay is writing facts about frogs. Which sentence should he add?",
+    "choices": [
+      "Frogs can jump far.",
+      "My bike is red.",
+      "I like to eat corn."
+    ],
+    "correctAnswer": "Frogs can jump far.",
+    "explanation": "When you write about a topic, add facts that tell about that topic.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "writing_g1_017",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.1.1",
+    "prompt": "Lee writes: I like the park. Which sentence gives a reason?",
+    "choices": [
+      "My dog is brown.",
+      "It has big swings.",
+      "I go to bed at night."
+    ],
+    "correctAnswer": "It has big swings.",
+    "explanation": "When you write an opinion, give a reason that tells why you think so.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  }
+]

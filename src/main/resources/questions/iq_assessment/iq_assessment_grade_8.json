@@ -1,0 +1,362 @@
+[
+  {
+    "id": "iq_assessment_g8_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Shallow is to deep as brief is to ___",
+    "choices": [
+      "lengthy",
+      "short",
+      "quick",
+      "small"
+    ],
+    "correctAnswer": "lengthy",
+    "explanation": "Shallow and deep are opposites. The opposite of brief is lengthy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 1, 8, 27, 64, ___",
+    "correctAnswer": "125",
+    "correctAnswers": [
+      "125"
+    ],
+    "explanation": "These are the cubes 1×1×1, 2×2×2, 3×3×3, 4×4×4, so the next is 5×5×5 = 125.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g8_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? B2, E5, H8, K11, ___",
+    "choices": [
+      "M14",
+      "N14",
+      "N13",
+      "O14"
+    ],
+    "correctAnswer": "N14",
+    "explanation": "The letter moves forward 3 places each time (B, E, H, K, N) and the number goes up by 3 (2, 5, 8, 11, 14). Each number is also the letter's position in the alphabet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A solid cube sits on a table. Without mirrors and without moving, what is the greatest number of its faces you can see at one time?",
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "correctAnswer": "3",
+    "explanation": "Looking toward a corner you can see three faces that meet there. The other three faces are hidden on the far side.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Start with the sequence 2, 9, 4, 7, 5. Remove the largest number and the smallest number. Then reverse what is left. What is the result?",
+    "choices": [
+      "4, 7, 5",
+      "7, 5, 4",
+      "5, 4, 7",
+      "5, 7, 4"
+    ],
+    "correctAnswer": "5, 7, 4",
+    "explanation": "Removing 9 and 2 leaves 4, 7, 5. Reversed, that is 5, 7, 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Choose the word that best completes the sentence: The scientist was ___ about the surprising result, so she repeated the experiment three times before accepting it.",
+    "choices": [
+      "skeptical",
+      "delighted",
+      "careless",
+      "certain"
+    ],
+    "correctAnswer": "skeptical",
+    "explanation": "Repeating the experiment before accepting the result shows doubt, which is what skeptical means.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.QUANT",
+    "prompt": "A number machine uses one rule: 2 → 5, 3 → 10, 4 → 17. What does the machine give for 6?",
+    "choices": [
+      "26",
+      "37",
+      "35",
+      "41"
+    ],
+    "correctAnswer": "37",
+    "explanation": "The rule is multiply the number by itself and add 1: 2×2+1 = 5, 3×3+1 = 10, 4×4+1 = 17, so 6×6+1 = 37. (26 is the result for 5.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "Which conclusion is valid?",
+    "choices": [
+      "No employees at the school are robots",
+      "All robots are employees",
+      "Some employees are not robots",
+      "Some robots are teachers"
+    ],
+    "correctAnswer": "Some employees are not robots",
+    "passage": "No teachers are robots. Some employees at this school are teachers.",
+    "explanation": "The employees who are teachers cannot be robots, so some employees are not robots. Nothing is known about the employees who are not teachers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Three gears are meshed in a row, so the first touches the second and the second touches the third. The first gear turns clockwise. Which way does the third gear turn?",
+    "choices": [
+      "Counterclockwise",
+      "It cannot turn",
+      "It depends on the size of the gears",
+      "Clockwise"
+    ],
+    "correctAnswer": "Clockwise",
+    "explanation": "Meshed gears turn in opposite directions. The second gear turns counterclockwise, so the third turns clockwise again.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Read: M, 3, X, 8, B, 5. Build a new sequence that alternates number, letter, number, letter, number, letter. Use the numbers from smallest to largest and the letters in alphabetical order.",
+    "orderedItems": [
+      "3",
+      "B",
+      "5",
+      "M",
+      "8",
+      "X"
+    ],
+    "explanation": "The numbers in order are 3, 5, 8 and the letters in order are B, M, X. Alternating them gives 3, B, 5, M, 8, X.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g8_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "How are freedom and justice alike?",
+    "choices": [
+      "Both are ideals that people value",
+      "Both are laws written by governments",
+      "Both can be measured exactly",
+      "Both mean the same thing"
+    ],
+    "correctAnswer": "Both are ideals that people value",
+    "explanation": "Freedom and justice are different ideas, but both are abstract ideals or principles that people and societies value.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.QUANT",
+    "prompt": "Every circle has the same value and every square has the same value. Two circles and one square total 14. One circle and two squares total 13. What is the value of one circle?",
+    "correctAnswer": "5",
+    "correctAnswers": [
+      "5",
+      "five"
+    ],
+    "explanation": "Adding both facts: 3 circles + 3 squares = 27, so one circle + one square = 9. Two circles + one square = 14, so one circle = 14 − 9 = 5 (and a square is 4).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g8_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.FLUID",
+    "prompt": "All glibs are tarks. No tarks are moops. Which of these statements MUST be true? Select all that apply.",
+    "choices": [
+      "No glibs are moops",
+      "All tarks are glibs",
+      "No moops are glibs",
+      "Some tarks are moops"
+    ],
+    "correctAnswers": [
+      "No glibs are moops",
+      "No moops are glibs"
+    ],
+    "explanation": "Every glib is a tark and no tark is a moop, so no glib can be a moop, which also means no moop is a glib. 'All tarks are glibs' reverses the first rule, and 'Some tarks are moops' contradicts the second.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g8_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A large cube is painted on the outside and then cut into 64 equal small cubes (4 by 4 by 4). How many of the small cubes have NO paint on them?",
+    "choices": [
+      "4",
+      "8",
+      "16",
+      "24"
+    ],
+    "correctAnswer": "8",
+    "explanation": "The unpainted cubes are the ones completely inside. Removing the outer layer from a 4 by 4 by 4 cube leaves a 2 by 2 by 2 block, which is 8 cubes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g8_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Spell the word COMPUTER backward. Then remove all the vowels. What letters are left, in order?",
+    "choices": [
+      "CMPTR",
+      "RTMPC",
+      "RTPMC",
+      "RPTMC"
+    ],
+    "correctAnswer": "RTPMC",
+    "explanation": "COMPUTER backward is R, E, T, U, P, M, O, C. Removing the vowels E, U and O leaves R, T, P, M, C.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  }
+]

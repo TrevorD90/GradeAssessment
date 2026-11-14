@@ -1,0 +1,336 @@
+[
+  {
+    "id": "critical_thinking_g3_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Which sentence is an opinion?",
+    "choices": [
+      "A week has seven days.",
+      "Soccer is more fun than swimming.",
+      "Ice melts when it gets warm.",
+      "A triangle has three sides."
+    ],
+    "correctAnswer": "Soccer is more fun than swimming.",
+    "explanation": "An opinion tells what someone thinks or feels and cannot be proved. 'More fun' is a feeling. The other sentences are facts that can be checked.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "All the books on the top shelf are about animals. The book 'Wild Cats' is on the top shelf. What must be true?",
+    "choices": [
+      "'Wild Cats' is about animals.",
+      "'Wild Cats' is the longest book.",
+      "All animal books are on the top shelf.",
+      "'Wild Cats' is on the bottom shelf."
+    ],
+    "correctAnswer": "'Wild Cats' is about animals.",
+    "explanation": "Every book on the top shelf is about animals, and 'Wild Cats' is on that shelf, so it must be about animals. The clue does not say that every animal book is on the top shelf.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "Mia comes inside. Her cheeks are red, she is breathing hard, and she is holding a soccer ball. What most likely happened?",
+    "choices": [
+      "She just woke up.",
+      "She was reading a book.",
+      "She was eating dinner.",
+      "She was playing soccer."
+    ],
+    "correctAnswer": "She was playing soccer.",
+    "explanation": "Red cheeks and hard breathing show she was running or playing hard, and the soccer ball tells us what game. The best conclusion is that she was playing soccer.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Finger is to hand as toe is to ___. Type the missing word.",
+    "correctAnswer": "foot",
+    "correctAnswers": [
+      "foot"
+    ],
+    "explanation": "A finger is a part of a hand. In the same way, a toe is a part of a foot.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g3_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Tom wants to know if he needs a coat today. Which fact helps him the most?",
+    "choices": [
+      "What color his coat is",
+      "What he ate for breakfast",
+      "How cold it is outside",
+      "How many coats his sister has"
+    ],
+    "correctAnswer": "How cold it is outside",
+    "explanation": "A coat is for staying warm, so the temperature outside is the fact that matters. The other facts have nothing to do with whether he will be cold.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "A class must pick one game for recess. Which is the best reason to pick kickball?",
+    "choices": [
+      "Most of the class voted for kickball.",
+      "Kickball is Jake's favorite game.",
+      "Jake said 'kickball' first.",
+      "Jake's brother plays kickball."
+    ],
+    "correctAnswer": "Most of the class voted for kickball.",
+    "explanation": "The game is for the whole class, so a good reason should be about the whole class. A class vote shows what most students want. The other reasons are only about Jake.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Four kids ran a race. Use the clues to put them in order from first place to last place. Clues: Uma finished right after Rio. Sky finished before Tam. Tam finished before Rio.",
+    "orderedItems": [
+      "Sky",
+      "Tam",
+      "Rio",
+      "Uma"
+    ],
+    "explanation": "Sky is before Tam, and Tam is before Rio, so three of the kids go Sky, Tam, Rio. Uma finished right after Rio, so Uma is last. The order is Sky, Tam, Rio, Uma.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g3_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "It is the middle of the day. The school parking lot is empty and all the classroom lights are off. What is the most reasonable conclusion?",
+    "choices": [
+      "There is a fire drill.",
+      "School is closed today.",
+      "Everyone is in the gym.",
+      "Lunch has just started."
+    ],
+    "correctAnswer": "School is closed today.",
+    "explanation": "During a fire drill, a gym event, or lunch, teachers' cars would still be in the parking lot. An empty lot and dark rooms together fit best with school being closed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Which sentences are opinions? Select all that apply.",
+    "choices": [
+      "Dogs are the best pets.",
+      "A spider has eight legs.",
+      "Summer is too hot.",
+      "There are twelve months in a year.",
+      "Math is the easiest subject."
+    ],
+    "correctAnswers": [
+      "Dogs are the best pets.",
+      "Summer is too hot.",
+      "Math is the easiest subject."
+    ],
+    "explanation": "'Best', 'too hot', and 'easiest' tell what someone thinks, and other people could disagree. The number of legs on a spider and months in a year are facts that can be checked.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g3_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Every time Kai eats strawberries, he gets itchy bumps. He does not get bumps when he eats other fruit. What is the best conclusion?",
+    "choices": [
+      "All kinds of fruit must be making Kai itchy.",
+      "Kai never eats any fruit at all.",
+      "His bumps must come from playing outside.",
+      "Strawberries may be causing Kai's bumps."
+    ],
+    "correctAnswer": "Strawberries may be causing Kai's bumps.",
+    "explanation": "The bumps show up with strawberries and not with other fruit. That pattern points to strawberries as the likely cause. It cannot be all fruit, because other fruit gives him no bumps.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Class rule: If a student finishes the book, the student gets a star. Lee did not get a star. What do we know?",
+    "choices": [
+      "Lee finished the book.",
+      "Lee does not like to read any books.",
+      "Lee did not finish the book.",
+      "Lee will get a star tomorrow."
+    ],
+    "correctAnswer": "Lee did not finish the book.",
+    "explanation": "If Lee had finished the book, the rule says Lee would have a star. Lee has no star, so Lee cannot have finished the book.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Ava, Ben, and Cho each like a different fruit: apple, grape, or pear. Ava does not like apples or grapes. Ben does not like apples. Which fruit does Ben like?",
+    "choices": [
+      "apple",
+      "grape",
+      "pear",
+      "We cannot tell."
+    ],
+    "correctAnswer": "grape",
+    "explanation": "Ava does not like apples or grapes, so Ava likes pears. Ben does not like apples, and pear is taken, so Ben likes grapes. (That leaves apple for Cho.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "All the kids on the Red Team wear red shirts. Sam is wearing a red shirt. What can we say?",
+    "choices": [
+      "Sam is on the Red Team for sure, because he wears red.",
+      "Sam is not on the Red Team.",
+      "Sam might be on the Red Team, but we cannot be sure.",
+      "Sam does not like red."
+    ],
+    "correctAnswer": "Sam might be on the Red Team, but we cannot be sure.",
+    "explanation": "The clue says everyone on the Red Team wears red. It does not say that everyone in red is on the team. Sam could be on the team or could just own a red shirt.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g3_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "CLOZE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Word bank: night, wet, small, fast. Use two of the words to finish the sentence: Day is to ___ as dry is to ___.",
+    "blanks": [
+      "night",
+      "wet"
+    ],
+    "explanation": "Day and night are opposites. To keep the same pattern, dry needs its opposite, which is wet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.0
+    }
+  }
+]

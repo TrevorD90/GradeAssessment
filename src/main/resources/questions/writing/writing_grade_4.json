@@ -1,0 +1,412 @@
+[
+  {
+    "id": "writing_g4_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.4.1.G",
+    "prompt": "Which sentence uses the correct word?",
+    "choices": [
+      "They left their coats on the bus.",
+      "They left there coats on the bus.",
+      "They left they're coats on the bus.",
+      "They left thier coats on the bus."
+    ],
+    "correctAnswer": "They left their coats on the bus.",
+    "explanation": "'Their' shows ownership. 'There' names a place, and 'they're' means 'they are.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.4.1.E",
+    "prompt": "Which group of words is the prepositional phrase in this sentence?\nThe kitten slept under the porch.",
+    "choices": [
+      "The kitten",
+      "under the porch",
+      "slept under",
+      "kitten slept"
+    ],
+    "correctAnswer": "under the porch",
+    "explanation": "A prepositional phrase begins with a preposition (under) and ends with a noun (porch).",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_003",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.4.1.G",
+    "prompt": "Type the correct word (to, too, or two): This soup is ___ hot to eat.",
+    "correctAnswer": "too",
+    "correctAnswers": [
+      "too"
+    ],
+    "explanation": "'Too' means 'more than enough' or 'also.' 'To' shows direction, and 'two' is the number 2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g4_004",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.4.2.A",
+    "prompt": "Which sentence uses capitalization correctly?",
+    "choices": [
+      "Last tuesday, Aunt Rosa drove us to the Museum of Science.",
+      "Last Tuesday, aunt Rosa walked us to the Museum of Science.",
+      "Last Tuesday, Aunt Rosa took us to the Museum of Science.",
+      "Last Tuesday, Aunt Rosa brought us to the museum of science."
+    ],
+    "correctAnswer": "Last Tuesday, Aunt Rosa took us to the Museum of Science.",
+    "explanation": "Capitalize days of the week, family titles used with a name (Aunt Rosa), and the important words in the name of a specific place.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_005",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.4.1.B",
+    "prompt": "Which sentence uses the past progressive tense?",
+    "choices": [
+      "I walked to school.",
+      "I will walk to school.",
+      "I walk to school.",
+      "I was walking to school."
+    ],
+    "correctAnswer": "I was walking to school.",
+    "explanation": "The past progressive is formed with 'was' or 'were' plus a verb ending in -ing. It shows an action that was in progress in the past.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_006",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "W.4.5",
+    "prompt": "Put the steps of the writing process in order.",
+    "orderedItems": [
+      "Brainstorm ideas",
+      "Write a first draft",
+      "Revise to improve ideas and organization",
+      "Edit to fix spelling and punctuation",
+      "Publish the final copy"
+    ],
+    "explanation": "Writers plan first, then draft, revise the ideas and organization, edit for conventions, and finally publish.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g4_007",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.1.F",
+    "prompt": "Which of these is a run-on sentence?",
+    "choices": [
+      "We went to the lake we swam all day.",
+      "We went to the lake and swam all day.",
+      "After we went to the lake, we ate lunch.",
+      "We went to the lake, and we swam all day."
+    ],
+    "correctAnswer": "We went to the lake we swam all day.",
+    "explanation": "A run-on sentence joins two complete sentences with no punctuation or conjunction between them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.2.C",
+    "prompt": "Which sentence uses a comma correctly?",
+    "choices": [
+      "I wanted to play outside but, it started to rain.",
+      "I wanted to play outside, but it started to rain.",
+      "I wanted, to play outside but it started to rain.",
+      "I wanted to play, outside but it started to rain."
+    ],
+    "correctAnswer": "I wanted to play outside, but it started to rain.",
+    "explanation": "In a compound sentence, put a comma before the coordinating conjunction (and, but, or, so) that joins the two complete thoughts.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_009",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.1.D",
+    "prompt": "Which phrase puts the adjectives in the correct order?",
+    "choices": [
+      "red three small apples",
+      "small red three apples",
+      "three small red apples",
+      "red small three apples"
+    ],
+    "correctAnswer": "three small red apples",
+    "explanation": "Adjectives follow a conventional order: number, then size, then color, before the noun.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_010",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.1.A",
+    "prompt": "Use each word once: who, which, whose.\nThe girl ___ won the race is my cousin. The boy ___ dog ran away was sad. My bike, ___ is blue, has a flat tire.",
+    "blanks": [
+      "who",
+      "whose",
+      "which"
+    ],
+    "explanation": "'Who' refers to people, 'whose' shows possession, and 'which' refers to things.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g4_011",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.1.C",
+    "prompt": "Which word completes the sentence to show that wearing a helmet is required?\nYou ___ wear a helmet when you ride your bike.",
+    "choices": [
+      "might",
+      "could",
+      "may",
+      "must"
+    ],
+    "correctAnswer": "must",
+    "explanation": "Modal auxiliaries show different conditions. 'Must' shows that something is necessary; 'might,' 'could,' and 'may' show possibility or permission.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_012",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.2.B",
+    "prompt": "Which sentence is punctuated correctly?",
+    "choices": [
+      "\"I found my shoe,\" said Carlos.",
+      "\"I found my shoe\" said Carlos.",
+      "\"I found my shoe\", said Carlos.",
+      "I found my shoe, \"said Carlos.\""
+    ],
+    "correctAnswer": "\"I found my shoe,\" said Carlos.",
+    "explanation": "Put quotation marks around the speaker's exact words. When the speaker tag follows a statement, a comma goes inside the closing quotation mark.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_013",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.4.1.F",
+    "prompt": "Which of these are sentence fragments (not complete sentences)? Select all that apply.",
+    "choices": [
+      "Because the bus was late.",
+      "The dog barked.",
+      "Ran all the way home.",
+      "Maya laughed at the joke.",
+      "The tall man in the blue hat."
+    ],
+    "correctAnswers": [
+      "Because the bus was late.",
+      "Ran all the way home.",
+      "The tall man in the blue hat."
+    ],
+    "explanation": "A complete sentence has a subject and a predicate and expresses a complete thought. A fragment is missing one of these.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g4_014",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.4.2.C",
+    "prompt": "Which word or phrase best fills the blank in sentence 3?",
+    "passage": "(1) Owls are excellent night hunters. (2) Their large eyes help them see in dim light. (3) ______, their soft feathers let them fly without making a sound.",
+    "choices": [
+      "However",
+      "In addition",
+      "For example",
+      "Instead"
+    ],
+    "correctAnswer": "In addition",
+    "explanation": "Sentence 3 adds a second reason that owls are good hunters, so a linking phrase that shows addition is needed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_015",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.4.2.E",
+    "prompt": "Which sentence is the best concluding sentence for this paragraph?",
+    "passage": "Recycling helps our town in many ways. It keeps trash out of the landfill. It saves trees because old paper can be made into new paper. It also saves energy.",
+    "choices": [
+      "Landfills smell bad.",
+      "Paper is made from trees.",
+      "For these reasons, everyone in town should recycle.",
+      "My family puts our blue recycling bin out at the curb every Tuesday."
+    ],
+    "correctAnswer": "For these reasons, everyone in town should recycle.",
+    "explanation": "A concluding sentence follows from the information presented and sums up the main idea of the paragraph.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_016",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.4.3.A",
+    "prompt": "Which sentence uses the most precise words?",
+    "choices": [
+      "The bird went down to the ground and got some kind of animal.",
+      "The bird moved and took a thing.",
+      "The hawk did something to the mouse.",
+      "The hawk swooped down and snatched the mouse."
+    ],
+    "correctAnswer": "The hawk swooped down and snatched the mouse.",
+    "explanation": "Precise nouns (hawk, mouse) and strong verbs (swooped, snatched) tell the reader exactly what happened.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g4_017",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.4.1.F",
+    "prompt": "What is the best way to correct this run-on sentence?\nThe movie was long I stayed awake.",
+    "choices": [
+      "The movie was long, but I stayed awake.",
+      "The movie was long, I stayed awake.",
+      "The movie was long but, I stayed awake.",
+      "The movie was long. But stayed awake."
+    ],
+    "correctAnswer": "The movie was long, but I stayed awake.",
+    "explanation": "Fix a run-on by joining the two complete thoughts with a comma and a coordinating conjunction. A comma alone is not enough, and each part needs a subject.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  }
+]

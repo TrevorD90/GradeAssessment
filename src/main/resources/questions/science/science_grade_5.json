@@ -1,0 +1,434 @@
+[
+  {
+    "id": "science_g5_001",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "5-PS2-1",
+    "prompt": "What force pulls objects toward the center of Earth?",
+    "choices": [
+      "Magnetism",
+      "Friction",
+      "Gravity",
+      "Electricity"
+    ],
+    "correctAnswer": "Gravity",
+    "explanation": "Earth's gravity pulls objects down, toward the center of the planet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "5-LS2-1",
+    "prompt": "In a food chain, which organism is a producer?",
+    "choices": [
+      "Grass",
+      "Rabbit",
+      "Hawk",
+      "Mushroom"
+    ],
+    "correctAnswer": "Grass",
+    "explanation": "Producers, such as grass and other plants, make their own food. Rabbits and hawks are consumers and mushrooms are decomposers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_003",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "5-ESS2-2",
+    "prompt": "Where is most of Earth's fresh water found?",
+    "choices": [
+      "Rivers",
+      "Lakes",
+      "Clouds",
+      "Glaciers and ice caps"
+    ],
+    "correctAnswer": "Glaciers and ice caps",
+    "explanation": "Nearly all of Earth's water is salty ocean water. Most of the fresh water is frozen in glaciers and ice caps, and most of the rest is groundwater.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_004",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "5-ESS2-1",
+    "prompt": "The layer of gases (air) that surrounds Earth is called the ___.",
+    "correctAnswer": "atmosphere",
+    "correctAnswers": [
+      "atmosphere",
+      "the atmosphere"
+    ],
+    "explanation": "The atmosphere is the layer of air around Earth. It interacts with the geosphere (rock), hydrosphere (water), and biosphere (living things).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g5_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "5-ESS1-1",
+    "prompt": "Why does the Sun look so much bigger and brighter than other stars?",
+    "choices": [
+      "The Sun is the largest star in the universe",
+      "The Sun is much closer to Earth than other stars",
+      "Other stars do not give off light",
+      "Other stars shine only in winter"
+    ],
+    "correctAnswer": "The Sun is much closer to Earth than other stars",
+    "explanation": "The Sun is a star of ordinary size. It appears larger and brighter because it is far closer to Earth than any other star.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_006",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "5-PS1-1",
+    "prompt": "Sugar is stirred into water until it can no longer be seen. The water tastes sweet. What happened to the sugar?",
+    "choices": [
+      "It was destroyed and no longer exists at all",
+      "It broke apart into particles too small to see",
+      "It turned into water molecules and became water",
+      "It floated away into the air"
+    ],
+    "correctAnswer": "It broke apart into particles too small to see",
+    "explanation": "Matter is made of particles too small to be seen. The sugar dissolved into tiny particles spread through the water; it is still there, which is why the water tastes sweet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_007",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "5-PS1-4",
+    "prompt": "A student mixes baking soda and vinegar in a cup. Bubbles of a gas form that was not there before. What does this show?",
+    "choices": [
+      "The vinegar only changed shape",
+      "The baking soda melted",
+      "A new substance formed",
+      "No change happened"
+    ],
+    "correctAnswer": "A new substance formed",
+    "explanation": "When some substances are mixed, new substances with different properties form. Baking soda and vinegar react to produce carbon dioxide gas, which makes the bubbles.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_008",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "5-PS3-1",
+    "prompt": "A rabbit gets energy by eating grass. Where did the energy stored in the grass first come from?",
+    "choices": [
+      "The soil",
+      "The water",
+      "The rabbit",
+      "The Sun"
+    ],
+    "correctAnswer": "The Sun",
+    "explanation": "Plants capture energy from sunlight to make their food. The energy in animals' food was once energy from the Sun.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_009",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "5-ESS2-1",
+    "prompt": "Which are examples of the hydrosphere (water) changing the geosphere (rock and land)? Select all that apply.",
+    "choices": [
+      "A river carving a canyon",
+      "Ocean waves wearing away a cliff",
+      "A bird building a nest in a tree",
+      "Wind blowing clouds across the sky"
+    ],
+    "correctAnswers": [
+      "A river carving a canyon",
+      "Ocean waves wearing away a cliff"
+    ],
+    "explanation": "Rivers and ocean waves are part of the hydrosphere, and they wear away rock and land, which are part of the geosphere.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g5_010",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "5-LS2-1",
+    "prompt": "Word bank: producers, consumers, decomposers. Fill in the blanks. Plants are ___ because they make their own food. Fungi and bacteria that break down dead organisms are ___.",
+    "blanks": [
+      "producers",
+      "decomposers"
+    ],
+    "explanation": "Producers make their own food. Decomposers break down dead plants and animals and return materials to the soil.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g5_011",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "5-LS2-1",
+    "prompt": "Put these in order to show how energy flows through a food chain, starting with the original source of energy.",
+    "orderedItems": [
+      "Sun",
+      "Grass",
+      "Grasshopper",
+      "Frog",
+      "Hawk"
+    ],
+    "explanation": "Energy from the Sun is captured by grass. The grasshopper eats the grass, the frog eats the grasshopper, and the hawk eats the frog.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g5_012",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "5-ESS1-2",
+    "prompt": "What causes day and night on Earth?",
+    "choices": [
+      "Earth rotates (spins) on its axis",
+      "Earth orbits the Sun once a year",
+      "The Sun orbits Earth once a day",
+      "The Moon blocks the Sun's light at night"
+    ],
+    "correctAnswer": "Earth rotates (spins) on its axis",
+    "explanation": "Earth spins on its axis about once every 24 hours. The side facing the Sun has day and the side facing away has night.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_013",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "5-PS1-2",
+    "prompt": "What mass of salt water should she find?",
+    "passage": "A student poured 200 grams of water into a cup and measured out 15 grams of salt. She stirred the salt into the water until it could no longer be seen. Then she measured the mass of the salt water (not counting the cup).",
+    "choices": [
+      "185 grams",
+      "200 grams",
+      "215 grams",
+      "230 grams"
+    ],
+    "correctAnswer": "215 grams",
+    "explanation": "Matter is conserved when substances are mixed. 200 grams of water plus 15 grams of salt make 215 grams of salt water, even though the salt can no longer be seen.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_014",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "5-LS1-1",
+    "prompt": "A small seed grows into a large tree. Where does most of the material that makes up the tree's wood come from?",
+    "choices": [
+      "The soil",
+      "Air and water",
+      "Sunlight turned into wood",
+      "Fertilizer"
+    ],
+    "correctAnswer": "Air and water",
+    "explanation": "Plants get the materials they need for growth chiefly from air (carbon dioxide) and water. Sunlight provides the energy, but it is not matter, and only a small amount of material comes from soil.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_015",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "5-ESS1-2",
+    "prompt": "Why was the shadow shortest at noon?",
+    "passage": "On a sunny day a student measured the shadow of a 1-meter stick standing straight up. 9:00 a.m.: the shadow was 150 cm long and pointed west. 12:00 noon: the shadow was 40 cm long. 3:00 p.m.: the shadow was 150 cm long and pointed east.",
+    "choices": [
+      "The Sun is closest to Earth at noon",
+      "The stick shrank in the heat",
+      "The Sun gives off less light at noon",
+      "The Sun was highest in the sky at noon"
+    ],
+    "correctAnswer": "The Sun was highest in the sky at noon",
+    "explanation": "As Earth rotates, the Sun appears to move across the sky. Shadows are longest when the Sun is low (morning and afternoon) and shortest when the Sun is highest, around noon.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_016",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "5-PS1-3",
+    "prompt": "A student has three unlabeled white powders: salt, sugar, and baking soda. Which test would best identify the baking soda?",
+    "choices": [
+      "Adding vinegar to each powder to see which one bubbles",
+      "Looking at the color of each powder",
+      "Weighing one spoonful of each powder",
+      "Pouring each powder into a different cup"
+    ],
+    "correctAnswer": "Adding vinegar to each powder to see which one bubbles",
+    "explanation": "Materials can be identified by their properties. Baking soda fizzes when vinegar is added, but salt and sugar do not. All three powders are white, so color does not help.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_017",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "5-LS2-1",
+    "prompt": "If all the decomposers in a forest disappeared, what would most likely happen?",
+    "choices": [
+      "Plants would grow faster than before, because nothing would be breaking them down",
+      "Animals would stop needing food, because there would be no decomposers to compete with",
+      "Dead plants and animals would pile up, and nutrients would not return to the soil",
+      "The forest would receive more sunlight"
+    ],
+    "correctAnswer": "Dead plants and animals would pile up, and nutrients would not return to the soil",
+    "explanation": "Decomposers break down dead organisms and wastes and return materials to the soil for plants to use. Without them, matter would stop cycling through the ecosystem.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g5_018",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "5-ESS1-2",
+    "prompt": "Why do we see different constellations in the night sky in summer than in winter?",
+    "choices": [
+      "The stars themselves move around Earth once each year, so different stars are above us in each season",
+      "Earth orbits the Sun, so the night side of Earth faces different parts of space during the year",
+      "Earth stops rotating in winter",
+      "Summer constellations burn out before winter and new ones form each spring"
+    ],
+    "correctAnswer": "Earth orbits the Sun, so the night side of Earth faces different parts of space during the year",
+    "explanation": "As Earth orbits the Sun over a year, the night side of Earth faces different directions in space, so different stars are visible in different seasons.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  }
+]

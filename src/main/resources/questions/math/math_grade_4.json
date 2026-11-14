@@ -1,0 +1,382 @@
+[
+  {
+    "id": "math_g4_001",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "4.NBT.A.2",
+    "prompt": "Which number is 'forty thousand, three hundred six' in standard form?",
+    "choices": [
+      "43,006",
+      "4,306",
+      "40,306",
+      "40,360"
+    ],
+    "correctAnswer": "40,306",
+    "explanation": "Forty thousand is 40,000. Three hundred six is 306. Together that is 40,306.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_002",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "4.OA.B.4",
+    "prompt": "Which number is a factor of 24?",
+    "choices": [
+      "8",
+      "5",
+      "9",
+      "48"
+    ],
+    "correctAnswer": "8",
+    "explanation": "A factor divides a number evenly. 24 divided by 8 = 3 with nothing left over, so 8 is a factor. 48 is a multiple of 24, not a factor.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_003",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "4.NBT.B.4",
+    "prompt": "What is 3,205 + 1,897? Write your answer as a number.",
+    "correctAnswer": "5102",
+    "correctAnswers": [
+      "5102",
+      "5,102"
+    ],
+    "explanation": "Add place by place and regroup: 3,205 + 1,897 = 5,102. Check by estimating: 3,200 + 1,900 = 5,100.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g4_004",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "4.NF.B.3a",
+    "prompt": "What is 1/4 + 2/4?",
+    "choices": [
+      "3/8",
+      "3/16",
+      "2/4",
+      "3/4"
+    ],
+    "correctAnswer": "3/4",
+    "explanation": "When fractions have the same denominator, add the numerators and keep the denominator: 1 + 2 = 3, so the sum is 3/4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_005",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "4.G.A.1",
+    "prompt": "An angle measures 120 degrees. What kind of angle is it?",
+    "choices": [
+      "Acute",
+      "Obtuse",
+      "Right",
+      "Straight"
+    ],
+    "correctAnswer": "Obtuse",
+    "explanation": "An obtuse angle is bigger than 90 degrees and smaller than 180 degrees. 120 is between 90 and 180.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_006",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "4.NBT.B.5",
+    "prompt": "What is 34 x 6?",
+    "choices": [
+      "184",
+      "204",
+      "194",
+      "2,004"
+    ],
+    "correctAnswer": "204",
+    "explanation": "Break 34 apart: 30 x 6 = 180 and 4 x 6 = 24. Then 180 + 24 = 204.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_007",
+    "subject": "MATH",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "4.G.A.2",
+    "prompt": "Which shapes have at least one pair of parallel sides? Select all that apply.",
+    "choices": [
+      "Triangle",
+      "Rectangle",
+      "Trapezoid",
+      "Circle",
+      "Parallelogram"
+    ],
+    "correctAnswers": [
+      "Rectangle",
+      "Trapezoid",
+      "Parallelogram"
+    ],
+    "explanation": "A rectangle and a parallelogram each have 2 pairs of parallel sides, and a trapezoid has a pair of parallel sides. A triangle's sides always meet, and a circle has no straight sides.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g4_008",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "4.NF.A.2",
+    "prompt": "Which comparison is true?",
+    "choices": [
+      "2/3 < 3/5",
+      "2/3 = 3/5",
+      "2/3 < 1/2",
+      "2/3 > 3/5"
+    ],
+    "correctAnswer": "2/3 > 3/5",
+    "explanation": "Use a common denominator of 15: 2/3 = 10/15 and 3/5 = 9/15. Since 10/15 is more than 9/15, 2/3 > 3/5.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_009",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "4.NBT.B.6",
+    "prompt": "What is 96 divided by 4? Write your answer as a number.",
+    "correctAnswer": "24",
+    "correctAnswers": [
+      "24"
+    ],
+    "explanation": "80 divided by 4 = 20 and 16 divided by 4 = 4. 20 + 4 = 24. Check: 24 x 4 = 96.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g4_010",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "4.NF.C.6",
+    "prompt": "Which decimal is equal to 7/10?",
+    "choices": [
+      "0.7",
+      "0.07",
+      "7.10",
+      "7.0"
+    ],
+    "correctAnswer": "0.7",
+    "explanation": "7/10 means seven tenths. The first place after the decimal point is the tenths place, so 7/10 = 0.7.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_011",
+    "subject": "MATH",
+    "type": "CLOZE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "4.OA.C.5",
+    "prompt": "A pattern follows the rule 'add 7'. It starts 3, 10, 17. The next two numbers are ___ and ___.",
+    "blanks": [
+      "24",
+      "31"
+    ],
+    "explanation": "Keep adding 7: 17 + 7 = 24, and 24 + 7 = 31.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g4_012",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "4.OA.A.3",
+    "prompt": "A school orders 6 boxes of pencils with 48 pencils in each box. The pencils are shared equally among 9 classes. How many pencils does each class get?",
+    "choices": [
+      "288",
+      "54",
+      "32",
+      "24"
+    ],
+    "correctAnswer": "32",
+    "explanation": "First find the total: 6 x 48 = 288 pencils. Then share them: 288 divided by 9 = 32 pencils for each class.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_013",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "4.NF.B.4c",
+    "prompt": "Each lap around a track is 3/4 mile. Rosa runs 5 laps. How far does she run?",
+    "choices": [
+      "5 3/4 miles",
+      "15/20 mile",
+      "3 3/4 miles",
+      "8/4 miles"
+    ],
+    "correctAnswer": "3 3/4 miles",
+    "explanation": "5 x 3/4 = 15/4. Since 12/4 = 3 wholes, 15/4 = 3 and 3/4 miles.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_014",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "4.MD.A.3",
+    "prompt": "A rectangular garden has an area of 84 square feet. Its width is 7 feet. What is its length in feet? Write your answer as a number.",
+    "correctAnswer": "12",
+    "correctAnswers": [
+      "12",
+      "12 feet",
+      "12 ft",
+      "12ft"
+    ],
+    "explanation": "Area = length x width, so length = 84 divided by 7 = 12 feet. Check: 12 x 7 = 84.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g4_015",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "4.MD.C.7",
+    "prompt": "A right angle is split into two smaller angles. One of them measures 35 degrees. What is the measure of the other angle?",
+    "choices": [
+      "55 degrees",
+      "145 degrees",
+      "65 degrees",
+      "35 degrees"
+    ],
+    "correctAnswer": "55 degrees",
+    "explanation": "A right angle is 90 degrees. The two parts add up to 90, so the other angle is 90 - 35 = 55 degrees.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g4_016",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "4.NF.C.7",
+    "prompt": "Put these decimals in order from least to greatest.",
+    "orderedItems": [
+      "0.09",
+      "0.4",
+      "0.45",
+      "0.5"
+    ],
+    "explanation": "Write them all as hundredths: 0.09, 0.40, 0.45, 0.50. Now compare 9, 40, 45 and 50 hundredths.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.0
+    }
+  }
+]

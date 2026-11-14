@@ -1,0 +1,336 @@
+[
+  {
+    "id": "critical_thinking_g6_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "A student asks 5 of her friends and finds they all like dogs more than cats. She concludes, 'Everyone likes dogs more than cats.' What is the main weakness in her reasoning?",
+    "choices": [
+      "Surveys can never be trusted.",
+      "Five friends are too few, and too much alike, to stand for everyone.",
+      "She should have asked about more kinds of animals, like birds and fish.",
+      "Dogs really are more popular than cats."
+    ],
+    "correctAnswer": "Five friends are too few, and too much alike, to stand for everyone.",
+    "explanation": "A conclusion about 'everyone' needs a large and varied sample. Five friends are a tiny group, and friends often share tastes. This is a hasty generalization.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "In an elementary school, students with bigger shoe sizes got higher scores on a reading test. Tim says, 'Big feet make you a better reader.' Which is a better explanation?",
+    "choices": [
+      "Reading lots of books every day makes students' feet grow faster than usual.",
+      "Shoes help students see the words.",
+      "The test was about shoes.",
+      "Older students have bigger feet and more years of reading practice."
+    ],
+    "correctAnswer": "Older students have bigger feet and more years of reading practice.",
+    "explanation": "Shoe size and reading score rise together because both go up with age. Older students have bigger feet and more reading practice. Age is a hidden third factor, so feet do not cause good reading.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "No student on the chess team is in the band. Rosa is on the chess team. What must be true?",
+    "choices": [
+      "Rosa is not in the band.",
+      "Rosa is in the band.",
+      "Everyone who is not in the band is on the chess team.",
+      "Rosa used to be in the band."
+    ],
+    "correctAnswer": "Rosa is not in the band.",
+    "explanation": "Nobody on the chess team is in the band. Rosa is on the chess team, so she cannot be in the band. Nothing is said about people outside the chess team or about the past.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.CREDIBILITY",
+    "prompt": "Jon wants to know how safe a new bike helmet is. Which source is the most reliable?",
+    "choices": [
+      "An ad made by the helmet company",
+      "A post by a celebrity who was paid to wear the helmet",
+      "Crash-test results from an independent safety lab",
+      "An online review that says only 'Great helmet!'"
+    ],
+    "correctAnswer": "Crash-test results from an independent safety lab",
+    "explanation": "An independent lab has the tools to test safety and nothing to gain from the result. The company and the paid celebrity benefit from sales, and the short review gives no evidence at all.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS/RI.6.8",
+    "prompt": "Read this argument: 'We should get a class pet. Caring for a pet teaches responsibility, and a study found that classroom pets help students feel calm.' Which part is the claim that the speaker is arguing for?",
+    "choices": [
+      "We should get a class pet.",
+      "Caring for a pet teaches responsibility.",
+      "A study found that classroom pets help students feel calm.",
+      "Students feel calm."
+    ],
+    "correctAnswer": "We should get a class pet.",
+    "explanation": "The claim is the point the speaker wants you to accept: the class should get a pet. The statements about responsibility and feeling calm are reasons given to support that claim.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "If the dog hears thunder, it hides under the bed. There is no thunder today. What can we conclude?",
+    "choices": [
+      "The dog is not under the bed.",
+      "The dog is under the bed.",
+      "The dog may or may not be under the bed.",
+      "The dog is never scared."
+    ],
+    "correctAnswer": "The dog may or may not be under the bed.",
+    "explanation": "The rule tells us what happens when there is thunder. It says nothing about days without thunder. The dog might hide under the bed for some other reason, so we cannot be sure either way.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION/RI.6.8",
+    "prompt": "Which statement in the letter is NOT supported by any evidence?",
+    "passage": "Letter to the editor: The city should add crosswalks near Elm School. City records show that four students were hit by cars on Elm Street last year. Besides, everybody knows drivers today are terrible. According to the traffic report from the next town over, crosswalks with flashing lights cut accidents there by a third.",
+    "choices": [
+      "Four students were hit by cars on Elm Street last year.",
+      "Everybody knows drivers today are terrible.",
+      "Flashing crosswalks cut accidents by a third in the next town.",
+      "The city should add crosswalks near Elm School."
+    ],
+    "correctAnswer": "Everybody knows drivers today are terrible.",
+    "explanation": "The accident number is backed by city records and the crosswalk result by a traffic report; together they support the main claim about adding crosswalks. 'Everybody knows drivers today are terrible' is just asserted with nothing behind it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Lena says, 'I wore my lucky socks and our team won. So my socks made us win.' Which facts, if true, would weaken Lena's conclusion? Select all that apply.",
+    "choices": [
+      "The team has also won games when Lena wore other socks.",
+      "The other team's best player was out sick that day.",
+      "Lena's socks are blue.",
+      "Lena's socks were a gift from her aunt."
+    ],
+    "correctAnswers": [
+      "The team has also won games when Lena wore other socks.",
+      "The other team's best player was out sick that day."
+    ],
+    "explanation": "Winning without the socks shows the socks are not needed, and a missing star player gives another reason for the win. Both make the socks a less likely cause. The color of the socks and who gave them have no bearing on why the team won.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g6_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Five books are in a stack. Use the clues to put them in order from the top of the stack to the bottom. Clues: The red book is on top. The green book is directly below the red book. The blue book is on the bottom. The yellow book is somewhere above the white book.",
+    "orderedItems": [
+      "Red",
+      "Green",
+      "Yellow",
+      "White",
+      "Blue"
+    ],
+    "explanation": "Red is first and green is second. Blue is fifth. Yellow and white fill the third and fourth spots, and yellow must be above white.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g6_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION/W.6.1",
+    "prompt": "Which is the strongest argument for having students learn a second language?",
+    "choices": [
+      "Many schools across the country already require it, so it must be a good idea.",
+      "My friend learned Spanish in school and later got a very good job because of it.",
+      "Lots of other countries require it for all students, so our country should do the same.",
+      "Several large studies found that language learners got better at solving problems."
+    ],
+    "correctAnswer": "Several large studies found that language learners got better at solving problems.",
+    "explanation": "The studies give evidence about many students and name a specific benefit (better problem solving). 'Many schools do it' and 'other countries do it' only show that it is common, and one friend's story is a single example that may have other causes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "All Grobs have four wheels. All Zents are Grobs. Machine X has four wheels. Which conclusion is correct?",
+    "choices": [
+      "Machine X must be a Zent.",
+      "Machine X must be a Grob, because all Grobs have four wheels.",
+      "Machine X could be a Grob, but we cannot be certain.",
+      "Machine X cannot be a Grob or a Zent, since we were not told it is one."
+    ],
+    "correctAnswer": "Machine X could be a Grob, but we cannot be certain.",
+    "explanation": "We are told that every Grob has four wheels, not that everything with four wheels is a Grob. Other things could have four wheels too. So Machine X might be a Grob (or even a Zent), but the facts do not prove it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Look at the pattern of letters: A, C, F, J, O, ___. Which letter comes next?",
+    "correctAnswer": "U",
+    "correctAnswers": [
+      "U"
+    ],
+    "explanation": "The jumps grow by one each time: A to C is 2 letters, C to F is 3, F to J is 4, J to O is 5. The next jump is 6 letters: O, then P, Q, R, S, T, U. The answer is U.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g6_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Mr. Ito says the after-school tutoring program works: 'The 20 students in tutoring scored higher on the final test than students who were not in tutoring.' Which fact, if true, would most weaken his conclusion?",
+    "choices": [
+      "The final test had 40 questions.",
+      "The students in tutoring already had higher scores before the tutoring began.",
+      "Tutoring is held on Tuesdays.",
+      "Some of the tutored students walk home after school instead of riding the bus."
+    ],
+    "correctAnswer": "The students in tutoring already had higher scores before the tutoring began.",
+    "explanation": "If the tutored students were already scoring higher before tutoring, their higher final scores may have nothing to do with the program. The other facts do not offer a different explanation for the scores.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g6_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "CLOZE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Amy, Raj, and Zoe won the gold, silver, and bronze medals, one medal each. Amy finished ahead of Raj. Raj did not win bronze. Word bank: Amy, Raj, Zoe. Gold went to ___ and bronze went to ___.",
+    "blanks": [
+      "Amy",
+      "Zoe"
+    ],
+    "explanation": "Amy finished ahead of Raj, so Raj did not win gold. Raj did not win bronze either, so Raj won silver. Amy is ahead of Raj, so Amy won gold. That leaves bronze for Zoe.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.0
+    }
+  }
+]

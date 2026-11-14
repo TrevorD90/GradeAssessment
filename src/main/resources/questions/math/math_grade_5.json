@@ -1,0 +1,381 @@
+[
+  {
+    "id": "math_g5_001",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "5.NBT.A.3a",
+    "prompt": "Which decimal is 'three and forty-two thousandths'?",
+    "choices": [
+      "3.042",
+      "3.42",
+      "3.0042",
+      "342"
+    ],
+    "correctAnswer": "3.042",
+    "explanation": "Thousandths go three places after the decimal point. Forty-two thousandths is 0.042, so the number is 3.042.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_002",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "5.NBT.B.6",
+    "prompt": "What is 144 divided by 12? Write your answer as a number.",
+    "correctAnswer": "12",
+    "correctAnswers": [
+      "12"
+    ],
+    "explanation": "144 divided by 12 = 12. You can check with multiplication: 12 x 12 = 144.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g5_003",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "5.NBT.A.2",
+    "prompt": "What is 4.7 x 100?",
+    "choices": [
+      "47",
+      "4.700",
+      "0.047",
+      "470"
+    ],
+    "correctAnswer": "470",
+    "explanation": "Multiplying by 100 moves each digit two places to the left, so 4.7 becomes 470.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_004",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "5.OA.A.1",
+    "prompt": "What is the value of 3 x (4 + 6) - 5?",
+    "choices": [
+      "13",
+      "25",
+      "15",
+      "35"
+    ],
+    "correctAnswer": "25",
+    "explanation": "Do the parentheses first: 4 + 6 = 10. Then multiply: 3 x 10 = 30. Then subtract: 30 - 5 = 25.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_005",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "5.NF.A.1",
+    "prompt": "What is 2/3 + 1/4?",
+    "choices": [
+      "3/7",
+      "11/12",
+      "3/12",
+      "8/12"
+    ],
+    "correctAnswer": "11/12",
+    "explanation": "Use a common denominator of 12: 2/3 = 8/12 and 1/4 = 3/12. Then 8/12 + 3/12 = 11/12.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_006",
+    "subject": "MATH",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "5.OA.A.1",
+    "prompt": "Which expressions have a value of 20? Select all that apply.",
+    "choices": [
+      "4 x (2 + 3)",
+      "(2 + 3) x 6",
+      "2 + 3 x 6",
+      "40 - (10 + 5)",
+      "(10 + 30) / 2"
+    ],
+    "correctAnswers": [
+      "4 x (2 + 3)",
+      "2 + 3 x 6",
+      "(10 + 30) / 2"
+    ],
+    "explanation": "4 x (2 + 3) = 4 x 5 = 20. 2 + 3 x 6 = 2 + 18 = 20 because we multiply before adding. (10 + 30) / 2 = 40 / 2 = 20. But (2 + 3) x 6 = 30 and 40 - (10 + 5) = 25.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g5_007",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "5.NBT.B.7",
+    "prompt": "What is 6.4 - 2.75? Write your answer as a decimal.",
+    "correctAnswer": "3.65",
+    "correctAnswers": [
+      "3.65"
+    ],
+    "explanation": "Line up the decimal points and write 6.4 as 6.40. Then 6.40 - 2.75 = 3.65. Check: 3.65 + 2.75 = 6.40.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g5_008",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "5.MD.C.5b",
+    "prompt": "A box is 5 cm long, 4 cm wide, and 3 cm tall. What is its volume?",
+    "choices": [
+      "12 cubic cm",
+      "20 cubic cm",
+      "94 cubic cm",
+      "60 cubic cm"
+    ],
+    "correctAnswer": "60 cubic cm",
+    "explanation": "Volume = length x width x height = 5 x 4 x 3 = 60 cubic centimeters.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_009",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "5.NF.B.4a",
+    "prompt": "What is 3/4 x 2/5?",
+    "choices": [
+      "3/10",
+      "5/9",
+      "6/9",
+      "15/8"
+    ],
+    "correctAnswer": "3/10",
+    "explanation": "Multiply the numerators and the denominators: 3 x 2 = 6 and 4 x 5 = 20. 6/20 simplifies to 3/10.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_010",
+    "subject": "MATH",
+    "type": "CLOZE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "5.NBT.B.5",
+    "prompt": "36 x 25 = ___",
+    "blanks": [
+      "900"
+    ],
+    "explanation": "36 x 25 = 36 x 100 divided by 4 = 3,600 divided by 4 = 900. Or: 36 x 20 = 720 and 36 x 5 = 180, and 720 + 180 = 900.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g5_011",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "5.G.B.3",
+    "prompt": "Which statement is true?",
+    "choices": [
+      "Every rectangle is a square.",
+      "Every rhombus is a square.",
+      "Every square is a rectangle.",
+      "Every parallelogram is a rectangle."
+    ],
+    "correctAnswer": "Every square is a rectangle.",
+    "explanation": "A rectangle is a four-sided shape with 4 right angles. Every square has 4 right angles, so every square is a rectangle. The other statements go the wrong way around.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_012",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "5.NF.B.7c",
+    "prompt": "A baker has 4 pounds of dough. Each loaf uses 1/3 pound of dough. How many loaves can the baker make?",
+    "choices": [
+      "1 1/3",
+      "7",
+      "12",
+      "3"
+    ],
+    "correctAnswer": "12",
+    "explanation": "There are 3 thirds in each pound. In 4 pounds there are 4 x 3 = 12 thirds, so the baker can make 12 loaves.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_013",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "5.NF.A.2",
+    "prompt": "Jo had 3 1/2 yards of ribbon. She used 1 3/4 yards. How many yards are left? Write your answer as a decimal.",
+    "correctAnswer": "1.75",
+    "correctAnswers": [
+      "1.75",
+      "1 3/4",
+      "7/4",
+      "1.75 yards",
+      "1 3/4 yards"
+    ],
+    "explanation": "3 1/2 = 3 2/4. Subtract: 3 2/4 - 1 3/4 = 1 3/4 yards. As a decimal, 1 3/4 = 1.75.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g5_014",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "5.NBT.B.7",
+    "prompt": "What is 7.2 divided by 0.6?",
+    "choices": [
+      "12",
+      "1.2",
+      "0.12",
+      "120"
+    ],
+    "correctAnswer": "12",
+    "explanation": "Multiply both numbers by 10 to get 72 divided by 6, which is 12. Check: 12 x 0.6 = 7.2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_015",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "5.MD.A.1",
+    "prompt": "A jug holds 2.5 liters of juice. How many 250-milliliter glasses can it fill?",
+    "choices": [
+      "100",
+      "1",
+      "25",
+      "10"
+    ],
+    "correctAnswer": "10",
+    "explanation": "1 liter = 1,000 milliliters, so 2.5 liters = 2,500 milliliters. 2,500 divided by 250 = 10 glasses.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g5_016",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "5.NBT.A.3b",
+    "prompt": "Put these decimals in order from least to greatest.",
+    "orderedItems": [
+      "0.305",
+      "0.35",
+      "0.503",
+      "0.53"
+    ],
+    "explanation": "Write each with three decimal places: 0.305, 0.350, 0.503, 0.530. Then compare 305, 350, 503 and 530 thousandths.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.0
+    }
+  }
+]

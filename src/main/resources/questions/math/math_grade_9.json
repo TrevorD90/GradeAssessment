@@ -1,0 +1,385 @@
+[
+  {
+    "id": "math_g9_001",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "HSA-REI.B.3",
+    "prompt": "Solve for x: 3(x - 4) = 2x + 5",
+    "choices": [
+      "x = 9",
+      "x = -7",
+      "x = 17/5",
+      "x = 17"
+    ],
+    "correctAnswer": "x = 17",
+    "explanation": "Distribute: 3x - 12 = 2x + 5. Subtract 2x from both sides: x - 12 = 5. Add 12: x = 17.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_002",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "HSF-IF.A.2",
+    "prompt": "If f(x) = 2x^2 - 3, what is f(-2)?",
+    "choices": [
+      "5",
+      "-11",
+      "13",
+      "-7"
+    ],
+    "correctAnswer": "5",
+    "explanation": "Replace x with -2: 2(-2)^2 - 3 = 2(4) - 3 = 8 - 3 = 5. Remember that (-2)^2 = 4, which is positive.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_003",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "HSA-APR.A.1",
+    "prompt": "Simplify: (3x^2 + 2x - 5) + (x^2 - 6x + 1)",
+    "choices": [
+      "4x^2 + 8x - 4",
+      "3x^2 - 4x - 4",
+      "4x^2 - 4x - 4",
+      "4x^2 - 4x - 6"
+    ],
+    "correctAnswer": "4x^2 - 4x - 4",
+    "explanation": "Combine like terms: 3x^2 + x^2 = 4x^2, 2x - 6x = -4x, and -5 + 1 = -4. The sum is 4x^2 - 4x - 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_004",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "HSA-REI.B.3",
+    "prompt": "Solve the inequality: 2x - 5 > 9",
+    "choices": [
+      "x > 2",
+      "x < 7",
+      "x > 7",
+      "x > 14"
+    ],
+    "correctAnswer": "x > 7",
+    "explanation": "Add 5 to both sides: 2x > 14. Divide both sides by 2: x > 7.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_005",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HSA-REI.B.4b",
+    "prompt": "What are the solutions to x^2 - 5x + 6 = 0?",
+    "choices": [
+      "x = 2 and x = 3",
+      "x = 1 and x = 6",
+      "x = -2 and x = -3",
+      "x = -1 and x = -6"
+    ],
+    "correctAnswer": "x = 2 and x = 3",
+    "explanation": "Factor: x^2 - 5x + 6 = (x - 2)(x - 3) = 0. A product is zero when one factor is zero, so x = 2 or x = 3.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_006",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "HSA-REI.C.6",
+    "prompt": "Put the steps in the correct order to solve this system by substitution: y = 2x + 1 and 3x + y = 16.",
+    "orderedItems": [
+      "Substitute y = 2x + 1 into the second equation",
+      "Simplify: 3x + 2x + 1 = 16, which gives 5x + 1 = 16",
+      "Solve for x: 5x = 15, so x = 3",
+      "Find y: y = 2(3) + 1 = 7",
+      "Write the solution: (3, 7)"
+    ],
+    "explanation": "Substitute the expression for y into the second equation, simplify and solve for x, then put x back in to find y.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g9_007",
+    "subject": "MATH",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HSA-REI.B.4b",
+    "prompt": "For the equation 2x^2 + 3x - 5 = 0, what is the value of the discriminant b^2 - 4ac? Write your answer as a number.",
+    "correctAnswer": "49",
+    "correctAnswers": [
+      "49"
+    ],
+    "explanation": "Here a = 2, b = 3, c = -5. The discriminant is b^2 - 4ac = 9 - 4(2)(-5) = 9 + 40 = 49.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g9_008",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HSA-SSE.A.2",
+    "prompt": "Which is the factored form of x^2 - 9?",
+    "choices": [
+      "(x - 3)^2",
+      "(x - 9)(x + 1)",
+      "(x + 3)^2",
+      "(x - 3)(x + 3)"
+    ],
+    "correctAnswer": "(x - 3)(x + 3)",
+    "explanation": "x^2 - 9 is a difference of squares: x^2 - 3^2 = (x - 3)(x + 3). Multiply it out to check: x^2 + 3x - 3x - 9 = x^2 - 9.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_009",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "HSF-LE.A.1",
+    "prompt": "Which situation shows exponential growth?",
+    "choices": [
+      "A plant grows 2 cm every week",
+      "A population of bacteria doubles every hour",
+      "A tank loses 5 liters of water every hour",
+      "A worker earns $15 for each hour worked"
+    ],
+    "correctAnswer": "A population of bacteria doubles every hour",
+    "explanation": "Exponential growth means multiplying by the same factor in each equal time step, like doubling. The other situations add or subtract the same amount each time, which is linear.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_010",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "HSA-CED.A.2",
+    "prompt": "A line passes through the points (2, 5) and (6, 13). Which is its equation?",
+    "choices": [
+      "y = 2x + 5",
+      "y = 2x + 1",
+      "y = (1/2)x + 4",
+      "y = 4x - 3"
+    ],
+    "correctAnswer": "y = 2x + 1",
+    "explanation": "Slope = (13 - 5) / (6 - 2) = 8 / 4 = 2. Use the point (2, 5): 5 = 2(2) + b, so b = 1. The equation is y = 2x + 1.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_011",
+    "subject": "MATH",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HSF-IF.C.7a",
+    "prompt": "Consider the function f(x) = -2(x - 3)^2 + 8. Which statements are true? Select all that apply.",
+    "choices": [
+      "The parabola opens downward",
+      "The vertex is at (3, 8)",
+      "The y-intercept is -10",
+      "The axis of symmetry is x = 3",
+      "The function has no real zeros"
+    ],
+    "correctAnswers": [
+      "The parabola opens downward",
+      "The vertex is at (3, 8)",
+      "The y-intercept is -10",
+      "The axis of symmetry is x = 3"
+    ],
+    "explanation": "The coefficient -2 is negative, so the parabola opens downward. Vertex form shows the vertex (3, 8) and axis of symmetry x = 3. The y-intercept is f(0) = -2(9) + 8 = -10. It does have real zeros (x = 1 and x = 5), because the vertex is above the x-axis and the parabola opens downward.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g9_012",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "HSF-IF.C.8a",
+    "prompt": "What is the vertex of the parabola y = x^2 - 4x + 7?",
+    "choices": [
+      "(-2, 3)",
+      "(2, 7)",
+      "(4, 7)",
+      "(2, 3)"
+    ],
+    "correctAnswer": "(2, 3)",
+    "explanation": "Complete the square: y = (x^2 - 4x + 4) + 3 = (x - 2)^2 + 3. The vertex is (2, 3).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_013",
+    "subject": "MATH",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HSA-REI.B.4a",
+    "prompt": "Put the steps in the correct order to solve x^2 + 6x + 2 = 0 by completing the square.",
+    "orderedItems": [
+      "Subtract 2 from both sides: x^2 + 6x = -2",
+      "Add 9 to both sides: x^2 + 6x + 9 = 7",
+      "Write as a perfect square: (x + 3)^2 = 7",
+      "Take the square root of both sides: x + 3 = +/- sqrt(7)",
+      "Solve: x = -3 +/- sqrt(7)"
+    ],
+    "explanation": "Move the constant, add (6/2)^2 = 9 to both sides to complete the square, write the left side as (x + 3)^2, take the square root of both sides, then subtract 3.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "math_g9_014",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "HSF-IF.B.4",
+    "prompt": "A ball's height in meters after t seconds is modeled by h(t) = -5t^2 + 40t + 5. At what time does the ball reach its maximum height?",
+    "choices": [
+      "4 seconds",
+      "2 seconds",
+      "5 seconds",
+      "8 seconds"
+    ],
+    "correctAnswer": "4 seconds",
+    "explanation": "The maximum is at the vertex of the parabola. t = -b / (2a) = -40 / (2 x -5) = -40 / -10 = 4 seconds.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_015",
+    "subject": "MATH",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "HSA-CED.A.3",
+    "prompt": "Adult tickets cost $8 and child tickets cost $5. A group buys 10 tickets and pays $62 in total. How many adult tickets did the group buy?",
+    "choices": [
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Let a be the number of adult tickets, so there are 10 - a child tickets. 8a + 5(10 - a) = 62 gives 3a + 50 = 62, so 3a = 12 and a = 4. Check: 4 x $8 + 6 x $5 = $62.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "math_g9_016",
+    "subject": "MATH",
+    "type": "CLOZE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "HSF-BF.A.2",
+    "prompt": "An arithmetic sequence begins 5, 9, 13, 17, ... The 20th term of the sequence is ___.",
+    "blanks": [
+      "81"
+    ],
+    "explanation": "The sequence adds 4 each time. To get from the 1st term to the 20th term you add 4 nineteen times: 5 + 19 x 4 = 5 + 76 = 81.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "reading_g4_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.4.1",
+    "prompt": "Who encouraged Kenji to try one choir rehearsal?",
+    "passage": "Kenji did not want to join the school choir. He thought singing in front of people was scary. His music teacher, Mrs. Park, encouraged him to try just one rehearsal. At first, Kenji stood in the back and barely opened his mouth. But he liked the songs, and the other kids were friendly. After a few weeks of practice, Kenji sang his part confidently at the winter concert. His family cheered from the audience.",
+    "choices": [
+      "his mother",
+      "Mrs. Park",
+      "his best friend",
+      "the principal"
+    ],
+    "correctAnswer": "Mrs. Park",
+    "explanation": "The passage says, 'His music teacher, Mrs. Park, encouraged him to try just one rehearsal.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.4.1",
+    "prompt": "What is a beaver's dome-shaped home called?",
+    "passage": "Beavers are nature's engineers. Using their strong front teeth, they cut down small trees and drag the branches into a stream. They pile up the branches, pack them with mud and stones, and build a dam. The dam blocks the flowing water, and a quiet pond slowly forms behind it. In the middle of the pond, the beavers build a dome-shaped home called a lodge. Its entrance is hidden underwater, which keeps out wolves and other predators. A beaver pond helps more than just beavers. Ducks, frogs, fish, and insects move into the new wetland. During dry summers, the pond stores water that other animals need. Although a beaver dam can sometimes flood a farmer's field, scientists say these busy builders make the land healthier for many living things.",
+    "choices": [
+      "a den",
+      "a nest",
+      "a lodge",
+      "a burrow"
+    ],
+    "correctAnswer": "a lodge",
+    "explanation": "The passage says beavers 'build a dome-shaped home called a lodge.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.4.1",
+    "prompt": "According to the passage, what kind of skin do toads have?",
+    "passage": "Frogs and toads look alike, but you can tell them apart if you know what to look for. Most frogs have smooth, moist skin, while toads have dry, bumpy skin. Frogs have long back legs made for leaping. Toads have shorter legs and usually walk or take small hops. Frogs live in or near water for most of their lives. Toads, on the other hand, can live in drier places such as gardens and forests. Both animals begin life as tadpoles in the water, and both eat insects. So the next time a small, bumpy creature hops slowly across your garden path, you will know it is probably a toad.",
+    "choices": [
+      "smooth and moist",
+      "covered in scales",
+      "soft and furry",
+      "dry and bumpy"
+    ],
+    "correctAnswer": "dry and bumpy",
+    "explanation": "The passage says 'toads have dry, bumpy skin.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.4.5c",
+    "prompt": "Which word is a synonym for 'begin'?",
+    "choices": [
+      "start",
+      "finish",
+      "pause",
+      "repeat"
+    ],
+    "correctAnswer": "start",
+    "explanation": "Begin and start both mean to do the first part of something.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.4.1",
+    "prompt": "Which word did Priya have to spell?",
+    "passage": "Priya's stomach fluttered as she climbed the steps to the stage. For weeks she had studied her word lists at breakfast, on the bus, and even in the bathtub. Now only two spellers were left: Priya and Owen, last year's champion. 'Your word is rhythm,' the judge announced. Priya's mind went blank. She closed her eyes and pictured the word on her flash card, with its strange lack of vowels. Slowly, she spelled it aloud. 'That is correct.' Owen's next word was 'mischievous.' He hesitated, added an extra letter, and the bell rang. Owen's shoulders sank, but he turned and shook Priya's hand. 'You earned it,' he said. Priya could hardly believe it. All those mornings with her flash cards had been worth it.",
+    "choices": [
+      "mischievous",
+      "rhythm",
+      "champion",
+      "vowel"
+    ],
+    "correctAnswer": "rhythm",
+    "explanation": "The judge told Priya, 'Your word is rhythm.' 'Mischievous' was Owen's word.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.4.3",
+    "prompt": "How does Kenji change from the beginning to the end of the story?",
+    "passage": "Kenji did not want to join the school choir. He thought singing in front of people was scary. His music teacher, Mrs. Park, encouraged him to try just one rehearsal. At first, Kenji stood in the back and barely opened his mouth. But he liked the songs, and the other kids were friendly. After a few weeks of practice, Kenji sang his part confidently at the winter concert. His family cheered from the audience.",
+    "choices": [
+      "He goes from being confident to being shy",
+      "He goes from liking music to disliking it",
+      "He goes from being scared to being confident",
+      "He goes from singing loudly to singing quietly"
+    ],
+    "correctAnswer": "He goes from being scared to being confident",
+    "explanation": "At first Kenji thinks singing in front of people is 'scary' and barely opens his mouth; by the end he sings 'confidently' at the concert.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.4.2",
+    "prompt": "What is the main idea of this passage?",
+    "passage": "Beavers are nature's engineers. Using their strong front teeth, they cut down small trees and drag the branches into a stream. They pile up the branches, pack them with mud and stones, and build a dam. The dam blocks the flowing water, and a quiet pond slowly forms behind it. In the middle of the pond, the beavers build a dome-shaped home called a lodge. Its entrance is hidden underwater, which keeps out wolves and other predators. A beaver pond helps more than just beavers. Ducks, frogs, fish, and insects move into the new wetland. During dry summers, the pond stores water that other animals need. Although a beaver dam can sometimes flood a farmer's field, scientists say these busy builders make the land healthier for many living things.",
+    "choices": [
+      "Beavers build dams that create ponds and help many living things",
+      "Beavers have strong front teeth for cutting trees",
+      "Beaver dams cause problems by flooding farmers' fields",
+      "Wolves and other predators hunt beavers"
+    ],
+    "correctAnswer": "Beavers build dams that create ponds and help many living things",
+    "explanation": "The passage explains how beavers build dams and ponds and ends by saying they 'make the land healthier for many living things.' The other choices are only small details.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.4.5",
+    "prompt": "How is this passage mainly organized?",
+    "passage": "Frogs and toads look alike, but you can tell them apart if you know what to look for. Most frogs have smooth, moist skin, while toads have dry, bumpy skin. Frogs have long back legs made for leaping. Toads have shorter legs and usually walk or take small hops. Frogs live in or near water for most of their lives. Toads, on the other hand, can live in drier places such as gardens and forests. Both animals begin life as tadpoles in the water, and both eat insects. So the next time a small, bumpy creature hops slowly across your garden path, you will know it is probably a toad.",
+    "choices": [
+      "It tells events in the order they happened",
+      "It describes a problem and then a solution",
+      "It explains the causes of an event",
+      "It compares and contrasts two animals"
+    ],
+    "correctAnswer": "It compares and contrasts two animals",
+    "explanation": "Signal words such as 'while,' 'on the other hand,' and 'both' show the author is telling how frogs and toads are different and alike.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.4.4",
+    "prompt": "What does the phrase 'Priya's stomach fluttered' suggest?",
+    "passage": "Priya's stomach fluttered as she climbed the steps to the stage. For weeks she had studied her word lists at breakfast, on the bus, and even in the bathtub. Now only two spellers were left: Priya and Owen, last year's champion. 'Your word is rhythm,' the judge announced. Priya's mind went blank. She closed her eyes and pictured the word on her flash card, with its strange lack of vowels. Slowly, she spelled it aloud. 'That is correct.' Owen's next word was 'mischievous.' He hesitated, added an extra letter, and the bell rang. Owen's shoulders sank, but he turned and shook Priya's hand. 'You earned it,' he said. Priya could hardly believe it. All those mornings with her flash cards had been worth it.",
+    "choices": [
+      "She was hungry for breakfast",
+      "She had eaten too fast",
+      "She was nervous",
+      "She was bored and sleepy"
+    ],
+    "correctAnswer": "She was nervous",
+    "explanation": "Her stomach fluttered as she climbed to the stage for the final round of a spelling bee, a moment when a person would feel nervous.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.4a",
+    "prompt": "Word bank: predator, wetland, engineer. Use each word only once. A hawk is a ___ that hunts mice. An ___ designed the new bridge over the river.",
+    "blanks": [
+      "predator",
+      "engineer"
+    ],
+    "explanation": "An animal that hunts other animals is a predator. A person who designs bridges is an engineer.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g4_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.4.4b",
+    "prompt": "The Greek root 'tele' means 'far.' Which word names a tool for seeing things that are far away?",
+    "choices": [
+      "microscope",
+      "telescope",
+      "thermometer",
+      "stethoscope"
+    ],
+    "correctAnswer": "telescope",
+    "explanation": "Telescope contains the root 'tele' (far); it is a tool for seeing distant objects.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.4.3",
+    "prompt": "Read: Beavers cut down small trees with their teeth. They drag the branches into a stream and pack them with mud to make a dam. A pond forms behind the dam. Finally, the beavers build a lodge in the pond. Put the events in order.",
+    "orderedItems": [
+      "Beavers cut down small trees",
+      "Beavers build a dam across the stream",
+      "A pond forms behind the dam",
+      "Beavers build a lodge in the pond"
+    ],
+    "explanation": "The text gives the steps in order: cut trees, build the dam, the pond forms, then build the lodge.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g4_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.4.5",
+    "prompt": "Read: Both frogs and toads begin life as tadpoles in the water, and both eat insects. However, only frogs have smooth, moist skin. Which statements are true of BOTH frogs and toads? Select all that apply.",
+    "choices": [
+      "They begin life as tadpoles",
+      "They have smooth, moist skin",
+      "They eat insects",
+      "They have feathers"
+    ],
+    "correctAnswers": [
+      "They begin life as tadpoles",
+      "They eat insects"
+    ],
+    "explanation": "The text says 'both' begin as tadpoles and 'both' eat insects. Smooth, moist skin belongs only to frogs.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g4_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.4.8",
+    "prompt": "Which sentence from the passage best supports the idea that beaver ponds help other animals?",
+    "passage": "Beavers are nature's engineers. Using their strong front teeth, they cut down small trees and drag the branches into a stream. They pile up the branches, pack them with mud and stones, and build a dam. The dam blocks the flowing water, and a quiet pond slowly forms behind it. In the middle of the pond, the beavers build a dome-shaped home called a lodge. Its entrance is hidden underwater, which keeps out wolves and other predators. A beaver pond helps more than just beavers. Ducks, frogs, fish, and insects move into the new wetland. During dry summers, the pond stores water that other animals need. Although a beaver dam can sometimes flood a farmer's field, scientists say these busy builders make the land healthier for many living things.",
+    "choices": [
+      "Its entrance is hidden underwater, which keeps out wolves and other predators.",
+      "Using their strong front teeth, they cut down small trees and drag the branches into a stream.",
+      "During dry summers, the pond stores water that other animals need.",
+      "The dam blocks the flowing water, and a quiet pond slowly forms behind it."
+    ],
+    "correctAnswer": "During dry summers, the pond stores water that other animals need.",
+    "explanation": "Only this sentence tells about a benefit to other animals: the pond stores water they need in dry summers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.4.4",
+    "prompt": "Why does the author call beavers 'nature's engineers'?",
+    "passage": "Beavers are nature's engineers. Using their strong front teeth, they cut down small trees and drag the branches into a stream. They pile up the branches, pack them with mud and stones, and build a dam. The dam blocks the flowing water, and a quiet pond slowly forms behind it. In the middle of the pond, the beavers build a dome-shaped home called a lodge. Its entrance is hidden underwater, which keeps out wolves and other predators. A beaver pond helps more than just beavers. Ducks, frogs, fish, and insects move into the new wetland. During dry summers, the pond stores water that other animals need. Although a beaver dam can sometimes flood a farmer's field, scientists say these busy builders make the land healthier for many living things.",
+    "choices": [
+      "They build structures that change their surroundings",
+      "They use sharp tools and heavy machines to cut down trees",
+      "They work alongside farmers and scientists to protect rivers",
+      "They study how streams flow"
+    ],
+    "correctAnswer": "They build structures that change their surroundings",
+    "explanation": "Engineers design and build things. The passage describes beavers building dams and lodges that turn a stream into a pond.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.4.3",
+    "prompt": "What does Owen's handshake show about him?",
+    "passage": "Priya's stomach fluttered as she climbed the steps to the stage. For weeks she had studied her word lists at breakfast, on the bus, and even in the bathtub. Now only two spellers were left: Priya and Owen, last year's champion. 'Your word is rhythm,' the judge announced. Priya's mind went blank. She closed her eyes and pictured the word on her flash card, with its strange lack of vowels. Slowly, she spelled it aloud. 'That is correct.' Owen's next word was 'mischievous.' He hesitated, added an extra letter, and the bell rang. Owen's shoulders sank, but he turned and shook Priya's hand. 'You earned it,' he said. Priya could hardly believe it. All those mornings with her flash cards had been worth it.",
+    "choices": [
+      "He thinks the contest was unfair",
+      "He is a good sport even when he loses",
+      "He expected to lose from the start",
+      "He is angry at the judge"
+    ],
+    "correctAnswer": "He is a good sport even when he loses",
+    "explanation": "Although his 'shoulders sank,' Owen shook Priya's hand and said, 'You earned it,' which shows good sportsmanship.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RI.4.1",
+    "prompt": "Maya sees a smooth-skinned animal with long back legs leap into a pond. Based on the passage, the animal is most likely a",
+    "passage": "Frogs and toads look alike, but you can tell them apart if you know what to look for. Most frogs have smooth, moist skin, while toads have dry, bumpy skin. Frogs have long back legs made for leaping. Toads have shorter legs and usually walk or take small hops. Frogs live in or near water for most of their lives. Toads, on the other hand, can live in drier places such as gardens and forests. Both animals begin life as tadpoles in the water, and both eat insects. So the next time a small, bumpy creature hops slowly across your garden path, you will know it is probably a toad.",
+    "choices": [
+      "toad",
+      "tadpole",
+      "lizard",
+      "frog"
+    ],
+    "correctAnswer": "frog",
+    "explanation": "The passage says frogs have 'smooth, moist skin' and 'long back legs made for leaping' and live near water.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g4_018",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.4.2",
+    "prompt": "Which sentence best states the theme of the story?",
+    "passage": "Priya's stomach fluttered as she climbed the steps to the stage. For weeks she had studied her word lists at breakfast, on the bus, and even in the bathtub. Now only two spellers were left: Priya and Owen, last year's champion. 'Your word is rhythm,' the judge announced. Priya's mind went blank. She closed her eyes and pictured the word on her flash card, with its strange lack of vowels. Slowly, she spelled it aloud. 'That is correct.' Owen's next word was 'mischievous.' He hesitated, added an extra letter, and the bell rang. Owen's shoulders sank, but he turned and shook Priya's hand. 'You earned it,' he said. Priya could hardly believe it. All those mornings with her flash cards had been worth it.",
+    "choices": [
+      "Winning matters more than friendship",
+      "Champions never make mistakes",
+      "Steady preparation pays off",
+      "Spelling is harder than other subjects"
+    ],
+    "correctAnswer": "Steady preparation pays off",
+    "explanation": "Priya studied for weeks, and the last sentence says, 'All those mornings with her flash cards had been worth it.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  }
+]

@@ -5,53 +5,70 @@ import com.gradeassessment.domain.model.QuestionType
 import com.gradeassessment.domain.model.ReadingSubtest
 import com.gradeassessment.domain.model.Subject
 
+/**
+ * In-memory question bank with indexes built once at load time.
+ *
+ * Big-O (N = all questions):
+ *  - loadAll:                       O(N log N) once (hash index + per-subject sort by difficulty)
+ *  - getQuestionById:               O(1)   (was an O(N) linear scan, run for every past answer on every update)
+ *  - getAdaptivePool / by subject:  O(1)   (was an O(N) filter on every question delivered)
+ *
+ * Every accessor goes through [ensureLoaded]; previously only two of them did, so a subject
+ * started before the background load finished (e.g. Reading comprehension) saw an empty bank
+ * and ended immediately with zero questions.
+ */
 class QuestionRepository {
 
-    private var questions: List<Question> = emptyList()
+    private class Index(questions: List<Question>) {
+        val all: List<Question> = questions
+        val byId: Map<String, Question> = questions.associateBy { it.id }
+        val bySubject: Map<Subject, List<Question>> = questions.groupBy { it.subject }
+
+        /** Adaptive (non-fluency) items per subject, sorted ascending by IRT difficulty b. */
+        val adaptivePool: Map<Subject, List<Question>> = questions
+            .filter { it.type != QuestionType.TIMED_FLUENCY }
+            .filter { it.subject != Subject.READING || it.readingSubtest == ReadingSubtest.COMPREHENSION }
+            .groupBy { it.subject }
+            .mapValues { (_, list) -> list.sortedBy { it.irtParameters.b } }
+
+        val fluencyBySubtest: Map<ReadingSubtest, List<Question>> = questions
+            .filter {
+                it.subject == Subject.READING && it.type == QuestionType.TIMED_FLUENCY && it.readingSubtest != null
+            }
+            .groupBy { it.readingSubtest!! }
+    }
+
     @Volatile
-    private var loaded = false
+    private var index: Index? = null
 
-    @Synchronized
+    private fun ensureLoaded(): Index {
+        index?.let { return it }
+        return synchronized(this) {
+            index ?: Index(QuestionBankLoader.loadQuestionsFromResources()).also { index = it }
+        }
+    }
+
     fun loadAll() {
-        if (loaded) return
-        questions = QuestionBankLoader.loadQuestionsFromResources()
-        loaded = true
+        ensureLoaded()
     }
 
-    fun getQuestionById(id: String): Question? {
-        if (!loaded) loadAll()
-        return questions.find { it.id == id }
-    }
+    fun getQuestionById(id: String): Question? = ensureLoaded().byId[id]
 
-    fun getQuestionsBySubject(subject: Subject): List<Question> {
-        if (!loaded) loadAll()
-        return questions.filter { it.subject == subject }
-    }
+    fun getQuestionsBySubject(subject: Subject): List<Question> = ensureLoaded().bySubject[subject] ?: emptyList()
+
+    /** Questions eligible for adaptive selection in [subject], sorted ascending by difficulty. */
+    fun getAdaptivePool(subject: Subject): List<Question> = ensureLoaded().adaptivePool[subject] ?: emptyList()
 
     fun getQuestionsBySubjectAndGradeRange(subject: Subject, gradeRange: String): List<Question> =
-        questions.filter { it.subject == subject && it.gradeRange == gradeRange }
+        getQuestionsBySubject(subject).filter { it.gradeRange == gradeRange }
 
     fun getReadingFluencyQuestions(subtest: ReadingSubtest): List<Question> =
-        questions.filter { it.subject == Subject.READING && it.readingSubtest == subtest }
+        ensureLoaded().fluencyBySubtest[subtest] ?: emptyList()
 
-    fun getReadingComprehensionQuestions(): List<Question> =
-        questions.filter { it.subject == Subject.READING && it.readingSubtest == ReadingSubtest.COMPREHENSION }
+    fun getReadingComprehensionQuestions(): List<Question> = getAdaptivePool(Subject.READING)
 
     fun getQuestionsByType(type: QuestionType): List<Question> =
-        questions.filter { it.type == type }
+        ensureLoaded().all.filter { it.type == type }
 
-    fun getFilteredQuestions(
-        subject: Subject,
-        excludeIds: List<String> = emptyList(),
-        excludeBloomsLevel: Int? = null,
-        excludeType: QuestionType? = null
-    ): List<Question> =
-        questions.filter { q ->
-            q.subject == subject &&
-                q.id !in excludeIds &&
-                (excludeBloomsLevel == null || q.bloomsLevel != excludeBloomsLevel) &&
-                (excludeType == null || q.type != excludeType)
-        }
-
-    fun getAllQuestions(): List<Question> = questions
+    fun getAllQuestions(): List<Question> = ensureLoaded().all
 }

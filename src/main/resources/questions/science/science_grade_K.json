@@ -1,0 +1,380 @@
+[
+  {
+    "id": "science_gk_001",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "K-LS1-1",
+    "prompt": "What do plants need to grow?",
+    "choices": [
+      "Water and light",
+      "Toys and books",
+      "Candy and juice"
+    ],
+    "correctAnswer": "Water and light",
+    "explanation": "Plants need water and light to live and grow.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "K-PS2-1",
+    "prompt": "You kick a ball. What is a kick?",
+    "choices": [
+      "A pull",
+      "A push",
+      "A sound"
+    ],
+    "correctAnswer": "A push",
+    "explanation": "A kick is a push. A push moves something away from you.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_003",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "K-ESS2-1",
+    "prompt": "It is cold. White flakes fall from the sky. What is the weather?",
+    "choices": [
+      "Sunny",
+      "Rainy",
+      "Snowy"
+    ],
+    "correctAnswer": "Snowy",
+    "explanation": "When it is very cold, snow can fall. The weather is snowy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_004",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "K-LS1-1",
+    "prompt": "What do animals need to live? Select all that apply.",
+    "choices": [
+      "Food",
+      "Water",
+      "Toys",
+      "Air"
+    ],
+    "correctAnswers": [
+      "Food",
+      "Water",
+      "Air"
+    ],
+    "explanation": "Animals need food, water, and air to live. They do not need toys.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_gk_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "K-PS3-1",
+    "prompt": "What makes the ground warm on a sunny day?",
+    "choices": [
+      "The Moon",
+      "The Sun",
+      "The wind"
+    ],
+    "correctAnswer": "The Sun",
+    "explanation": "Sunlight warms the ground, the air, and the water.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_006",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "K-PS2-2",
+    "prompt": "A wagon is moving slowly. How can you make it go faster?",
+    "choices": [
+      "Push it harder",
+      "Push it softer",
+      "Stop pushing"
+    ],
+    "correctAnswer": "Push it harder",
+    "explanation": "A bigger push makes things speed up more.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_007",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "K-ESS3-1",
+    "prompt": "A squirrel eats nuts from trees. Where is the best place for a squirrel to live?",
+    "choices": [
+      "In the ocean",
+      "In a place with no trees",
+      "In a forest"
+    ],
+    "correctAnswer": "In a forest",
+    "explanation": "Animals live where they can get what they need. A forest has trees with nuts.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_008",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "K-PS3-1",
+    "prompt": "Which rock felt warmer?",
+    "passage": "Sam put one rock in the sun. He put one rock in the shade. Later he touched both rocks.",
+    "choices": [
+      "The rock in the shade",
+      "The rock in the sun",
+      "They felt the same"
+    ],
+    "correctAnswer": "The rock in the sun",
+    "explanation": "Sunlight warms things. The rock in the sun got warmer than the rock in the shade.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_009",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "K-ESS3-2",
+    "prompt": "The sky is full of dark gray clouds. What should you take outside?",
+    "choices": [
+      "An umbrella",
+      "Sunglasses",
+      "A swimsuit"
+    ],
+    "correctAnswer": "An umbrella",
+    "explanation": "Dark gray clouds often bring rain. An umbrella keeps you dry.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_010",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "K-LS1-1",
+    "prompt": "Put the pictures of a growing bean plant in order, from first to last.",
+    "orderedItems": [
+      "Seed",
+      "Small sprout",
+      "Tall plant with leaves"
+    ],
+    "explanation": "A plant starts as a seed. The seed sprouts. Then the plant grows tall with leaves.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_gk_011",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "K-PS2-1",
+    "prompt": "Which of these are pulls? Select all that apply.",
+    "choices": [
+      "Opening a drawer",
+      "Kicking a ball",
+      "Tugging a rope",
+      "Hitting a drum"
+    ],
+    "correctAnswers": [
+      "Opening a drawer",
+      "Tugging a rope"
+    ],
+    "explanation": "You pull a drawer open and you pull on a rope. Kicking and hitting are pushes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_gk_012",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "K-ESS3-3",
+    "prompt": "Lee wants to make less trash. What should Lee do?",
+    "choices": [
+      "Use a new paper bag each day",
+      "Throw old cans on the ground in the park",
+      "Use the same lunch box again and again"
+    ],
+    "correctAnswer": "Use the same lunch box again and again",
+    "explanation": "Using things again makes less trash and helps the land.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_013",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "K-ESS2-2",
+    "prompt": "Which animal changes the land to make its home?",
+    "choices": [
+      "A bird that flies over a field",
+      "A rabbit that digs a hole in the ground",
+      "A fish that swims in a lake"
+    ],
+    "correctAnswer": "A rabbit that digs a hole in the ground",
+    "explanation": "The rabbit digs into the ground. Digging changes the land. Animals can change the place where they live.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_014",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "K-ESS2-1",
+    "prompt": "How many days were sunny?",
+    "passage": "Mia looked at the sky each day. Monday: sunny. Tuesday: rainy. Wednesday: sunny. Thursday: sunny. Friday: cloudy.",
+    "choices": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "explanation": "Monday, Wednesday, and Thursday were sunny. That is 3 days.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_015",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "K-PS3-2",
+    "prompt": "The slide at the playground gets too hot in the sun. What would help keep it cool?",
+    "choices": [
+      "Build a roof over it for shade",
+      "Paint it black",
+      "Cut down the trees next to it"
+    ],
+    "correctAnswer": "Build a roof over it for shade",
+    "explanation": "Shade blocks sunlight, so the slide stays cooler. Dark colors and less shade would make it hotter.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "science_gk_016",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "K-PS2-2",
+    "prompt": "A ball is rolling to you. You want it to roll back the other way. What should you do?",
+    "choices": [
+      "Let it roll past you",
+      "Push it the same way it is going",
+      "Push it back the other way"
+    ],
+    "correctAnswer": "Push it back the other way",
+    "explanation": "A push can change which way something moves. Pushing the ball back makes it go the other way.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  }
+]

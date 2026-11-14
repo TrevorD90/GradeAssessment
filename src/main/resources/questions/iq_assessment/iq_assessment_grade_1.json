@@ -1,0 +1,349 @@
+[
+  {
+    "id": "iq_assessment_g1_001",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Which ones are animals? Select all that apply.",
+    "choices": [
+      "cat",
+      "cup",
+      "bird",
+      "sock"
+    ],
+    "correctAnswers": [
+      "cat",
+      "bird"
+    ],
+    "explanation": "A cat and a bird are animals. A cup and a sock are things.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g1_002",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 2, 4, 6, ___",
+    "correctAnswer": "8",
+    "correctAnswers": [
+      "8",
+      "eight"
+    ],
+    "explanation": "The numbers go up by 2 each time: 2, 4, 6, 8.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g1_003",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? A, B, A, B, A, ___",
+    "choices": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The letters take turns: A, B, A, B. After A comes B.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_g1_004",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A dog is in front of a tree. A cat is behind the tree. What is in the middle?",
+    "choices": [
+      "the dog",
+      "the cat",
+      "the tree"
+    ],
+    "correctAnswer": "the tree",
+    "explanation": "The dog is on one side and the cat is on the other side, so the tree is between them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_g1_005",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Say the numbers backward: 3, 7.",
+    "choices": [
+      "7, 3",
+      "3, 7",
+      "7, 7"
+    ],
+    "correctAnswer": "7, 3",
+    "explanation": "Backward means last one first: 7, then 3.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_g1_006",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "Shoe is to foot as glove is to ___",
+    "choices": [
+      "arm",
+      "hand",
+      "head"
+    ],
+    "correctAnswer": "hand",
+    "explanation": "A shoe is worn on a foot. A glove is worn on a hand.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_g1_007",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "What number comes next? 10, 8, 6, 4, ___",
+    "correctAnswer": "2",
+    "correctAnswers": [
+      "2",
+      "two"
+    ],
+    "explanation": "The numbers go down by 2 each time: 10, 8, 6, 4, 2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g1_008",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? triangle, triangle, square, triangle, triangle, square, ___",
+    "choices": [
+      "square",
+      "circle",
+      "triangle"
+    ],
+    "correctAnswer": "triangle",
+    "explanation": "The pattern is triangle, triangle, square, and then it starts again with triangle.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_g1_009",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "Sam is in a line. Two kids are in front of him. One kid is behind him. How many kids are in the line?",
+    "choices": [
+      "4",
+      "3",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Two kids in front, plus Sam, plus one kid behind: 2 + 1 + 1 = 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_g1_010",
+    "subject": "IQ_ASSESSMENT",
+    "type": "ORDERING",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Put these numbers in order from smallest to biggest.",
+    "orderedItems": [
+      "2",
+      "5",
+      "7",
+      "9"
+    ],
+    "explanation": "From smallest to biggest the numbers are 2, 5, 7, 9.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g1_011",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.VERBAL",
+    "prompt": "How are a dog and a fish alike?",
+    "choices": [
+      "Both have fur",
+      "Both live in water",
+      "Both have legs",
+      "Both are animals"
+    ],
+    "correctAnswer": "Both are animals",
+    "explanation": "A dog and a fish look different, but both are animals.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "iq_assessment_g1_012",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.QUANT",
+    "prompt": "2 + 3 is the same as 1 + ___",
+    "correctAnswer": "4",
+    "correctAnswers": [
+      "4",
+      "four"
+    ],
+    "explanation": "2 + 3 = 5. To make 5 starting from 1 you need 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g1_013",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "IQ.FLUID",
+    "prompt": "What comes next? 1, 2, 2, 3, 3, 3, 4, ___",
+    "choices": [
+      "3",
+      "5",
+      "4"
+    ],
+    "correctAnswer": "4",
+    "explanation": "Each number is shown as many times as its value: one 1, two 2s, three 3s, so there are four 4s. The next number is another 4.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "iq_assessment_g1_014",
+    "subject": "IQ_ASSESSMENT",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.SPATIAL",
+    "prompt": "A paper is cut in half. Then each piece is cut in half again. How many pieces are there now?",
+    "correctAnswer": "4",
+    "correctAnswers": [
+      "4",
+      "four"
+    ],
+    "explanation": "The first cut makes 2 pieces. Cutting each of those in half makes 4 pieces.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "iq_assessment_g1_015",
+    "subject": "IQ_ASSESSMENT",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "IQ.MEMORY",
+    "prompt": "Say the numbers backward: 2, 5, 8.",
+    "choices": [
+      "8, 2, 5",
+      "8, 5, 2",
+      "5, 8, 2",
+      "2, 5, 8"
+    ],
+    "correctAnswer": "8, 5, 2",
+    "explanation": "Backward means start with the last number: 8, then 5, then 2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.25
+    }
+  }
+]

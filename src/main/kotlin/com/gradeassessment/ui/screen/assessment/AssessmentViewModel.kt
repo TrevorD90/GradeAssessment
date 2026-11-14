@@ -105,8 +105,24 @@ class AssessmentViewModel(
         val subject = orchestrator.subjectOrder.first()
         _currentSubject.value = subject
         orchestrator.startSubject(subject)
-        _currentQuestion.value = engine.currentQuestion.value
+        showFirstQuestionOrFinish()
+    }
+
+    /**
+     * Shows the first question of the subject, or completes the subject straight away when the
+     * bank has nothing to ask (previously the screen sat on "Loading question..." forever).
+     */
+    private fun showFirstQuestionOrFinish() {
+        val first = engine.currentQuestion.value
+        _currentQuestion.value = first
         _questionIndex.value = 1
+        if (first == null) {
+            completeCurrentSubject()
+            return
+        }
+        // Reset the answer clock here: it used to be set only when the ViewModel was created,
+        // so the first response time included the profile and instruction screens.
+        questionStartTime = System.currentTimeMillis()
         startQuestionTimer()
         _screen.value = AppScreen.ActiveAssessment
     }
@@ -118,10 +134,13 @@ class AssessmentViewModel(
         orderedItems: List<String> = emptyList(),
         fluencySelections: Set<String> = emptySet()
     ) {
+        // Ignore stale submissions (double click, or the timer firing just as the student submits):
+        // previously the same question could be recorded twice or the answer applied to the next one.
+        if (question.id != _currentQuestion.value?.id || _screen.value != AppScreen.ActiveAssessment) return
         timerJob?.cancel()
 
         val timeMs = System.currentTimeMillis() - questionStartTime
-        val correct = evaluateAnswer(question, answer, answers, orderedItems, fluencySelections)
+        val correct = AnswerEvaluator.isCorrect(question, answer, answers, orderedItems, fluencySelections)
         val actualAnswer = when (question.type) {
             QuestionType.MULTI_SELECT -> answers.joinToString(", ")
             QuestionType.CLOZE -> answers.joinToString(", ")
@@ -166,12 +185,8 @@ class AssessmentViewModel(
     fun startNextSubject() {
         val nextSubject = orchestrator.getNextSubject() ?: return
         _currentSubject.value = nextSubject
-        _questionIndex.value = 1
         orchestrator.startSubject(nextSubject)
-        _currentQuestion.value = engine.currentQuestion.value
-        questionStartTime = System.currentTimeMillis()
-        startQuestionTimer()
-        _screen.value = AppScreen.ActiveAssessment
+        showFirstQuestionOrFinish()
     }
 
     fun exportPdf(result: AssessmentResult) {
@@ -203,9 +218,16 @@ class AssessmentViewModel(
 
     private fun startQuestionTimer() {
         timerJob?.cancel()
-        _timeRemaining.value = 240
+        // Fluency subtests carry their own (60 s) limit; everything else gets 4 minutes.
+        val question = _currentQuestion.value
+        val limit = if (question?.type == QuestionType.TIMED_FLUENCY) {
+            question.fluencyTimeLimitSeconds.coerceAtLeast(10)
+        } else {
+            QUESTION_TIME_LIMIT_SECONDS
+        }
+        _timeRemaining.value = limit
         timerJob = scope.launch {
-            for (i in 240 downTo 0) {
+            for (i in limit downTo 0) {
                 _timeRemaining.value = i
                 delay(1000)
             }
@@ -215,35 +237,7 @@ class AssessmentViewModel(
         }
     }
 
-    private fun evaluateAnswer(
-        question: Question,
-        answer: String,
-        answers: List<String>,
-        orderedItems: List<String>,
-        fluencySelections: Set<String>
-    ): Boolean = when (question.type) {
-        QuestionType.MULTIPLE_CHOICE -> answer.equals(question.correctAnswer, ignoreCase = true)
-        QuestionType.MULTI_SELECT -> {
-            val expected = question.correctAnswers.toSet()
-            answers.toSet() == expected
-        }
-        QuestionType.FILL_IN_BLANK -> {
-            val trimmed = answer.trim()
-            trimmed.equals(question.correctAnswer.trim(), ignoreCase = true) ||
-                question.correctAnswers.any { trimmed.equals(it.trim(), ignoreCase = true) }
-        }
-        QuestionType.CLOZE -> {
-            val expected = question.blanks
-            answers.size == expected.size && answers.zip(expected).all { (a, e) ->
-                a.trim().equals(e.trim(), ignoreCase = true)
-            }
-        }
-        QuestionType.ORDERING -> orderedItems == question.orderedItems
-        QuestionType.PASSAGE_BASED -> answer.equals(question.correctAnswer, ignoreCase = true)
-        QuestionType.TIMED_FLUENCY -> {
-            val correctCount = fluencySelections.count { it in question.fluencyCorrectItems }
-            val incorrectCount = fluencySelections.count { it !in question.fluencyCorrectItems }
-            correctCount > incorrectCount
-        }
+    companion object {
+        const val QUESTION_TIME_LIMIT_SECONDS = 240
     }
 }

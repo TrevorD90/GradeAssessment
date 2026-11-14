@@ -1,0 +1,509 @@
+[
+  {
+    "id": "arts_g6_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.6a",
+    "prompt": "In art, the element \"value\" refers to ___.",
+    "choices": [
+      "how rough or smooth the surface of a work feels",
+      "how much an artwork costs when it is sold",
+      "how light or dark a color or tone is",
+      "how large an artwork is"
+    ],
+    "correctAnswer": "how light or dark a color or tone is",
+    "explanation": "Value is the lightness or darkness of a color or tone. Artists use a range of values to show light and shadow.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_002",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.6a",
+    "prompt": "What is the main purpose of a vanishing point in linear perspective?",
+    "passage": "Linear perspective is a mathematical system for creating the illusion of depth on a flat surface. Developed during the Italian Renaissance by Filippo Brunelleschi, it uses a vanishing point on the horizon line where parallel lines appear to converge. Artists like Leonardo da Vinci and Raphael used this technique to give their paintings a realistic sense of three-dimensional space.",
+    "choices": [
+      "To create the illusion that parallel lines recede into the distance",
+      "To outline the main subject of the painting",
+      "To decide which colors and values to use in the distant background of the scene",
+      "To determine the size of the canvas"
+    ],
+    "correctAnswer": "To create the illusion that parallel lines recede into the distance",
+    "explanation": "The vanishing point is where receding parallel lines appear to meet on the horizon line, which creates a convincing illusion of depth.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_003",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Cr2.1.6a",
+    "prompt": "An artist shades a drawn circle so that it changes gradually from light on one side to dark on the other. What is the main effect?",
+    "choices": [
+      "The flat circle appears to be a three-dimensional sphere",
+      "The circle appears to have a rough, bumpy texture like sandpaper or tree bark",
+      "The circle appears to be spinning and moving quickly across the page",
+      "The circle appears farther from the viewer"
+    ],
+    "correctAnswer": "The flat circle appears to be a three-dimensional sphere",
+    "explanation": "Gradual changes in value imitate the way light falls on a rounded object, which makes a flat shape look like a three-dimensional form.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.6b",
+    "prompt": "A flat sign placed in front of a note ___.",
+    "choices": [
+      "makes the note softer",
+      "lowers the pitch by a half step",
+      "raises the pitch by a half step",
+      "makes the note shorter"
+    ],
+    "correctAnswer": "lowers the pitch by a half step",
+    "explanation": "A flat lowers a pitch by a half step, and a sharp raises it by a half step.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.6b",
+    "prompt": "On a piano keyboard, which note is one whole step above C?",
+    "choices": [
+      "D",
+      "C-sharp",
+      "B",
+      "E"
+    ],
+    "correctAnswer": "D",
+    "explanation": "A whole step equals two half steps. From C, one half step up is C-sharp and the next is D.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_006",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Re7.2.6a",
+    "prompt": "In a landscape painting, distant mountains are painted paler, bluer, and with less detail than the nearby hills. What is this technique called?",
+    "choices": [
+      "One-point linear perspective",
+      "Cross-hatching",
+      "Foreshortening",
+      "Atmospheric (aerial) perspective"
+    ],
+    "correctAnswer": "Atmospheric (aerial) perspective",
+    "explanation": "Atmospheric perspective imitates the way air makes distant objects look lighter, bluer, and less distinct.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_007",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.6a",
+    "prompt": "In a drawing, which technique uses closely spaced parallel lines to create shading?",
+    "choices": [
+      "Scumbling",
+      "Stippling",
+      "Hatching",
+      "Blending"
+    ],
+    "correctAnswer": "Hatching",
+    "explanation": "Hatching uses parallel lines to build tone. Stippling uses dots, blending smooths tones together, and scumbling uses loose scribbled marks.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.6b",
+    "prompt": "The bass clef is also known as the ___ clef, because its two dots surround the line for that note.",
+    "choices": [
+      "F",
+      "G",
+      "D",
+      "C"
+    ],
+    "correctAnswer": "F",
+    "explanation": "The bass clef is the F clef: its dots mark the line for F below middle C. The treble clef is the G clef.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_009",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.6b",
+    "prompt": "A melody is written in 3/4 time. Which note value fills exactly one measure?",
+    "choices": [
+      "A half note",
+      "A dotted quarter note",
+      "A whole note",
+      "A dotted half note"
+    ],
+    "correctAnswer": "A dotted half note",
+    "explanation": "A 3/4 measure holds three quarter-note beats. A dotted half note lasts 3 beats; a whole note lasts 4 and a half note lasts 2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Cn11.2.6.a",
+    "prompt": "The person who writes a play is called the ___.",
+    "choices": [
+      "playwright",
+      "producer",
+      "stage manager",
+      "director"
+    ],
+    "correctAnswer": "playwright",
+    "explanation": "A playwright writes the script. The director stages it, and the stage manager runs rehearsals and performances.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_011",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.6b",
+    "prompt": "Which composer of the Classical period wrote \"Eine kleine Nachtmusik\" and the opera \"The Magic Flute\"?",
+    "choices": [
+      "Pyotr Ilyich Tchaikovsky",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven"
+    ],
+    "correctAnswer": "Wolfgang Amadeus Mozart",
+    "explanation": "Mozart (1756-1791) composed both works. Bach was a Baroque composer, and Tchaikovsky was a Romantic composer.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_012",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Re7.2.6b",
+    "prompt": "Arrange these periods of Western music history in order from earliest to latest.",
+    "orderedItems": [
+      "Renaissance",
+      "Baroque",
+      "Classical",
+      "Romantic"
+    ],
+    "explanation": "The Renaissance (about 1400-1600) was followed by the Baroque (about 1600-1750), the Classical (about 1750-1820), and the Romantic (about 1820-1900) periods.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g6_013",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.6a",
+    "prompt": "A group of four musicians, typically two violins, a viola, and a cello, is called a string ___.",
+    "correctAnswer": "quartet",
+    "correctAnswers": [
+      "quartet",
+      "string quartet"
+    ],
+    "explanation": "A string quartet is an ensemble of two violins, a viola, and a cello. The word also names music written for that group.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g6_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Pr5.1.6.b",
+    "prompt": "In a proscenium theatre, the audience ___.",
+    "choices": [
+      "surrounds the stage on all four sides",
+      "sits on one side, viewing the stage through a framing arch",
+      "sits on three sides of a stage that juts forward",
+      "stands on the stage with the actors"
+    ],
+    "correctAnswer": "sits on one side, viewing the stage through a framing arch",
+    "explanation": "A proscenium stage is viewed from the front through an arch like a picture frame. Arena stages are surrounded by the audience, and thrust stages have the audience on three sides.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_015",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Re7.1.6.a",
+    "prompt": "What is the most likely purpose of the change in lighting and sound?",
+    "passage": "At the start of a scene, the stage is lit with warm, golden light while a family laughs together at dinner. When a messenger enters with bad news, the lights shift to a cold blue and the music drops to a single low note.",
+    "choices": [
+      "To help the actors read their scripts",
+      "To signal a shift in mood from happy to serious",
+      "To show that the scene has moved to a sunny outdoor place",
+      "To tell the audience that the play has ended"
+    ],
+    "correctAnswer": "To signal a shift in mood from happy to serious",
+    "explanation": "Lighting and sound are technical elements that shape mood. The change from warm light to cold blue and a low note marks the turn from joy to seriousness.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_016",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Pr4.1.6a",
+    "prompt": "Which element of dance includes the pathways, levels, and directions a dancer uses?",
+    "choices": [
+      "Body",
+      "Time",
+      "Energy",
+      "Space"
+    ],
+    "correctAnswer": "Space",
+    "explanation": "Space covers where the body moves: pathways, levels, directions, and size. Time covers tempo and rhythm, and energy covers the quality of movement.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_017",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MA:Cr3.1.6a",
+    "prompt": "In video editing, a \"cut\" is ___.",
+    "choices": [
+      "a slow zoom toward the subject",
+      "a gradual darkening of the picture to black",
+      "an instant change from one shot to the next",
+      "a sound effect added after filming"
+    ],
+    "correctAnswer": "an instant change from one shot to the next",
+    "explanation": "A cut is the most basic edit: one shot is immediately replaced by the next. A gradual darkening is a fade-out.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_018",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "DA:Cr2.1.6a",
+    "prompt": "One dancer performs a movement phrase. A second dancer begins the same phrase four counts later, and a third dancer begins four counts after that. What is this choreographic device called?",
+    "choices": [
+      "Unison",
+      "Mirroring",
+      "Improvisation",
+      "Canon"
+    ],
+    "correctAnswer": "Canon",
+    "explanation": "In a canon, dancers perform the same movement but start at different times, like a round in music.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_019",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.6b",
+    "prompt": "In music, the distance in pitch between two notes is called ___.",
+    "choices": [
+      "a dynamic",
+      "a tempo",
+      "an interval",
+      "a measure"
+    ],
+    "correctAnswer": "an interval",
+    "explanation": "An interval is the distance between two pitches, such as a third or a fifth.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g6_020",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.6a",
+    "prompt": "Which of the following instruments are members of the woodwind family? Select all that apply.",
+    "choices": [
+      "Bassoon",
+      "Flute",
+      "Saxophone",
+      "Trombone",
+      "French horn",
+      "Oboe"
+    ],
+    "correctAnswers": [
+      "Bassoon",
+      "Flute",
+      "Saxophone",
+      "Oboe"
+    ],
+    "explanation": "Flute, oboe, bassoon, and saxophone are woodwinds. The saxophone is made of metal but uses a reed, so it is a woodwind. The trombone and French horn are brass.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g6_021",
+    "subject": "ARTS",
+    "type": "CLOZE",
+    "gradeLevel": 6,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.6a",
+    "prompt": "Use the word bank: melody, harmony, timbre. The quality of sound that lets you tell a flute from a violin playing the same note is ___. Two or more different pitches sounding together create ___.",
+    "blanks": [
+      "timbre",
+      "harmony"
+    ],
+    "explanation": "Timbre (tone color) is the characteristic sound of an instrument or voice. Harmony is created when different pitches sound at the same time.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.9,
+      "c": 0.0
+    }
+  }
+]

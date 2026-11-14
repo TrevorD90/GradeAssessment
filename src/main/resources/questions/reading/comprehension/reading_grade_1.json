@@ -1,0 +1,436 @@
+[
+  {
+    "id": "reading_g1_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.1.1",
+    "prompt": "What did the cat do after it woke up?",
+    "passage": "The little cat sat on a mat. It took a long nap in the sun. When it woke up, the cat went to its bowl and drank some milk. Then it played with a red ball.",
+    "choices": [
+      "It ran outside",
+      "It drank milk",
+      "It went to sleep again",
+      "It ate some fish"
+    ],
+    "correctAnswer": "It drank milk",
+    "explanation": "The passage says that when it woke up, the cat 'went to its bowl and drank some milk.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "RL.1.1",
+    "prompt": "Read: Ben has a dog named Spot. Spot likes to run and jump. Spot can catch a ball. What is Spot good at?",
+    "choices": [
+      "Sleeping",
+      "Cooking food",
+      "Reading books",
+      "Catching a ball"
+    ],
+    "correctAnswer": "Catching a ball",
+    "explanation": "The text says that Spot 'can catch a ball.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.1.1",
+    "prompt": "What are baby ducks called?",
+    "passage": "Ducks live by ponds. They have flat feet to help them swim. Ducks eat bugs and plants. Baby ducks are called ducklings. They swim in a line behind their mother.",
+    "choices": [
+      "ducklings",
+      "pups",
+      "kits",
+      "chicks"
+    ],
+    "correctAnswer": "ducklings",
+    "explanation": "The text says, 'Baby ducks are called ducklings.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.1.1",
+    "prompt": "What did Sam put in the hole?",
+    "passage": "Sam wanted to grow a flower. He put a seed in a hole in the dirt. He gave it water every day. Soon a red flower opened. Sam was so happy!",
+    "choices": [
+      "a rock",
+      "a bug",
+      "a seed",
+      "a ball"
+    ],
+    "correctAnswer": "a seed",
+    "explanation": "The story says, 'He put a seed in a hole in the dirt.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.1.5a",
+    "prompt": "Which word does NOT belong with the others?",
+    "choices": [
+      "apple",
+      "grape",
+      "banana",
+      "chair"
+    ],
+    "correctAnswer": "chair",
+    "explanation": "Apple, grape, and banana are all fruits. A chair is not a fruit.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RL.1.2",
+    "prompt": "What is this story mostly about?",
+    "passage": "Sam wanted to grow a flower. He put a seed in a hole in the dirt. He gave it water every day. Soon a red flower opened. Sam was so happy!",
+    "choices": [
+      "Sam likes to play outside",
+      "Sam dug a big hole",
+      "Sam grew a flower from a seed",
+      "Sam got a new pet"
+    ],
+    "correctAnswer": "Sam grew a flower from a seed",
+    "explanation": "The whole story tells how Sam planted a seed, watered it, and saw a red flower open.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.1.4a",
+    "prompt": "Word bank: moon, sun, fish. Type the words that fit. The ___ is up in the sky. It gives us light during the day. At night, we see the ___ and the stars.",
+    "blanks": [
+      "sun",
+      "moon"
+    ],
+    "explanation": "The sun gives light during the day. At night we see the moon and the stars. A fish is not in the sky.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g1_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.1.3",
+    "prompt": "How did Mia feel at the end of the story?",
+    "passage": "Mia could not find her toy bear. She looked under her bed. She looked in the closet. Then she found it in the toy box! Mia hugged her bear and smiled.",
+    "choices": [
+      "sad",
+      "angry",
+      "sleepy",
+      "happy"
+    ],
+    "correctAnswer": "happy",
+    "explanation": "At the end Mia 'hugged her bear and smiled,' which shows she felt happy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.1.2",
+    "prompt": "What is the main topic of this text?",
+    "passage": "Ducks live by ponds. They have flat feet to help them swim. Ducks eat bugs and plants. Baby ducks are called ducklings. They swim in a line behind their mother.",
+    "choices": [
+      "ponds",
+      "ducks",
+      "bugs",
+      "mothers"
+    ],
+    "correctAnswer": "ducks",
+    "explanation": "Every sentence gives a fact about ducks: where they live, their feet, their food, and their babies.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "RL.1.2",
+    "prompt": "Read: Kim got out of bed. She ate an egg. Then she got on the bus. At school, she said hi to her friend. Put the events in order.",
+    "orderedItems": [
+      "Kim got out of bed.",
+      "Kim ate an egg.",
+      "Kim got on the bus.",
+      "Kim said hi to her friend."
+    ],
+    "explanation": "The story tells the events in this order: out of bed, ate an egg, got on the bus, said hi at school. (Retelling events in order from a short text the child can see is an early, EASY version of this skill.)",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g1_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.1.4a",
+    "prompt": "Read: The puppy was tiny. It could fit in my hand. What does the word tiny mean?",
+    "choices": [
+      "very small",
+      "very loud",
+      "very fast",
+      "very old"
+    ],
+    "correctAnswer": "very small",
+    "explanation": "The clue 'It could fit in my hand' shows that tiny means very small.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.1.1",
+    "prompt": "Why do ducks have flat feet?",
+    "passage": "Ducks live by ponds. They have flat feet to help them swim. Ducks eat bugs and plants. Baby ducks are called ducklings. They swim in a line behind their mother.",
+    "choices": [
+      "to help them run",
+      "to help them eat",
+      "to help them swim",
+      "to keep them warm"
+    ],
+    "correctAnswer": "to help them swim",
+    "explanation": "The text says ducks 'have flat feet to help them swim.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RI.1.1",
+    "prompt": "Which sentence shows that ducklings stay close to their mother?",
+    "passage": "Ducks live by ponds. They have flat feet to help them swim. Ducks eat bugs and plants. Baby ducks are called ducklings. They swim in a line behind their mother.",
+    "choices": [
+      "Ducks live by ponds.",
+      "They swim in a line behind their mother.",
+      "Ducks eat bugs and plants.",
+      "They have flat feet to help them swim."
+    ],
+    "correctAnswer": "They swim in a line behind their mother.",
+    "explanation": "Swimming 'in a line behind their mother' shows the ducklings stay close to her.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RL.1.1",
+    "prompt": "Where was the cat when it took its nap?",
+    "passage": "The little cat sat on a mat. It took a long nap in the sun. When it woke up, the cat went to its bowl and drank some milk. Then it played with a red ball.",
+    "choices": [
+      "in its bowl",
+      "under a bed",
+      "on the mat in the sun",
+      "next to a red ball"
+    ],
+    "correctAnswer": "on the mat in the sun",
+    "explanation": "The cat 'sat on a mat' and then 'took a long nap in the sun,' so it napped on the mat in the sun.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.1.3",
+    "prompt": "Why did Mia hug her bear?",
+    "passage": "Mia could not find her toy bear. She looked under her bed. She looked in the closet. Then she found it in the toy box! Mia hugged her bear and smiled.",
+    "choices": [
+      "She was cold",
+      "She was glad she found it",
+      "Her mom told her to hug it",
+      "It was time for her to go to bed"
+    ],
+    "correctAnswer": "She was glad she found it",
+    "explanation": "Mia had looked in many places for her lost bear. When she found it she hugged it and smiled, so she was glad.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.1.1",
+    "prompt": "Read: Dark clouds filled the sky. Jen put on her raincoat and boots. What will most likely happen next?",
+    "choices": [
+      "The sun will come out",
+      "Jen will go to bed",
+      "Jen will go swimming",
+      "It will rain"
+    ],
+    "correctAnswer": "It will rain",
+    "explanation": "Dark clouds and Jen's raincoat and boots are clues that it is about to rain.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g1_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RI.1.1",
+    "prompt": "Read: Bats sleep in the day. At night they fly and eat bugs. Bats hang upside down when they sleep. Which things are true about bats? Select all that apply.",
+    "choices": [
+      "They sleep in the day",
+      "They swim in ponds",
+      "They eat bugs",
+      "They sleep at night"
+    ],
+    "correctAnswers": [
+      "They sleep in the day",
+      "They eat bugs"
+    ],
+    "explanation": "The text says bats 'sleep in the day' and 'eat bugs.' It does not say they swim, and they fly at night, not sleep.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.0
+    }
+  }
+]

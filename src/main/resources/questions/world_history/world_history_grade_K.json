@@ -1,0 +1,377 @@
+[
+  {
+    "id": "world_history_gk_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "Which one did people use long ago, before there were cars?",
+    "choices": [
+      "A school bus",
+      "An airplane",
+      "A horse and wagon"
+    ],
+    "correctAnswer": "A horse and wagon",
+    "explanation": "Long ago, before cars were invented, people used horses and wagons to travel and carry things.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_002",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.K.6.3",
+    "prompt": "Long ago, where did many people get their water?",
+    "choices": [
+      "From a well",
+      "From a kitchen faucet",
+      "From a plastic bottle"
+    ],
+    "correctAnswer": "From a well",
+    "explanation": "Long ago, homes did not have faucets. People carried water from wells, rivers and springs.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_003",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.K.5",
+    "prompt": "Put these in order from first to last.",
+    "orderedItems": [
+      "Baby",
+      "Child",
+      "Grown-up"
+    ],
+    "explanation": "People are babies first, then children, then grown-ups. Putting things in time order is the start of thinking about history.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_gk_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.1.K-2",
+    "prompt": "Which word means the day before today?",
+    "choices": [
+      "Tomorrow",
+      "Tonight",
+      "Yesterday"
+    ],
+    "correctAnswer": "Yesterday",
+    "explanation": "Yesterday is the day before today. Tomorrow is the day after today.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.K.6",
+    "prompt": "What do we call the time that already happened long ago?",
+    "choices": [
+      "The future",
+      "The past",
+      "Tomorrow"
+    ],
+    "correctAnswer": "The past",
+    "explanation": "The past is the time that has already happened. History is about the past.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "Long ago, there were no electric lights. What did people use to see at night?",
+    "choices": [
+      "Candles",
+      "Flashlights",
+      "Televisions"
+    ],
+    "correctAnswer": "Candles",
+    "explanation": "Before electric lights, people used candles, oil lamps and firelight to see at night.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "Which toys did children have long ago? Select all that apply.",
+    "choices": [
+      "Wooden toys",
+      "Video games",
+      "Dolls",
+      "Tablet computers"
+    ],
+    "correctAnswers": [
+      "Wooden toys",
+      "Dolls"
+    ],
+    "explanation": "Children long ago played with wooden toys and dolls. Video games and tablet computers were invented not long ago.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_gk_008",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.9.K-2",
+    "prompt": "Which one can show us what people looked like long ago?",
+    "choices": [
+      "A brand-new toy from a store",
+      "An old photograph",
+      "Tomorrow's weather report"
+    ],
+    "correctAnswer": "An old photograph",
+    "explanation": "Old photographs are pictures taken in the past. They show how people and places looked long ago.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_009",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.1.K-2",
+    "prompt": "Put the parts of a day in order from first to last.",
+    "orderedItems": [
+      "Morning",
+      "Afternoon",
+      "Night"
+    ],
+    "explanation": "A day starts with morning, then afternoon, then night.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_gk_010",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.K.4.2",
+    "prompt": "A globe is a model of what?",
+    "choices": [
+      "The Moon",
+      "A city",
+      "The Earth"
+    ],
+    "correctAnswer": "The Earth",
+    "explanation": "A globe is a round model of the Earth. It shows the land and water all around the world.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_011",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.K.6.1",
+    "prompt": "People all over the world have special days they celebrate every year. What is a special day like this called?",
+    "choices": [
+      "A holiday",
+      "A weekday",
+      "A recess"
+    ],
+    "correctAnswer": "A holiday",
+    "explanation": "A holiday is a special day that people celebrate, often every year. People around the world have many different holidays.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_012",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "How did Ana's great-grandmother get to school?",
+    "passage": "Long ago, Ana's great-grandmother walked to school. There were no buses. She wrote on a small board with chalk.",
+    "choices": [
+      "She rode a bus",
+      "She walked",
+      "She rode in a car"
+    ],
+    "correctAnswer": "She walked",
+    "explanation": "The story says Ana's great-grandmother walked to school because there were no buses.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_013",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "What is the SAME for children long ago and children today?",
+    "choices": [
+      "They watch TV",
+      "They play games on tablets",
+      "They need food and water"
+    ],
+    "correctAnswer": "They need food and water",
+    "explanation": "Some things change over time, but some stay the same. Children long ago and children today all need food and water.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_014",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.9.K-2",
+    "prompt": "Which things can tell us about the past? Select all that apply.",
+    "choices": [
+      "An old letter",
+      "A grandparent's story",
+      "A toy made today",
+      "Tomorrow's lunch"
+    ],
+    "correctAnswers": [
+      "An old letter",
+      "A grandparent's story"
+    ],
+    "explanation": "Old letters and stories told by older people tell us about the past. Things from today or tomorrow do not.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_gk_015",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.1.K-2",
+    "prompt": "Mia was a baby. Then she learned to walk. Now she goes to school. What happened first?",
+    "choices": [
+      "Mia was a baby",
+      "Mia learned to walk",
+      "Mia went to school"
+    ],
+    "correctAnswer": "Mia was a baby",
+    "explanation": "Mia was a baby first. After that she learned to walk, and then she started school.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "world_history_gk_016",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.14.K-2",
+    "prompt": "Long ago, a letter took many days to get to a friend far away. Why?",
+    "choices": [
+      "People long ago did not like getting or reading letters",
+      "People carried them on foot, by horse or by ship",
+      "Letters were too heavy for one person to carry"
+    ],
+    "correctAnswer": "People carried them on foot, by horse or by ship",
+    "explanation": "Long ago there were no airplanes, trucks or phones. Letters were carried on foot, on horses or on ships, so they moved slowly.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  }
+]

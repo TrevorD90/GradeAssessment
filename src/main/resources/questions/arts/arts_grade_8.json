@@ -1,0 +1,532 @@
+[
+  {
+    "id": "arts_g8_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.8a",
+    "prompt": "A sculpture that projects from a flat background, rather than standing free, is called a ___.",
+    "choices": [
+      "mural",
+      "mobile",
+      "bust",
+      "relief"
+    ],
+    "correctAnswer": "relief",
+    "explanation": "A relief is carved or modeled so that forms project from a flat surface. A mural is a painting on a wall.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_002",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.8b",
+    "prompt": "A three-note chord built by stacking two thirds, such as F-A-C, is called a ___.",
+    "correctAnswer": "triad",
+    "correctAnswers": [
+      "triad"
+    ],
+    "explanation": "A triad is a three-note chord made of a root, a third, and a fifth.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g8_003",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.8a",
+    "prompt": "Every major key has a relative minor key that shares its key signature. What is the relative minor of G major?",
+    "choices": [
+      "E minor",
+      "D minor",
+      "A minor",
+      "G minor"
+    ],
+    "correctAnswer": "E minor",
+    "explanation": "The relative minor begins on the sixth degree of the major scale. In G major (G-A-B-C-D-E-F-sharp) the sixth note is E, and both keys have one sharp.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.8b",
+    "prompt": "Which term describes rhythm that places accents on normally weak beats or between the beats?",
+    "choices": [
+      "Legato",
+      "Modulation",
+      "Syncopation",
+      "Unison"
+    ],
+    "correctAnswer": "Syncopation",
+    "explanation": "Syncopation shifts the accent to weak beats or off-beats. It is common in jazz, ragtime, and many popular styles.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Cn11.1.8a",
+    "prompt": "Which American choreographer was a pioneer of modern dance and developed a technique based on \"contraction and release\"?",
+    "choices": [
+      "Fred Astaire",
+      "Bob Fosse",
+      "George Balanchine",
+      "Martha Graham"
+    ],
+    "correctAnswer": "Martha Graham",
+    "explanation": "Martha Graham built her modern dance technique on the contraction and release of the torso. Balanchine was a ballet choreographer.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_006",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "VA:Re8.1.8a",
+    "prompt": "Which interpretation is best supported by the details of the photograph?",
+    "passage": "A black-and-white photograph from the 1930s shows a mother staring into the distance with her hand at her chin. Two children lean against her shoulders and hide their faces from the camera. Her clothes are worn, and deep lines cross her forehead.",
+    "choices": [
+      "It celebrates a joyful family holiday",
+      "It was made to advertise new children's clothing for a department store",
+      "It shows off the family's wealth, success, and comfortable life in the city",
+      "It conveys worry and hardship and invites sympathy for the family"
+    ],
+    "correctAnswer": "It conveys worry and hardship and invites sympathy for the family",
+    "explanation": "The distant stare, lined forehead, worn clothes, and hidden faces are visual evidence of anxiety and hardship. A sound interpretation is based on evidence in the work.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_007",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Pr5.1.8.b",
+    "prompt": "Who is responsible for calling the lighting and sound cues and running the show during a performance?",
+    "choices": [
+      "The stage manager",
+      "The costume designer",
+      "The usher",
+      "The playwright"
+    ],
+    "correctAnswer": "The stage manager",
+    "explanation": "The stage manager coordinates rehearsals and calls all cues during performances.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.8b",
+    "prompt": "Which set of notes forms a G major triad?",
+    "choices": [
+      "G, B-flat, D",
+      "G, B, D",
+      "G, C, E",
+      "G, A, B"
+    ],
+    "correctAnswer": "G, B, D",
+    "explanation": "A major triad has a root, a major third, and a perfect fifth. From G these are G, B, and D. G, B-flat, D is a G minor triad.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_009",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MU:Re7.2.8a",
+    "prompt": "How does the musical texture change during this passage?",
+    "passage": "A piece begins with a single flute playing a melody with no accompaniment. Two measures later a second flute enters with the same melody while the first continues. Then a third flute enters the same way, so that three independent lines weave together.",
+    "choices": [
+      "From homophonic to monophonic",
+      "From monophonic to polyphonic",
+      "From polyphonic to homophonic",
+      "It stays monophonic throughout"
+    ],
+    "correctAnswer": "From monophonic to polyphonic",
+    "explanation": "One unaccompanied line is monophonic. Several independent melodic lines sounding together are polyphonic.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cn11.1.8a",
+    "prompt": "Which art movement, led by artists such as Andy Warhol and Roy Lichtenstein, used images from advertising and comic strips?",
+    "choices": [
+      "Baroque",
+      "Pop Art",
+      "Surrealism",
+      "Romanticism"
+    ],
+    "correctAnswer": "Pop Art",
+    "explanation": "Pop Art of the 1950s and 1960s drew on popular and commercial culture, such as soup cans and comic-strip panels.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_011",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.8b",
+    "prompt": "The 12-bar blues is built mainly on which three chords of a key?",
+    "choices": [
+      "II, III, and VI",
+      "I, IV, and V",
+      "III, VI, and VII",
+      "I, II, and III"
+    ],
+    "correctAnswer": "I, IV, and V",
+    "explanation": "The standard 12-bar blues uses the tonic (I), subdominant (IV), and dominant (V) chords.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_012",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Cr1.1.8.b",
+    "prompt": "A designer wants the set of a play to show that a family feels trapped in its home. Which design choice best supports this idea?",
+    "choices": [
+      "A wide, empty stage with a distant horizon",
+      "A bright garden with open gates",
+      "A low ceiling, walls that angle inward, and crowded furniture",
+      "A raised platform with tall, open windows on every side"
+    ],
+    "correctAnswer": "A low ceiling, walls that angle inward, and crowded furniture",
+    "explanation": "Low, closing-in walls and clutter create a sense of confinement. Open space, gates, and windows would suggest freedom instead.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_013",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Pr5.1.8a",
+    "prompt": "In ballet, a plie is ___.",
+    "choices": [
+      "a bending of the knees",
+      "a bow at the end of a performance",
+      "a turn on one leg",
+      "a leap from one foot to the other"
+    ],
+    "correctAnswer": "a bending of the knees",
+    "explanation": "Plie is French for \"bent.\" It is a smooth bending of the knees and one of the basic movements of ballet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cr2.1.8a",
+    "prompt": "An artist draws an arm that points straight at the viewer, making it look much shorter than its real length. Which technique is this?",
+    "choices": [
+      "Pointillism",
+      "Contour drawing",
+      "Foreshortening",
+      "Sfumato"
+    ],
+    "correctAnswer": "Foreshortening",
+    "explanation": "Foreshortening shortens the lines of an object to show that it extends toward or away from the viewer.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_015",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "VA:Re7.2.8a",
+    "prompt": "Claude Monet painted the same haystacks many times, at different hours of the day and in different seasons. What was he mainly investigating?",
+    "choices": [
+      "How to draw human anatomy accurately",
+      "How to construct accurate two-point perspective",
+      "How changing light and atmosphere alter the colors of a subject",
+      "How to tell stories from ancient mythology"
+    ],
+    "correctAnswer": "How changing light and atmosphere alter the colors of a subject",
+    "explanation": "Monet's series paintings study how light and weather change the appearance and color of one subject, a central concern of Impressionism.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_016",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MA:Cn11.1.8b",
+    "prompt": "Using someone else's music or images in your own video without permission may violate ___.",
+    "choices": [
+      "saturation",
+      "resolution",
+      "frame rate",
+      "copyright"
+    ],
+    "correctAnswer": "copyright",
+    "explanation": "Copyright law protects creators' original works. Media artists must get permission or use work that is licensed for reuse.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_017",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.8a",
+    "prompt": "Surrealist artists such as Salvador Dali and Rene Magritte are best known for ___.",
+    "choices": [
+      "dreamlike, illogical scenes painted in realistic detail",
+      "quick outdoor studies of changing sunlight",
+      "objects broken into overlapping geometric planes",
+      "huge canvases covered with dripped paint"
+    ],
+    "correctAnswer": "dreamlike, illogical scenes painted in realistic detail",
+    "explanation": "Surrealism explored dreams and the unconscious, often combining unrelated objects in precisely painted, impossible scenes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_018",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "DA:Re7.1.8b",
+    "prompt": "A dance critic writes: \"The dancers attacked the opening with sharp, percussive, forceful movements, then melted into smooth, sustained, flowing ones.\" Which element of dance is the critic mainly describing?",
+    "choices": [
+      "Energy (movement quality)",
+      "Space (pathways and levels)",
+      "Relationship (dancer groupings)",
+      "Costume design"
+    ],
+    "correctAnswer": "Energy (movement quality)",
+    "explanation": "Words such as percussive, forceful, sustained, and flowing describe energy, the quality or force of movement.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_019",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "TH:Pr4.1.8.a",
+    "prompt": "In theatre, \"breaking the fourth wall\" means ___.",
+    "choices": [
+      "a piece of scenery falls over during the show",
+      "a character speaks directly to the audience",
+      "the director changes the script during rehearsals",
+      "an actor leaves the stage in the middle of a scene"
+    ],
+    "correctAnswer": "a character speaks directly to the audience",
+    "explanation": "The fourth wall is the imaginary wall between the actors and the audience. Addressing the audience directly breaks it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g8_020",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MA:Pr5.1.8a",
+    "prompt": "Which of the following are main tasks of a video editor? Select all that apply.",
+    "choices": [
+      "Arranging shots into a sequence",
+      "Operating the camera during filming",
+      "Selecting the best takes",
+      "Adjusting the timing and pace of the cuts",
+      "Writing the screenplay"
+    ],
+    "correctAnswers": [
+      "Arranging shots into a sequence",
+      "Selecting the best takes",
+      "Adjusting the timing and pace of the cuts"
+    ],
+    "explanation": "Editors choose, arrange, and time the recorded shots. Screenwriters write the script, and camera operators record the footage.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g8_021",
+    "subject": "ARTS",
+    "type": "CLOZE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Pr4.2.8b",
+    "prompt": "Use the word bank: major, minor, chromatic. A scale that follows the pattern whole-whole-half-whole-whole-whole-half is a ___ scale. A scale made up entirely of half steps is a ___ scale.",
+    "blanks": [
+      "major",
+      "chromatic"
+    ],
+    "explanation": "The major scale uses the pattern W-W-H-W-W-W-H. The chromatic scale moves by half steps through all twelve pitches.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g8_022",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Pr4.2.8b",
+    "prompt": "Arrange these dynamic markings from softest to loudest.",
+    "orderedItems": [
+      "pp",
+      "p",
+      "mp",
+      "mf",
+      "f",
+      "ff"
+    ],
+    "explanation": "From softest to loudest: pianissimo (pp), piano (p), mezzo piano (mp), mezzo forte (mf), forte (f), fortissimo (ff).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  }
+]

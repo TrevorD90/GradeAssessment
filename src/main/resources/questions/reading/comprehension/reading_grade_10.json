@@ -1,0 +1,492 @@
+[
+  {
+    "id": "reading_g10_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.9-10.1",
+    "prompt": "According to the passage, for whom was the Mercator projection devised?",
+    "passage": "A map looks like the most honest of documents. It has no adjectives; it makes no speeches. It merely shows where things are. And yet every map is an argument disguised as a description. Because a sphere cannot be flattened without distortion, the cartographer must decide what to sacrifice. The familiar Mercator projection, devised in 1569 for sailors, preserves compass directions at the cost of size: it swells the lands near the poles until Greenland appears as large as Africa, a continent in fact some fourteen times greater in area. Generations of schoolchildren have absorbed this inflated north without ever being told that it was a navigator's convenience rather than a fact of nature. The choices do not end with geometry. Someone decides which towns deserve a dot and which may vanish, where the center of the page falls, and whether a disputed border is drawn as a firm line or a tentative dash. Such decisions are rarely sinister. They are simply unavoidable, since a map that included everything would be as large and as useless as the territory itself. The mistake lies not in making choices but in forgetting that they were made. To read a map well is to ask not only 'Where is it?' but also 'Who drew this, and for what purpose?'",
+    "choices": [
+      "schoolchildren",
+      "governments",
+      "sailors",
+      "African mapmakers"
+    ],
+    "correctAnswer": "sailors",
+    "explanation": "The passage says the projection was 'devised in 1569 for sailors' and calls it 'a navigator's convenience.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.9-10.1",
+    "prompt": "What did Semmelweis order his staff to do?",
+    "passage": "In 1847, a Hungarian physician named Ignaz Semmelweis noticed a grim pattern in the Vienna hospital where he worked. In the maternity ward staffed by doctors and medical students, roughly one new mother in ten died of childbed fever; in the neighboring ward run by midwives, the rate was less than half as high. The doctors, he realized, often came to deliveries straight from performing autopsies. Suspecting that they carried some deadly material on their hands, he ordered his staff to wash in a chlorine solution before examining patients. Deaths in his ward plummeted within months. One might expect that such a result would have been celebrated. Instead, it was resented. Semmelweis could not explain why handwashing worked, for the germ theory of disease lay two decades in the future, and his proposal carried an insult that his colleagues could not forgive: that gentlemen physicians were themselves the agents of death. He made matters worse by denouncing his critics as murderers. Dismissed from his post, he died in an asylum in 1865, his reform largely abandoned. Vindication came only later, when the work of Louis Pasteur and Joseph Lister supplied the theory that his evidence had lacked. His story endures as a warning that being right is not the same as being persuasive.",
+    "choices": [
+      "wash their hands in a chlorine solution before examining patients",
+      "stop performing autopsies altogether",
+      "move all patients into the ward run by midwives",
+      "wear gloves during every delivery"
+    ],
+    "correctAnswer": "wash their hands in a chlorine solution before examining patients",
+    "explanation": "The passage says 'he ordered his staff to wash in a chlorine solution before examining patients.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.9-10.1",
+    "prompt": "What did Mr. Okafor find in the bottom drawer of his desk?",
+    "passage": "Mr. Okafor had taught chemistry at Linden High for thirty-one years, and on the last afternoon of the last of them he found that he had nothing to pack. The posters belonged to the school. The beakers belonged to the school. Even the periodic table above the board, whose faded corner he had taped and retaped, would stay for his successor, a brisk young woman who had already measured the windows for blinds. He opened the bottom drawer of his desk out of thoroughness rather than hope, and there, beneath a drift of expired hall passes, lay a single index card. 'Dear Mr. O,' it read, in purple ink. 'You said I asked good questions. Nobody ever said that before. I'm going to be a nurse. Dana R., 4th period.' There was no date. He tried to summon a face and could not; there had been, by his rough arithmetic, some four thousand students, and several Danas. He stood for a while with the card in his hand. Outside, the buses were pulling away, and the building was settling into its summer silence. Then he slid the card into his shirt pocket, switched off the lights, and left the drawer open behind him, empty, for whoever came next.",
+    "choices": [
+      "a faded periodic table with a taped corner",
+      "an index card from a former student",
+      "a retirement gift",
+      "a photograph of his first chemistry class"
+    ],
+    "correctAnswer": "an index card from a former student",
+    "explanation": "Beneath the expired hall passes 'lay a single index card' signed 'Dana R., 4th period.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "RI.9-10.1",
+    "prompt": "According to the author, what would a right-to-repair law require?",
+    "passage": "When a tractor breaks down in the middle of harvest, a farmer cannot wait two weeks for an authorized technician. Yet many manufacturers now design their machines so that no one else can fix them. Software locks reject replacement parts that the company has not approved; repair manuals and diagnostic tools are withheld from owners and independent shops alike. The same practices govern our phones, our cars, and our kitchen appliances. Manufacturers defend these restrictions in the language of safety and security, warning that amateur repairs could cause injuries or expose devices to hackers. The concern is not absurd, but it proves too much. We allow people to change their own brake pads and rewire their own lamps, tasks far more hazardous than swapping a cracked screen. The more plausible motive is financial: a company that monopolizes repair can charge what it likes, and a device that cannot be affordably fixed must be replaced. The costs fall on consumers, who pay more, and on the environment, which absorbs millions of tons of discarded electronics every year. A right-to-repair law would not force anyone to open a toolbox. It would simply require manufacturers to sell parts and share manuals on fair terms. If you cannot fix what you have bought, in what sense do you own it?",
+    "choices": [
+      "consumers to repair their own devices instead of using a technician",
+      "companies to repair all devices for free",
+      "a ban on software in farm machinery",
+      "manufacturers to sell parts and share manuals on fair terms"
+    ],
+    "correctAnswer": "manufacturers to sell parts and share manuals on fair terms",
+    "explanation": "The author says the law 'would not force anyone to open a toolbox. It would simply require manufacturers to sell parts and share manuals on fair terms.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.9-10.4b",
+    "prompt": "The Greek root 'path' means 'feeling,' and the prefix 'a-' means 'without.' A person who shows apathy shows",
+    "choices": [
+      "strong anger",
+      "a lack of feeling or interest",
+      "deep sympathy for the suffering of others",
+      "a strong fear of pain and illness"
+    ],
+    "correctAnswer": "a lack of feeling or interest",
+    "explanation": "'A-' (without) plus 'path' (feeling) gives apathy: a lack of feeling, interest, or concern.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.9-10.2",
+    "prompt": "Which statement best expresses the central idea of the passage?",
+    "passage": "A map looks like the most honest of documents. It has no adjectives; it makes no speeches. It merely shows where things are. And yet every map is an argument disguised as a description. Because a sphere cannot be flattened without distortion, the cartographer must decide what to sacrifice. The familiar Mercator projection, devised in 1569 for sailors, preserves compass directions at the cost of size: it swells the lands near the poles until Greenland appears as large as Africa, a continent in fact some fourteen times greater in area. Generations of schoolchildren have absorbed this inflated north without ever being told that it was a navigator's convenience rather than a fact of nature. The choices do not end with geometry. Someone decides which towns deserve a dot and which may vanish, where the center of the page falls, and whether a disputed border is drawn as a firm line or a tentative dash. Such decisions are rarely sinister. They are simply unavoidable, since a map that included everything would be as large and as useless as the territory itself. The mistake lies not in making choices but in forgetting that they were made. To read a map well is to ask not only 'Where is it?' but also 'Who drew this, and for what purpose?'",
+    "choices": [
+      "Maps reflect choices made by their makers, so readers should question them",
+      "The Mercator projection is so inaccurate that it should no longer be used in schools",
+      "Mapmakers have often tried to deceive the public",
+      "Cartography is mainly a branch of geometry"
+    ],
+    "correctAnswer": "Maps reflect choices made by their makers, so readers should question them",
+    "explanation": "The author says 'every map is an argument disguised as a description' and concludes that reading a map well means asking 'Who drew this, and for what purpose?' The decisions are called 'rarely sinister,' ruling out deliberate deception.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.9-10.3",
+    "prompt": "According to the passage, why did Semmelweis's colleagues resent his finding?",
+    "passage": "In 1847, a Hungarian physician named Ignaz Semmelweis noticed a grim pattern in the Vienna hospital where he worked. In the maternity ward staffed by doctors and medical students, roughly one new mother in ten died of childbed fever; in the neighboring ward run by midwives, the rate was less than half as high. The doctors, he realized, often came to deliveries straight from performing autopsies. Suspecting that they carried some deadly material on their hands, he ordered his staff to wash in a chlorine solution before examining patients. Deaths in his ward plummeted within months. One might expect that such a result would have been celebrated. Instead, it was resented. Semmelweis could not explain why handwashing worked, for the germ theory of disease lay two decades in the future, and his proposal carried an insult that his colleagues could not forgive: that gentlemen physicians were themselves the agents of death. He made matters worse by denouncing his critics as murderers. Dismissed from his post, he died in an asylum in 1865, his reform largely abandoned. Vindication came only later, when the work of Louis Pasteur and Joseph Lister supplied the theory that his evidence had lacked. His story endures as a warning that being right is not the same as being persuasive.",
+    "choices": [
+      "It required costly new equipment that the hospital could not afford",
+      "It had no effect on the death rate",
+      "It suggested that doctors were causing the deaths",
+      "It was proposed by a medical student rather than a senior doctor"
+    ],
+    "correctAnswer": "It suggested that doctors were causing the deaths",
+    "explanation": "The passage says his proposal 'carried an insult that his colleagues could not forgive: that gentlemen physicians were themselves the agents of death.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RL.9-10.4",
+    "prompt": "The narrator says Mr. Okafor opened the drawer 'out of thoroughness rather than hope.' What does this phrase suggest?",
+    "passage": "Mr. Okafor had taught chemistry at Linden High for thirty-one years, and on the last afternoon of the last of them he found that he had nothing to pack. The posters belonged to the school. The beakers belonged to the school. Even the periodic table above the board, whose faded corner he had taped and retaped, would stay for his successor, a brisk young woman who had already measured the windows for blinds. He opened the bottom drawer of his desk out of thoroughness rather than hope, and there, beneath a drift of expired hall passes, lay a single index card. 'Dear Mr. O,' it read, in purple ink. 'You said I asked good questions. Nobody ever said that before. I'm going to be a nurse. Dana R., 4th period.' There was no date. He tried to summon a face and could not; there had been, by his rough arithmetic, some four thousand students, and several Danas. He stood for a while with the card in his hand. Outside, the buses were pulling away, and the building was settling into its summer silence. Then he slid the card into his shirt pocket, switched off the lights, and left the drawer open behind him, empty, for whoever came next.",
+    "choices": [
+      "He was hoping to find a farewell gift",
+      "He was careless about his belongings",
+      "He was searching for the index card",
+      "He expected to find nothing of his own"
+    ],
+    "correctAnswer": "He expected to find nothing of his own",
+    "explanation": "He had already found 'that he had nothing to pack.' He checks the drawer only to be complete, not because he expects to discover anything.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.9-10.8",
+    "prompt": "How does the author respond to manufacturers' safety argument?",
+    "passage": "When a tractor breaks down in the middle of harvest, a farmer cannot wait two weeks for an authorized technician. Yet many manufacturers now design their machines so that no one else can fix them. Software locks reject replacement parts that the company has not approved; repair manuals and diagnostic tools are withheld from owners and independent shops alike. The same practices govern our phones, our cars, and our kitchen appliances. Manufacturers defend these restrictions in the language of safety and security, warning that amateur repairs could cause injuries or expose devices to hackers. The concern is not absurd, but it proves too much. We allow people to change their own brake pads and rewire their own lamps, tasks far more hazardous than swapping a cracked screen. The more plausible motive is financial: a company that monopolizes repair can charge what it likes, and a device that cannot be affordably fixed must be replaced. The costs fall on consumers, who pay more, and on the environment, which absorbs millions of tons of discarded electronics every year. A right-to-repair law would not force anyone to open a toolbox. It would simply require manufacturers to sell parts and share manuals on fair terms. If you cannot fix what you have bought, in what sense do you own it?",
+    "choices": [
+      "By denying that repairs carry any risk at all",
+      "By conceding it has some merit, then noting that riskier repairs are already permitted",
+      "By ignoring it and changing the subject",
+      "By agreeing that only authorized experts should repair devices"
+    ],
+    "correctAnswer": "By conceding it has some merit, then noting that riskier repairs are already permitted",
+    "explanation": "The author grants that 'The concern is not absurd, but it proves too much,' then points out that people may 'change their own brake pads and rewire their own lamps, tasks far more hazardous than swapping a cracked screen.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.9-10.4a",
+    "prompt": "Word bank: tentative, sinister, plausible. Use each word only once. The detective considered the alibi ___ because two witnesses supported it. The toddler took a few ___ steps before letting go of the couch.",
+    "blanks": [
+      "plausible",
+      "tentative"
+    ],
+    "explanation": "An alibi supported by witnesses is plausible (believable). A toddler's first unsure steps are tentative (hesitant).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g10_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.9-10.5b",
+    "prompt": "All four words describe someone who refuses to give up. Which word has the most POSITIVE connotation?",
+    "choices": [
+      "stubborn",
+      "pigheaded",
+      "persistent",
+      "obstinate"
+    ],
+    "correctAnswer": "persistent",
+    "explanation": "The words share a similar denotation, but 'persistent' suggests admirable determination, while the others suggest unreasonable refusal to change.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.9-10.3",
+    "prompt": "Read: Semmelweis noticed that far more mothers died in the doctors' ward than in the midwives' ward. He concluded that doctors were carrying something harmful from autopsies and ordered handwashing. Deaths fell sharply, but his colleagues rejected the idea and he was dismissed. Years after his death, germ theory showed that he had been right. Put the events in order.",
+    "orderedItems": [
+      "Semmelweis notices the difference in death rates",
+      "Semmelweis orders his staff to wash their hands",
+      "Semmelweis is dismissed from his post",
+      "Germ theory shows that Semmelweis was right"
+    ],
+    "explanation": "The summary follows time order: observation, handwashing order, rejection and dismissal, and finally vindication after his death.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g10_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.9-10.4",
+    "prompt": "Which is the best interpretation of the claim that 'every map is an argument disguised as a description'?",
+    "passage": "A map looks like the most honest of documents. It has no adjectives; it makes no speeches. It merely shows where things are. And yet every map is an argument disguised as a description. Because a sphere cannot be flattened without distortion, the cartographer must decide what to sacrifice. The familiar Mercator projection, devised in 1569 for sailors, preserves compass directions at the cost of size: it swells the lands near the poles until Greenland appears as large as Africa, a continent in fact some fourteen times greater in area. Generations of schoolchildren have absorbed this inflated north without ever being told that it was a navigator's convenience rather than a fact of nature. The choices do not end with geometry. Someone decides which towns deserve a dot and which may vanish, where the center of the page falls, and whether a disputed border is drawn as a firm line or a tentative dash. Such decisions are rarely sinister. They are simply unavoidable, since a map that included everything would be as large and as useless as the territory itself. The mistake lies not in making choices but in forgetting that they were made. To read a map well is to ask not only 'Where is it?' but also 'Who drew this, and for what purpose?'",
+    "choices": [
+      "Maps usually include persuasive text along with pictures",
+      "A map appears neutral, but it embodies its maker's decisions and priorities",
+      "Mapmakers deliberately mislead the people who use their maps in order to win arguments",
+      "Written descriptions are more reliable than maps"
+    ],
+    "correctAnswer": "A map appears neutral, but it embodies its maker's decisions and priorities",
+    "explanation": "The passage shows that mapmakers must choose what to distort, include, and center. A map therefore presents a point of view while looking like plain fact. The author says such choices are 'rarely sinister,' so deliberate deception is not the point.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.9-10.5",
+    "prompt": "What purpose is served by the statement that 'a map that included everything would be as large and as useless as the territory itself'?",
+    "passage": "A map looks like the most honest of documents. It has no adjectives; it makes no speeches. It merely shows where things are. And yet every map is an argument disguised as a description. Because a sphere cannot be flattened without distortion, the cartographer must decide what to sacrifice. The familiar Mercator projection, devised in 1569 for sailors, preserves compass directions at the cost of size: it swells the lands near the poles until Greenland appears as large as Africa, a continent in fact some fourteen times greater in area. Generations of schoolchildren have absorbed this inflated north without ever being told that it was a navigator's convenience rather than a fact of nature. The choices do not end with geometry. Someone decides which towns deserve a dot and which may vanish, where the center of the page falls, and whether a disputed border is drawn as a firm line or a tentative dash. Such decisions are rarely sinister. They are simply unavoidable, since a map that included everything would be as large and as useless as the territory itself. The mistake lies not in making choices but in forgetting that they were made. To read a map well is to ask not only 'Where is it?' but also 'Who drew this, and for what purpose?'",
+    "choices": [
+      "It argues that maps are generally too useless to be worth making",
+      "It criticizes the Mercator projection for distorting the sizes of lands",
+      "It explains how a sphere is flattened",
+      "It shows that leaving things out is unavoidable, not a flaw"
+    ],
+    "correctAnswer": "It shows that leaving things out is unavoidable, not a flaw",
+    "explanation": "The statement supports the sentence before it: the decisions 'are simply unavoidable.' A useful map must leave things out.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RL.9-10.2",
+    "prompt": "Mr. Okafor finds 'that he had nothing to pack,' yet he leaves with the card in his pocket. What does this contrast suggest about the passage's theme?",
+    "passage": "Mr. Okafor had taught chemistry at Linden High for thirty-one years, and on the last afternoon of the last of them he found that he had nothing to pack. The posters belonged to the school. The beakers belonged to the school. Even the periodic table above the board, whose faded corner he had taped and retaped, would stay for his successor, a brisk young woman who had already measured the windows for blinds. He opened the bottom drawer of his desk out of thoroughness rather than hope, and there, beneath a drift of expired hall passes, lay a single index card. 'Dear Mr. O,' it read, in purple ink. 'You said I asked good questions. Nobody ever said that before. I'm going to be a nurse. Dana R., 4th period.' There was no date. He tried to summon a face and could not; there had been, by his rough arithmetic, some four thousand students, and several Danas. He stood for a while with the card in his hand. Outside, the buses were pulling away, and the building was settling into its summer silence. Then he slid the card into his shirt pocket, switched off the lights, and left the drawer open behind him, empty, for whoever came next.",
+    "choices": [
+      "A teacher's lasting legacy is his effect on students rather than anything material",
+      "Teachers should keep better records of their students",
+      "Schools often fail to notice their most loyal teachers",
+      "Students rarely remember their teachers"
+    ],
+    "correctAnswer": "A teacher's lasting legacy is his effect on students rather than anything material",
+    "explanation": "Everything physical 'belonged to the school,' but the one thing he takes is a student's note saying his encouragement shaped her future. What he truly made in thirty-one years is not an object.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RL.9-10.5",
+    "prompt": "What does the final image, the drawer left 'open behind him, empty, for whoever came next,' most strongly suggest?",
+    "passage": "Mr. Okafor had taught chemistry at Linden High for thirty-one years, and on the last afternoon of the last of them he found that he had nothing to pack. The posters belonged to the school. The beakers belonged to the school. Even the periodic table above the board, whose faded corner he had taped and retaped, would stay for his successor, a brisk young woman who had already measured the windows for blinds. He opened the bottom drawer of his desk out of thoroughness rather than hope, and there, beneath a drift of expired hall passes, lay a single index card. 'Dear Mr. O,' it read, in purple ink. 'You said I asked good questions. Nobody ever said that before. I'm going to be a nurse. Dana R., 4th period.' There was no date. He tried to summon a face and could not; there had been, by his rough arithmetic, some four thousand students, and several Danas. He stood for a while with the card in his hand. Outside, the buses were pulling away, and the building was settling into its summer silence. Then he slid the card into his shirt pocket, switched off the lights, and left the drawer open behind him, empty, for whoever came next.",
+    "choices": [
+      "He is angry at the brisk young teacher who is taking his place",
+      "He has forgotten to finish cleaning out his desk before leaving",
+      "He quietly accepts that the room now passes to someone else",
+      "He plans to return in the fall"
+    ],
+    "correctAnswer": "He quietly accepts that the room now passes to someone else",
+    "explanation": "The phrase 'for whoever came next' presents the open drawer as something left ready for a successor. Nothing in his calm actions (pocketing the card, switching off the lights) suggests anger or forgetfulness.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.9-10.6",
+    "prompt": "What is the effect of the question that ends the passage?",
+    "passage": "When a tractor breaks down in the middle of harvest, a farmer cannot wait two weeks for an authorized technician. Yet many manufacturers now design their machines so that no one else can fix them. Software locks reject replacement parts that the company has not approved; repair manuals and diagnostic tools are withheld from owners and independent shops alike. The same practices govern our phones, our cars, and our kitchen appliances. Manufacturers defend these restrictions in the language of safety and security, warning that amateur repairs could cause injuries or expose devices to hackers. The concern is not absurd, but it proves too much. We allow people to change their own brake pads and rewire their own lamps, tasks far more hazardous than swapping a cracked screen. The more plausible motive is financial: a company that monopolizes repair can charge what it likes, and a device that cannot be affordably fixed must be replaced. The costs fall on consumers, who pay more, and on the environment, which absorbs millions of tons of discarded electronics every year. A right-to-repair law would not force anyone to open a toolbox. It would simply require manufacturers to sell parts and share manuals on fair terms. If you cannot fix what you have bought, in what sense do you own it?",
+    "choices": [
+      "It asks readers to supply a legal definition",
+      "It suggests that repair limits undermine real ownership",
+      "It shows that the author is uncertain about the argument for repair laws",
+      "It shifts the passage to an unrelated topic"
+    ],
+    "correctAnswer": "It suggests that repair limits undermine real ownership",
+    "explanation": "The rhetorical question 'in what sense do you own it?' leaves readers with the idea that buying something should include the right to fix it, reinforcing the argument.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_018",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.9-10.2",
+    "prompt": "Which detail best supports the passage's final statement that 'being right is not the same as being persuasive'?",
+    "passage": "In 1847, a Hungarian physician named Ignaz Semmelweis noticed a grim pattern in the Vienna hospital where he worked. In the maternity ward staffed by doctors and medical students, roughly one new mother in ten died of childbed fever; in the neighboring ward run by midwives, the rate was less than half as high. The doctors, he realized, often came to deliveries straight from performing autopsies. Suspecting that they carried some deadly material on their hands, he ordered his staff to wash in a chlorine solution before examining patients. Deaths in his ward plummeted within months. One might expect that such a result would have been celebrated. Instead, it was resented. Semmelweis could not explain why handwashing worked, for the germ theory of disease lay two decades in the future, and his proposal carried an insult that his colleagues could not forgive: that gentlemen physicians were themselves the agents of death. He made matters worse by denouncing his critics as murderers. Dismissed from his post, he died in an asylum in 1865, his reform largely abandoned. Vindication came only later, when the work of Louis Pasteur and Joseph Lister supplied the theory that his evidence had lacked. His story endures as a warning that being right is not the same as being persuasive.",
+    "choices": [
+      "The midwives' ward had a lower death rate than the doctors' ward",
+      "Doctors and medical students often came to deliveries straight from performing autopsies",
+      "Pasteur and Lister later developed the germ theory",
+      "Semmelweis had strong results but could not explain them and called his critics murderers"
+    ],
+    "correctAnswer": "Semmelweis had strong results but could not explain them and called his critics murderers",
+    "explanation": "His results were correct ('Deaths in his ward plummeted'), yet he 'could not explain why handwashing worked' and 'made matters worse by denouncing his critics,' so he failed to convince them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g10_019",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.9-10.8",
+    "prompt": "Which of the following statements contain flawed reasoning (a logical fallacy)? Select all that apply.",
+    "choices": [
+      "My opponent's plan for the park must be bad; after all, he was once fired from a job.",
+      "Three independent studies found the medicine effective, which supports approving it.",
+      "Everyone is buying this phone, so it must be the best one.",
+      "The bridge passed a full inspection last month, so it is reasonable to keep it open.",
+      "If we let students chew gum in class, soon they will ignore every rule in the school."
+    ],
+    "correctAnswers": [
+      "My opponent's plan for the park must be bad; after all, he was once fired from a job.",
+      "Everyone is buying this phone, so it must be the best one.",
+      "If we let students chew gum in class, soon they will ignore every rule in the school."
+    ],
+    "explanation": "The first attacks the person instead of the plan (ad hominem), the third treats popularity as proof (bandwagon), and the fifth claims without support that one small step will lead to an extreme result (slippery slope). The other two draw reasonable conclusions from relevant evidence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  }
+]

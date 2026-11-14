@@ -1,0 +1,466 @@
+[
+  {
+    "id": "reading_g5_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.5.1",
+    "prompt": "Where had the envelope come from?",
+    "passage": "The envelope had been sitting on the kitchen table since Tuesday. Every morning, Elara walked past it on her way to the bus stop. She knew the return address by heart -- it was the Academy of Fine Arts. Inside was the answer to whether her portfolio had been accepted. On Friday afternoon, she finally picked it up. Her hands trembled as she slid her finger under the seal. Whatever was inside would change everything.",
+    "choices": [
+      "the principal's office at Elara's school",
+      "the bus company",
+      "the Academy of Fine Arts",
+      "Elara's grandmother"
+    ],
+    "correctAnswer": "the Academy of Fine Arts",
+    "explanation": "The passage says Elara 'knew the return address by heart -- it was the Academy of Fine Arts.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.5.1",
+    "prompt": "According to the passage, what builds a coral reef?",
+    "passage": "Coral reefs are sometimes called the rainforests of the sea. Although reefs cover less than one percent of the ocean floor, they provide a home for about a quarter of all ocean species. A reef may look like colorful rock, but it is actually built by tiny animals called coral polyps. Each polyp produces a hard limestone skeleton, and over thousands of years these skeletons pile up to form a reef. Corals depend on microscopic algae that live inside their bodies. The algae use sunlight to make food, which they share with the coral, and they give the coral its brilliant color. When ocean water becomes too warm, however, the stressed corals push the algae out. The corals turn white, an event known as bleaching. A bleached coral is not dead, but without its algae it can slowly starve unless the water cools again.",
+    "choices": [
+      "tiny animals called coral polyps",
+      "microscopic algae that float in the water",
+      "colorful rocks",
+      "warm ocean water moving over the rocks"
+    ],
+    "correctAnswer": "tiny animals called coral polyps",
+    "explanation": "The passage says a reef 'is actually built by tiny animals called coral polyps.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.5.1",
+    "prompt": "How many bicycle accidents did the police report on Maple Street last year?",
+    "passage": "Our town should build a bike lane along Maple Street. First, the street is dangerous for cyclists. Last year, the police reported six accidents involving bicycles on Maple Street, more than on any other road in town. A marked lane would give riders a safe space away from cars. Second, a bike lane would reduce traffic. A survey by the middle school found that 120 students would ride to school if the route were safer. That means fewer cars crowding the street each morning. Some people argue that the lane would cost too much. However, the state offers grants that would pay for most of the paint and signs. A bike lane is a small investment that would make our town safer, cleaner, and less crowded. The town council should approve it this spring.",
+    "choices": [
+      "three",
+      "six",
+      "twenty",
+      "one hundred twenty"
+    ],
+    "correctAnswer": "six",
+    "explanation": "The passage says 'the police reported six accidents involving bicycles on Maple Street.' The number 120 refers to students in a survey.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.5.5c",
+    "prompt": "Which word is an antonym of 'generous'?",
+    "choices": [
+      "kind",
+      "wealthy",
+      "cheerful",
+      "selfish"
+    ],
+    "correctAnswer": "selfish",
+    "explanation": "A generous person gives freely; a selfish person keeps things for himself or herself, so the words are opposites.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.5.1",
+    "prompt": "What did Abuelo give Mateo to fix?",
+    "passage": "Every Saturday, Mateo helped his grandfather in the repair shop at the back of the house. The shop smelled of oil and old wood, and dozens of clocks ticked on the walls like a crowd of tiny hearts. Mateo usually swept the floor and sorted screws, but today Abuelo placed a silver pocket watch in his palm. 'This one is yours to fix,' he said. Mateo's fingers felt as thick as sausages as he pried open the case. A gear no bigger than a lentil slipped from his tweezers and vanished under the bench. He wanted to quit. Abuelo only handed him a flashlight. 'Every watchmaker spends half his life on his knees,' he said with a wink. An hour later, Mateo found the gear, set it in place, and heard the faintest tick. He had never heard a sweeter sound.",
+    "choices": [
+      "a wall clock",
+      "a silver pocket watch",
+      "a flashlight",
+      "a pair of tweezers"
+    ],
+    "correctAnswer": "a silver pocket watch",
+    "explanation": "The passage says 'Abuelo placed a silver pocket watch in his palm' and said, 'This one is yours to fix.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.5.1",
+    "prompt": "Based on the passage, why does Elara wait so long before opening the envelope?",
+    "passage": "The envelope had been sitting on the kitchen table since Tuesday. Every morning, Elara walked past it on her way to the bus stop. She knew the return address by heart -- it was the Academy of Fine Arts. Inside was the answer to whether her portfolio had been accepted. On Friday afternoon, she finally picked it up. Her hands trembled as she slid her finger under the seal. Whatever was inside would change everything.",
+    "choices": [
+      "She is afraid of paper cuts",
+      "She forgot the letter was there",
+      "She has decided that she does not care about art anymore",
+      "She is anxious about whether she was accepted"
+    ],
+    "correctAnswer": "She is anxious about whether she was accepted",
+    "explanation": "Elara walks past the envelope every day, her 'hands trembled,' and she believes the answer 'would change everything.' These details show she is anxious about the decision.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.5.3",
+    "prompt": "Which statement best describes the relationship between corals and the algae?",
+    "passage": "Coral reefs are sometimes called the rainforests of the sea. Although reefs cover less than one percent of the ocean floor, they provide a home for about a quarter of all ocean species. A reef may look like colorful rock, but it is actually built by tiny animals called coral polyps. Each polyp produces a hard limestone skeleton, and over thousands of years these skeletons pile up to form a reef. Corals depend on microscopic algae that live inside their bodies. The algae use sunlight to make food, which they share with the coral, and they give the coral its brilliant color. When ocean water becomes too warm, however, the stressed corals push the algae out. The corals turn white, an event known as bleaching. A bleached coral is not dead, but without its algae it can slowly starve unless the water cools again.",
+    "choices": [
+      "The algae slowly eat away at the coral's hard limestone skeleton",
+      "The coral hunts the algae for food",
+      "The algae live inside the coral and share the food they make",
+      "The two compete for sunlight"
+    ],
+    "correctAnswer": "The algae live inside the coral and share the food they make",
+    "explanation": "The passage says the algae 'live inside their bodies' and 'use sunlight to make food, which they share with the coral.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.5.8",
+    "prompt": "Which evidence does the author give to support the point that a bike lane would reduce traffic?",
+    "passage": "Our town should build a bike lane along Maple Street. First, the street is dangerous for cyclists. Last year, the police reported six accidents involving bicycles on Maple Street, more than on any other road in town. A marked lane would give riders a safe space away from cars. Second, a bike lane would reduce traffic. A survey by the middle school found that 120 students would ride to school if the route were safer. That means fewer cars crowding the street each morning. Some people argue that the lane would cost too much. However, the state offers grants that would pay for most of the paint and signs. A bike lane is a small investment that would make our town safer, cleaner, and less crowded. The town council should approve it this spring.",
+    "choices": [
+      "A survey found that 120 students would ride to school if the route were safer",
+      "The police reported six accidents involving bicycles on Maple Street last year",
+      "The state offers grants for paint and signs",
+      "The town council will vote in the spring"
+    ],
+    "correctAnswer": "A survey found that 120 students would ride to school if the route were safer",
+    "explanation": "Right after stating that 'a bike lane would reduce traffic,' the author cites the survey of 120 students and concludes, 'That means fewer cars.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.5.4",
+    "prompt": "The author writes that the clocks 'ticked on the walls like a crowd of tiny hearts.' What does this comparison help the reader imagine?",
+    "passage": "Every Saturday, Mateo helped his grandfather in the repair shop at the back of the house. The shop smelled of oil and old wood, and dozens of clocks ticked on the walls like a crowd of tiny hearts. Mateo usually swept the floor and sorted screws, but today Abuelo placed a silver pocket watch in his palm. 'This one is yours to fix,' he said. Mateo's fingers felt as thick as sausages as he pried open the case. A gear no bigger than a lentil slipped from his tweezers and vanished under the bench. He wanted to quit. Abuelo only handed him a flashlight. 'Every watchmaker spends half his life on his knees,' he said with a wink. An hour later, Mateo found the gear, set it in place, and heard the faintest tick. He had never heard a sweeter sound.",
+    "choices": [
+      "that the clocks are shaped like hearts",
+      "the steady, living sound that fills the shop",
+      "that the clocks are all broken",
+      "that the shop is a frightening place"
+    ],
+    "correctAnswer": "the steady, living sound that fills the shop",
+    "explanation": "A simile compares the ticking to heartbeats, suggesting a steady rhythm that makes the shop seem alive.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.5.4a",
+    "prompt": "Word bank: microscopic, brilliant, stressed. Use each word only once. Germs are ___, so you cannot see them without a special lens. The fireworks lit the sky with ___ colors.",
+    "blanks": [
+      "microscopic",
+      "brilliant"
+    ],
+    "explanation": "Things too small to see without a lens are microscopic. Fireworks have brilliant (very bright) colors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g5_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.5.5b",
+    "prompt": "Tara said the math test was 'a piece of cake.' What did she mean?",
+    "choices": [
+      "The test was delicious",
+      "The test was very short",
+      "The test was very easy",
+      "The test was unfair"
+    ],
+    "correctAnswer": "The test was very easy",
+    "explanation": "'A piece of cake' is an idiom meaning that something is very easy to do.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.5.3",
+    "prompt": "Read: When ocean water becomes too warm, corals become stressed. The stressed corals push out the algae living inside them. Without the algae, the corals turn white. If the water does not cool, the corals slowly starve. Put the events in order.",
+    "orderedItems": [
+      "Ocean water becomes too warm",
+      "Corals push out their algae",
+      "Corals turn white",
+      "Corals slowly starve"
+    ],
+    "explanation": "Each event causes the next: warm water, algae pushed out, corals turn white, and finally starvation if the water stays warm.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g5_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.5.4",
+    "prompt": "Why are coral reefs called 'the rainforests of the sea'?",
+    "passage": "Coral reefs are sometimes called the rainforests of the sea. Although reefs cover less than one percent of the ocean floor, they provide a home for about a quarter of all ocean species. A reef may look like colorful rock, but it is actually built by tiny animals called coral polyps. Each polyp produces a hard limestone skeleton, and over thousands of years these skeletons pile up to form a reef. Corals depend on microscopic algae that live inside their bodies. The algae use sunlight to make food, which they share with the coral, and they give the coral its brilliant color. When ocean water becomes too warm, however, the stressed corals push the algae out. The corals turn white, an event known as bleaching. A bleached coral is not dead, but without its algae it can slowly starve unless the water cools again.",
+    "choices": [
+      "They receive a great deal of rain throughout the year",
+      "They are made mostly of plants",
+      "They are green and leafy",
+      "They are home to a huge variety of living things"
+    ],
+    "correctAnswer": "They are home to a huge variety of living things",
+    "explanation": "The next sentence explains the comparison: reefs 'provide a home for about a quarter of all ocean species,' just as rainforests are home to many kinds of life.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.5.8",
+    "prompt": "How does the author respond to the argument that the bike lane would cost too much?",
+    "passage": "Our town should build a bike lane along Maple Street. First, the street is dangerous for cyclists. Last year, the police reported six accidents involving bicycles on Maple Street, more than on any other road in town. A marked lane would give riders a safe space away from cars. Second, a bike lane would reduce traffic. A survey by the middle school found that 120 students would ride to school if the route were safer. That means fewer cars crowding the street each morning. Some people argue that the lane would cost too much. However, the state offers grants that would pay for most of the paint and signs. A bike lane is a small investment that would make our town safer, cleaner, and less crowded. The town council should approve it this spring.",
+    "choices": [
+      "By saying that cost should not matter",
+      "By pointing out that state grants would pay for most of it",
+      "By suggesting that town taxes be raised to cover the full cost",
+      "By leaving the argument unanswered"
+    ],
+    "correctAnswer": "By pointing out that state grants would pay for most of it",
+    "explanation": "After 'Some people argue that the lane would cost too much,' the author answers, 'However, the state offers grants that would pay for most of the paint and signs.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.5.4",
+    "prompt": "What does Abuelo most likely mean when he says, 'Every watchmaker spends half his life on his knees'?",
+    "passage": "Every Saturday, Mateo helped his grandfather in the repair shop at the back of the house. The shop smelled of oil and old wood, and dozens of clocks ticked on the walls like a crowd of tiny hearts. Mateo usually swept the floor and sorted screws, but today Abuelo placed a silver pocket watch in his palm. 'This one is yours to fix,' he said. Mateo's fingers felt as thick as sausages as he pried open the case. A gear no bigger than a lentil slipped from his tweezers and vanished under the bench. He wanted to quit. Abuelo only handed him a flashlight. 'Every watchmaker spends half his life on his knees,' he said with a wink. An hour later, Mateo found the gear, set it in place, and heard the faintest tick. He had never heard a sweeter sound.",
+    "choices": [
+      "Dropping and searching for tiny parts is a normal part of the job",
+      "Watchmakers do not earn much money",
+      "Mateo is too clumsy to repair watches",
+      "Repairing watches is bad for the knees"
+    ],
+    "correctAnswer": "Dropping and searching for tiny parts is a normal part of the job",
+    "explanation": "Abuelo says this with a wink as he hands Mateo a flashlight to look under the bench, telling him that losing small parts happens to everyone and is no reason to quit.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.5.2",
+    "prompt": "Which statement best expresses the theme of the story?",
+    "passage": "Every Saturday, Mateo helped his grandfather in the repair shop at the back of the house. The shop smelled of oil and old wood, and dozens of clocks ticked on the walls like a crowd of tiny hearts. Mateo usually swept the floor and sorted screws, but today Abuelo placed a silver pocket watch in his palm. 'This one is yours to fix,' he said. Mateo's fingers felt as thick as sausages as he pried open the case. A gear no bigger than a lentil slipped from his tweezers and vanished under the bench. He wanted to quit. Abuelo only handed him a flashlight. 'Every watchmaker spends half his life on his knees,' he said with a wink. An hour later, Mateo found the gear, set it in place, and heard the faintest tick. He had never heard a sweeter sound.",
+    "choices": [
+      "Old things are not worth repairing",
+      "Children should not be allowed to handle delicate tools",
+      "Patience and persistence lead to rewarding results",
+      "Grandparents are stricter than parents"
+    ],
+    "correctAnswer": "Patience and persistence lead to rewarding results",
+    "explanation": "Mateo 'wanted to quit,' but after an hour of searching he fixed the watch and 'had never heard a sweeter sound' than its tick.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.5.1",
+    "prompt": "Which conclusion is best supported by the passage?",
+    "passage": "Coral reefs are sometimes called the rainforests of the sea. Although reefs cover less than one percent of the ocean floor, they provide a home for about a quarter of all ocean species. A reef may look like colorful rock, but it is actually built by tiny animals called coral polyps. Each polyp produces a hard limestone skeleton, and over thousands of years these skeletons pile up to form a reef. Corals depend on microscopic algae that live inside their bodies. The algae use sunlight to make food, which they share with the coral, and they give the coral its brilliant color. When ocean water becomes too warm, however, the stressed corals push the algae out. The corals turn white, an event known as bleaching. A bleached coral is not dead, but without its algae it can slowly starve unless the water cools again.",
+    "choices": [
+      "A bleached coral has already died and will never regain color",
+      "A bleached coral can recover if the water cools in time",
+      "Algae are harmful to healthy corals",
+      "Coral reefs cover a large part of the warm, shallow ocean floor"
+    ],
+    "correctAnswer": "A bleached coral can recover if the water cools in time",
+    "explanation": "The passage says a bleached coral 'is not dead' and will starve 'unless the water cools again,' which implies it can recover if cooling comes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g5_018",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.5.8",
+    "prompt": "Read this claim: 'Our school should start a vegetable garden.' Which sentences are reasons that SUPPORT the claim? Select all that apply.",
+    "choices": [
+      "Students would learn how plants grow",
+      "The garden tools would cost money",
+      "The cafeteria could serve the fresh vegetables",
+      "No one would be at school to water it in summer",
+      "Working outdoors would give students exercise"
+    ],
+    "correctAnswers": [
+      "Students would learn how plants grow",
+      "The cafeteria could serve the fresh vegetables",
+      "Working outdoors would give students exercise"
+    ],
+    "explanation": "Learning, fresh vegetables, and exercise are benefits that support starting a garden. Cost and summer watering are problems, which are reasons against it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.0
+    }
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "arts_g3_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.3a",
+    "prompt": "Which three colors are the secondary colors?",
+    "choices": [
+      "Black, white, and gray",
+      "Red, yellow, and blue",
+      "Orange, green, and purple",
+      "Pink, brown, and tan"
+    ],
+    "correctAnswer": "Orange, green, and purple",
+    "explanation": "Orange, green, and purple (violet) are secondary colors. Each is made by mixing two primary colors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_002",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.3b",
+    "prompt": "The clef used for higher notes, also called the G clef, is the ___ clef.",
+    "correctAnswer": "treble",
+    "correctAnswers": [
+      "treble",
+      "treble clef"
+    ],
+    "explanation": "The treble clef (G clef) is used for higher-pitched notes, such as those sung by children or played by the flute and violin.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g3_003",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "VA:Re7.2.3a",
+    "prompt": "Why do a viewer's eyes go to the boat first?",
+    "passage": "In a painting, a small red boat sits in the middle of a wide, gray-blue sea. Everything else in the picture is pale and dull. The boat is the only bright thing in the painting.",
+    "choices": [
+      "It is drawn with dotted lines",
+      "It is placed at the very top edge of the painting, above the sea",
+      "It is the largest object in the painting",
+      "Its bright color contrasts with the dull colors around it"
+    ],
+    "correctAnswer": "Its bright color contrasts with the dull colors around it",
+    "explanation": "The bright red boat contrasts with the pale sea, so it stands out. Artists use contrast to create emphasis, or a focal point.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.3a",
+    "prompt": "Which instrument is in the woodwind family?",
+    "choices": [
+      "Clarinet",
+      "Trumpet",
+      "Snare drum",
+      "Cello"
+    ],
+    "correctAnswer": "Clarinet",
+    "explanation": "The clarinet is a woodwind. The trumpet is brass, the cello is a string instrument, and the snare drum is percussion.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cr2.1.3a",
+    "prompt": "What is the difference between a shape and a form in art?",
+    "choices": [
+      "A shape is flat (2-D), and a form has depth (3-D)",
+      "A shape is always colored, and a form is always black",
+      "A shape has depth (3-D), and a form is flat (2-D)",
+      "A shape is drawn with pencil, and a form is drawn with paint"
+    ],
+    "correctAnswer": "A shape is flat (2-D), and a form has depth (3-D)",
+    "explanation": "Shapes are flat, with height and width, like a circle. Forms also have depth, like a sphere or a cube.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_006",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.3b",
+    "prompt": "In 4/4 time, a measure already has one half note and one quarter note. How many more beats are needed to fill the measure?",
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "correctAnswer": "1",
+    "explanation": "A half note is 2 beats and a quarter note is 1 beat, which makes 3. A 4/4 measure needs 4 beats, so 1 more beat is needed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_007",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.3b",
+    "prompt": "How many beats does a whole note get in 4/4 time?",
+    "choices": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correctAnswer": "4",
+    "explanation": "In 4/4 time a whole note lasts 4 beats, which fills a whole measure.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_008",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.3.3a",
+    "prompt": "Put these dynamic markings in order from softest to loudest.",
+    "orderedItems": [
+      "piano (p)",
+      "mezzo piano (mp)",
+      "mezzo forte (mf)",
+      "forte (f)"
+    ],
+    "explanation": "Piano means soft, mezzo piano means medium soft, mezzo forte means medium loud, and forte means loud.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g3_009",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Cr2.1.3a",
+    "prompt": "An artist wants a tree to look far away in a landscape drawing. What should the artist do?",
+    "choices": [
+      "Draw it larger and place it lower on the page",
+      "Draw it smaller and place it higher on the page",
+      "Draw it overlapping in front of everything else",
+      "Draw it with the thickest outline"
+    ],
+    "correctAnswer": "Draw it smaller and place it higher on the page",
+    "explanation": "Objects look farther away when they are drawn smaller and placed higher on the page, in the background.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Pr4.1.3.a",
+    "prompt": "The written words of a play that actors read and learn are called the ___.",
+    "choices": [
+      "set",
+      "script",
+      "stage",
+      "prop"
+    ],
+    "correctAnswer": "script",
+    "explanation": "A script contains the lines the actors say and directions for what they do.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_011",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.3.3a",
+    "prompt": "A tempo marking tells a musician ___.",
+    "choices": [
+      "how many verses to sing",
+      "how fast or slow to play",
+      "which instrument to play",
+      "how loud or soft to play"
+    ],
+    "correctAnswer": "how fast or slow to play",
+    "explanation": "Tempo is the speed of the music. Dynamics tell how loud or soft to play.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_012",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "MU:Re8.1.3a",
+    "prompt": "A lullaby is meant to help a baby fall asleep. Which tempo and dynamics fit a lullaby best?",
+    "choices": [
+      "Slow and soft",
+      "Slow and loud",
+      "Fast and loud",
+      "Fast and soft"
+    ],
+    "correctAnswer": "Slow and soft",
+    "explanation": "A lullaby is calm and soothing, so it is usually slow and soft. Musicians choose tempo and dynamics to fit a song's purpose.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_013",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Cr2.1.3a",
+    "prompt": "A person who creates and arranges the steps of a dance is called a ___.",
+    "choices": [
+      "sculptor",
+      "conductor",
+      "choreographer",
+      "playwright"
+    ],
+    "correctAnswer": "choreographer",
+    "explanation": "A choreographer makes up dances. A conductor leads musicians, a sculptor makes sculptures, and a playwright writes plays.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Cr1.1.3.c",
+    "prompt": "Acting out a story using only your body and face, with no words, is called ___.",
+    "choices": [
+      "singing",
+      "dialogue",
+      "pantomime",
+      "narration"
+    ],
+    "correctAnswer": "pantomime",
+    "explanation": "Pantomime tells a story through movement and facial expression without speaking.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_015",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Cr3.1.3.b",
+    "prompt": "An actor is playing a very old, tired grandfather. Which choice fits the character best?",
+    "choices": [
+      "Doing cartwheels while singing",
+      "Running and shouting loudly",
+      "Skipping quickly and giggling loudly",
+      "Walking slowly with a bent back and a quiet voice"
+    ],
+    "correctAnswer": "Walking slowly with a bent back and a quiet voice",
+    "explanation": "Actors use their bodies and voices to show a character. Slow steps, a bent back, and a quiet voice suggest an old, tired person.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_016",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.3a",
+    "prompt": "Sandpaper feels rough and glass feels smooth. Which element of art describes how a surface feels or looks like it would feel?",
+    "choices": [
+      "Texture",
+      "Space",
+      "Color",
+      "Line"
+    ],
+    "correctAnswer": "Texture",
+    "explanation": "Texture is the element of art that describes how a surface feels, such as rough, smooth, bumpy, or soft.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_017",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "DA:Pr4.1.3a",
+    "prompt": "In dance, moving close to the floor, at standing height, or up in the air is called changing your ___.",
+    "choices": [
+      "costume",
+      "tempo",
+      "level",
+      "partner"
+    ],
+    "correctAnswer": "level",
+    "explanation": "Level is how high or low a dancer's body is: low, middle, or high.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_018",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Pr5.1.3.b",
+    "prompt": "Which of these would help an audience know that a play takes place in a forest at night? Select all that apply.",
+    "choices": [
+      "Bright yellow beach umbrellas",
+      "Dim blue lighting",
+      "Owl and cricket sound effects",
+      "Painted trees on the set",
+      "A ringing school bell"
+    ],
+    "correctAnswers": [
+      "Dim blue lighting",
+      "Owl and cricket sound effects",
+      "Painted trees on the set"
+    ],
+    "explanation": "Lighting, scenery, and sound are technical elements that show the setting. Dim blue light, trees, and night-animal sounds suggest a forest at night.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g3_019",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MA:Cn11.1.3a",
+    "prompt": "Which of these is an example of media arts?",
+    "choices": [
+      "A clay pot shaped on a potter's wheel",
+      "A pencil sketch drawn in a notebook",
+      "A tap dance",
+      "An animated video made on a tablet"
+    ],
+    "correctAnswer": "An animated video made on a tablet",
+    "explanation": "Media arts are made with technology such as cameras, computers, and tablets, for example video, animation, and digital images. Pottery, pencil sketches, and tap dance are made without that technology.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g3_020",
+    "subject": "ARTS",
+    "type": "CLOZE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.3a",
+    "prompt": "Use the word bank: melody, rhythm, harmony. The tune of a song that you can hum is the ___. The pattern of long and short sounds is the ___.",
+    "blanks": [
+      "melody",
+      "rhythm"
+    ],
+    "explanation": "The melody is the tune. The rhythm is the pattern of long and short sounds and silences.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  }
+]

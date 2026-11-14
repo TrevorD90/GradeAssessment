@@ -1,0 +1,440 @@
+[
+  {
+    "id": "reading_g3_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.3.1",
+    "prompt": "Where do some monarch butterflies travel in the fall?",
+    "passage": "Every fall, monarch butterflies begin a long trip. They cannot survive cold winters, so they fly south. Some monarchs travel almost three thousand miles to reach warm forests in Mexico. There, thousands of butterflies rest close together on the trees. Their orange wings cover the branches like leaves. In spring, the monarchs fly north again. Along the way, they lay eggs on milkweed plants. Milkweed is the only food that young monarch caterpillars can eat.",
+    "choices": [
+      "to cold mountains in Canada",
+      "to warm forests in Mexico",
+      "to islands in the ocean",
+      "to milkweed farms in the north"
+    ],
+    "correctAnswer": "to warm forests in Mexico",
+    "explanation": "The passage says some monarchs 'travel almost three thousand miles to reach warm forests in Mexico.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.3.1",
+    "prompt": "How many arms does an octopus have?",
+    "passage": "An octopus is one of the cleverest animals in the sea. It has eight arms lined with suckers that help it grip rocks and catch crabs. An octopus has no bones, so it can squeeze its soft body through a crack no wider than a coin. When danger is near, it has several tricks. It can change color to match the sand or rocks around it. It can also squirt a cloud of dark ink. The ink hides the octopus while it jets away. These tricks help the octopus escape from sharks, eels, and other hungry enemies.",
+    "choices": [
+      "four",
+      "six",
+      "eight",
+      "ten"
+    ],
+    "correctAnswer": "eight",
+    "explanation": "The passage says an octopus 'has eight arms lined with suckers.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.3.1",
+    "prompt": "What did Nora use to build her kite?",
+    "passage": "Nora had built her kite from newspaper, sticks, and string. At the park, the other children flew bright store-bought kites shaped like dragons and rockets. Nora's kite looked plain beside them. 'It will never fly,' a boy said with a laugh. Nora's cheeks burned, but she held the string tightly and began to run. At first the kite bounced along the grass. Then a gust of wind caught it. Up it soared, higher than the dragons and the rockets. The boy stared with his mouth open. 'How did you make that?' he asked. Nora grinned. 'I can show you,' she said.",
+    "choices": [
+      "newspaper, sticks, and string",
+      "cloth, wire, and glue",
+      "a kit from the store",
+      "paper bags and tape"
+    ],
+    "correctAnswer": "newspaper, sticks, and string",
+    "explanation": "The first sentence says Nora built her kite 'from newspaper, sticks, and string.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.3.5b",
+    "prompt": "Which word means the opposite of 'empty'?",
+    "choices": [
+      "hollow",
+      "bare",
+      "light",
+      "full"
+    ],
+    "correctAnswer": "full",
+    "explanation": "Empty means having nothing inside; full means holding as much as possible, so they are opposites.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.3.1",
+    "prompt": "Who won first place at the science fair?",
+    "passage": "Leo wanted to win the science fair more than anything. He rushed through his project the night before it was due. His volcano did not work properly at the fair, and he felt embarrassed. His classmate Ana had spent three weeks on her project about plants. She tested different soils and kept careful notes. Ana won first place. Leo realized he should have started earlier and put in more effort.",
+    "choices": [
+      "Ana",
+      "Leo",
+      "Leo's teacher",
+      "Leo's brother"
+    ],
+    "correctAnswer": "Ana",
+    "explanation": "The passage says, 'Ana won first place.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.3.3",
+    "prompt": "What can you conclude about monarch butterflies?",
+    "passage": "Every fall, monarch butterflies begin a long trip. They cannot survive cold winters, so they fly south. Some monarchs travel almost three thousand miles to reach warm forests in Mexico. There, thousands of butterflies rest close together on the trees. Their orange wings cover the branches like leaves. In spring, the monarchs fly north again. Along the way, they lay eggs on milkweed plants. Milkweed is the only food that young monarch caterpillars can eat.",
+    "choices": [
+      "They prefer to stay in one place all year long",
+      "They migrate to survive changing seasons",
+      "They live only in the warm forests of Mexico",
+      "They fly south in the spring"
+    ],
+    "correctAnswer": "They migrate to survive changing seasons",
+    "explanation": "Monarchs 'cannot survive cold winters, so they fly south' in fall and 'fly north again' in spring. They move with the seasons in order to survive.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.3.2",
+    "prompt": "What is the lesson of this story?",
+    "passage": "Leo wanted to win the science fair more than anything. He rushed through his project the night before it was due. His volcano did not work properly at the fair, and he felt embarrassed. His classmate Ana had spent three weeks on her project about plants. She tested different soils and kept careful notes. Ana won first place. Leo realized he should have started earlier and put in more effort.",
+    "choices": [
+      "Science fairs are not important",
+      "Volcanoes are harder to build than plant projects",
+      "Working hard and planning ahead leads to success",
+      "You should always let your friends win"
+    ],
+    "correctAnswer": "Working hard and planning ahead leads to success",
+    "explanation": "Leo rushed and failed, while Ana worked for three weeks and won. Leo 'realized he should have started earlier and put in more effort.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.3.2",
+    "prompt": "What is the main idea of this passage?",
+    "passage": "An octopus is one of the cleverest animals in the sea. It has eight arms lined with suckers that help it grip rocks and catch crabs. An octopus has no bones, so it can squeeze its soft body through a crack no wider than a coin. When danger is near, it has several tricks. It can change color to match the sand or rocks around it. It can also squirt a cloud of dark ink. The ink hides the octopus while it jets away. These tricks help the octopus escape from sharks, eels, and other hungry enemies.",
+    "choices": [
+      "Sharks and eels hunt octopuses",
+      "Octopuses use their suckers to catch crabs",
+      "Ink makes ocean water dark and cloudy",
+      "An octopus's body and tricks help it survive"
+    ],
+    "correctAnswer": "An octopus's body and tricks help it survive",
+    "explanation": "The passage opens by calling the octopus clever, describes its arms and boneless body, and ends by saying its tricks help it escape enemies.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.3.4",
+    "prompt": "In the passage, what does the phrase 'Nora's cheeks burned' mean?",
+    "passage": "Nora had built her kite from newspaper, sticks, and string. At the park, the other children flew bright store-bought kites shaped like dragons and rockets. Nora's kite looked plain beside them. 'It will never fly,' a boy said with a laugh. Nora's cheeks burned, but she held the string tightly and began to run. At first the kite bounced along the grass. Then a gust of wind caught it. Up it soared, higher than the dragons and the rockets. The boy stared with his mouth open. 'How did you make that?' he asked. Nora grinned. 'I can show you,' she said.",
+    "choices": [
+      "Nora felt embarrassed",
+      "Nora had a sunburn",
+      "Nora stood too close to a fire",
+      "Nora was sick with a fever"
+    ],
+    "correctAnswer": "Nora felt embarrassed",
+    "explanation": "Her cheeks 'burned' right after a boy laughed and said her kite would never fly. The phrase is not literal; it shows she felt embarrassed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.3.3",
+    "prompt": "Read: Before school, Marco fed his dog. Then he packed his lunch and walked to the bus stop. On the bus, he realized he had forgotten his homework. After school, he apologized to his teacher. Put the events in the order they happened.",
+    "orderedItems": [
+      "Marco fed his dog",
+      "Marco packed his lunch",
+      "Marco realized he had forgotten his homework",
+      "Marco apologized to his teacher"
+    ],
+    "explanation": "The time-order clues 'Before school,' 'Then,' 'On the bus,' and 'After school' give the sequence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g3_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.3.4a",
+    "prompt": "Word bank: fragile, annual, timid. Use each word only once. Be careful with that glass vase; it is very ___. The ___ kitten hid under the couch whenever visitors came.",
+    "blanks": [
+      "fragile",
+      "timid"
+    ],
+    "explanation": "A glass vase you must be careful with is fragile (easily broken). A kitten that hides from visitors is timid (shy).",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g3_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.3.4b",
+    "prompt": "The suffix '-less' means 'without.' Which word means 'without fear'?",
+    "choices": [
+      "fearful",
+      "fearless",
+      "feared",
+      "fearing"
+    ],
+    "correctAnswer": "fearless",
+    "explanation": "Adding '-less' to fear makes fearless, which means without fear.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.3.1",
+    "prompt": "Read: Deserts get very little rain. To survive, a cactus stores water in its thick stem. Its sharp spines keep thirsty animals from biting it. Its roots spread wide to soak up rain quickly. Which features help a cactus survive in the desert, according to the text? Select all that apply.",
+    "choices": [
+      "A thick stem that stores water",
+      "Large, thin leaves",
+      "Sharp spines",
+      "Bright flowers",
+      "Wide-spreading roots"
+    ],
+    "correctAnswers": [
+      "A thick stem that stores water",
+      "Sharp spines",
+      "Wide-spreading roots"
+    ],
+    "explanation": "The text names the thick stem that stores water, the sharp spines, and the wide roots. It does not mention leaves or flowers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g3_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "RI.3.3",
+    "prompt": "An octopus is resting on gray rocks when an eel swims near. Based on the passage, what could the octopus do to avoid being seen?",
+    "passage": "An octopus is one of the cleverest animals in the sea. It has eight arms lined with suckers that help it grip rocks and catch crabs. An octopus has no bones, so it can squeeze its soft body through a crack no wider than a coin. When danger is near, it has several tricks. It can change color to match the sand or rocks around it. It can also squirt a cloud of dark ink. The ink hides the octopus while it jets away. These tricks help the octopus escape from sharks, eels, and other hungry enemies.",
+    "choices": [
+      "swim up to the surface of the water",
+      "grab the eel with its suckers",
+      "turn gray like the rocks",
+      "turn bright orange"
+    ],
+    "correctAnswer": "turn gray like the rocks",
+    "explanation": "The passage says an octopus 'can change color to match the sand or rocks around it,' so on gray rocks it would turn gray.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.3.3",
+    "prompt": "How does the boy's attitude toward Nora's kite change during the story?",
+    "passage": "Nora had built her kite from newspaper, sticks, and string. At the park, the other children flew bright store-bought kites shaped like dragons and rockets. Nora's kite looked plain beside them. 'It will never fly,' a boy said with a laugh. Nora's cheeks burned, but she held the string tightly and began to run. At first the kite bounced along the grass. Then a gust of wind caught it. Up it soared, higher than the dragons and the rockets. The boy stared with his mouth open. 'How did you make that?' he asked. Nora grinned. 'I can show you,' she said.",
+    "choices": [
+      "First he likes it, but later he laughs at it",
+      "First he makes fun of it, but later he admires it",
+      "He is jealous of it the whole time",
+      "He never notices the kite at all"
+    ],
+    "correctAnswer": "First he makes fun of it, but later he admires it",
+    "explanation": "At first the boy laughs and says, 'It will never fly.' After it soars, he stares 'with his mouth open' and asks how she made it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.3.2",
+    "prompt": "What is the lesson of this story?",
+    "passage": "Nora had built her kite from newspaper, sticks, and string. At the park, the other children flew bright store-bought kites shaped like dragons and rockets. Nora's kite looked plain beside them. 'It will never fly,' a boy said with a laugh. Nora's cheeks burned, but she held the string tightly and began to run. At first the kite bounced along the grass. Then a gust of wind caught it. Up it soared, higher than the dragons and the rockets. The boy stared with his mouth open. 'How did you make that?' he asked. Nora grinned. 'I can show you,' she said.",
+    "choices": [
+      "Store-bought things are always the best",
+      "Windy days are bad for flying kites",
+      "You should never talk to strangers when you are playing at the park",
+      "Something plain and homemade can turn out better than it looks"
+    ],
+    "correctAnswer": "Something plain and homemade can turn out better than it looks",
+    "explanation": "Nora's plain newspaper kite flew 'higher than the dragons and the rockets,' showing that looks do not decide how good something is.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g3_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.3.3",
+    "prompt": "What would most likely happen if all the milkweed plants disappeared?",
+    "passage": "Every fall, monarch butterflies begin a long trip. They cannot survive cold winters, so they fly south. Some monarchs travel almost three thousand miles to reach warm forests in Mexico. There, thousands of butterflies rest close together on the trees. Their orange wings cover the branches like leaves. In spring, the monarchs fly north again. Along the way, they lay eggs on milkweed plants. Milkweed is the only food that young monarch caterpillars can eat.",
+    "choices": [
+      "Young monarch caterpillars would have nothing to eat",
+      "Monarchs would stay in the warm forests of Mexico all year long",
+      "Caterpillars would eat tree leaves instead",
+      "Monarchs would fly farther south"
+    ],
+    "correctAnswer": "Young monarch caterpillars would have nothing to eat",
+    "explanation": "The passage says milkweed 'is the only food that young monarch caterpillars can eat,' so without it they would have no food.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  }
+]

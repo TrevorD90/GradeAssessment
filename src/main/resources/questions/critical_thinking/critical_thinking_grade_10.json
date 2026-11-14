@@ -1,0 +1,342 @@
+[
+  {
+    "id": "critical_thinking_g10_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION/RI.9-10.8",
+    "prompt": "Speaker A says, 'We should assign less homework on weekends.' Speaker B replies, 'My opponent wants students to never do any work and to fall behind the rest of the world.' Which fallacy does Speaker B commit?",
+    "choices": [
+      "Appeal to authority",
+      "Circular reasoning",
+      "Straw man",
+      "Hasty generalization"
+    ],
+    "correctAnswer": "Straw man",
+    "explanation": "Speaker A proposed only less weekend homework. Speaker B replaces that with an extreme position (no work at all) and attacks the extreme version instead. Distorting an opponent's view to make it easier to attack is a straw man.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "In a board game, rolling a six is sufficient to win a turn, but there are also other ways to win a turn. Which statement must be true?",
+    "choices": [
+      "Anyone who rolled a six won the turn.",
+      "Anyone who won the turn rolled a six.",
+      "Anyone who did not roll a six lost the turn.",
+      "Rolling a six is the only way to win a turn."
+    ],
+    "correctAnswer": "Anyone who rolled a six won the turn.",
+    "explanation": "'Sufficient' means that a six guarantees a win, so everyone who rolled a six won. Because there are other ways to win, a six is not necessary: winners need not have rolled one, and players without a six may still have won.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Two historians disagree about the main cause of a war. Historian A points to economic causes and cites trade records. Historian B points to political alliances and cites diplomats' letters. A student says, 'They disagree, so neither one can be trusted.' What is the flaw in the student's reasoning?",
+    "choices": [
+      "Historians should always agree with each other.",
+      "Expert disagreement does not make either one unreliable; judge each by its evidence.",
+      "Historian B's evidence is clearly stronger, because letters show what leaders really thought.",
+      "Letters and trade records are not evidence."
+    ],
+    "correctAnswer": "Expert disagreement does not make either one unreliable; judge each by its evidence.",
+    "explanation": "Experts often disagree on complex questions, and both historians here give evidence. The right response is to weigh each argument's evidence and reasoning, not to throw both out because they differ.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION/RI.9-10.8",
+    "prompt": "An ad says, 'Millions of people use this app, so it must be safe.' Which fallacy is this?",
+    "choices": [
+      "Slippery slope",
+      "False dilemma",
+      "Ad hominem",
+      "Appeal to popularity"
+    ],
+    "correctAnswer": "Appeal to popularity",
+    "explanation": "The only reason given is that many people use the app. How popular something is does not show that it is safe. Arguing that a claim is true because many people accept it is an appeal to popularity (bandwagon).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Someone claims, 'The new traffic light reduced accidents at Oak and Main.' Which evidence would be relevant to testing this claim? Select all that apply.",
+    "choices": [
+      "Accident counts at Oak and Main for the year before and the year after the light was installed",
+      "Accident trends over the same period at similar intersections that got no new light",
+      "The color of the pole holding the light",
+      "The mayor's approval rating"
+    ],
+    "correctAnswers": [
+      "Accident counts at Oak and Main for the year before and the year after the light was installed",
+      "Accident trends over the same period at similar intersections that got no new light"
+    ],
+    "explanation": "Before-and-after counts show whether accidents actually dropped, and comparison intersections show whether the drop would have happened anyway. Pole color and the mayor's popularity have no bearing on accidents at the intersection.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g10_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Consider this argument: 'All things that have wheels are vehicles. A shopping cart has wheels. Therefore, a shopping cart is a vehicle.' Which is the best evaluation of the argument?",
+    "choices": [
+      "Valid, but the first premise is false, so it does not prove its conclusion.",
+      "Invalid, although both premises are true, so it does not prove its conclusion.",
+      "Valid, and both premises are true, so it proves its conclusion.",
+      "Invalid, because the second premise is false, so it does not prove its conclusion."
+    ],
+    "correctAnswer": "Valid, but the first premise is false, so it does not prove its conclusion.",
+    "explanation": "The form is valid: if everything with wheels were a vehicle, a wheeled cart would be one. But the first premise is false (office chairs and suitcases have wheels and are not vehicles). A valid argument with a false premise is unsound and does not establish its conclusion.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "A club has 10 members. Nine of them get $10 a week in allowance, and one gets $510 a week. A flyer says, 'The average allowance of our members is $60 a week.' What is the best evaluation of the flyer?",
+    "choices": [
+      "It is wrong, because the average was calculated incorrectly from the ten amounts.",
+      "It is fair, because it shows that most members get about $60 a week.",
+      "Correct but misleading: one extreme value pulls it far above a typical member's amount.",
+      "It is wrong, because averages should never be used for amounts of money like allowances."
+    ],
+    "correctAnswer": "Correct but misleading: one extreme value pulls it far above a typical member's amount.",
+    "explanation": "The total is 9 x $10 + $510 = $600, and $600 / 10 = $60, so the mean is correct. But nine of ten members get $10. One extreme value makes the mean a poor picture of a typical member; the median ($10) would be more honest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Which change would MOST improve this study?",
+    "passage": "A company tests a memory supplement. One hundred volunteers who asked to try the supplement take it for a month. One hundred other people, who were not interested in it, take nothing. Everyone knows which group they are in. After a month, the supplement group reports feeling mentally sharper.",
+    "choices": [
+      "Increase each group from 100 to 150 volunteers who want to try it, and keep everything else about the study the same.",
+      "Randomly assign the supplement or a look-alike fake pill without saying which, then give a memory test.",
+      "Run the study for two months instead of one so the supplement has more time to work.",
+      "Ask the supplement group to describe in more detail how sharp they feel."
+    ],
+    "correctAnswer": "Randomly assign the supplement or a look-alike fake pill without saying which, then give a memory test.",
+    "explanation": "The study has three flaws: people chose their own groups, they knew what they were taking, and the result was a self-reported feeling. Random assignment, a placebo with blinding, and an objective memory test fix all three. A bigger or longer study with the same flaws would still be biased.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "A school handbook says, 'You can graduate only if you pass English.' Which statement means the same thing?",
+    "choices": [
+      "If you pass English, then you will graduate.",
+      "Passing English is sufficient for graduating.",
+      "If you do not graduate, then you did not pass English.",
+      "If you graduate, then you passed English."
+    ],
+    "correctAnswer": "If you graduate, then you passed English.",
+    "explanation": "'P only if Q' means P cannot happen without Q, which is 'if P, then Q': if you graduate, you passed English. It makes passing English necessary, not sufficient, so passing does not guarantee graduation, and failing to graduate does not show you failed English.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "CLOZE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "In the town of Avon, every licensed driver is at least 16 years old, but not every 16-year-old has a license. Word bank: necessary, sufficient. In Avon, having a license is ___ to show that a person is at least 16, and being at least 16 is ___ for having a license.",
+    "blanks": [
+      "sufficient",
+      "necessary"
+    ],
+    "explanation": "Every licensed driver is at least 16, so a license guarantees the age: it is sufficient. A person cannot have a license without being at least 16, so that age is necessary, but it is not sufficient because some 16-year-olds have no license.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g10_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "A city started a bike-share program. Over the next year, downtown car traffic fell by 8%. The city council concludes that the bike-share program reduced car traffic. Which statement, if true, most strengthens the council's conclusion?",
+    "choices": [
+      "Traffic also fell by 8% in nearby cities that have no bike-share program.",
+      "Gas prices downtown rose sharply during the same year.",
+      "Surveys show that many bike-share riders used to make the same trips by car.",
+      "The bike-share bikes are painted bright blue."
+    ],
+    "correctAnswer": "Surveys show that many bike-share riders used to make the same trips by car.",
+    "explanation": "If riders switched from car trips to bike trips, that directly links the program to fewer cars. The first two choices weaken the conclusion by giving other explanations for the drop (a regional trend, costly gas), and the bikes' color is irrelevant.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "A rare condition affects 1 in every 1,000 people. A test detects everyone who has the condition, but it also gives a false positive for 5% of people who do not have it. A randomly chosen person tests positive. About how likely is it that this person really has the condition?",
+    "choices": [
+      "About 95%",
+      "About 2%",
+      "About 50%",
+      "About 99.9%"
+    ],
+    "correctAnswer": "About 2%",
+    "explanation": "Picture 1,000 people. One has the condition and tests positive. Of the 999 who do not, about 5% (about 50 people) also test positive. So only about 1 of 51 positive results is real, which is about 2%. Ignoring how rare the condition is (the base rate) leads to the wrong answer of 95%.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g10_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Four cards lie on a table. Each card has a letter on one side and a number on the other. The sides you can see show: E, K, 4, 7. Rule: 'If a card has a vowel on one side, then it has an even number on the other side.' Which cards must you turn over to find out whether the rule is broken? Select all that apply.",
+    "choices": [
+      "The card showing E",
+      "The card showing K",
+      "The card showing 4",
+      "The card showing 7"
+    ],
+    "correctAnswers": [
+      "The card showing E",
+      "The card showing 7"
+    ],
+    "explanation": "The rule is broken only by a card with a vowel on one side and an odd number on the other. The E card might hide an odd number, and the 7 card might hide a vowel, so both must be checked. The K card is not a vowel, and the 4 card cannot break the rule whatever its letter is, because the rule does not say that only vowels have even numbers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g10_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.ASSUMPTIONS",
+    "prompt": "An editorial argues, 'Graduates of Elite Prep earn far more than graduates of other schools. So Elite Prep's teaching makes its students more successful.' Which assumption does the argument depend on?",
+    "choices": [
+      "Elite Prep's students would not have earned as much at other schools.",
+      "Elite Prep charges high tuition.",
+      "Earnings are the only thing that matters in life.",
+      "Other schools have no good teachers, so their graduates cannot earn as much."
+    ],
+    "correctAnswer": "Elite Prep's students would not have earned as much at other schools.",
+    "explanation": "The editorial credits the teaching for the higher earnings. That requires that the students were not already headed for high earnings because of who gets admitted (talent, family resources). If they would have earned as much anywhere, the teaching is not the cause. The argument does not need the extreme claims in the other choices.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  }
+]

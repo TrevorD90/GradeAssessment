@@ -29,6 +29,14 @@ fun TimedFluencyPanel(
             fontWeight = FontWeight.Medium
         )
 
+        Spacer(Modifier.height(8.dp))
+        // The app cannot hear the student, so an adult records which items were said correctly.
+        Text(
+            text = "Adult helper: tap each item the student says correctly, then press Done. " +
+                "Time limit: ${question.fluencyTimeLimitSeconds} seconds.",
+            style = MaterialTheme.typography.bodyMedium
+        )
+
         Spacer(Modifier.height(16.dp))
 
         LazyVerticalGrid(
@@ -63,7 +71,7 @@ fun TimedFluencyPanel(
             verticalAlignment = Alignment.CenterVertically
         ) {
             Text(
-                text = "${selections.size} items selected",
+                text = "${selections.size} of ${question.fluencyItems.size} marked correct",
                 style = MaterialTheme.typography.bodyMedium
             )
             Button(onClick = onSubmit) {

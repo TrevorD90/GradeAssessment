@@ -1,0 +1,466 @@
+[
+  {
+    "id": "reading_g9_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.9-10.1",
+    "prompt": "On Snow's map, where did the deaths cluster most thickly?",
+    "passage": "In the late summer of 1854, cholera tore through the Soho district of London, killing more than five hundred people in ten days. The prevailing medical theory blamed 'miasma,' the foul air that hung over the city's crowded streets. John Snow, a local physician, doubted it. If bad air were the culprit, he reasoned, the disease should attack the lungs; instead, it ravaged the gut, which suggested something swallowed. Snow went door to door, recording where each victim had lived, and marked every death as a small black bar on a street map. The bars clustered thickly around a single public water pump on Broad Street. The exceptions were as revealing as the pattern. Workers at a nearby brewery, who drank beer rather than pump water, were spared; so were the inmates of a workhouse that had its own well. Armed with his map, Snow persuaded skeptical local officials to remove the pump's handle, and the outbreak, already waning, subsided. He never saw the microbe responsible, and the miasma theory outlived him by decades. Yet his method, to count the cases, map them, and let the pattern argue, became a foundation of modern epidemiology.",
+    "choices": [
+      "near a local brewery",
+      "around a public water pump on Broad Street",
+      "beside the well that belonged to a workhouse",
+      "along the most crowded streets of the Soho district"
+    ],
+    "correctAnswer": "around a public water pump on Broad Street",
+    "explanation": "The passage states, 'The bars clustered thickly around a single public water pump on Broad Street.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.9-10.1",
+    "prompt": "In the experiment the author describes, what dull task did some volunteers complete first?",
+    "passage": "We have declared war on boredom, and we are winning. The idle minutes that once punctuated a day, the wait at the bus stop, the line at the grocery store, the slow walk home, have been colonized by the glowing rectangle in every pocket. At the first flicker of restlessness, we reach for a screen, and the restlessness dissolves. This looks like progress. I want to suggest that it is a quiet loss. Psychologists who study attention have found that an unoccupied mind does not simply switch off. Left to itself, it wanders, and in wandering it does useful work: it replays conversations, rehearses the future, and stitches together ideas that had no obvious connection. In one widely cited experiment, volunteers who first completed a dull task, copying numbers from a phone book, later generated more creative uses for a pair of plastic cups than volunteers who had skipped the tedium. Boredom, it seems, is not the absence of thought but an invitation to it. None of this means that we should romanticize tedium or toss our phones into the sea. It means only that an empty moment is not an emergency. The next time you find yourself with nothing to do, consider the radical possibility of doing exactly that.",
+    "choices": [
+      "copying numbers from a phone book",
+      "stacking plastic cups into tall towers",
+      "waiting in a long line at a grocery store",
+      "reading a list aloud"
+    ],
+    "correctAnswer": "copying numbers from a phone book",
+    "explanation": "The passage describes 'a dull task, copying numbers from a phone book.' The plastic cups were used afterward in the creativity task.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.9-10.1",
+    "prompt": "What did the pencil marks on the kitchen doorframe record?",
+    "passage": "The house on Alder Street had been sold in March, but it was June before Lian's father could bring himself to empty it. They worked through the rooms in silence, wrapping her grandmother's teacups in newspaper, stacking her cookbooks in boxes labeled in his careful block letters. He was efficient about it, almost brisk, as if the job were a matter of logistics and nothing more. Lian knew better. She had seen him pause at the kitchen doorframe, where pencil marks climbed the white paint like a ladder: his own height at six, at nine, at thirteen, each line dated in his mother's slanting hand. He had stood there a long moment, and then he had gone to find the tape. Late in the afternoon the new owners stopped by, a young couple, apologetic and cheerful, carrying a fan of paint samples. 'We're thinking of redoing the kitchen first,' the woman said. 'Brightening it up.' Her father nodded and said that sounded sensible. But that evening, after the truck was loaded, Lian found him in the kitchen, working a pry bar gently behind the molding of the doorframe. The narrow strip of wood came away in one piece. He carried it out to the truck himself and laid it on the front seat, where it rode between them all the way home.",
+    "choices": [
+      "Lian's height as she grew up",
+      "the dates the house was painted",
+      "her father's height at different ages",
+      "her grandmother's favorite recipes"
+    ],
+    "correctAnswer": "her father's height at different ages",
+    "explanation": "The marks showed 'his own height at six, at nine, at thirteen, each line dated in his mother's slanting hand.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "RI.9-10.1",
+    "prompt": "What specific request does the speaker make of the school board?",
+    "passage": "Members of the school board, I am sixteen years old. I can hold a job, and the government taxes my paycheck. I can drive a car, and the state holds me responsible for every mile. I am trusted to tutor a classroom of second graders every Thursday afternoon. Yet when this board votes on the budget that shapes my classes, my teachers, and my future, I am told that I am too young to have a say. You have asked students to be responsible. We have been. You have asked us to be informed. Last spring, the civics club registered more first-time voters than any other organization in this county. You have asked us to care. Why else would we be here on a Tuesday night instead of anywhere else? We are not asking to run the district. We are asking for one student seat at this table, a single voice among nine, so that the people most affected by your decisions are no longer the only people absent from them. Give us that seat, and we will show you what we have already learned: that responsibility is not granted with a birthday. It is practiced.",
+    "choices": [
+      "a larger budget for the civics club",
+      "a lower voting age in the county",
+      "student control of the district",
+      "one student seat on the board"
+    ],
+    "correctAnswer": "one student seat on the board",
+    "explanation": "The speaker says, 'We are not asking to run the district. We are asking for one student seat at this table.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.9-10.4b",
+    "prompt": "The Latin root 'bene' means 'good' or 'well.' A benevolent ruler is one who is",
+    "choices": [
+      "harsh and feared",
+      "kind and well-meaning",
+      "extremely wealthy",
+      "chosen by election"
+    ],
+    "correctAnswer": "kind and well-meaning",
+    "explanation": "'Bene' (good) combined with 'vol' (to wish) gives benevolent: wishing good to others, kind.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.52,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.9-10.4",
+    "prompt": "A journalist writes: 'While proponents of the new highway argue it will reduce commute times by twenty minutes, they conveniently overlook the 200-year-old forest that would be leveled, the three neighborhoods that would be bisected, and the wetlands that serve as the region's natural flood barrier.' What is the effect of the phrase 'conveniently overlook'?",
+    "choices": [
+      "It praises the proponents for working efficiently",
+      "It shows that the journalist has no opinion on the highway",
+      "It suggests the proponents are ignoring the costs because doing so suits their case",
+      "It indicates that the proponents could not possibly have known about any of these costs"
+    ],
+    "correctAnswer": "It suggests the proponents are ignoring the costs because doing so suits their case",
+    "explanation": "'Conveniently' implies that the omission is self-serving rather than accidental, which gives the sentence a critical tone toward the highway's supporters.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.9-10.3",
+    "prompt": "Why were the brewery workers and the workhouse inmates important to Snow's argument?",
+    "passage": "In the late summer of 1854, cholera tore through the Soho district of London, killing more than five hundred people in ten days. The prevailing medical theory blamed 'miasma,' the foul air that hung over the city's crowded streets. John Snow, a local physician, doubted it. If bad air were the culprit, he reasoned, the disease should attack the lungs; instead, it ravaged the gut, which suggested something swallowed. Snow went door to door, recording where each victim had lived, and marked every death as a small black bar on a street map. The bars clustered thickly around a single public water pump on Broad Street. The exceptions were as revealing as the pattern. Workers at a nearby brewery, who drank beer rather than pump water, were spared; so were the inmates of a workhouse that had its own well. Armed with his map, Snow persuaded skeptical local officials to remove the pump's handle, and the outbreak, already waning, subsided. He never saw the microbe responsible, and the miasma theory outlived him by decades. Yet his method, to count the cases, map them, and let the pattern argue, became a foundation of modern epidemiology.",
+    "choices": [
+      "They were in the outbreak area but drank other water and stayed healthy",
+      "They showed that the foul air near the pump was the true cause of the disease",
+      "They helped Snow collect information about the victims by going door to door",
+      "They were the first victims of the outbreak"
+    ],
+    "correctAnswer": "They were in the outbreak area but drank other water and stayed healthy",
+    "explanation": "The passage calls these exceptions 'as revealing as the pattern': the brewery workers 'drank beer rather than pump water' and the workhouse 'had its own well,' and both groups 'were spared.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.9-10.2",
+    "prompt": "Which statement best expresses the author's central claim?",
+    "passage": "We have declared war on boredom, and we are winning. The idle minutes that once punctuated a day, the wait at the bus stop, the line at the grocery store, the slow walk home, have been colonized by the glowing rectangle in every pocket. At the first flicker of restlessness, we reach for a screen, and the restlessness dissolves. This looks like progress. I want to suggest that it is a quiet loss. Psychologists who study attention have found that an unoccupied mind does not simply switch off. Left to itself, it wanders, and in wandering it does useful work: it replays conversations, rehearses the future, and stitches together ideas that had no obvious connection. In one widely cited experiment, volunteers who first completed a dull task, copying numbers from a phone book, later generated more creative uses for a pair of plastic cups than volunteers who had skipped the tedium. Boredom, it seems, is not the absence of thought but an invitation to it. None of this means that we should romanticize tedium or toss our phones into the sea. It means only that an empty moment is not an emergency. The next time you find yourself with nothing to do, consider the radical possibility of doing exactly that.",
+    "choices": [
+      "Phones should be banned from public places",
+      "Unoccupied time is valuable because a wandering mind does creative work",
+      "Boredom is harmful and should be avoided",
+      "Psychologists who study attention disagree about whether the mind ever truly rests"
+    ],
+    "correctAnswer": "Unoccupied time is valuable because a wandering mind does creative work",
+    "explanation": "The author calls the loss of idle time 'a quiet loss' and argues that boredom 'is not the absence of thought but an invitation to it.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RL.9-10.3",
+    "prompt": "The narrator says her father was 'almost brisk, as if the job were a matter of logistics and nothing more. Lian knew better.' What does Lian understand?",
+    "passage": "The house on Alder Street had been sold in March, but it was June before Lian's father could bring himself to empty it. They worked through the rooms in silence, wrapping her grandmother's teacups in newspaper, stacking her cookbooks in boxes labeled in his careful block letters. He was efficient about it, almost brisk, as if the job were a matter of logistics and nothing more. Lian knew better. She had seen him pause at the kitchen doorframe, where pencil marks climbed the white paint like a ladder: his own height at six, at nine, at thirteen, each line dated in his mother's slanting hand. He had stood there a long moment, and then he had gone to find the tape. Late in the afternoon the new owners stopped by, a young couple, apologetic and cheerful, carrying a fan of paint samples. 'We're thinking of redoing the kitchen first,' the woman said. 'Brightening it up.' Her father nodded and said that sounded sensible. But that evening, after the truck was loaded, Lian found him in the kitchen, working a pry bar gently behind the molding of the doorframe. The narrow strip of wood came away in one piece. He carried it out to the truck himself and laid it on the front seat, where it rode between them all the way home.",
+    "choices": [
+      "Her father is eager to finish selling the house",
+      "Her father dislikes his mother's belongings",
+      "Her father is angry with her for working slowly",
+      "Her father's businesslike manner hides his grief"
+    ],
+    "correctAnswer": "Her father's businesslike manner hides his grief",
+    "explanation": "It took him three months to 'bring himself to empty it,' and Lian saw him stand 'a long moment' at the height marks. His briskness is a cover for strong feeling.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.9-10.6",
+    "prompt": "The speaker repeats the pattern 'You have asked ... We have been.' What is the main effect of this repetition?",
+    "passage": "Members of the school board, I am sixteen years old. I can hold a job, and the government taxes my paycheck. I can drive a car, and the state holds me responsible for every mile. I am trusted to tutor a classroom of second graders every Thursday afternoon. Yet when this board votes on the budget that shapes my classes, my teachers, and my future, I am told that I am too young to have a say. You have asked students to be responsible. We have been. You have asked us to be informed. Last spring, the civics club registered more first-time voters than any other organization in this county. You have asked us to care. Why else would we be here on a Tuesday night instead of anywhere else? We are not asking to run the district. We are asking for one student seat at this table, a single voice among nine, so that the people most affected by your decisions are no longer the only people absent from them. Give us that seat, and we will show you what we have already learned: that responsibility is not granted with a birthday. It is practiced.",
+    "choices": [
+      "It accuses the board members of dishonesty",
+      "It shows that the speaker is unsure of the facts",
+      "It emphasizes that students have already met each expectation the board set",
+      "It lists the students' complaints about their classes, their teachers, and the budget"
+    ],
+    "correctAnswer": "It emphasizes that students have already met each expectation the board set",
+    "explanation": "Each 'You have asked' is answered with evidence that students have done so (being responsible, registering voters, attending the meeting), building the case that they have earned a voice.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.9-10.4a",
+    "prompt": "Word bank: prevailing, skeptical, waning. Use each word only once. Although the salesman promised amazing results, the ___ customer asked for proof. By midnight the storm was ___, and the wind had dropped to a breeze.",
+    "blanks": [
+      "skeptical",
+      "waning"
+    ],
+    "explanation": "A customer who asks for proof is skeptical (doubtful). A storm that is dying down is waning (growing weaker).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g9_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.9-10.3",
+    "prompt": "Read: During the 1854 cholera outbreak, John Snow first questioned the theory that bad air caused the disease. He then went door to door recording where victims had lived. Next, he marked the deaths on a map and saw them cluster around one pump. Finally, he persuaded officials to remove the pump's handle. Put Snow's actions in order.",
+    "orderedItems": [
+      "Snow questions the bad-air theory",
+      "Snow records where victims lived",
+      "Snow maps the deaths and sees them cluster around a pump",
+      "Snow persuades officials to remove the pump handle"
+    ],
+    "explanation": "The signal words 'first,' 'then,' 'Next,' and 'Finally' give the order of Snow's investigation.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g9_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RL.9-10.1",
+    "prompt": "Why does Lian's father most likely remove the molding from the doorframe?",
+    "passage": "The house on Alder Street had been sold in March, but it was June before Lian's father could bring himself to empty it. They worked through the rooms in silence, wrapping her grandmother's teacups in newspaper, stacking her cookbooks in boxes labeled in his careful block letters. He was efficient about it, almost brisk, as if the job were a matter of logistics and nothing more. Lian knew better. She had seen him pause at the kitchen doorframe, where pencil marks climbed the white paint like a ladder: his own height at six, at nine, at thirteen, each line dated in his mother's slanting hand. He had stood there a long moment, and then he had gone to find the tape. Late in the afternoon the new owners stopped by, a young couple, apologetic and cheerful, carrying a fan of paint samples. 'We're thinking of redoing the kitchen first,' the woman said. 'Brightening it up.' Her father nodded and said that sounded sensible. But that evening, after the truck was loaded, Lian found him in the kitchen, working a pry bar gently behind the molding of the doorframe. The narrow strip of wood came away in one piece. He carried it out to the truck himself and laid it on the front seat, where it rode between them all the way home.",
+    "choices": [
+      "He wants to keep the record of his childhood before the kitchen is redone",
+      "He wants to repair the damaged doorframe before the new owners repaint the kitchen",
+      "The new owners asked him to take it away",
+      "He is angry that the house has been sold"
+    ],
+    "correctAnswer": "He wants to keep the record of his childhood before the kitchen is redone",
+    "explanation": "He had paused 'a long moment' at the marks written in his mother's hand; after hearing the owners plan to redo the kitchen, he carefully removes the strip 'in one piece' and carries it 'himself.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RL.9-10.5",
+    "prompt": "How does the new owners' visit function in the structure of the passage?",
+    "passage": "The house on Alder Street had been sold in March, but it was June before Lian's father could bring himself to empty it. They worked through the rooms in silence, wrapping her grandmother's teacups in newspaper, stacking her cookbooks in boxes labeled in his careful block letters. He was efficient about it, almost brisk, as if the job were a matter of logistics and nothing more. Lian knew better. She had seen him pause at the kitchen doorframe, where pencil marks climbed the white paint like a ladder: his own height at six, at nine, at thirteen, each line dated in his mother's slanting hand. He had stood there a long moment, and then he had gone to find the tape. Late in the afternoon the new owners stopped by, a young couple, apologetic and cheerful, carrying a fan of paint samples. 'We're thinking of redoing the kitchen first,' the woman said. 'Brightening it up.' Her father nodded and said that sounded sensible. But that evening, after the truck was loaded, Lian found him in the kitchen, working a pry bar gently behind the molding of the doorframe. The narrow strip of wood came away in one piece. He carried it out to the truck himself and laid it on the front seat, where it rode between them all the way home.",
+    "choices": [
+      "It provides comic relief after a sad scene",
+      "It creates the urgency that leads to the father's final action",
+      "It reveals that the new owners are careless people",
+      "It resolves the conflict between Lian and her father"
+    ],
+    "correctAnswer": "It creates the urgency that leads to the father's final action",
+    "explanation": "The owners' plan to redo and brighten the kitchen means the marked doorframe will be lost; that evening the father acts to save it. The couple is described as 'apologetic and cheerful,' not careless.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.9-10.5",
+    "prompt": "Why does the author include the sentence 'None of this means that we should romanticize tedium or toss our phones into the sea'?",
+    "passage": "We have declared war on boredom, and we are winning. The idle minutes that once punctuated a day, the wait at the bus stop, the line at the grocery store, the slow walk home, have been colonized by the glowing rectangle in every pocket. At the first flicker of restlessness, we reach for a screen, and the restlessness dissolves. This looks like progress. I want to suggest that it is a quiet loss. Psychologists who study attention have found that an unoccupied mind does not simply switch off. Left to itself, it wanders, and in wandering it does useful work: it replays conversations, rehearses the future, and stitches together ideas that had no obvious connection. In one widely cited experiment, volunteers who first completed a dull task, copying numbers from a phone book, later generated more creative uses for a pair of plastic cups than volunteers who had skipped the tedium. Boredom, it seems, is not the absence of thought but an invitation to it. None of this means that we should romanticize tedium or toss our phones into the sea. It means only that an empty moment is not an emergency. The next time you find yourself with nothing to do, consider the radical possibility of doing exactly that.",
+    "choices": [
+      "To admit that the claim made earlier in the passage was mistaken after all",
+      "To introduce a new topic about technology",
+      "To mock the psychologists who study attention",
+      "To anticipate an objection and show that the claim is a moderate one"
+    ],
+    "correctAnswer": "To anticipate an objection and show that the claim is a moderate one",
+    "explanation": "The sentence heads off the response that the author is against phones altogether, then narrows the claim: 'It means only that an empty moment is not an emergency.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.9-10.4",
+    "prompt": "What does the phrase 'let the pattern argue' suggest about Snow's method?",
+    "passage": "In the late summer of 1854, cholera tore through the Soho district of London, killing more than five hundred people in ten days. The prevailing medical theory blamed 'miasma,' the foul air that hung over the city's crowded streets. John Snow, a local physician, doubted it. If bad air were the culprit, he reasoned, the disease should attack the lungs; instead, it ravaged the gut, which suggested something swallowed. Snow went door to door, recording where each victim had lived, and marked every death as a small black bar on a street map. The bars clustered thickly around a single public water pump on Broad Street. The exceptions were as revealing as the pattern. Workers at a nearby brewery, who drank beer rather than pump water, were spared; so were the inmates of a workhouse that had its own well. Armed with his map, Snow persuaded skeptical local officials to remove the pump's handle, and the outbreak, already waning, subsided. He never saw the microbe responsible, and the miasma theory outlived him by decades. Yet his method, to count the cases, map them, and let the pattern argue, became a foundation of modern epidemiology.",
+    "choices": [
+      "He argued loudly with officials until they agreed",
+      "He relied on guesses when data were missing",
+      "He relied on evidence clear enough to persuade on its own",
+      "He depended on seeing the microbe under a microscope"
+    ],
+    "correctAnswer": "He relied on evidence clear enough to persuade on its own",
+    "explanation": "Snow 'never saw the microbe'; it was the map, with deaths clustered around one pump, that 'persuaded skeptical local officials.' The data made the case.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.9-10.6",
+    "prompt": "The speech ends: 'responsibility is not granted with a birthday. It is practiced.' Which idea do these sentences advance?",
+    "passage": "Members of the school board, I am sixteen years old. I can hold a job, and the government taxes my paycheck. I can drive a car, and the state holds me responsible for every mile. I am trusted to tutor a classroom of second graders every Thursday afternoon. Yet when this board votes on the budget that shapes my classes, my teachers, and my future, I am told that I am too young to have a say. You have asked students to be responsible. We have been. You have asked us to be informed. Last spring, the civics club registered more first-time voters than any other organization in this county. You have asked us to care. Why else would we be here on a Tuesday night instead of anywhere else? We are not asking to run the district. We are asking for one student seat at this table, a single voice among nine, so that the people most affected by your decisions are no longer the only people absent from them. Give us that seat, and we will show you what we have already learned: that responsibility is not granted with a birthday. It is practiced.",
+    "choices": [
+      "Maturity is shown through actions rather than by reaching a certain age",
+      "Students should wait patiently until they are eighteen before taking part in decisions",
+      "Birthdays should not be celebrated at school",
+      "The board members have behaved irresponsibly"
+    ],
+    "correctAnswer": "Maturity is shown through actions rather than by reaching a certain age",
+    "explanation": "The speaker has listed what students already do (work, drive, tutor, register voters) to argue that demonstrated responsibility, not age, should earn a voice.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g9_018",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 9,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.9-10.8",
+    "prompt": "Read the argument: 'Our town's new curfew for teenagers has reduced crime. In the month after the curfew began, reported thefts fell by 20 percent.' Which facts, if true, would WEAKEN this argument? Select all that apply.",
+    "choices": [
+      "Thefts fell by the same amount in nearby towns that have no curfew.",
+      "The town council voted unanimously for the curfew.",
+      "Thefts in the town drop by about 20 percent during that same month every year.",
+      "The curfew applies to everyone under the age of eighteen.",
+      "Nearly all of the town's thefts occur in the daytime, when the curfew is not in effect."
+    ],
+    "correctAnswers": [
+      "Thefts fell by the same amount in nearby towns that have no curfew.",
+      "Thefts in the town drop by about 20 percent during that same month every year.",
+      "Nearly all of the town's thefts occur in the daytime, when the curfew is not in effect."
+    ],
+    "explanation": "Each correct choice offers a reason the drop may not be due to the curfew: the same drop happened without a curfew, the drop is seasonal, or the curfew does not cover the hours when thefts occur. The vote and the age limit do not affect the reasoning.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.88,
+      "c": 0.0
+    }
+  }
+]

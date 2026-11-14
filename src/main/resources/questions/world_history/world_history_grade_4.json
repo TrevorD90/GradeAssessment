@@ -1,0 +1,411 @@
+[
+  {
+    "id": "world_history_g4_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Which ancient civilization built the Great Wall to protect its northern borders?",
+    "choices": [
+      "Ancient Rome",
+      "Ancient Egypt",
+      "Ancient China",
+      "Ancient Greece"
+    ],
+    "correctAnswer": "Ancient China",
+    "explanation": "Rulers of ancient China built and rebuilt the Great Wall over many centuries to defend against attacks from the north.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_002",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.2.3-5",
+    "prompt": "On which continent is the city of Rome, the center of the ancient Roman Empire?",
+    "choices": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "South America"
+    ],
+    "correctAnswer": "Europe",
+    "explanation": "Rome is in Italy, which is in Europe. At its height the Roman Empire also ruled lands in North Africa and western Asia around the Mediterranean Sea.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_003",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "The Parthenon temple and the first Olympic Games belong to the ancient civilization of ___.",
+    "correctAnswer": "Greece",
+    "correctAnswers": [
+      "Greece",
+      "ancient Greece"
+    ],
+    "explanation": "The Parthenon stands in Athens, Greece, and the Olympic Games began at Olympia in ancient Greece.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g4_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.1.3-5",
+    "prompt": "On a timeline, what do the letters BCE stand for?",
+    "choices": [
+      "Beginning of the Common Era",
+      "Before the Common Era",
+      "Before the Castle Era",
+      "Between Countries and Empires"
+    ],
+    "correctAnswer": "Before the Common Era",
+    "explanation": "BCE means \"Before the Common Era.\" BCE years count backward, so 500 BCE is earlier than 100 BCE.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "A valuable cloth carried west from ancient China gave its name to which famous trade route?",
+    "choices": [
+      "The Cotton Trail",
+      "The Wool Way",
+      "The Linen Road",
+      "The Silk Road"
+    ],
+    "correctAnswer": "The Silk Road",
+    "explanation": "The Silk Road was a network of trade routes named for Chinese silk, which was prized in lands far to the west.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Which of the following are closely associated with ancient Greece? Select all that apply.",
+    "choices": [
+      "Democracy",
+      "Gunpowder",
+      "The Olympic Games",
+      "The printing press",
+      "Philosophy"
+    ],
+    "correctAnswers": [
+      "Democracy",
+      "The Olympic Games",
+      "Philosophy"
+    ],
+    "explanation": "Ancient Greece is known for Athenian democracy, the Olympic Games and philosophers such as Socrates, Plato and Aristotle (thinkers in China and India also developed their own philosophies). Gunpowder was invented in China, and the printing press with movable metal type was developed in Europe by Gutenberg around 1450.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g4_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "In ancient Athens, citizens met and voted on laws themselves. What is this kind of government called?",
+    "choices": [
+      "Monarchy",
+      "Empire",
+      "Democracy",
+      "Dictatorship"
+    ],
+    "correctAnswer": "Democracy",
+    "explanation": "Democracy means \"rule by the people.\" In Athens, citizens voted directly on laws, although women, enslaved people and foreigners could not take part.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_008",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "The Romans built aqueducts. What were aqueducts used for?",
+    "choices": [
+      "Carrying water to cities",
+      "Holding chariot races",
+      "Storing grain",
+      "Guarding the borders"
+    ],
+    "correctAnswer": "Carrying water to cities",
+    "explanation": "Aqueducts were channels, often carried on stone arches, that brought fresh water from distant springs into Roman cities.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_009",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.1.3-5",
+    "prompt": "Which of these years came first?",
+    "choices": [
+      "100 CE",
+      "500 BCE",
+      "500 CE",
+      "100 BCE"
+    ],
+    "correctAnswer": "500 BCE",
+    "explanation": "BCE years come before CE years, and larger BCE numbers are earlier. So 500 BCE is the earliest, followed by 100 BCE, 100 CE and 500 CE.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_010",
+    "subject": "WORLD_HISTORY",
+    "type": "CLOZE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Use the word bank: republic, Latin, roads. The Romans spoke a language called ___. They built stone ___ to connect their lands. Before it had emperors, Rome was a ___ in which citizens elected leaders.",
+    "blanks": [
+      "Latin",
+      "roads",
+      "republic"
+    ],
+    "explanation": "Romans spoke Latin, built a great network of stone roads and, before the emperors, governed themselves as a republic with elected officials.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g4_011",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Which of these was invented in ancient China?",
+    "choices": [
+      "The telephone",
+      "The steam engine",
+      "The telescope",
+      "Paper"
+    ],
+    "correctAnswer": "Paper",
+    "explanation": "Paper was invented in China about 2,000 years ago, during the Han dynasty. The other inventions came from other places many centuries later.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_012",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.16.3-5",
+    "prompt": "Based on the passage, how did roads help hold the Roman Empire together?",
+    "passage": "The Romans built tens of thousands of miles of stone-paved roads. Soldiers could march quickly along them, and traders used them to carry goods from town to town. Messages from the emperor also traveled by road.",
+    "choices": [
+      "They kept all enemies from entering the empire",
+      "They let soldiers, goods and messages move quickly",
+      "They were used as fields for growing crops of wheat",
+      "They carried water to cities"
+    ],
+    "correctAnswer": "They let soldiers, goods and messages move quickly",
+    "explanation": "The passage says soldiers marched on the roads, traders carried goods on them and the emperor's messages traveled along them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_013",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.1.3-5",
+    "prompt": "Put these events in order from earliest to latest.",
+    "orderedItems": [
+      "The Great Pyramid is built in Egypt",
+      "Democracy begins in Athens",
+      "Julius Caesar rules Rome",
+      "The Western Roman Empire falls"
+    ],
+    "explanation": "The Great Pyramid was built about 2560 BCE, Athenian democracy began about 508 BCE, Julius Caesar ruled Rome in the 40s BCE and the Western Roman Empire fell in 476 CE.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g4_014",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.14.3-5",
+    "prompt": "Greece is covered with mountains and has many islands. How did this geography affect the ancient Greeks?",
+    "choices": [
+      "They built one giant city",
+      "They never traveled by sea",
+      "They formed many separate city-states",
+      "They could not grow any food"
+    ],
+    "correctAnswer": "They formed many separate city-states",
+    "explanation": "Mountains and sea separated Greek communities, so they grew into many independent city-states such as Athens and Sparta. The Greeks also became skilled sailors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_015",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.4.3-5",
+    "prompt": "How was government in ancient Athens different from government in Egypt under the pharaohs?",
+    "choices": [
+      "In Athens a pharaoh made all laws, while in Egypt the citizens voted",
+      "Both were ruled by elected presidents",
+      "Neither had any leaders",
+      "In Athens citizens voted on laws; in Egypt one ruler held power"
+    ],
+    "correctAnswer": "In Athens citizens voted on laws; in Egypt one ruler held power",
+    "explanation": "Athens was a democracy in which citizens voted on laws. Egypt was ruled by a pharaoh, a single ruler with great power.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_016",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.His.13.3-5",
+    "prompt": "A Roman soldier's letter home describes the cold weather at his fort in Britain. Why do historians value a letter like this?",
+    "choices": [
+      "It was written by a modern scientist who studies weather",
+      "It was written by someone who was there at the time",
+      "It proves that every Roman soldier in Britain was always cold",
+      "It is the only thing left from Rome"
+    ],
+    "correctAnswer": "It was written by someone who was there at the time",
+    "explanation": "The letter is a primary source: it was written at the time by a person who experienced the events. It still shows only one person's experience.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g4_017",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.2.3-5",
+    "prompt": "Many English words, such as \"school\" and \"family,\" come from Latin or Greek words. What does this show?",
+    "choices": [
+      "Ancient Greece and Rome still influence life today",
+      "English is older than Latin",
+      "The Romans spoke English",
+      "Ancient Greek and Latin have been completely forgotten"
+    ],
+    "correctAnswer": "Ancient Greece and Rome still influence life today",
+    "explanation": "Words, ideas and inventions from ancient Greece and Rome were passed down for centuries, so these civilizations still shape our language and culture.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  }
+]

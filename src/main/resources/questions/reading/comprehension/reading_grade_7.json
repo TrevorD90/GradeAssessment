@@ -1,0 +1,466 @@
+[
+  {
+    "id": "reading_g7_001",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.7.1",
+    "prompt": "What did witnesses call the towering clouds of blowing soil?",
+    "passage": "In the 1930s, a disaster struck the southern Great Plains that was partly natural and partly human-made. For decades, farmers had plowed up millions of acres of native grassland to plant wheat. The deep roots of those grasses had anchored the soil and held moisture through dry spells. When a severe drought arrived in 1931, the wheat withered, and nothing remained to hold the exposed earth in place. Strong prairie winds lifted the dry topsoil into towering black clouds that witnesses called 'black blizzards.' The storms buried fences, smothered crops, and darkened skies as far away as New York City. Thousands of families abandoned their farms and headed west in search of work. The catastrophe eventually forced a change in thinking. The federal government began paying farmers to plant rows of trees as windbreaks and to plow along the natural curves of the land, a method that slows erosion. These practices, along with the return of rain in 1939, slowly healed the region, though the lesson about respecting the limits of the land remains relevant today.",
+    "choices": [
+      "dust devils",
+      "black blizzards",
+      "prairie fires",
+      "dry spells"
+    ],
+    "correctAnswer": "black blizzards",
+    "explanation": "The passage says the winds lifted topsoil 'into towering black clouds that witnesses called \"black blizzards.\"'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_002",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RI.7.1",
+    "prompt": "According to the passage, how much sleep do doctors recommend for teenagers?",
+    "passage": "Middle and high schools should start no earlier than 8:30 a.m. During adolescence, the body's internal clock shifts, making it difficult for most teenagers to fall asleep before 11 p.m. When classes begin at 7:30, students must wake long before they have had the eight to ten hours of sleep that doctors recommend. The results are predictable: drowsy students, lower grades, and more car accidents involving teen drivers. Schools that have moved to later start times report encouraging changes. In one Minnesota district, attendance rose and the number of students falling asleep in class dropped sharply after the first bell was moved to 8:40. Critics point out that later schedules complicate bus routes and after-school sports. These are real inconveniences, but they are problems of scheduling, not of health. Districts across the country have solved them by adjusting bus routes and practice times. We would never ask students to learn without books; we should not ask them to learn without sleep.",
+    "choices": [
+      "five to six hours",
+      "six to eight hours",
+      "eight to ten hours",
+      "ten to twelve hours"
+    ],
+    "correctAnswer": "eight to ten hours",
+    "explanation": "The passage refers to 'the eight to ten hours of sleep that doctors recommend.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_003",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.7.1",
+    "prompt": "For what event had Amara prepared her speech?",
+    "passage": "Amara had rehearsed her speech for the student council election until the words felt worn smooth, like stones in a river. But when she stepped up to the microphone and saw six hundred faces, the stones scattered. Her opening line vanished. The silence stretched. Somewhere in the back, someone coughed. She looked down at her note cards, which were shaking, and then, without quite deciding to, set them on the podium. 'I had a perfect speech,' she said. 'I've forgotten all of it.' A ripple of laughter moved through the gym, and it was not unkind. 'So I'll just tell you the truth. I get nervous. I mess up. But I also keep going, and that's what I would do for you.' She talked for two more minutes, plainly, about longer lunch periods and a quieter library. When she finished, the applause was louder than it had been for any of the polished speakers before her.",
+    "choices": [
+      "the student council election",
+      "a debate in her social studies class",
+      "the school play",
+      "a spelling contest in the school gym"
+    ],
+    "correctAnswer": "the student council election",
+    "explanation": "The first sentence says Amara 'had rehearsed her speech for the student council election.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_004",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "RL.7.1",
+    "prompt": "How long had Clara's mother worked in the restaurant kitchen?",
+    "passage": "In the morning, Clara put on her pressed suit and walked into the courtroom where she would argue her first case. She had studied for years, sacrificed weekends, and endured doubts from people who said she would never make it. Across town, her mother put on her worn apron and walked into the restaurant kitchen where she had worked for twenty-three years. She had never been to college, but she had worked double shifts to pay for Clara's tuition, endured aching feet and burns, and never once complained. That evening they sat together at the kitchen table. Clara said, 'I won my first case today.' Her mother smiled and said, 'We won it.'",
+    "choices": [
+      "three years",
+      "ten years",
+      "thirteen years",
+      "twenty-three years"
+    ],
+    "correctAnswer": "twenty-three years",
+    "explanation": "The passage says her mother walked into 'the restaurant kitchen where she had worked for twenty-three years.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_005",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.7.4b",
+    "prompt": "The prefix 'inter-' means 'between.' An interstate highway is a road that runs",
+    "choices": [
+      "between states",
+      "inside one city",
+      "underneath a state",
+      "around a single state"
+    ],
+    "correctAnswer": "between states",
+    "explanation": "Because 'inter-' means 'between,' an interstate highway connects, or runs between, states.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_006",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.7.6",
+    "prompt": "An author writes: 'The so-called improvements to the park have replaced every wildflower meadow with concrete paths and metal benches.' What is the author's point of view toward the park changes?",
+    "choices": [
+      "The author is neutral and is simply reporting the facts",
+      "The author is excited about the new features",
+      "The author is critical and disapproves of the changes",
+      "The author thinks the park needed even more concrete and metal"
+    ],
+    "correctAnswer": "The author is critical and disapproves of the changes",
+    "explanation": "The phrase 'so-called improvements' signals doubt that they are improvements at all, and the contrast between wildflowers and concrete shows disapproval.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_007",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RI.7.3",
+    "prompt": "How did plowing up the native grassland contribute to the dust storms?",
+    "passage": "In the 1930s, a disaster struck the southern Great Plains that was partly natural and partly human-made. For decades, farmers had plowed up millions of acres of native grassland to plant wheat. The deep roots of those grasses had anchored the soil and held moisture through dry spells. When a severe drought arrived in 1931, the wheat withered, and nothing remained to hold the exposed earth in place. Strong prairie winds lifted the dry topsoil into towering black clouds that witnesses called 'black blizzards.' The storms buried fences, smothered crops, and darkened skies as far away as New York City. Thousands of families abandoned their farms and headed west in search of work. The catastrophe eventually forced a change in thinking. The federal government began paying farmers to plant rows of trees as windbreaks and to plow along the natural curves of the land, a method that slows erosion. These practices, along with the return of rain in 1939, slowly healed the region, though the lesson about respecting the limits of the land remains relevant today.",
+    "choices": [
+      "It caused the drought of 1931",
+      "It removed the deep roots that had held the soil in place",
+      "It made the prairie winds blow harder",
+      "It forced thousands of farm families to move west to look for work"
+    ],
+    "correctAnswer": "It removed the deep roots that had held the soil in place",
+    "explanation": "The passage explains that the grasses' deep roots 'had anchored the soil'; once they were plowed up and the wheat died, 'nothing remained to hold the exposed earth in place.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_008",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "RI.7.2",
+    "prompt": "What is the author's central claim?",
+    "passage": "Middle and high schools should start no earlier than 8:30 a.m. During adolescence, the body's internal clock shifts, making it difficult for most teenagers to fall asleep before 11 p.m. When classes begin at 7:30, students must wake long before they have had the eight to ten hours of sleep that doctors recommend. The results are predictable: drowsy students, lower grades, and more car accidents involving teen drivers. Schools that have moved to later start times report encouraging changes. In one Minnesota district, attendance rose and the number of students falling asleep in class dropped sharply after the first bell was moved to 8:40. Critics point out that later schedules complicate bus routes and after-school sports. These are real inconveniences, but they are problems of scheduling, not of health. Districts across the country have solved them by adjusting bus routes and practice times. We would never ask students to learn without books; we should not ask them to learn without sleep.",
+    "choices": [
+      "Schools should start later so that teenagers can get enough sleep",
+      "Teenagers should go to bed much earlier than they do now on school nights",
+      "After-school sports should be canceled",
+      "Bus routes are too complicated to change"
+    ],
+    "correctAnswer": "Schools should start later so that teenagers can get enough sleep",
+    "explanation": "The first sentence states the claim: 'Middle and high schools should start no earlier than 8:30 a.m.' The rest of the passage gives reasons related to teenagers' sleep.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_009",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RL.7.4",
+    "prompt": "What does the author mean by 'the stones scattered'?",
+    "passage": "Amara had rehearsed her speech for the student council election until the words felt worn smooth, like stones in a river. But when she stepped up to the microphone and saw six hundred faces, the stones scattered. Her opening line vanished. The silence stretched. Somewhere in the back, someone coughed. She looked down at her note cards, which were shaking, and then, without quite deciding to, set them on the podium. 'I had a perfect speech,' she said. 'I've forgotten all of it.' A ripple of laughter moved through the gym, and it was not unkind. 'So I'll just tell you the truth. I get nervous. I mess up. But I also keep going, and that's what I would do for you.' She talked for two more minutes, plainly, about longer lunch periods and a quieter library. When she finished, the applause was louder than it had been for any of the polished speakers before her.",
+    "choices": [
+      "Amara dropped her shaking note cards on the floor",
+      "The audience began to leave",
+      "Amara tripped on the stage",
+      "Amara forgot the words she had memorized"
+    ],
+    "correctAnswer": "Amara forgot the words she had memorized",
+    "explanation": "The rehearsed words were compared to 'stones in a river.' When 'the stones scattered,' her 'opening line vanished' -- she lost the memorized speech.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_010",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "CLOZE",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.7.4a",
+    "prompt": "Word bank: withered, abandoned, drought. Use each word only once. Without water, the flowers in the vase ___ within a week. The sailors ___ the sinking ship and climbed into lifeboats.",
+    "blanks": [
+      "withered",
+      "abandoned"
+    ],
+    "explanation": "Flowers without water wither (dry up and droop). To abandon a ship is to leave it for good.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g7_011",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "RL.7.5",
+    "prompt": "How does the structure of the passage connect Clara and her mother?",
+    "passage": "In the morning, Clara put on her pressed suit and walked into the courtroom where she would argue her first case. She had studied for years, sacrificed weekends, and endured doubts from people who said she would never make it. Across town, her mother put on her worn apron and walked into the restaurant kitchen where she had worked for twenty-three years. She had never been to college, but she had worked double shifts to pay for Clara's tuition, endured aching feet and burns, and never once complained. That evening they sat together at the kitchen table. Clara said, 'I won my first case today.' Her mother smiled and said, 'We won it.'",
+    "choices": [
+      "It tells the mother's whole life story before it turns to describe Clara's first day in court",
+      "It uses a flashback to Clara's childhood",
+      "It describes their days in parallel ways to show that both worked toward the same goal",
+      "It alternates between the past and the future"
+    ],
+    "correctAnswer": "It describes their days in parallel ways to show that both worked toward the same goal",
+    "explanation": "Both women 'put on' work clothes and 'walked into' a workplace, and both 'endured' hardships. The matching descriptions link the mother's sacrifices to Clara's success.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_012",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "ORDERING",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "RI.7.3",
+    "prompt": "Read: Farmers plowed up the native grasses of the Great Plains. When drought came, the crops died and left the soil bare. Winds then lifted the loose soil into huge dust storms. In response, the government paid farmers to plant windbreaks. Put the events in order.",
+    "orderedItems": [
+      "Farmers plow up the native grasses",
+      "Drought kills the crops and leaves the soil bare",
+      "Winds lift the soil into dust storms",
+      "The government pays farmers to plant windbreaks"
+    ],
+    "explanation": "Each event leads to the next in a chain of cause and effect: plowing, drought, dust storms, and then the government's response.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "reading_g7_013",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RL.7.2",
+    "prompt": "Which statement best captures the theme of the passage?",
+    "passage": "In the morning, Clara put on her pressed suit and walked into the courtroom where she would argue her first case. She had studied for years, sacrificed weekends, and endured doubts from people who said she would never make it. Across town, her mother put on her worn apron and walked into the restaurant kitchen where she had worked for twenty-three years. She had never been to college, but she had worked double shifts to pay for Clara's tuition, endured aching feet and burns, and never once complained. That evening they sat together at the kitchen table. Clara said, 'I won my first case today.' Her mother smiled and said, 'We won it.'",
+    "choices": [
+      "Success belongs only to the person who earns it",
+      "Achievement is a shared triumph built on the sacrifices and support of others",
+      "Hard work only matters if it leads to professional achievement",
+      "Parents should sacrifice everything for their children's careers"
+    ],
+    "correctAnswer": "Achievement is a shared triumph built on the sacrifices and support of others",
+    "explanation": "The parallel descriptions show that both women contributed, and the mother's final words, 'We won it,' state that the success is shared.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_014",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.7.8",
+    "prompt": "How does the author respond to critics of later start times?",
+    "passage": "Middle and high schools should start no earlier than 8:30 a.m. During adolescence, the body's internal clock shifts, making it difficult for most teenagers to fall asleep before 11 p.m. When classes begin at 7:30, students must wake long before they have had the eight to ten hours of sleep that doctors recommend. The results are predictable: drowsy students, lower grades, and more car accidents involving teen drivers. Schools that have moved to later start times report encouraging changes. In one Minnesota district, attendance rose and the number of students falling asleep in class dropped sharply after the first bell was moved to 8:40. Critics point out that later schedules complicate bus routes and after-school sports. These are real inconveniences, but they are problems of scheduling, not of health. Districts across the country have solved them by adjusting bus routes and practice times. We would never ask students to learn without books; we should not ask them to learn without sleep.",
+    "choices": [
+      "By ignoring their concerns entirely",
+      "By insulting the people who raise them",
+      "By agreeing that bus schedules and sports practices cannot be changed",
+      "By admitting the problems are real but saying they can be solved"
+    ],
+    "correctAnswer": "By admitting the problems are real but saying they can be solved",
+    "explanation": "The author calls the concerns 'real inconveniences' but 'problems of scheduling, not of health,' and adds that districts 'have solved them.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_015",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RI.7.5",
+    "prompt": "What is the purpose of the final sentence of the passage?",
+    "passage": "Middle and high schools should start no earlier than 8:30 a.m. During adolescence, the body's internal clock shifts, making it difficult for most teenagers to fall asleep before 11 p.m. When classes begin at 7:30, students must wake long before they have had the eight to ten hours of sleep that doctors recommend. The results are predictable: drowsy students, lower grades, and more car accidents involving teen drivers. Schools that have moved to later start times report encouraging changes. In one Minnesota district, attendance rose and the number of students falling asleep in class dropped sharply after the first bell was moved to 8:40. Critics point out that later schedules complicate bus routes and after-school sports. These are real inconveniences, but they are problems of scheduling, not of health. Districts across the country have solved them by adjusting bus routes and practice times. We would never ask students to learn without books; we should not ask them to learn without sleep.",
+    "choices": [
+      "It uses a comparison to suggest that sleep is as necessary for learning as books are",
+      "It shows that many schools do not have enough books",
+      "It introduces a new topic, the cost of school supplies, for the reader to consider afterward",
+      "It admits a weakness in the author's argument"
+    ],
+    "correctAnswer": "It uses a comparison to suggest that sleep is as necessary for learning as books are",
+    "explanation": "The sentence sets 'learn without books' beside 'learn without sleep,' implying that sleep is a basic requirement for learning, which reinforces the claim.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_016",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "RL.7.3",
+    "prompt": "Why was the applause for Amara most likely louder than for the polished speakers?",
+    "passage": "Amara had rehearsed her speech for the student council election until the words felt worn smooth, like stones in a river. But when she stepped up to the microphone and saw six hundred faces, the stones scattered. Her opening line vanished. The silence stretched. Somewhere in the back, someone coughed. She looked down at her note cards, which were shaking, and then, without quite deciding to, set them on the podium. 'I had a perfect speech,' she said. 'I've forgotten all of it.' A ripple of laughter moved through the gym, and it was not unkind. 'So I'll just tell you the truth. I get nervous. I mess up. But I also keep going, and that's what I would do for you.' She talked for two more minutes, plainly, about longer lunch periods and a quieter library. When she finished, the applause was louder than it had been for any of the polished speakers before her.",
+    "choices": [
+      "She spoke for the longest time",
+      "The audience was relieved that the long assembly was finally over",
+      "Her honesty made the audience trust her",
+      "She made the most promises"
+    ],
+    "correctAnswer": "Her honesty made the audience trust her",
+    "explanation": "Amara admitted she forgot her speech and told 'the truth' plainly. The laughter 'was not unkind,' and the audience responded warmly to her sincerity.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_017",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.7.6",
+    "prompt": "Which statement best expresses the author's point of view about the Dust Bowl?",
+    "passage": "In the 1930s, a disaster struck the southern Great Plains that was partly natural and partly human-made. For decades, farmers had plowed up millions of acres of native grassland to plant wheat. The deep roots of those grasses had anchored the soil and held moisture through dry spells. When a severe drought arrived in 1931, the wheat withered, and nothing remained to hold the exposed earth in place. Strong prairie winds lifted the dry topsoil into towering black clouds that witnesses called 'black blizzards.' The storms buried fences, smothered crops, and darkened skies as far away as New York City. Thousands of families abandoned their farms and headed west in search of work. The catastrophe eventually forced a change in thinking. The federal government began paying farmers to plant rows of trees as windbreaks and to plow along the natural curves of the land, a method that slows erosion. These practices, along with the return of rain in 1939, slowly healed the region, though the lesson about respecting the limits of the land remains relevant today.",
+    "choices": [
+      "It was a purely natural disaster that no one could have prevented",
+      "It was partly caused by human choices and offers a lasting lesson about caring for land",
+      "It was caused mainly by the federal government",
+      "It proves that wheat should never be grown on the plains"
+    ],
+    "correctAnswer": "It was partly caused by human choices and offers a lasting lesson about caring for land",
+    "explanation": "The author calls the disaster 'partly natural and partly human-made' and ends with 'the lesson about respecting the limits of the land remains relevant today.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "reading_g7_018",
+    "subject": "READING",
+    "readingSubtest": "COMPREHENSION",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 7,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "RI.7.8",
+    "prompt": "A student claims: 'Our city should plant more trees along its streets.' Which statements are relevant evidence that supports this claim? Select all that apply.",
+    "choices": [
+      "Shaded streets can be several degrees cooler in summer",
+      "The mayor's favorite tree is the oak",
+      "Tree roots absorb rainwater that would otherwise flood storm drains",
+      "Some trees lose their leaves in the fall",
+      "Leaves filter dust and pollution from the air"
+    ],
+    "correctAnswers": [
+      "Shaded streets can be several degrees cooler in summer",
+      "Tree roots absorb rainwater that would otherwise flood storm drains",
+      "Leaves filter dust and pollution from the air"
+    ],
+    "explanation": "Cooler streets, less flooding, and cleaner air are benefits of street trees, so they support the claim. The mayor's preference and falling leaves do not show that planting trees helps the city.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.68,
+      "c": 0.0
+    }
+  }
+]

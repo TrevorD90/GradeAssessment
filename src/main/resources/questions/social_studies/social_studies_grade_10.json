@@ -1,0 +1,386 @@
+[
+  {
+    "id": "social_studies_g10_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.14.9-12",
+    "prompt": "Which amendment guaranteed women the right to vote throughout the United States?",
+    "choices": [
+      "Fifteenth Amendment",
+      "Twenty-sixth Amendment",
+      "Nineteenth Amendment",
+      "Thirteenth Amendment"
+    ],
+    "correctAnswer": "Nineteenth Amendment",
+    "explanation": "The Nineteenth Amendment (1920) prohibits denying the right to vote on account of sex.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.1.9-12",
+    "prompt": "The severe worldwide economic downturn that began in 1929 is known as the ___.",
+    "choices": [
+      "Gilded Age",
+      "Great Recession",
+      "Panic of 1837",
+      "Great Depression"
+    ],
+    "correctAnswer": "Great Depression",
+    "explanation": "The Great Depression began with the stock market crash of 1929 and lasted through the 1930s.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Eco.12.9-12",
+    "prompt": "Which institution conducts monetary policy in the United States?",
+    "choices": [
+      "The Federal Reserve",
+      "The Department of the Treasury",
+      "Congress",
+      "The Supreme Court"
+    ],
+    "correctAnswer": "The Federal Reserve",
+    "explanation": "The Federal Reserve, the nation's central bank, conducts monetary policy by influencing interest rates and the money supply.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Eco.11.9-12",
+    "prompt": "A sustained rise in the general level of prices in an economy is called ___.",
+    "correctAnswer": "inflation",
+    "correctAnswers": [
+      "inflation"
+    ],
+    "explanation": "Inflation is a general, ongoing increase in prices, which reduces the purchasing power of money.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g10_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.1.9-12",
+    "prompt": "The decades-long rivalry after World War II between the United States and the Soviet Union is called the ___.",
+    "choices": [
+      "Great War",
+      "Cold War",
+      "War on Poverty",
+      "Hundred Years' War"
+    ],
+    "correctAnswer": "Cold War",
+    "explanation": "The Cold War (about 1947-1991) was a period of political and military tension between the United States and the Soviet Union and their allies.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.12.9-12",
+    "prompt": "Fiscal policy refers to government decisions about ___.",
+    "choices": [
+      "the money supply and interest rates",
+      "the minimum voting age",
+      "taxing and spending",
+      "the number of federal courts"
+    ],
+    "correctAnswer": "taxing and spending",
+    "explanation": "Fiscal policy is the use of government taxing and spending to influence the economy. Managing the money supply and interest rates is monetary policy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.12.9-12",
+    "prompt": "What did the Civil Rights Act of 1964 do?",
+    "choices": [
+      "It gave women across the nation the right to vote in all elections",
+      "It abolished slavery in all states and territories",
+      "It lowered the voting age from 21 to 18 for all federal and state elections",
+      "It banned segregation in public places and job discrimination"
+    ],
+    "correctAnswer": "It banned segregation in public places and job discrimination",
+    "explanation": "The Civil Rights Act of 1964 banned segregation and discrimination in public accommodations (such as hotels and restaurants) on the basis of race, color, religion or national origin, and banned employment discrimination on the basis of race, color, religion, sex or national origin. Women's suffrage came with the Nineteenth Amendment (1920), the end of slavery with the Thirteenth (1865), and the 18-year-old vote with the Twenty-sixth (1971).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_008",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.1.9-12",
+    "prompt": "Which of these were created as part of the New Deal in the 1930s? Select all that apply.",
+    "choices": [
+      "Social Security",
+      "Peace Corps",
+      "Civilian Conservation Corps",
+      "Medicare",
+      "Federal Deposit Insurance Corporation (FDIC)"
+    ],
+    "correctAnswers": [
+      "Social Security",
+      "Civilian Conservation Corps",
+      "Federal Deposit Insurance Corporation (FDIC)"
+    ],
+    "explanation": "Social Security (1935), the Civilian Conservation Corps (1933) and the FDIC (1933) were New Deal creations. The Peace Corps (1961) and Medicare (1965) came later.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g10_009",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.1.9-12",
+    "prompt": "Put these events in order from earliest to latest.",
+    "orderedItems": [
+      "The stock market crash that began the Great Depression",
+      "The attack on Pearl Harbor",
+      "The Brown v. Board of Education decision",
+      "The Voting Rights Act is passed",
+      "The fall of the Berlin Wall"
+    ],
+    "explanation": "Stock market crash (1929), Pearl Harbor (1941), Brown v. Board of Education (1954), Voting Rights Act (1965), fall of the Berlin Wall (1989).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g10_010",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.14.9-12",
+    "prompt": "The U.S. policy of containment during the Cold War aimed to ___.",
+    "choices": [
+      "prevent communism from spreading to additional countries",
+      "end all trade with Europe",
+      "withdraw the United States from world affairs",
+      "establish new U.S. colonies in Asia"
+    ],
+    "correctAnswer": "prevent communism from spreading to additional countries",
+    "explanation": "Containment sought to stop the expansion of Soviet influence and communism beyond where it already existed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_011",
+    "subject": "SOCIAL_STUDIES",
+    "type": "CLOZE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Eco.12.9-12",
+    "prompt": "Use the word bank: expansionary, contractionary. Cutting taxes and raising government spending during a recession is ___ fiscal policy. Raising taxes and cutting government spending to slow inflation is ___ fiscal policy.",
+    "blanks": [
+      "expansionary",
+      "contractionary"
+    ],
+    "explanation": "Expansionary fiscal policy increases total spending to fight recession; contractionary fiscal policy reduces total spending to fight inflation.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g10_012",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.Eco.12.9-12",
+    "prompt": "Which action by the country's central bank would be most appropriate to fight the recession?",
+    "passage": "The economy of an imaginary country is in a recession. Over one year, the unemployment rate has risen from 4 percent to 9 percent, consumer spending is falling, and inflation is low at 1 percent.",
+    "choices": [
+      "Raising interest rates to discourage borrowing and slow price growth",
+      "Lowering interest rates to encourage borrowing and spending",
+      "Reducing the money supply",
+      "Selling large amounts of government bonds to banks"
+    ],
+    "correctAnswer": "Lowering interest rates to encourage borrowing and spending",
+    "explanation": "In a recession with low inflation, a central bank uses expansionary monetary policy: lowering interest rates to stimulate borrowing, spending and hiring. The other three actions would tighten money and credit.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_013",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.Eco.8.9-12",
+    "prompt": "A government imposes a tariff on imported steel to protect domestic steel producers. Which of the following is the most likely unintended consequence of this policy?",
+    "choices": [
+      "Domestic steel producers will lower their prices to remain competitive with foreign mills",
+      "Foreign countries will increase their purchases of domestic steel",
+      "Industries that rely on steel as a raw material will face higher production costs",
+      "Consumers will experience lower prices on goods made with steel"
+    ],
+    "correctAnswer": "Industries that rely on steel as a raw material will face higher production costs",
+    "explanation": "A tariff raises the price of imported steel and lets domestic steel prices rise, so industries that use steel, such as automaking and construction, face higher costs.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_014",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Civ.12.9-12",
+    "prompt": "The Voting Rights Act of 1965 was passed mainly in response to ___.",
+    "choices": [
+      "demands from students to lower the national voting age from 21 to 18",
+      "disputes about the Electoral College",
+      "the end of Prohibition",
+      "literacy tests and other barriers to African American voting"
+    ],
+    "correctAnswer": "literacy tests and other barriers to African American voting",
+    "explanation": "The Act banned literacy tests and provided federal oversight where discriminatory practices had kept African Americans from registering and voting.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_015",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Civ.4.9-12",
+    "prompt": "The War Powers Resolution of 1973 was an attempt by Congress to ___.",
+    "choices": [
+      "limit the President's power to send troops into combat without Congress",
+      "give the President the sole power to declare war",
+      "abolish the military draft",
+      "end the Cold War"
+    ],
+    "correctAnswer": "limit the President's power to send troops into combat without Congress",
+    "explanation": "Passed near the end of the Vietnam War, the resolution requires the President to notify Congress when troops are deployed and limits how long they may remain without congressional authorization.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g10_016",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.14.9-12",
+    "prompt": "Which factor helped turn the 1929 stock market crash into a prolonged depression?",
+    "choices": [
+      "A sudden shortage of farmland",
+      "Widespread bank failures that wiped out savings and reduced lending",
+      "Rapid increases in consumer spending and borrowing during the early 1930s",
+      "Very high inflation that drove prices up sharply throughout the early 1930s"
+    ],
+    "correctAnswer": "Widespread bank failures that wiped out savings and reduced lending",
+    "explanation": "Thousands of banks failed in the early 1930s, destroying savings and shrinking credit and spending. Prices actually fell (deflation) during this period.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  }
+]

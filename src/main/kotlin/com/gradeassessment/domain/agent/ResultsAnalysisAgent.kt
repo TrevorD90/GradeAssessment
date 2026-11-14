@@ -103,20 +103,24 @@ class ResultsAnalysisAgent(
     }
 
     private fun computeTrend(result: AssessmentResult, currentOverallGe: Double): PerformanceTrend? {
-        val allResults = resultRepository.getAllResults()
-        val priorResults = allResults.filter {
-            it.student.firstName.equals(result.student.firstName, ignoreCase = true) &&
-                it.sessionId != result.sessionId
-        }.sortedByDescending { it.startTime }
-
-        val previous = priorResults.firstOrNull() ?: return null
-        val previousActive = previous.subjectResults.filter { it.value.scoreBundle.totalCount > 0 }
+        // "Previous" must be earlier in time: opening an older report used to compare it against
+        // a NEWER session and label that as the prior performance.
+        // [REVIEW NEEDED: students are matched by first name only; two different
+        //  children with the same first name will be treated as one. A student ID is needed.]
+        val previous = resultRepository.getResultsForStudent(result.student.firstName)
+            .filter { it.sessionId != result.sessionId && it.startTime < result.startTime }
+            .maxByOrNull { it.startTime } ?: return null
+        // Core subjects only: CT/IQ store a placeholder GE of 0.0, which previously dragged the
+        // "previous overall" average down and showed a false improvement.
+        val previousActive = previous.subjectResults.filter {
+            it.value.scoreBundle.totalCount > 0 && it.key in Subject.CORE_SUBJECTS
+        }
         if (previousActive.isEmpty()) return null
 
         val previousOverallGe = previousActive.values.map { it.scoreBundle.gradeEquivalent }.average()
 
         val subjectChanges = mutableMapOf<Subject, Double>()
-        for (subject in Subject.entries) {
+        for (subject in Subject.CORE_SUBJECTS) {
             val prevScore = previous.subjectResults[subject]?.scoreBundle?.gradeEquivalent
             val currScore = result.subjectResults[subject]?.scoreBundle?.gradeEquivalent
             if (prevScore != null && currScore != null) {

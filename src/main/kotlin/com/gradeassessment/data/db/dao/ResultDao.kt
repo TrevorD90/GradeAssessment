@@ -6,6 +6,7 @@ import com.gradeassessment.domain.model.*
 import kotlinx.datetime.Instant
 import org.jetbrains.exposed.sql.ResultRow
 import org.jetbrains.exposed.sql.insert
+import org.jetbrains.exposed.sql.lowerCase
 import org.jetbrains.exposed.sql.selectAll
 import org.jetbrains.exposed.sql.transactions.transaction
 
@@ -79,6 +80,27 @@ class ResultDao {
         // Batch load all subject scores in one query to avoid N+1
         val allScoreRows = SubjectScoresTable.selectAll().toList()
         val scoresBySession = allScoreRows.groupBy { it[SubjectScoresTable.sessionId] }
+
+        resultRows.map { row ->
+            buildAssessmentResult(row, scoresBySession[row[ResultsTable.sessionId]] ?: emptyList())
+        }
+    }
+
+    /**
+     * All saved results for one student (case-insensitive first-name match), filtered in SQL.
+     * O(matching rows) instead of loading and scanning the entire results history in memory.
+     */
+    fun getResultsForStudent(firstName: String): List<AssessmentResult> = transaction {
+        val resultRows = ResultsTable.selectAll()
+            .where { ResultsTable.studentFirstName.lowerCase() eq firstName.trim().lowercase() }
+            .orderBy(ResultsTable.startTime)
+            .toList()
+        if (resultRows.isEmpty()) return@transaction emptyList()
+
+        val sessionIds = resultRows.map { it[ResultsTable.sessionId] }
+        val scoresBySession = SubjectScoresTable.selectAll()
+            .where { SubjectScoresTable.sessionId inList sessionIds }
+            .groupBy { it[SubjectScoresTable.sessionId] }
 
         resultRows.map { row ->
             buildAssessmentResult(row, scoresBySession[row[ResultsTable.sessionId]] ?: emptyList())

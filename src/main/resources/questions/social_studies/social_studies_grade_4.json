@@ -1,0 +1,386 @@
+[
+  {
+    "id": "social_studies_g4_001",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.3.3-5",
+    "prompt": "Which ocean borders the west coast of the United States?",
+    "choices": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean lies along the west coast. The Atlantic Ocean lies along the east coast.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_002",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Civ.1.3-5",
+    "prompt": "What is the capital of the United States?",
+    "choices": [
+      "New York City",
+      "Washington, D.C.",
+      "Philadelphia",
+      "Los Angeles"
+    ],
+    "correctAnswer": "Washington, D.C.",
+    "explanation": "Washington, D.C., is the nation's capital, where Congress, the President and the Supreme Court work.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_003",
+    "subject": "SOCIAL_STUDIES",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.3.3-5",
+    "prompt": "How many states are in the United States? (Type a number.)",
+    "correctAnswer": "50",
+    "correctAnswers": [
+      "50",
+      "fifty"
+    ],
+    "explanation": "The United States has 50 states.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g4_004",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Eco.3.3-5",
+    "prompt": "Which of these is a natural resource?",
+    "choices": [
+      "A delivery truck",
+      "A factory worker",
+      "Timber from a forest",
+      "A computer"
+    ],
+    "correctAnswer": "Timber from a forest",
+    "explanation": "Natural resources come from nature, such as trees, water, soil and minerals. Trucks and computers are capital resources, and workers are human resources.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_005",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.1.3-5",
+    "prompt": "Which group makes the laws for a state?",
+    "choices": [
+      "The governor alone",
+      "The city police",
+      "The U.S. Supreme Court",
+      "The state legislature"
+    ],
+    "correctAnswer": "The state legislature",
+    "explanation": "Each state has a legislature whose elected members make state laws. The governor carries out the laws.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_006",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.3.3-5",
+    "prompt": "Which mountain range runs through the western United States?",
+    "choices": [
+      "Rocky Mountains",
+      "Appalachian Mountains",
+      "Alps",
+      "Andes"
+    ],
+    "correctAnswer": "Rocky Mountains",
+    "explanation": "The Rocky Mountains stretch through the western United States. The Appalachians are in the East, the Alps are in Europe, and the Andes are in South America.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_007",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.3.3-5",
+    "prompt": "Which group of very large lakes lies along the border between the United States and Canada?",
+    "choices": [
+      "The Finger Lakes",
+      "The Great Lakes",
+      "The Great Salt Lake",
+      "The Everglades"
+    ],
+    "correctAnswer": "The Great Lakes",
+    "explanation": "The five Great Lakes (Superior, Michigan, Huron, Erie and Ontario) lie in the north-central part of the country; four of them are shared with Canada.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_008",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Civ.1.3-5",
+    "prompt": "Which are jobs of a state government? Select all that apply.",
+    "choices": [
+      "Issuing driver's licenses",
+      "Printing money",
+      "Running state parks",
+      "Declaring war",
+      "Setting rules for public schools"
+    ],
+    "correctAnswers": [
+      "Issuing driver's licenses",
+      "Running state parks",
+      "Setting rules for public schools"
+    ],
+    "explanation": "States issue driver's licenses, run state parks and oversee public schools. Only the national government can print money or declare war.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g4_009",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Who were the first people to live in what is now the United States?",
+    "choices": [
+      "English colonists",
+      "Spanish explorers",
+      "Native Americans",
+      "French fur traders"
+    ],
+    "correctAnswer": "Native Americans",
+    "explanation": "Native Americans (American Indians) lived across North America for thousands of years before Europeans arrived.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_010",
+    "subject": "SOCIAL_STUDIES",
+    "type": "ORDERING",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Civ.1.3-5",
+    "prompt": "Arrange these levels of government from the one that serves the smallest area to the one that serves the largest.",
+    "orderedItems": [
+      "City government",
+      "County government",
+      "State government",
+      "National (federal) government"
+    ],
+    "explanation": "A city government serves one city, a county usually includes several cities and towns, a state includes many counties, and the national government serves the whole country.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g4_011",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.Geo.9.3-5",
+    "prompt": "A state has rich soil, flat land, and a long growing season. Which industry is most likely to be important there?",
+    "choices": [
+      "Ice fishing",
+      "Coal mining",
+      "Skiing",
+      "Farming"
+    ],
+    "correctAnswer": "Farming",
+    "explanation": "Rich soil, flat land and a long growing season are good for growing crops, so farming is likely to be important.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_012",
+    "subject": "SOCIAL_STUDIES",
+    "type": "CLOZE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.3.3-5",
+    "prompt": "Use the word bank: Northeast, Southwest, Midwest. The region known for deserts and canyons, including Arizona and New Mexico, is the ___. The region that includes Ohio, Iowa, and Illinois is the ___.",
+    "blanks": [
+      "Southwest",
+      "Midwest"
+    ],
+    "explanation": "Arizona and New Mexico are in the Southwest, a dry region with deserts and canyons. Ohio, Iowa and Illinois are in the Midwest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "social_studies_g4_013",
+    "subject": "SOCIAL_STUDIES",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Geo.9.3-5",
+    "prompt": "Which state would most likely have many sawmills and paper factories?",
+    "passage": "A class made a chart of four imaginary states. Pine State: thick forests and many rivers. Plains State: flat grassland and rich soil. Ridge State: mountains with coal and iron. Shore State: sandy beaches and a deep harbor.",
+    "choices": [
+      "Pine State",
+      "Plains State",
+      "Ridge State",
+      "Shore State"
+    ],
+    "correctAnswer": "Pine State",
+    "explanation": "Sawmills and paper factories use wood, so they are usually built near forests. Pine State has thick forests.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_014",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Civ.5.3-5",
+    "prompt": "A state wants to build a new highway. Which group must usually approve spending the state's tax money on it?",
+    "choices": [
+      "The U.S. Supreme Court",
+      "The state legislature",
+      "A city mayor",
+      "A local school board"
+    ],
+    "correctAnswer": "The state legislature",
+    "explanation": "State legislatures pass the state budget, which decides how state tax money is spent.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_015",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.14.3-5",
+    "prompt": "Why did many settlers travel west on routes such as the Oregon Trail in the 1800s?",
+    "choices": [
+      "To get away from the noise of new railroads",
+      "Because eastern cities had no people",
+      "To find farmland and new opportunities",
+      "To be closer to Europe"
+    ],
+    "correctAnswer": "To find farmland and new opportunities",
+    "explanation": "Many settlers moved west hoping to own farmland and build a better life.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "social_studies_g4_016",
+    "subject": "SOCIAL_STUDIES",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.Eco.4.3-5",
+    "prompt": "Oranges grow well in Florida, and wheat grows well in Kansas. Why do states trade with one another?",
+    "choices": [
+      "Trade forces every state to produce exactly the same goods",
+      "States are not allowed to use their own resources",
+      "Trade stops people from moving between states",
+      "Each state can get goods it cannot easily produce itself"
+    ],
+    "correctAnswer": "Each state can get goods it cannot easily produce itself",
+    "explanation": "Regions specialize in what they produce best and trade for other goods. Trade lets people in each state get things that are hard to produce where they live.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "critical_thinking_g1_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Which one does not belong?",
+    "choices": [
+      "car",
+      "bus",
+      "tree",
+      "truck"
+    ],
+    "correctAnswer": "tree",
+    "explanation": "A car, a bus, and a truck are all things people ride in. A tree is a plant. The tree does not belong.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g1_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "Sam has on a raincoat. He holds an umbrella. What is the weather most likely like?",
+    "choices": [
+      "It is sunny",
+      "It is rainy",
+      "It is snowy"
+    ],
+    "correctAnswer": "It is rainy",
+    "explanation": "People use a raincoat and an umbrella to stay dry in the rain. So it is most likely rainy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_g1_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "All of Pam's pets are cats. Tig is one of Pam's pets. What is Tig?",
+    "choices": [
+      "a dog",
+      "a fish",
+      "a cat"
+    ],
+    "correctAnswer": "a cat",
+    "explanation": "Every pet Pam has is a cat. Tig is one of Pam's pets. So Tig must be a cat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_g1_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Put the steps in order from first to last.",
+    "orderedItems": [
+      "Plant a seed",
+      "Water the seed",
+      "A flower grows",
+      "Pick the flower"
+    ],
+    "explanation": "The seed must be planted before it can be watered. The flower grows after that, and you can only pick a flower after it has grown.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g1_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Which one could really happen?",
+    "choices": [
+      "A cow jumps over the moon",
+      "A girl rides a bike",
+      "A fish reads a book"
+    ],
+    "correctAnswer": "A girl rides a bike",
+    "explanation": "Girls really can ride bikes. A cow cannot jump over the moon and a fish cannot read, so those are make-believe.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.28,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_g1_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "Lily has paint on her hands. A new painting is on the table. What most likely happened?",
+    "choices": [
+      "Lily made the painting",
+      "Lily ate lunch",
+      "Lily took a nap"
+    ],
+    "correctAnswer": "Lily made the painting",
+    "explanation": "There are two clues: paint on Lily's hands and a new painting. Together they tell us Lily most likely made the painting.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_g1_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "A, B, B, A, B, B, A, B, ___. What letter comes next? Type the letter.",
+    "correctAnswer": "B",
+    "correctAnswers": [
+      "B"
+    ],
+    "explanation": "The pattern is A, B, B, again and again. The last group so far is 'A, B', so one more B comes next.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g1_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Dan is older than Eve. Eve is older than Finn. Who is the youngest?",
+    "choices": [
+      "Finn",
+      "Dan",
+      "Eve"
+    ],
+    "correctAnswer": "Finn",
+    "explanation": "Dan is older than Eve, and Eve is older than Finn. So Finn is younger than both Eve and Dan. Finn is the youngest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_g1_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Kim's hat is not red. It is not blue. Which hats could be Kim's? Select all that apply.",
+    "choices": [
+      "a red hat",
+      "a green hat",
+      "a blue hat",
+      "a yellow hat"
+    ],
+    "correctAnswers": [
+      "a green hat",
+      "a yellow hat"
+    ],
+    "explanation": "Cross out the red hat and the blue hat because Kim's hat is not red and not blue. The green hat and the yellow hat are left, so either one could be Kim's.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g1_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "The plant is dry and droopy. What most likely happened?",
+    "choices": [
+      "No one gave it water",
+      "It got too much rain",
+      "It grew a new flower"
+    ],
+    "correctAnswer": "No one gave it water",
+    "explanation": "Plants get dry and droopy when they do not get water. Too much rain would make it wet, not dry.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_g1_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Ann, Bo, and Cy each have one pet. The pets are a cat, a dog, and a fish. Ann has the cat. Bo does not have the dog. Who has the dog?",
+    "choices": [
+      "Ann",
+      "Bo",
+      "Cy"
+    ],
+    "correctAnswer": "Cy",
+    "explanation": "Ann has the cat, so she does not have the dog. Bo does not have the dog. Only Cy is left, so Cy has the dog.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_g1_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Which one can you check to see if it is true?",
+    "choices": [
+      "Blue is the best color",
+      "There are five apples in the bowl",
+      "Dogs are nicer than cats"
+    ],
+    "correctAnswer": "There are five apples in the bowl",
+    "explanation": "You can count the apples in the bowl to check. 'Best' and 'nicer' are what someone thinks, and people can think different things.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_g1_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "Some of the cookies have nuts. Tom takes one cookie. Does Tom's cookie have nuts?",
+    "choices": [
+      "Yes, for sure",
+      "No, for sure",
+      "We cannot tell"
+    ],
+    "correctAnswer": "We cannot tell",
+    "explanation": "'Some' means part of the cookies have nuts and part may not. Tom's cookie could be either kind, so we cannot tell.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.92,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_g1_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 1,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Puppy goes with dog. Kitten goes with what?",
+    "choices": [
+      "cat",
+      "cow",
+      "bird"
+    ],
+    "correctAnswer": "cat",
+    "explanation": "A puppy is a baby dog. In the same way, a kitten is a baby cat. So kitten goes with cat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.1,
+      "c": 0.333
+    }
+  }
+]

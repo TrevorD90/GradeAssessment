@@ -23,12 +23,24 @@ class AssessmentEngineAgent(
     private var sessionId: Long = 0
     private val subjectResponses = mutableMapOf<Subject, MutableList<StudentResponse>>()
 
+    /** Clears all per-session data. Must be called between students. */
+    fun reset() {
+        // Previously this map survived into the next session, so a new student's report listed
+        // the previous student's missed questions for any subject both had taken.
+        subjectResponses.clear()
+        _currentQuestion.value = null
+        _adaptiveState.value = AdaptiveState(currentTheta = 0.0)
+        questionIndex = 0
+        sessionId = 0
+    }
+
     fun startSubject(subject: Subject, age: Int, sessionId: Long) {
         this.currentSubject = subject
         this.sessionId = sessionId
         this.questionIndex = 0
         _adaptiveState.value = AdaptiveState.fromAge(age)
-        subjectResponses.getOrPut(subject) { mutableListOf() }
+        // A subject restarted within a session starts from a clean slate.
+        subjectResponses[subject] = mutableListOf()
         deliverNextQuestion(subject, age)
     }
 
@@ -41,12 +53,11 @@ class AssessmentEngineAgent(
         }
 
         val question = when {
-            subject == Subject.READING && shouldDeliverFluencySubtest(age, state) -> {
-                val subtest = getNextFluencySubtest(state)
-                if (subtest != null) adaptiveAgent.selectFluencyQuestion(subtest)
-                else adaptiveAgent.selectReadingComprehensionQuestion(state)
-            }
-            subject == Subject.READING -> adaptiveAgent.selectReadingComprehensionQuestion(state)
+            subject == Subject.READING && age <= FLUENCY_MAX_AGE ->
+                // Early readers first take each foundational-skills fluency subtest once,
+                // then continue with adaptive comprehension questions.
+                getNextFluencySubtest(state)?.let { adaptiveAgent.selectFluencyQuestion(it, state) }
+                    ?: adaptiveAgent.selectReadingComprehensionQuestion(state)
             else -> adaptiveAgent.selectNextQuestion(state, subject)
         }
 
@@ -79,13 +90,7 @@ class AssessmentEngineAgent(
         sessionRepository.saveResponse(sessionId, response)
         subjectResponses.getOrPut(currentSubject) { mutableListOf() }.add(response)
 
-        val newState = adaptiveAgent.updateState(
-            _adaptiveState.value,
-            question,
-            correct,
-            timeMs,
-            questionIndex
-        )
+        val newState = adaptiveAgent.updateState(_adaptiveState.value, question, response)
         _adaptiveState.value = newState
         questionIndex++
 
@@ -98,12 +103,14 @@ class AssessmentEngineAgent(
             Subject.CRITICAL_THINKING -> IrtEngine.computeCtScoreBundle(
                 theta = state.currentTheta,
                 se = state.standardError,
-                responses = state.responses
+                responses = state.responses,
+                age = age
             )
             Subject.IQ_ASSESSMENT -> IrtEngine.computeIqScoreBundle(
                 theta = state.currentTheta,
                 se = state.standardError,
-                responses = state.responses
+                responses = state.responses,
+                age = age
             )
             else -> IrtEngine.computeScoreBundle(
                 theta = state.currentTheta,
@@ -123,31 +130,20 @@ class AssessmentEngineAgent(
         return responses.filter { !it.correct }.mapNotNull { r ->
             val question = questionRepository.getQuestionById(r.questionId)
             question?.let {
-                // Build correct answer string based on question type
-                val correctAnswerText = when (it.type) {
-                    QuestionType.CLOZE -> it.blanks.joinToString(", ")
-                    QuestionType.ORDERING -> it.orderedItems.joinToString(" -> ")
-                    QuestionType.MULTI_SELECT -> it.correctAnswers.joinToString(", ")
-                    QuestionType.TIMED_FLUENCY -> it.fluencyCorrectItems.joinToString(", ")
-                    else -> it.correctAnswer
-                }
                 MissedQuestion(
                     questionId = it.id,
                     prompt = it.prompt,
                     studentAnswer = r.studentAnswer,
-                    correctAnswer = correctAnswerText,
+                    correctAnswer = it.correctAnswerText(),
                     standardCode = it.standardCode
                 )
             }
         }
     }
 
-    private fun shouldDeliverFluencySubtest(age: Int, state: AdaptiveState): Boolean {
-        if (age > 8) return false
-        val fluencyDone = state.responses.any { it.subtest != ReadingSubtest.COMPREHENSION && it.subtest != null }
-        return !fluencyDone
-    }
-
+    // Previously a single "fluency done" flag flipped after the FIRST subtest, so Phoneme
+    // Segmentation and Nonsense Word fluency were never delivered. Each subtest is now
+    // tracked individually by getNextFluencySubtest.
     private fun getNextFluencySubtest(state: AdaptiveState): ReadingSubtest? {
         val completedSubtests = state.responses.mapNotNull { it.subtest }.toSet()
         val fluencySubtests = listOf(
@@ -156,5 +152,10 @@ class AssessmentEngineAgent(
             ReadingSubtest.NONSENSE_WORD
         )
         return fluencySubtests.firstOrNull { it !in completedSubtests }
+    }
+
+    companion object {
+        /** Oldest age (grade 2) that receives the K-2 foundational fluency subtests. */
+        const val FLUENCY_MAX_AGE = 7
     }
 }

@@ -1,0 +1,580 @@
+[
+  {
+    "id": "arts_g10_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cn11.1.IIa",
+    "prompt": "Which Renaissance artist painted the ceiling of the Sistine Chapel?",
+    "choices": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": "Michelangelo",
+    "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_002",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.C.IIa",
+    "prompt": "A composition for a solo instrument accompanied by an orchestra, usually in three movements, is called a ___.",
+    "correctAnswer": "concerto",
+    "correctAnswers": [
+      "concerto",
+      "concertos",
+      "concerti"
+    ],
+    "explanation": "A concerto features a soloist with orchestra, typically in three movements: fast, slow, fast.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g10_003",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Cn11.2.II.a",
+    "prompt": "Which theatrical approach is this production using?",
+    "passage": "In a production, the actors change costumes in full view of the audience, a narrator interrupts scenes to comment on the action, and signs announce what will happen before each scene begins. The director explains that she wants the audience to think critically about the story rather than become emotionally lost in it.",
+    "choices": [
+      "Bertolt Brecht's epic theatre",
+      "Classical Greek tragedy",
+      "Commedia dell'arte",
+      "Konstantin Stanislavski's realism"
+    ],
+    "correctAnswer": "Bertolt Brecht's epic theatre",
+    "explanation": "Brecht's epic theatre uses devices such as visible staging, narration, and placards to create an alienation effect that keeps the audience thinking critically.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.C.IIa",
+    "prompt": "In a minor triad, the interval between the root and the third is a ___.",
+    "choices": [
+      "tritone",
+      "perfect fourth",
+      "minor third",
+      "major third"
+    ],
+    "correctAnswer": "minor third",
+    "explanation": "A minor triad has a minor third (three half steps) between the root and the third, for example A to C in A-C-E.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.E.IIa",
+    "prompt": "Which notes make up a G dominant seventh chord (G7)?",
+    "choices": [
+      "G, B-flat, D, F",
+      "G, C, D, F",
+      "G, B, D, F-sharp",
+      "G, B, D, F"
+    ],
+    "correctAnswer": "G, B, D, F",
+    "explanation": "A dominant seventh chord is a major triad plus a minor seventh: G, B, D, F. With F-sharp it would be a G major seventh chord.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_006",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Re7.2.C.IIa",
+    "prompt": "A song in C major repeats the chords C, G, A minor, F. Which Roman numeral analysis matches this progression?",
+    "choices": [
+      "I - IV - V - I",
+      "I - vi - IV - V",
+      "I - V - vi - IV",
+      "ii - V - I - vi"
+    ],
+    "correctAnswer": "I - V - vi - IV",
+    "explanation": "In C major, C is I, G is V, A minor is vi, and F is IV.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_007",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Cn11.2.II.a",
+    "prompt": "Which practitioner developed the acting \"system\" that asks actors to pursue a character's objectives and create believable, truthful behavior on stage?",
+    "choices": [
+      "Henrik Ibsen",
+      "Bertolt Brecht",
+      "Konstantin Stanislavski",
+      "William Shakespeare"
+    ],
+    "correctAnswer": "Konstantin Stanislavski",
+    "explanation": "Stanislavski's system, developed at the Moscow Art Theatre, is the foundation of modern realistic acting.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cn11.1.IIa",
+    "prompt": "Which movement, exemplified by Jackson Pollock and Mark Rothko, emphasized spontaneous gesture or large fields of color in New York in the 1940s and 1950s?",
+    "choices": [
+      "Fauvism",
+      "Abstract Expressionism",
+      "Dada",
+      "Minimalism"
+    ],
+    "correctAnswer": "Abstract Expressionism",
+    "explanation": "Abstract Expressionism included action painters such as Pollock and color field painters such as Rothko.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_009",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Cr2.1.C.IIa",
+    "prompt": "A melody in A natural minor is rewritten in A harmonic minor. Which note is changed?",
+    "choices": [
+      "C becomes C-sharp",
+      "B becomes B-flat",
+      "G becomes G-sharp",
+      "F becomes F-sharp"
+    ],
+    "correctAnswer": "G becomes G-sharp",
+    "explanation": "The harmonic minor scale raises the seventh degree of the natural minor scale. In A minor the seventh degree, G, becomes G-sharp.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cn11.1.IIa",
+    "prompt": "\"Guernica,\" a monumental 1937 painting made in response to the bombing of a Spanish town, was created by ___.",
+    "choices": [
+      "Francisco Goya",
+      "Pablo Picasso",
+      "Joan Miro",
+      "Salvador Dali"
+    ],
+    "correctAnswer": "Pablo Picasso",
+    "explanation": "Picasso painted Guernica in 1937 after the bombing of the Basque town of Guernica during the Spanish Civil War.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_011",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "VA:Re7.2.IIa",
+    "prompt": "Compared with High Renaissance art, Baroque art is generally characterized by ___.",
+    "choices": [
+      "flat, stylized figures on gold backgrounds",
+      "dramatic contrasts of light and dark, intense emotion, and dynamic movement",
+      "a complete absence of religious subjects",
+      "calm, stable, symmetrical compositions with soft, even lighting"
+    ],
+    "correctAnswer": "dramatic contrasts of light and dark, intense emotion, and dynamic movement",
+    "explanation": "Baroque artists such as Caravaggio, Bernini, and Rubens favored drama, movement, and strong light-dark contrast over Renaissance calm and balance.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_012",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "VA:Re8.1.IIa",
+    "prompt": "Which pairing of styles best fits the two paintings?",
+    "passage": "Painting A (1787) shows a philosopher calmly reaching for a cup of poison. The figures are arranged across the canvas like a sculpted frieze, with crisp outlines, smooth and invisible brushwork, and a clear moral lesson about duty. Painting B (1830) shows a crowd surging over a barricade through smoke. It has loose, energetic brushwork, a strong diagonal composition, vivid color, and raw emotion.",
+    "choices": [
+      "A is Realist; B is Cubist",
+      "A is Neoclassical; B is Romantic",
+      "A is Romantic; B is Neoclassical",
+      "A is Baroque; B is Impressionist"
+    ],
+    "correctAnswer": "A is Neoclassical; B is Romantic",
+    "explanation": "Neoclassicism favored order, clear outline, and moral subjects drawn from antiquity. Romanticism favored emotion, movement, color, and dramatic contemporary events.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_013",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Cn11.1.IIa",
+    "prompt": "The choreographer George Balanchine is most closely associated with which dance form?",
+    "choices": [
+      "Neoclassical ballet",
+      "Japanese Butoh dance theatre",
+      "Tap dance",
+      "Flamenco"
+    ],
+    "correctAnswer": "Neoclassical ballet",
+    "explanation": "Balanchine, co-founder of New York City Ballet, developed a fast, streamlined, often plotless neoclassical style of ballet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.E.IIa",
+    "prompt": "Moving clockwise around the circle of fifths from C major, each key adds one sharp. Which major key has three sharps?",
+    "choices": [
+      "E major",
+      "D major",
+      "B major",
+      "A major"
+    ],
+    "correctAnswer": "A major",
+    "explanation": "C has no sharps, G has one, D has two, and A has three (F-sharp, C-sharp, G-sharp). E major has four.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_015",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "VA:Cn11.1.IIa",
+    "prompt": "An art historian argues that a ruler's portrait was intended as political propaganda. Which evidence would most strongly support this claim?",
+    "choices": [
+      "The portrait is larger than most paintings of its time",
+      "The portrait is painted in oil on canvas, the usual medium for court portraits",
+      "The ruler commissioned it and had copies widely distributed, showing him in idealized military dress",
+      "The portrait now hangs in a national museum"
+    ],
+    "correctAnswer": "The ruler commissioned it and had copies widely distributed, showing him in idealized military dress",
+    "explanation": "Who commissioned the work, how it was distributed, and its idealized imagery are contextual evidence of persuasive intent. Medium, size, and present location are not.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_016",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MA:Pr5.1.IIa",
+    "prompt": "Which property of a digital image describes how much detail it holds and is measured in pixels, such as 1920 x 1080?",
+    "choices": [
+      "Resolution",
+      "Frame rate",
+      "Exposure",
+      "Saturation"
+    ],
+    "correctAnswer": "Resolution",
+    "explanation": "Resolution is the number of pixels in an image. Frame rate is the number of images shown per second in video.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_017",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "TH:Re8.1.II.a",
+    "prompt": "Dramatic irony occurs when ___.",
+    "choices": [
+      "an actor forgets a line and improvises",
+      "a character says the opposite of what he or she means",
+      "a play ends unhappily for the hero",
+      "the audience knows something important that a character does not"
+    ],
+    "correctAnswer": "the audience knows something important that a character does not",
+    "explanation": "In dramatic irony the audience has knowledge a character lacks, as when the audience knows Juliet is alive but Romeo does not.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_018",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "MA:Re7.1.IIa",
+    "prompt": "Throughout a film, conversations follow the 180-degree rule. At the moment one character betrays another, the camera suddenly crosses the line, so the characters appear to switch sides of the screen. What is the most likely purpose?",
+    "choices": [
+      "To keep the screen direction consistent for viewers",
+      "To disorient the viewer and signal that the relationship has been disrupted",
+      "To make the scene shorter",
+      "To show that the scene takes place earlier in time"
+    ],
+    "correctAnswer": "To disorient the viewer and signal that the relationship has been disrupted",
+    "explanation": "The 180-degree rule keeps spatial relationships clear. Breaking it deliberately unsettles the viewer, which can underline a rupture in the story.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_019",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Re7.2.E.IIa",
+    "prompt": "Which of the following are features of Romantic-era music (about 1820-1900)? Select all that apply.",
+    "choices": [
+      "Avoidance of chromatic harmony",
+      "Accompaniment by basso continuo with harpsichord",
+      "Program music that tells a story or depicts a scene",
+      "Larger orchestras and a wide dynamic range",
+      "Emphasis on personal emotional expression"
+    ],
+    "correctAnswers": [
+      "Program music that tells a story or depicts a scene",
+      "Larger orchestras and a wide dynamic range",
+      "Emphasis on personal emotional expression"
+    ],
+    "explanation": "Romantic composers expanded the orchestra, emphasized individual emotion, and wrote program music. Basso continuo belongs to the Baroque, and Romantic harmony became more chromatic, not less.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g10_020",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "DA:Re8.1.IIa",
+    "prompt": "When analyzing a dance work, which statement is an interpretation rather than a description?",
+    "choices": [
+      "Six dancers enter from stage left, one at a time, and form a diagonal line",
+      "The piece lasts twelve minutes",
+      "The dancers wear gray costumes",
+      "The repeated falling and recovering suggests a struggle to keep going"
+    ],
+    "correctAnswer": "The repeated falling and recovering suggests a struggle to keep going",
+    "explanation": "A description states what can be observed. An interpretation proposes what the movement means, as in suggesting that falling and recovering represents struggle.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_021",
+    "subject": "ARTS",
+    "type": "CLOZE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.C.IIa",
+    "prompt": "Use the word bank: tonic, subdominant, dominant. In any major key, the chord built on the first scale degree is the ___. The chord built on the fifth scale degree is the ___.",
+    "blanks": [
+      "tonic",
+      "dominant"
+    ],
+    "explanation": "The tonic (I) is built on the first degree, the subdominant (IV) on the fourth, and the dominant (V) on the fifth.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g10_022",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Re7.2.C.IIa",
+    "prompt": "A phrase in C major moves from a G major chord to an A minor chord instead of resolving to C major. What is this called?",
+    "choices": [
+      "A half cadence",
+      "An authentic cadence",
+      "A plagal cadence",
+      "A deceptive cadence"
+    ],
+    "correctAnswer": "A deceptive cadence",
+    "explanation": "A deceptive cadence moves from V to vi instead of the expected I. A plagal cadence is IV-I, and a half cadence ends on V.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_023",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "DA:Cn11.1.IIa",
+    "prompt": "Postmodern choreographers of the 1960s, such as those of the Judson Dance Theater, challenged tradition mainly by ___.",
+    "choices": [
+      "using everyday movement such as walking and rejecting virtuosity and storytelling",
+      "requiring all dancers, men and women alike, to perform on pointe in classical ballet technique",
+      "insisting on elaborate costumes and scenery",
+      "returning to the court ballets of the 1600s"
+    ],
+    "correctAnswer": "using everyday movement such as walking and rejecting virtuosity and storytelling",
+    "explanation": "Judson-era choreographers such as Yvonne Rainer and Trisha Brown used pedestrian movement, chance, and task-based structures.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g10_024",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 10,
+    "gradeRange": "9-10",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.C.IIa",
+    "prompt": "Arrange the sections of a movement in sonata form in the order in which they occur.",
+    "orderedItems": [
+      "Exposition",
+      "Development",
+      "Recapitulation",
+      "Coda"
+    ],
+    "explanation": "Sonata form presents themes in the exposition, transforms them in the development, restates them in the recapitulation, and may close with a coda.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 3.3,
+      "c": 0.0
+    }
+  }
+]

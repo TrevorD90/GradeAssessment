@@ -1,0 +1,409 @@
+[
+  {
+    "id": "world_history_g2_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.2.1",
+    "prompt": "What is history?",
+    "choices": [
+      "The study of the past",
+      "The study of plants",
+      "The study of numbers",
+      "The study of weather"
+    ],
+    "correctAnswer": "The study of the past",
+    "explanation": "History is the study of the past: what people did, how they lived and how things changed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_002",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "CA.HSS.2.1.1",
+    "prompt": "An object made and used by people long ago, such as an old clay pot, is called what?",
+    "choices": [
+      "A habitat",
+      "An artifact",
+      "A forecast",
+      "A recipe"
+    ],
+    "correctAnswer": "An artifact",
+    "explanation": "An artifact is an object made by people in the past. Artifacts such as pots, tools and coins help us learn how people lived.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_003",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.1.K-2",
+    "prompt": "A line that shows events in the order they happened is called a ___.",
+    "correctAnswer": "timeline",
+    "correctAnswers": [
+      "timeline",
+      "time line",
+      "time-line"
+    ],
+    "explanation": "A timeline is a line marked with events in the order they happened, from earliest to latest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g2_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.K-2",
+    "prompt": "The Great Wall is a very long wall that was built long ago. In which country is it?",
+    "choices": [
+      "Egypt",
+      "Mexico",
+      "China",
+      "Greece"
+    ],
+    "correctAnswer": "China",
+    "explanation": "The Great Wall is in China. It was built and rebuilt over many hundreds of years.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.K-2",
+    "prompt": "The Great Pyramid of Giza was built thousands of years ago as a tomb for a king. In which country is it?",
+    "choices": [
+      "China",
+      "Japan",
+      "Greece",
+      "Egypt"
+    ],
+    "correctAnswer": "Egypt",
+    "explanation": "The Great Pyramid of Giza is in Egypt. It was built about 4,500 years ago as a tomb for a king called a pharaoh.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.14.K-2",
+    "prompt": "Why did many people long ago build their villages near rivers?",
+    "choices": [
+      "To watch the fish swim and the boats go by",
+      "To build sandcastles on the sandy riverbanks",
+      "To play in the water",
+      "To have water for drinking and growing food"
+    ],
+    "correctAnswer": "To have water for drinking and growing food",
+    "explanation": "People settled near rivers because they needed water to drink, to cook and to grow crops.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.2.1.1",
+    "prompt": "Which would best help you learn what your grandfather's life was like when he was a child?",
+    "choices": [
+      "Talking with him and looking at his old photographs",
+      "Reading a picture book about dinosaurs from long ago",
+      "Looking at tomorrow's weather report on television",
+      "Drawing a made-up story"
+    ],
+    "correctAnswer": "Talking with him and looking at his old photographs",
+    "explanation": "Interviews and old photographs are sources that come from the person's own life, so they are the best way to learn about his childhood.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_008",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CA.HSS.2.1.3",
+    "prompt": "Put these events in Maya's life in order from first to last.",
+    "orderedItems": [
+      "Maya is born",
+      "Maya learns to walk",
+      "Maya starts kindergarten",
+      "Maya begins second grade"
+    ],
+    "explanation": "A person is born first, learns to walk as a toddler, starts kindergarten at about age five and begins second grade about two years later.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g2_009",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "Which of these did people use 200 years ago? Select all that apply.",
+    "choices": [
+      "Candles",
+      "Horses",
+      "Televisions",
+      "Sailing ships",
+      "Computers"
+    ],
+    "correctAnswers": [
+      "Candles",
+      "Horses",
+      "Sailing ships"
+    ],
+    "explanation": "Two hundred years ago people used candles for light, horses for travel on land and sailing ships to cross the sea. Televisions and computers had not been invented.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g2_010",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.1.4.3",
+    "prompt": "Diwali, Lunar New Year and Eid are all examples of what?",
+    "choices": [
+      "Kinds of maps used by sailors long ago",
+      "Holidays celebrated around the world",
+      "Ancient buildings in Egypt and Greece",
+      "Types of boats used on rivers"
+    ],
+    "correctAnswer": "Holidays celebrated around the world",
+    "explanation": "Diwali, Lunar New Year and Eid are holidays. Families in many parts of the world celebrate them with food, gatherings and special traditions.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_011",
+    "subject": "WORLD_HISTORY",
+    "type": "CLOZE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "CA.HSS.2.1",
+    "prompt": "Use the word bank: ancient, modern. Something from very long ago is ___. Something from today is ___.",
+    "blanks": [
+      "ancient",
+      "modern"
+    ],
+    "explanation": "Ancient means from a very long time ago. Modern means from the present time.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g2_012",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.K-2",
+    "prompt": "Long ago in ancient Greece, athletes gathered for races and contests. Games with the same name are still held today. What are they called?",
+    "choices": [
+      "The World Series",
+      "The Super Bowl",
+      "The Olympic Games",
+      "The Spelling Bee"
+    ],
+    "correctAnswer": "The Olympic Games",
+    "explanation": "The Olympic Games began in ancient Greece more than 2,700 years ago. The modern Olympic Games are named after them.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_013",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.2.K-2",
+    "prompt": "How is keeping food cold today different from 100 years ago?",
+    "passage": "One hundred years ago, many homes had no electric refrigerator. A worker brought big blocks of ice to each house. Families put the ice in a wooden box called an icebox to keep food cold.",
+    "choices": [
+      "Today nobody keeps food cold, so it is eaten right away",
+      "Most homes now use electric refrigerators, not ice",
+      "Today a worker brings blocks of ice to every house",
+      "Today food is kept cold in wooden boxes with no ice"
+    ],
+    "correctAnswer": "Most homes now use electric refrigerators, not ice",
+    "explanation": "The passage explains that families used blocks of ice in an icebox. Today most homes use electric refrigerators instead.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_014",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.6.K-2",
+    "prompt": "Two people saw the same parade long ago and wrote about it. Their stories are a little different. Why might that be?",
+    "choices": [
+      "One of the two writers must not have been a real person",
+      "Parades did not exist long ago",
+      "Each person saw and remembered different things",
+      "Stories about the past are always made up"
+    ],
+    "correctAnswer": "Each person saw and remembered different things",
+    "explanation": "People notice and remember different things, so two true accounts of the same event can be different. Historians compare accounts to learn more.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_015",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.14.K-2",
+    "prompt": "Long ago, rulers in China had the Great Wall built. What is the most likely reason for building such a long wall?",
+    "choices": [
+      "To hold back the ocean",
+      "To make a road for cars",
+      "To grow rice on top",
+      "To help protect their land"
+    ],
+    "correctAnswer": "To help protect their land",
+    "explanation": "The Great Wall was built to help protect China's northern lands from attack. There were no cars long ago, and a wall cannot hold back the ocean.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g2_016",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.1.K-2",
+    "prompt": "Put these in order from longest ago to most recent.",
+    "orderedItems": [
+      "The pyramids are built in Egypt",
+      "Your grandparents are born",
+      "You are born"
+    ],
+    "explanation": "The pyramids were built thousands of years ago. Your grandparents were born many years ago, and you were born most recently.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g2_017",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.11.K-2",
+    "prompt": "An old letter says at the top: \"June 3, 1920, Paris.\" What does this tell you?",
+    "choices": [
+      "When and where the letter was written",
+      "The name of the person who delivered the letter",
+      "How much the paper cost",
+      "What the weather was like"
+    ],
+    "correctAnswer": "When and where the letter was written",
+    "explanation": "The date tells when the letter was written and the city tells where. Historians look for this information on every source.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  }
+]

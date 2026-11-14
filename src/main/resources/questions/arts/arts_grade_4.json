@@ -1,0 +1,529 @@
+[
+  {
+    "id": "arts_g4_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.4a",
+    "prompt": "Which of these is a cool color?",
+    "choices": [
+      "Orange",
+      "Yellow",
+      "Red",
+      "Blue"
+    ],
+    "correctAnswer": "Blue",
+    "explanation": "Blue, green, and purple are cool colors. Red, orange, and yellow are warm colors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_002",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Re7.2.4a",
+    "prompt": "Which pair of colors is complementary?",
+    "passage": "The color wheel is a tool artists use to understand color relationships. Primary colors (red, yellow, blue) are evenly spaced around the wheel. Between each pair of primary colors sits a secondary color made by mixing those two primaries. Colors that are directly across from each other on the wheel are called complementary colors.",
+    "choices": [
+      "Red and green",
+      "Yellow and orange",
+      "Red and orange",
+      "Blue and green"
+    ],
+    "correctAnswer": "Red and green",
+    "explanation": "Complementary colors sit directly across from each other on the color wheel. Red is across from green, blue is across from orange, and yellow is across from purple.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_003",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.4b",
+    "prompt": "In 4/4 time, which group of notes fills exactly one measure?",
+    "choices": [
+      "Three half notes",
+      "Five quarter notes",
+      "Two quarter notes and one half note",
+      "One whole note and one quarter note"
+    ],
+    "correctAnswer": "Two quarter notes and one half note",
+    "explanation": "A 4/4 measure holds 4 beats. Two quarter notes (2 beats) plus one half note (2 beats) equals 4 beats.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.3.4a",
+    "prompt": "What does the dynamic marking f (forte) mean?",
+    "choices": [
+      "Loud",
+      "Slow",
+      "Fast",
+      "Soft"
+    ],
+    "correctAnswer": "Loud",
+    "explanation": "Forte means loud. Piano (p) means soft. Fast and slow describe tempo, not dynamics.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_005",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.4a",
+    "prompt": "Which of the following are elements of art? Select all that apply.",
+    "choices": [
+      "Texture",
+      "Balance",
+      "Emphasis",
+      "Line",
+      "Color"
+    ],
+    "correctAnswers": [
+      "Texture",
+      "Line",
+      "Color"
+    ],
+    "explanation": "Line, color, and texture are elements of art (along with shape, form, space, and value). Balance and emphasis are principles of design.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g4_006",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "VA:Re7.2.4a",
+    "prompt": "An artist paints a bright orange fish against a blue background. Why does the fish stand out so strongly?",
+    "choices": [
+      "Orange and blue are both warm colors",
+      "Orange and blue are complementary colors, so they contrast strongly",
+      "Orange and blue are both primary colors",
+      "Orange and blue are next to each other on the color wheel"
+    ],
+    "correctAnswer": "Orange and blue are complementary colors, so they contrast strongly",
+    "explanation": "Orange and blue are opposite each other on the color wheel. Complementary colors placed side by side create strong contrast.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_007",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.4a",
+    "prompt": "The four families of orchestra instruments are strings, woodwinds, brass, and ___.",
+    "correctAnswer": "percussion",
+    "correctAnswers": [
+      "percussion"
+    ],
+    "explanation": "The orchestra's four families are strings, woodwinds, brass, and percussion.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g4_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Pr4.2.4b",
+    "prompt": "In the time signature 3/4, what does the top number tell you?",
+    "choices": [
+      "Three instruments play together",
+      "There are 3 beats in each measure",
+      "There are 3 measures in the song",
+      "The song is played 3 times"
+    ],
+    "correctAnswer": "There are 3 beats in each measure",
+    "explanation": "The top number of a time signature tells how many beats are in each measure. The bottom number tells which note gets one beat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_009",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Cr2.1.4a",
+    "prompt": "A tertiary (intermediate) color is made by mixing a primary color with a secondary color next to it on the color wheel. Which of these is a tertiary color?",
+    "choices": [
+      "Blue-green",
+      "Yellow",
+      "Orange",
+      "Purple"
+    ],
+    "correctAnswer": "Blue-green",
+    "explanation": "Blue-green is made from blue (primary) and green (secondary). Orange and purple are secondary colors, and yellow is primary.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Cr1.1.4.a",
+    "prompt": "A conversation between two or more characters in a play is called ___.",
+    "choices": [
+      "monologue",
+      "narration",
+      "pantomime",
+      "dialogue"
+    ],
+    "correctAnswer": "dialogue",
+    "explanation": "Dialogue is characters speaking to each other. A monologue is a long speech by one character.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_011",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.4b",
+    "prompt": "On the treble clef staff, which letters name the four spaces from bottom to top?",
+    "choices": [
+      "A, C, E, G",
+      "G, B, D, F",
+      "F, A, C, E",
+      "E, G, B, D"
+    ],
+    "correctAnswer": "F, A, C, E",
+    "explanation": "The treble clef spaces spell FACE from bottom to top. The lines are E, G, B, D, F.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_012",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.4a",
+    "prompt": "In a round such as \"Row, Row, Row Your Boat,\" what do the singers do?",
+    "choices": [
+      "Take turns singing one word each",
+      "Sing the melody together from start to finish",
+      "Sing the same melody but start at different times",
+      "Sing completely different songs at the same time"
+    ],
+    "correctAnswer": "Sing the same melody but start at different times",
+    "explanation": "In a round, each group sings the same melody but enters at a different time, which creates harmony.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_013",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cn11.1.4a",
+    "prompt": "A traditional mosaic, like those made in ancient Rome, is a picture made from ___.",
+    "choices": [
+      "threads woven on a loom",
+      "ink pressed onto paper from a carved wooden block",
+      "paint brushed onto wet plaster",
+      "small pieces of stone, tile, or glass"
+    ],
+    "correctAnswer": "small pieces of stone, tile, or glass",
+    "explanation": "A mosaic is made by arranging many small pieces of stone, tile, or glass into a picture or pattern.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.4a",
+    "prompt": "Which voice type sings the highest notes?",
+    "choices": [
+      "Alto",
+      "Tenor",
+      "Soprano",
+      "Bass"
+    ],
+    "correctAnswer": "Soprano",
+    "explanation": "From highest to lowest, the four main voice types are soprano, alto, tenor, and bass.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_015",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "DA:Cr1.1.4a",
+    "prompt": "A class is making a dance about a thunderstorm. Which movement choice best shows lightning?",
+    "choices": [
+      "Gentle swaying from side to side",
+      "Lying still and quiet on the floor",
+      "Slow, smooth, flowing movements",
+      "Sharp, sudden, fast movements"
+    ],
+    "correctAnswer": "Sharp, sudden, fast movements",
+    "explanation": "Lightning is quick and sharp, so sharp, sudden movements express it best. Dancers choose movement qualities to communicate ideas.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_016",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Cn11.1.4a",
+    "prompt": "Which dance form uses shoes with metal plates that make rhythmic sounds on the floor?",
+    "choices": [
+      "Waltz",
+      "Tap",
+      "Ballet",
+      "Hula"
+    ],
+    "correctAnswer": "Tap",
+    "explanation": "Tap dancers wear shoes with metal taps on the heel and toe, turning their feet into percussion instruments.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_017",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MA:Cr3.1.4a",
+    "prompt": "In a movie, a camera shot in which an actor's face fills the screen is called a ___.",
+    "choices": [
+      "close-up",
+      "wide shot",
+      "soundtrack",
+      "fade-out"
+    ],
+    "correctAnswer": "close-up",
+    "explanation": "A close-up shows a subject from very near, often to show emotion. A wide shot shows the whole scene.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_018",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Re7.2.4a",
+    "prompt": "Put these string instruments in order from the highest-pitched to the lowest-pitched.",
+    "orderedItems": [
+      "Violin",
+      "Viola",
+      "Cello",
+      "Double bass"
+    ],
+    "explanation": "The violin is the smallest and highest. The viola, cello, and double bass get larger and lower in pitch.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g4_019",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Pr4.1.4.a",
+    "prompt": "Who guides the actors and decides how a play will be performed on stage?",
+    "choices": [
+      "The usher",
+      "The director",
+      "The audience",
+      "The playwright"
+    ],
+    "correctAnswer": "The director",
+    "explanation": "The director leads rehearsals and makes decisions about how the play is staged. The playwright writes the script.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_020",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Cr3.1.4.b",
+    "prompt": "A playwright wants the audience to see that a character is secretly nervous, without the character saying so. Which stage direction works best?",
+    "choices": [
+      "(He hums a happy tune while reading.)",
+      "(He taps his foot and keeps glancing at the door.)",
+      "(He leans back in his chair and laughs loudly at a joke.)",
+      "(He yawns and stretches out on the sofa.)"
+    ],
+    "correctAnswer": "(He taps his foot and keeps glancing at the door.)",
+    "explanation": "Tapping a foot and glancing at the door are physical signs of nervousness. Actions can show a character's feelings without words.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g4_021",
+    "subject": "ARTS",
+    "type": "CLOZE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Pr4.3.4a",
+    "prompt": "Use the word bank: crescendo, decrescendo, staccato. When music gradually gets louder, it is a ___. Notes played short and detached are marked ___.",
+    "blanks": [
+      "crescendo",
+      "staccato"
+    ],
+    "explanation": "A crescendo is a gradual increase in loudness. Staccato means short, detached notes. A decrescendo (also called a diminuendo) is a gradual decrease in loudness.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g4_022",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 4,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "DA:Cr2.1.4a",
+    "prompt": "Two dancers face each other. One moves, and the other copies at the same time like a reflection. What is this called?",
+    "choices": [
+      "Mirroring",
+      "A solo",
+      "A freeze",
+      "A bow"
+    ],
+    "correctAnswer": "Mirroring",
+    "explanation": "In mirroring, partners face each other and one copies the other as if looking in a mirror.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.3,
+      "c": 0.25
+    }
+  }
+]

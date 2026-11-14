@@ -1,0 +1,409 @@
+[
+  {
+    "id": "writing_g5_001",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.5.2.B",
+    "prompt": "Which sentence uses a comma correctly?",
+    "choices": [
+      "After the game we, went out for pizza.",
+      "After the game, we went out for pizza.",
+      "After, the game we went out for pizza.",
+      "After the game we went, out for pizza."
+    ],
+    "correctAnswer": "After the game, we went out for pizza.",
+    "explanation": "Use a comma to separate an introductory element from the rest of the sentence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_002",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "L.5.1.A",
+    "prompt": "Which word is an interjection in this sentence?\nWow, that kite is flying high!",
+    "choices": [
+      "kite",
+      "flying",
+      "Wow",
+      "high"
+    ],
+    "correctAnswer": "Wow",
+    "explanation": "An interjection is a word that expresses strong feeling, such as wow, ouch, or hooray.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_003",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.5.2.C",
+    "prompt": "Which sentence is punctuated correctly?",
+    "choices": [
+      "Yes I, would like some water.",
+      "Yes I would, like some water.",
+      "Yes I would like, some water.",
+      "Yes, I would like some water."
+    ],
+    "correctAnswer": "Yes, I would like some water.",
+    "explanation": "Use a comma to set off the words 'yes' and 'no' from the rest of the sentence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_004",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.5.2.A",
+    "prompt": "Which sentence uses commas correctly?",
+    "choices": [
+      "We packed sandwiches, apples, and juice for the picnic.",
+      "We packed, sandwiches apples and juice for the picnic.",
+      "We packed sandwiches, apples, and, juice for the picnic.",
+      "We packed sandwiches apples, and juice, for the picnic."
+    ],
+    "correctAnswer": "We packed sandwiches, apples, and juice for the picnic.",
+    "explanation": "Use commas to separate three or more items in a series. Do not put a comma after the conjunction or after the last item.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_005",
+    "subject": "WRITING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "L.5.1.B",
+    "prompt": "Type the correct form of the verb 'finish': By the time Mom got home, I had ___ my homework.",
+    "correctAnswer": "finished",
+    "correctAnswers": [
+      "finished"
+    ],
+    "explanation": "The past perfect tense is formed with 'had' plus the past participle: had finished.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g5_006",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.5.1.D",
+    "prompt": "Which sentence has an incorrect shift in verb tense?",
+    "choices": [
+      "Lena opened the door and saw a puppy.",
+      "Lena opened the door and sees a puppy.",
+      "Lena opens the door and sees a puppy.",
+      "Lena will open the door and will see a puppy."
+    ],
+    "correctAnswer": "Lena opened the door and sees a puppy.",
+    "explanation": "Verbs that describe actions happening at the same time should stay in the same tense. 'Opened' is past, but 'sees' is present.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_007",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.5.1.E",
+    "prompt": "Which word correctly completes the sentence?\nNeither the coach ___ the players knew the final score.",
+    "choices": [
+      "or",
+      "and",
+      "nor",
+      "but"
+    ],
+    "correctAnswer": "nor",
+    "explanation": "Correlative conjunctions work in pairs: either/or, neither/nor, both/and, not only/but also.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_008",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.5.2.D",
+    "prompt": "Which sentence shows the title of the poem correctly?",
+    "choices": [
+      "We read the poem The Road Not Taken in class.",
+      "We read the poem The \"Road Not Taken\" in class.",
+      "We read the \"poem\" The Road Not Taken in class.",
+      "We read the poem \"The Road Not Taken\" in class."
+    ],
+    "correctAnswer": "We read the poem \"The Road Not Taken\" in class.",
+    "explanation": "Use quotation marks around the titles of short works such as poems, songs, and short stories.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_009",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.5.2.C",
+    "prompt": "Which sentence is punctuated correctly?",
+    "choices": [
+      "Is that your backpack, Marcus?",
+      "Is that, your backpack Marcus?",
+      "Is that your backpack Marcus?",
+      "Is, that your backpack Marcus?"
+    ],
+    "correctAnswer": "Is that your backpack, Marcus?",
+    "explanation": "Use a comma to set off the name of a person who is being spoken to directly.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_010",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "L.5.3.A",
+    "prompt": "Which sentence best combines these three sentences?\nThe puppy was small. The puppy was brown. The puppy chased its tail.",
+    "choices": [
+      "The puppy was small, the puppy was brown, the puppy chased its tail.",
+      "The small brown puppy chased its tail.",
+      "The puppy was small and the puppy was brown and it chased its tail.",
+      "Small and brown, its tail was chased by the puppy."
+    ],
+    "correctAnswer": "The small brown puppy chased its tail.",
+    "explanation": "Combine short, choppy sentences by moving the describing words next to the noun and removing repeated words.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_011",
+    "subject": "WRITING",
+    "type": "CLOZE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "L.5.1.B",
+    "prompt": "Write the correct form of each verb in parentheses.\nShe has ___ (write) three letters this week. By next June, we will have ___ (live) here for two years.",
+    "blanks": [
+      "written",
+      "lived"
+    ],
+    "explanation": "Perfect tenses use a form of 'have' plus the past participle: has written (present perfect), will have lived (future perfect).",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g5_012",
+    "subject": "WRITING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "L.5.1.A",
+    "prompt": "Which words in this sentence are prepositions? Select all that apply.\nThe cat jumped over the fence and hid behind a bush.",
+    "choices": [
+      "over",
+      "jumped",
+      "and",
+      "behind",
+      "fence"
+    ],
+    "correctAnswers": [
+      "over",
+      "behind"
+    ],
+    "explanation": "A preposition shows the relationship between a noun and another word. 'Over' and 'behind' tell where; 'and' is a conjunction.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "writing_g5_013",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.5.1.D",
+    "prompt": "Which sentence should be changed to keep the verb tense consistent?",
+    "passage": "(1) Last summer, my family visited a cave. (2) We walked down a long, dark tunnel. (3) Suddenly, a bat flies over my head. (4) I screamed, and my brother laughed.",
+    "choices": [
+      "Sentence 1",
+      "Sentence 2",
+      "Sentence 3",
+      "Sentence 4"
+    ],
+    "correctAnswer": "Sentence 3",
+    "explanation": "The paragraph tells about past events, so every verb should be in the past tense. 'Flies' in sentence 3 should be 'flew.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_014",
+    "subject": "WRITING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.5.2.C",
+    "prompt": "Which transition best fills the blank?",
+    "passage": "Frogs and toads look alike, but they are different in several ways. Frogs have smooth, wet skin. ______, toads have dry, bumpy skin.",
+    "choices": [
+      "For example",
+      "As a result",
+      "In contrast",
+      "Similarly"
+    ],
+    "correctAnswer": "In contrast",
+    "explanation": "The two sentences describe a difference between frogs and toads, so a transition that shows contrast is needed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_015",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "W.5.1.B",
+    "prompt": "A student is writing an opinion essay arguing that the school day should start later. Which sentence best supports this opinion?",
+    "choices": [
+      "In many towns across the country, school starts at about 8:00 a.m. on weekdays.",
+      "Some students ride the bus to school.",
+      "Mornings are boring.",
+      "Students who get more sleep are able to pay better attention in class."
+    ],
+    "correctAnswer": "Students who get more sleep are able to pay better attention in class.",
+    "explanation": "An opinion should be supported by logically connected reasons and facts. Only this sentence gives a reason why a later start would help.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_016",
+    "subject": "WRITING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "L.5.2.C",
+    "prompt": "Which sentence is written correctly?",
+    "choices": [
+      "No, Dad, I have not seen your keys, your wallet, or your phone.",
+      "No Dad, I have not seen your keys, your wallet, or your phone.",
+      "No, Dad I have not seen your keys your wallet or your phone.",
+      "No, Dad, I have not saw your keys, your wallet, or your phone."
+    ],
+    "correctAnswer": "No, Dad, I have not seen your keys, your wallet, or your phone.",
+    "explanation": "Set off 'no' and a name used in direct address with commas, separate items in a series with commas, and use the past participle 'seen' after 'have.'",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "writing_g5_017",
+    "subject": "WRITING",
+    "type": "ORDERING",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "W.5.1.A",
+    "prompt": "Arrange these sentences to make a well-organized opinion paragraph.",
+    "orderedItems": [
+      "Our town should build a new bike path.",
+      "First, a bike path would give people a safe place to ride.",
+      "In addition, more people riding bikes would mean fewer cars on the road.",
+      "For these reasons, a bike path would make our town a better place."
+    ],
+    "explanation": "An opinion paragraph states the opinion, gives reasons in a logical order linked by transitions, and ends with a concluding statement.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.0
+    }
+  }
+]

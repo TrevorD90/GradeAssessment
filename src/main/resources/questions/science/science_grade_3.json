@@ -1,0 +1,412 @@
+[
+  {
+    "id": "science_g3_001",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "3-LS1-1",
+    "prompt": "Which stage comes first in the life cycle of a butterfly?",
+    "choices": [
+      "Caterpillar (larva)",
+      "Egg",
+      "Chrysalis (pupa)",
+      "Adult butterfly"
+    ],
+    "correctAnswer": "Egg",
+    "explanation": "A butterfly's life cycle is egg, larva (caterpillar), pupa (chrysalis), adult. It begins as an egg.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_002",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "3-PS2-3",
+    "prompt": "Which object will a magnet attract?",
+    "choices": [
+      "A plastic spoon",
+      "A wooden pencil",
+      "An iron nail",
+      "A rubber band"
+    ],
+    "correctAnswer": "An iron nail",
+    "explanation": "Magnets attract objects made of iron (and a few other metals). Plastic, wood, and rubber are not magnetic.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_003",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "3-ESS2-2",
+    "prompt": "What is climate?",
+    "choices": [
+      "The weather at this exact moment",
+      "The amount of rain and snow that fell in one day",
+      "The shape of the land, such as hills and mountains",
+      "The usual weather of a place over many years"
+    ],
+    "correctAnswer": "The usual weather of a place over many years",
+    "explanation": "Weather is what the air is like right now. Climate is the usual pattern of weather in a place over many years.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_004",
+    "subject": "SCIENCE",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "3-LS4-1",
+    "prompt": "The preserved remains or traces of plants and animals that lived long ago are called ___.",
+    "correctAnswer": "fossils",
+    "correctAnswers": [
+      "fossils",
+      "fossil",
+      "a fossil"
+    ],
+    "explanation": "Fossils are the remains or traces (such as bones, shells, or footprints) of organisms that lived long ago. They tell us about past life and environments.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g3_005",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "3-PS2-1",
+    "prompt": "What is a force?",
+    "choices": [
+      "A push or a pull",
+      "A kind of food energy",
+      "A type of material",
+      "A place where animals live"
+    ],
+    "correctAnswer": "A push or a pull",
+    "explanation": "A force is a push or a pull. Forces can make objects start moving, stop, speed up, slow down, or change direction.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.08,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_006",
+    "subject": "SCIENCE",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "3-LS3-1",
+    "prompt": "Which of the following are inherited traits in animals? Select all that apply.",
+    "choices": [
+      "Eye color",
+      "A scar on the knee",
+      "Fur pattern",
+      "A learned trick",
+      "Beak shape"
+    ],
+    "correctAnswers": [
+      "Eye color",
+      "Fur pattern",
+      "Beak shape"
+    ],
+    "explanation": "Eye color, fur pattern, and beak shape are passed from parents to offspring. A scar and a learned trick are acquired during the animal's life, not inherited.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g3_007",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "3-PS2-1",
+    "prompt": "A book rests on a table and does not move. What is true about the forces on the book?",
+    "choices": [
+      "There are no forces on the book",
+      "The forces on the book are unbalanced",
+      "The forces on the book are balanced",
+      "Only the table pushes on the book"
+    ],
+    "correctAnswer": "The forces on the book are balanced",
+    "explanation": "Gravity pulls the book down and the table pushes up with equal strength. The forces are balanced, so the book's motion does not change.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_008",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "3-LS2-1",
+    "prompt": "Why do wolves hunt in a pack?",
+    "choices": [
+      "Working as a group helps them catch large prey",
+      "A wolf cannot see when it is alone",
+      "Wolves in a pack do not need food",
+      "Living in a pack keeps wolves from growing"
+    ],
+    "correctAnswer": "Working as a group helps them catch large prey",
+    "explanation": "Being part of a group helps animals obtain food, defend themselves, and cope with changes. A pack can catch prey too large for one wolf.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_009",
+    "subject": "SCIENCE",
+    "type": "ORDERING",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "3-LS1-1",
+    "prompt": "Put the stages of a frog's life cycle in order, starting with the first stage.",
+    "orderedItems": [
+      "Egg",
+      "Tadpole",
+      "Froglet (tadpole with legs)",
+      "Adult frog"
+    ],
+    "explanation": "A frog begins as an egg, hatches into a tadpole, grows legs as a froglet, and becomes an adult frog that can lay eggs.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g3_010",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "3-LS3-2",
+    "prompt": "A flamingo's feathers turn pink because of the food it eats. A flamingo fed different food grows pale feathers. What kind of trait is the pink color?",
+    "choices": [
+      "A trait that comes only from the mother",
+      "A trait influenced by the environment",
+      "A trait learned by practice",
+      "A trait that is the same in every bird"
+    ],
+    "correctAnswer": "A trait influenced by the environment",
+    "explanation": "Some traits are influenced by the environment. A flamingo's pink color depends on pigments in its diet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_011",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "3-PS2-2",
+    "prompt": "A child on a swing moves back and forth in a repeating pattern. The swing has just reached its highest point in front. What will it do next?",
+    "choices": [
+      "Stay at the top",
+      "Move sideways",
+      "Spin in a circle",
+      "Swing backward"
+    ],
+    "correctAnswer": "Swing backward",
+    "explanation": "A swing's motion repeats in a pattern, so we can predict it. After reaching the highest point in front, it swings backward.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_012",
+    "subject": "SCIENCE",
+    "type": "CLOZE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "3-LS4-3",
+    "prompt": "Word bank: desert, arctic, rainforest. Fill in the blanks. A cactus stores water in its thick stem, so it survives well in the ___. A polar bear has thick fur and a layer of fat, so it survives well in the ___.",
+    "blanks": [
+      "desert",
+      "arctic"
+    ],
+    "explanation": "Organisms survive well in habitats that match their traits. A cactus is suited to the dry desert, and a polar bear to the cold arctic.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.9,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "science_g3_013",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "3-ESS2-1",
+    "prompt": "Based on the data, which prediction for next January is most reasonable?",
+    "passage": "A class recorded the average high temperature in their town for four months. December: 4 degrees C. January: 2 degrees C. February: 5 degrees C. March: 11 degrees C. They recorded the same pattern three years in a row.",
+    "choices": [
+      "It will be the warmest of the four months",
+      "It will be the coldest of the four months",
+      "It will be the same temperature as March",
+      "It cannot be cold, because March is warm"
+    ],
+    "correctAnswer": "It will be the coldest of the four months",
+    "explanation": "January had the lowest temperature (2 degrees C), and the same pattern repeated for three years. Patterns in weather data let us predict that January will again be the coldest of these months.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_014",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "3-LS4-2",
+    "prompt": "Some beetles of one kind are green and some are brown. They live on brown tree bark, where birds hunt them by sight. Which beetles are more likely to survive, and why?",
+    "choices": [
+      "Green beetles, because birds prefer brown food",
+      "Both colors equally, because they are the same kind of beetle",
+      "Green beetles, because green is a stronger color",
+      "Brown beetles, because they are harder for birds to see on the bark"
+    ],
+    "correctAnswer": "Brown beetles, because they are harder for birds to see on the bark",
+    "explanation": "Differences among individuals of the same kind can give some an advantage. Brown beetles blend in with the bark, so fewer are eaten and more survive to reproduce.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_015",
+    "subject": "SCIENCE",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "3-PS2-3",
+    "prompt": "What pattern does the data show?",
+    "passage": "Dev tested how many paper clips a magnet could pull up from different distances. At 1 cm it pulled up 6 paper clips. At 2 cm it pulled up 3 paper clips. At 4 cm it pulled up 1 paper clip. At 8 cm it pulled up 0 paper clips.",
+    "choices": [
+      "The magnet's pull gets weaker as the distance increases",
+      "The magnet's pull gets stronger as the distance increases",
+      "The magnet's pull is the same at every distance",
+      "The magnet only works when it touches the paper clips"
+    ],
+    "correctAnswer": "The magnet's pull gets weaker as the distance increases",
+    "explanation": "The magnet picked up fewer paper clips at each greater distance (6, 3, 1, 0). Magnetic force acts without touching, but it gets weaker with distance.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_016",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "3-5-ETS1-3",
+    "prompt": "Maya wants to find out which of three paper towel brands soaks up the most water. She pours water on one towel of each brand. To make it a fair test, what should she keep the same?",
+    "choices": [
+      "The brand of paper towel",
+      "Nothing; she should change as many things as possible",
+      "The size of each towel and the amount of water poured",
+      "The result she writes down"
+    ],
+    "correctAnswer": "The size of each towel and the amount of water poured",
+    "explanation": "In a fair test, only one thing is changed (the brand). Everything else, such as towel size and amount of water, is kept the same so the results can be compared.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "science_g3_017",
+    "subject": "SCIENCE",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 3,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "3-LS4-4",
+    "prompt": "A pond dries up during a long drought. What is most likely to happen to the frogs that lived there?",
+    "choices": [
+      "All of the frogs will change into lizards",
+      "Some frogs will move to find water and others may not survive",
+      "The frogs will not be affected, because frogs never need water",
+      "The number of frogs in the pond will increase"
+    ],
+    "correctAnswer": "Some frogs will move to find water and others may not survive",
+    "explanation": "When an environment changes, some organisms survive and reproduce, some move to new locations, and some die.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -0.72,
+      "c": 0.25
+    }
+  }
+]

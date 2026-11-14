@@ -2,76 +2,54 @@ package com.gradeassessment.domain.agent
 
 import com.gradeassessment.data.questionbank.QuestionRepository
 import com.gradeassessment.domain.model.*
+import kotlin.random.Random
 
 class AdaptiveQuestionAgent(
-    private val questionRepository: QuestionRepository
+    private val questionRepository: QuestionRepository,
+    private val random: Random = Random.Default
 ) {
 
-    fun selectNextQuestion(state: AdaptiveState, subject: Subject): Question? {
-        val available = questionRepository.getQuestionsBySubject(subject)
-        return IrtEngine.selectNextQuestion(
+    /** Next adaptive question for [subject] (for Reading this is the comprehension pool). */
+    fun selectNextQuestion(state: AdaptiveState, subject: Subject): Question? =
+        IrtEngine.selectNextQuestion(
             theta = state.currentTheta,
-            availableQuestions = available,
-            askedIds = state.questionsAsked,
+            sortedByDifficulty = questionRepository.getAdaptivePool(subject),
+            askedIds = state.askedIds,
             lastBloomsLevel = state.lastBloomsLevel,
-            lastQuestionType = state.lastQuestionType
-        )
-    }
-
-    fun selectFluencyQuestion(subtest: ReadingSubtest): Question? {
-        return questionRepository.getReadingFluencyQuestions(subtest).firstOrNull()
-    }
-
-    fun selectReadingComprehensionQuestion(state: AdaptiveState): Question? {
-        val available = questionRepository.getReadingComprehensionQuestions()
-        return IrtEngine.selectNextQuestion(
-            theta = state.currentTheta,
-            availableQuestions = available,
-            askedIds = state.questionsAsked,
-            lastBloomsLevel = state.lastBloomsLevel,
-            lastQuestionType = state.lastQuestionType
-        )
-    }
-
-    fun updateState(
-        state: AdaptiveState,
-        question: Question,
-        correct: Boolean,
-        timeMs: Long,
-        index: Int
-    ): AdaptiveState {
-        val response = StudentResponse(
-            questionId = question.id,
-            subject = question.subject,
-            subtest = question.readingSubtest,
-            studentAnswer = "",
-            correct = correct,
-            timeToAnswerMs = timeMs,
-            thetaAtTime = state.currentTheta,
-            questionIndex = index
+            lastQuestionType = state.lastQuestionType,
+            random = random
         )
 
-        val allResponses = state.responses + response
-        val irtPairs = allResponses.map { r ->
-            val q = questionRepository.getQuestionById(r.questionId)
-            val params = q?.irtParameters ?: IrtParameters()
-            params to r.correct
-        }
+    /** A random unseen form of the given fluency subtest (previously always the first form). */
+    fun selectFluencyQuestion(subtest: ReadingSubtest, state: AdaptiveState): Question? =
+        questionRepository.getReadingFluencyQuestions(subtest)
+            .filter { it.id !in state.askedIds }
+            .randomOrNull(random)
 
-        val newTheta = IrtEngine.estimateTheta(irtPairs, state.currentTheta)
-        val se = IrtEngine.standardError(newTheta, irtPairs)
+    fun selectReadingComprehensionQuestion(state: AdaptiveState): Question? =
+        selectNextQuestion(state, Subject.READING)
+
+    /**
+     * Folds one scored answer into the ability estimate. O(G) regardless of how many questions
+     * have been answered (the running likelihood is cached in the state).
+     */
+    fun updateState(state: AdaptiveState, question: Question, response: StudentResponse): AdaptiveState {
+        val logLikelihood = IrtEngine.absorbResponse(
+            state.posteriorLogLikelihood, question.irtParameters, response.correct
+        )
+        val (newTheta, se) = IrtEngine.estimate(logLikelihood, state.priorMean)
 
         return state.copy(
             currentTheta = newTheta,
             standardError = se,
-            responses = allResponses,
+            responses = state.responses + response,
             questionsAsked = state.questionsAsked + question.id,
+            askedIds = state.askedIds + question.id,
+            posteriorLogLikelihood = logLikelihood,
             lastBloomsLevel = question.bloomsLevel,
             lastQuestionType = question.type
         )
     }
 
-    fun shouldTerminate(state: AdaptiveState): Boolean {
-        return IrtEngine.shouldTerminate(state)
-    }
+    fun shouldTerminate(state: AdaptiveState): Boolean = IrtEngine.shouldTerminate(state)
 }

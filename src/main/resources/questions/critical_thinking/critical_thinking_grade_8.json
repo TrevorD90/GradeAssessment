@@ -1,0 +1,342 @@
+[
+  {
+    "id": "critical_thinking_g8_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "At a club meeting someone says, 'Don't listen to Mara's idea for the fundraiser. She is new here and nobody even knows her.' What is wrong with this argument?",
+    "choices": [
+      "It offers only two choices.",
+      "It attacks Mara instead of giving a reason against her idea.",
+      "It relies on a survey of club members that is too small.",
+      "It predicts a chain of disasters."
+    ],
+    "correctAnswer": "It attacks Mara instead of giving a reason against her idea.",
+    "explanation": "Whether an idea is good depends on the idea, not on how new or well known the person is. The speaker gives no reason against the fundraiser plan itself. Attacking the person instead of the argument is called an ad hominem fallacy.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Some artists at the fair are teachers. All teachers are patient. What must be true?",
+    "choices": [
+      "All artists at the fair are patient.",
+      "All patient people are teachers.",
+      "Some artists at the fair are patient.",
+      "No artists at the fair are patient."
+    ],
+    "correctAnswer": "Some artists at the fair are patient.",
+    "explanation": "The artists who are teachers must be patient, because all teachers are. So at least some artists at the fair are patient. We know nothing about the artists who are not teachers, and the rule about teachers cannot be reversed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.CREDIBILITY",
+    "prompt": "Two sources discuss whether a new energy drink is safe for teens. Source A is a press release from the company that makes the drink. Source B is a review by children's health researchers who receive no money from drink companies. Which source is more credible, and why?",
+    "choices": [
+      "Source A, because the company knows its own product best.",
+      "Source A, because press releases are official.",
+      "Both are equally credible, because both are written documents that were made public.",
+      "Source B, because its authors have expertise and nothing to gain from the answer."
+    ],
+    "correctAnswer": "Source B, because its authors have expertise and nothing to gain from the answer.",
+    "explanation": "Credibility depends on expertise and on whether the source has a stake in the answer. The company profits if people think the drink is safe. The independent researchers have relevant knowledge and no reason to slant the result.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "A student says, 'Either we cancel the field trip, or the whole class will fail science.' What is the flaw in this statement?",
+    "choices": [
+      "It pretends there are only two possibilities when there are others.",
+      "It attacks a person instead of an idea.",
+      "It draws a conclusion about the whole class from a tiny sample.",
+      "It uses the claim as its own reason."
+    ],
+    "correctAnswer": "It pretends there are only two possibilities when there are others.",
+    "explanation": "The speaker offers just two outcomes, but there are plenty of others: the class could take the trip and still study for science. Presenting only two options when more exist is called a false dilemma.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "EASY",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS/RI.8.8",
+    "prompt": "Which of these statements back up their claim with evidence? Select all that apply.",
+    "choices": [
+      "The cafeteria wastes food: staff weighed 40 pounds of leftovers each day last week.",
+      "School lunches are gross.",
+      "Our team is improving: we won 2 games last year and 7 this year.",
+      "Mondays are the worst day of the week."
+    ],
+    "correctAnswers": [
+      "The cafeteria wastes food: staff weighed 40 pounds of leftovers each day last week.",
+      "Our team is improving: we won 2 games last year and 7 this year."
+    ],
+    "explanation": "The first and third statements each make a claim and then give a measured fact that supports it. The other two are bare opinions with no supporting evidence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 1.92,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g8_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "A school rule says, 'If a student is on the field trip, then the student has a signed permission slip.' Which student would show that the rule was broken?",
+    "choices": [
+      "A student with a signed slip who stayed at school",
+      "A student with no slip who stayed at school",
+      "A student on the trip with no signed slip",
+      "A student on the trip with a signed slip"
+    ],
+    "correctAnswer": "A student on the trip with no signed slip",
+    "explanation": "An 'if-then' rule is broken only when the 'if' part is true and the 'then' part is false: on the trip, but with no slip. A student who stayed at school does not break the rule, with or without a slip.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION/RI.8.8",
+    "prompt": "Which sentence in the editorial is irrelevant to the argument for a four-day school week?",
+    "passage": "Editorial: Our school should switch to a four-day week. A district in another state that switched saved 2% of its budget. Students love long weekends. Also, our school's mascot is a falcon. In that other district, test scores stayed about the same after the switch.",
+    "choices": [
+      "A district in another state that switched saved 2% of its budget.",
+      "Our school's mascot is a falcon.",
+      "Test scores in that district stayed about the same after the switch.",
+      "Students love long weekends."
+    ],
+    "correctAnswer": "Our school's mascot is a falcon.",
+    "explanation": "Savings, steady test scores, and student support all bear on whether a four-day week is a good idea, even if some are stronger than others. The school's mascot has nothing to do with how many days school meets.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "A study finds that teens who play video games more than three hours a day have lower grades than other teens. A headline says, 'Video games lower grades.' Which other explanation does the headline ignore?",
+    "choices": [
+      "Students who already struggle in school may choose to spend more time gaming.",
+      "Some teens do not play video games at all.",
+      "Grades are reported as letters, which makes them hard to compare across teens.",
+      "Video games are popular with teens."
+    ],
+    "correctAnswer": "Students who already struggle in school may choose to spend more time gaming.",
+    "explanation": "The study shows the two things go together, not which one causes the other. The cause could run the other way: low grades might lead students to game more. The headline assumes one direction without evidence.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Use the clues to put five towns in order from the largest population to the smallest. Clues: Avon is larger than Brook. Brook is larger than Cole. Dale is larger than Avon. Elm is smaller than Brook but larger than Cole.",
+    "orderedItems": [
+      "Dale",
+      "Avon",
+      "Brook",
+      "Elm",
+      "Cole"
+    ],
+    "explanation": "Avon, Brook, Cole are in that order from larger to smaller. Dale is larger than Avon, so Dale is first. Elm fits between Brook and Cole. The order is Dale, Avon, Brook, Elm, Cole.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g8_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ASSUMPTIONS",
+    "prompt": "A fan says, 'Our basketball team will beat the Hawks tonight, because we beat them last month.' What does the fan's argument assume?",
+    "choices": [
+      "Basketball is a popular sport.",
+      "The game will be played at night.",
+      "The Hawks have not changed their mascot since last month.",
+      "Both teams are about as strong now as they were last month."
+    ],
+    "correctAnswer": "Both teams are about as strong now as they were last month.",
+    "explanation": "A past win predicts a future win only if things have stayed much the same. If players were hurt or the Hawks improved, last month's result would not tell us much. The fan takes it for granted that nothing important has changed.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.1,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "One of three boxes holds a prize. The label on Box 1 says, 'The prize is in this box.' The label on Box 2 says, 'The prize is not in this box.' The label on Box 3 says, 'The prize is not in Box 1.' Exactly one of the three labels is true. What is the number of the box that holds the prize?",
+    "correctAnswer": "2",
+    "correctAnswers": [
+      "2",
+      "two",
+      "box 2",
+      "box two"
+    ],
+    "explanation": "Test each box. If the prize is in Box 1, labels 1 and 2 are both true (two true labels). If it is in Box 3, labels 2 and 3 are both true. If it is in Box 2, label 1 is false, label 2 is false, and label 3 is true: exactly one true label. So the prize is in Box 2.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_g8_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "All of the club's officers are seniors. No seniors take Art 1. Some students on the bus take Art 1. What must be true?",
+    "choices": [
+      "No students on the bus are seniors, since some of them take Art 1.",
+      "Some students on the bus are not club officers.",
+      "All students on the bus take Art 1.",
+      "Some club officers take Art 1, since some bus riders do."
+    ],
+    "correctAnswer": "Some students on the bus are not club officers.",
+    "explanation": "The bus riders who take Art 1 cannot be seniors, because no seniors take Art 1. Since every officer is a senior, those riders are not officers. We cannot say anything about the other bus riders, who might be seniors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "A student tests whether music helps memory. Group 1, her friends, study a word list with music in the morning. Group 2, students from another class, study the same list without music after lunch. Group 1 remembers more words. What is the most serious problem with concluding that music helped?",
+    "choices": [
+      "Music is always distracting.",
+      "The music should have been louder so that Group 1 could hear it well.",
+      "The groups differed in more than music: people and time of day.",
+      "Memory cannot be measured."
+    ],
+    "correctAnswer": "The groups differed in more than music: people and time of day.",
+    "explanation": "To show that music made the difference, music should be the only thing that differs between groups. Here the people and the time of day also differ, so any of those could explain the result.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "critical_thinking_g8_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 8,
+    "gradeRange": "6-8",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "Two hundred eighth graders chose to attend a weekend coding camp. In a survey at the camp, most of them said they plan to take a computer class next year. Someone concludes, 'Most eighth graders plan to take a computer class next year.' How should this conclusion be judged?",
+    "choices": [
+      "It is not supported, because coding-camp students are not typical of all eighth graders.",
+      "It is certainly true, because 200 students is a large sample, and large samples are reliable.",
+      "It is certainly false, because camp students never take classes.",
+      "It is supported, because the students answered honestly."
+    ],
+    "correctAnswer": "It is not supported, because coding-camp students are not typical of all eighth graders.",
+    "explanation": "Students who sign up for a coding camp are already more interested in computers than the average student. A sample chosen that way is biased, so it cannot tell us about eighth graders in general, no matter how large it is. That does not make the conclusion certainly false; it is simply unsupported.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 2.28,
+      "c": 0.25
+    }
+  }
+]

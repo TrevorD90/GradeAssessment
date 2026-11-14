@@ -1,0 +1,481 @@
+[
+  {
+    "id": "arts_g2_001",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.2a",
+    "prompt": "Art that you can walk around and see from all sides, like a statue, is called a ___.",
+    "choices": [
+      "photograph",
+      "sculpture",
+      "drawing",
+      "painting"
+    ],
+    "correctAnswer": "sculpture",
+    "explanation": "A sculpture is three-dimensional art. Paintings, drawings, and photographs are flat.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_002",
+    "subject": "ARTS",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.2a",
+    "prompt": "Which of these are warm colors? Select all that apply.",
+    "choices": [
+      "Yellow",
+      "Orange",
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "correctAnswers": [
+      "Yellow",
+      "Orange",
+      "Red"
+    ],
+    "explanation": "Red, orange, and yellow are warm colors, like fire and the sun. Blue and green are cool colors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g2_003",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "VA:Cr2.1.2a",
+    "prompt": "Maya wants her picture to feel calm and cool, like a pond. Which colors should she use the most?",
+    "choices": [
+      "Yellow and red",
+      "Red and orange",
+      "Blue and green",
+      "Orange and yellow"
+    ],
+    "correctAnswer": "Blue and green",
+    "explanation": "Blue and green are cool colors that can feel calm. Red, orange, and yellow are warm colors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_004",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Re7.2.2a",
+    "prompt": "Which instrument belongs to the string family?",
+    "choices": [
+      "Violin",
+      "Drum",
+      "Flute",
+      "Trumpet"
+    ],
+    "correctAnswer": "Violin",
+    "explanation": "A violin makes sound with strings. A trumpet is brass, a drum is percussion, and a flute is a woodwind.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_005",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re8.1.2a",
+    "prompt": "A painting that shows mountains, trees, and sky is called a ___.",
+    "choices": [
+      "sculpture",
+      "still life",
+      "portrait",
+      "landscape"
+    ],
+    "correctAnswer": "landscape",
+    "explanation": "A landscape shows an outdoor scene. A portrait shows a person, and a still life shows objects such as fruit or flowers.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_006",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.2a",
+    "prompt": "A song has a first part (A), then a different part (B), and then the first part comes back (A). What is this form called?",
+    "choices": [
+      "AB",
+      "AAA",
+      "ABC",
+      "ABA"
+    ],
+    "correctAnswer": "ABA",
+    "explanation": "When the first part returns after a different part, the form is ABA.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_007",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.2.2b",
+    "prompt": "In music, a rest tells you to ___.",
+    "choices": [
+      "play faster",
+      "play louder",
+      "be silent",
+      "sing higher"
+    ],
+    "correctAnswer": "be silent",
+    "explanation": "A rest is a moment of silence in music. You do not play or sing during a rest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_008",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.2b",
+    "prompt": "A quarter note gets 1 beat. How many beats do two quarter notes get?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "explanation": "Each quarter note gets 1 beat, so two quarter notes get 2 beats. That is the same as one half note.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_009",
+    "subject": "ARTS",
+    "type": "ORDERING",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "MU:Pr4.2.2b",
+    "prompt": "Put these notes in order from the shortest sound to the longest sound.",
+    "orderedItems": [
+      "Eighth note",
+      "Quarter note",
+      "Half note"
+    ],
+    "explanation": "An eighth note gets half a beat, a quarter note gets 1 beat, and a half note gets 2 beats.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g2_010",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Pr4.1.2.a",
+    "prompt": "The place where actors perform a play is called the ___.",
+    "choices": [
+      "stage",
+      "easel",
+      "studio",
+      "gallery"
+    ],
+    "correctAnswer": "stage",
+    "explanation": "Actors perform on a stage. An easel holds a painting, and a gallery is where art is shown.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_011",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "MU:Pr4.3.2a",
+    "prompt": "In music, the letter p stands for the word \"piano.\" It tells you to play ___.",
+    "choices": [
+      "quickly",
+      "softly",
+      "loudly",
+      "slowly"
+    ],
+    "correctAnswer": "softly",
+    "explanation": "The dynamic marking p (piano) means soft. The marking f (forte) means loud.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_012",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 3,
+    "standardCode": "DA:Cr2.1.2a",
+    "prompt": "A dance needs a beginning, a middle, and an end. Which one shows a clear ending?",
+    "choices": [
+      "The dancers warm up by stretching their arms",
+      "The music begins to play",
+      "The dancers freeze in a final pose",
+      "The dancers walk onto the stage together"
+    ],
+    "correctAnswer": "The dancers freeze in a final pose",
+    "explanation": "Holding a final pose shows the audience that the dance is over. The other choices happen at the start.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_013",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "DA:Pr4.1.2b",
+    "prompt": "Dancers often move in time with the ___ of the music.",
+    "choices": [
+      "color",
+      "script",
+      "beat",
+      "paint"
+    ],
+    "correctAnswer": "beat",
+    "explanation": "The beat is the steady pulse of music. Dancers move in time with it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_014",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 1,
+    "standardCode": "TH:Pr5.1.2.b",
+    "prompt": "Things that actors hold and use on stage, like a toy sword or a cup, are called ___.",
+    "choices": [
+      "curtains",
+      "scripts",
+      "costumes",
+      "props"
+    ],
+    "correctAnswer": "props",
+    "explanation": "Props are objects actors use in a play. Costumes are the clothes actors wear.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_015",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "TH:Re8.1.2.a",
+    "prompt": "In a play, an actor speaks in a tiny, shaky voice and hides behind a chair. How is the character most likely feeling?",
+    "choices": [
+      "Sleepy",
+      "Scared",
+      "Hungry",
+      "Proud"
+    ],
+    "correctAnswer": "Scared",
+    "explanation": "A shaky voice and hiding are clues that the character is scared. Actors use voice and body to show feelings.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.32,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_016",
+    "subject": "ARTS",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "VA:Cr2.1.2a",
+    "prompt": "Red, yellow, and blue are called the ___ colors.",
+    "correctAnswer": "primary",
+    "correctAnswers": [
+      "primary",
+      "primary colors"
+    ],
+    "explanation": "Red, yellow, and blue are the primary colors. They are mixed to make other colors.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.68,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g2_017",
+    "subject": "ARTS",
+    "type": "CLOZE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MU:Re7.2.2a",
+    "prompt": "Use the word bank: brass, strings, percussion. A trumpet is in the ___ family. A drum is in the ___ family.",
+    "blanks": [
+      "brass",
+      "percussion"
+    ],
+    "explanation": "A trumpet is a brass instrument. A drum is a percussion instrument because you strike it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "arts_g2_018",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "MA:Cr2.1.2a",
+    "prompt": "Sara takes a photo of her clay figure, moves it a tiny bit, and takes another photo. When the photos play fast, the figure seems to move. What is this called?",
+    "choices": [
+      "A collage",
+      "A portrait",
+      "A mural",
+      "Animation"
+    ],
+    "correctAnswer": "Animation",
+    "explanation": "Making still pictures seem to move by showing them quickly is animation. Sara is making stop-motion animation.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_019",
+    "subject": "ARTS",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Re7.2.2a",
+    "prompt": "Which element of art did Anna use to show the wind?",
+    "passage": "Anna drew a picture of a garden. She used green for the grass, blue for the sky, and red and yellow for the flowers. She drew curvy lines to show the wind blowing.",
+    "choices": [
+      "Line",
+      "Shape",
+      "Color",
+      "Texture"
+    ],
+    "correctAnswer": "Line",
+    "explanation": "Anna used curvy lines to show the wind. Lines can show movement and direction in art.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "arts_g2_020",
+    "subject": "ARTS",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 2,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "VA:Cr1.2.2a",
+    "prompt": "An artist draws red circle, blue square, red circle, blue square across the page. What did the artist make?",
+    "choices": [
+      "A pattern",
+      "A portrait",
+      "A sculpture",
+      "A shadow"
+    ],
+    "correctAnswer": "A pattern",
+    "explanation": "Shapes or colors that repeat in a regular way make a pattern.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -1.5,
+      "c": 0.25
+    }
+  }
+]

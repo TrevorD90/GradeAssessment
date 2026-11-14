@@ -1,0 +1,411 @@
+[
+  {
+    "id": "world_history_g5_001",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "In 1492, Christopher Columbus sailed west from Spain across which ocean?",
+    "choices": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": "Atlantic Ocean",
+    "explanation": "Columbus sailed west across the Atlantic Ocean in 1492 and reached islands in the Caribbean.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_002",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Which civilization built the city of Machu Picchu high in the Andes Mountains?",
+    "choices": [
+      "The Aztec",
+      "The Maya",
+      "The Inca",
+      "The Vikings"
+    ],
+    "correctAnswer": "The Inca",
+    "explanation": "The Inca built Machu Picchu in the Andes Mountains of what is now Peru in the 1400s.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_003",
+    "subject": "WORLD_HISTORY",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.Geo.2.3-5",
+    "prompt": "The Aztec capital, Tenochtitlan, stood where ___ City is today.",
+    "correctAnswer": "Mexico",
+    "explanation": "Tenochtitlan was built on an island in a lake. Mexico City, the capital of Mexico, stands on the same site today.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.0
+    },
+    "correctAnswers": [
+      "Mexico",
+      "Mexico City"
+    ]
+  },
+  {
+    "id": "world_history_g5_004",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Which tool helped sailors know which direction they were heading?",
+    "choices": [
+      "Compass",
+      "Hourglass",
+      "Anchor",
+      "Spyglass"
+    ],
+    "correctAnswer": "Compass",
+    "explanation": "A magnetic compass points north, so sailors could tell their direction even when they could not see land or stars.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_005",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "EASY",
+    "bloomsLevel": 1,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Leonardo da Vinci painted the Mona Lisa during a period of great art and learning in Europe. What is that period called?",
+    "choices": [
+      "The Ice Age",
+      "The Stone Age",
+      "The Space Age",
+      "The Renaissance"
+    ],
+    "correctAnswer": "The Renaissance",
+    "explanation": "The Renaissance was a period of new art, science and learning in Europe from about the 1300s to the 1500s. Leonardo da Vinci was one of its most famous artists.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.12,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_006",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.14.3-5",
+    "prompt": "Why did European explorers in the 1400s search for sea routes to Asia?",
+    "choices": [
+      "To find the hidden source of the Nile River in Africa",
+      "To trade for spices, silk and other valuable goods",
+      "To build the Great Wall",
+      "To watch the Olympic Games"
+    ],
+    "correctAnswer": "To trade for spices, silk and other valuable goods",
+    "explanation": "Spices, silk and other Asian goods were very valuable in Europe. A direct sea route would let traders buy them without paying the many merchants along the land routes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_007",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.Geo.2.3-5",
+    "prompt": "Vasco da Gama reached India in 1498 by sailing around the southern tip of which continent?",
+    "choices": [
+      "Australia",
+      "South America",
+      "Africa",
+      "Antarctica"
+    ],
+    "correctAnswer": "Africa",
+    "explanation": "Vasco da Gama of Portugal sailed around the Cape of Good Hope at the southern tip of Africa and reached India in 1498.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_008",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Which of these were achievements of the ancient Maya? Select all that apply.",
+    "choices": [
+      "A writing system using glyphs",
+      "Stone pyramid-temples",
+      "An accurate calendar",
+      "The printing press",
+      "Steam-powered ships"
+    ],
+    "correctAnswers": [
+      "A writing system using glyphs",
+      "Stone pyramid-temples",
+      "An accurate calendar"
+    ],
+    "explanation": "The Maya of Mexico and Central America developed a writing system, built stone pyramid-temples and created accurate calendars. They did not have printing presses or steamships.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g5_009",
+    "subject": "WORLD_HISTORY",
+    "type": "CLOZE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.3.3-5",
+    "prompt": "Use the word bank: Magellan, spices, caravels. Europeans wanted ___ such as pepper and cinnamon from Asia. Portuguese sailors used small, fast ships called ___. An expedition first led by Ferdinand ___ was the first to sail all the way around the world.",
+    "blanks": [
+      "spices",
+      "caravels",
+      "Magellan"
+    ],
+    "explanation": "Europeans sought Asian spices, the Portuguese explored in caravels and Magellan's expedition (1519-1522) completed the first voyage around the world, although Magellan himself died on the way.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g5_010",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 2,
+    "standardCode": "D2.His.9.3-5",
+    "prompt": "Which of these is a SECONDARY source about Columbus's first voyage?",
+    "choices": [
+      "A journal Columbus kept during the voyage",
+      "A letter Columbus wrote to the king and queen of Spain",
+      "A map drawn by a sailor on the voyage",
+      "A history book written in 2020"
+    ],
+    "correctAnswer": "A history book written in 2020",
+    "explanation": "A secondary source is written later by someone who was not there. A modern history book is a secondary source; the journal, letter and map are primary sources.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_011",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.14.3-5",
+    "prompt": "Johannes Gutenberg's printing press, built about 1450, changed Europe mainly by doing what?",
+    "choices": [
+      "Making books faster and cheaper to produce",
+      "Making ships sail faster",
+      "Ending wars between kingdoms",
+      "Replacing farming"
+    ],
+    "correctAnswer": "Making books faster and cheaper to produce",
+    "explanation": "Before the press, books were copied by hand. Printing made books cheaper and more common, so ideas spread much faster.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_012",
+    "subject": "WORLD_HISTORY",
+    "type": "PASSAGE_BASED",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "D2.His.16.3-5",
+    "prompt": "According to the passage, how did the Aztec grow food in a city surrounded by water?",
+    "passage": "The Aztec built their capital, Tenochtitlan, on an island in Lake Texcoco. Raised roads called causeways linked the island to the shore. Farmers grew corn, beans and squash on chinampas, small plots of rich soil built up in the shallow lake.",
+    "choices": [
+      "They carried all their food across the causeways from far away",
+      "They built up plots of soil called chinampas in the lake",
+      "They ate only fish",
+      "They drained the whole lake"
+    ],
+    "correctAnswer": "They built up plots of soil called chinampas in the lake",
+    "explanation": "The passage says farmers grew crops on chinampas, small plots of rich soil built up in the shallow lake.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.3,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_013",
+    "subject": "WORLD_HISTORY",
+    "type": "ORDERING",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.1.3-5",
+    "prompt": "Put these events in order from earliest to latest.",
+    "orderedItems": [
+      "Marco Polo travels to China",
+      "Gutenberg builds his printing press",
+      "Columbus first crosses the Atlantic",
+      "Magellan's expedition sails around the world"
+    ],
+    "explanation": "Marco Polo traveled to China in the late 1200s, Gutenberg built his press about 1450, Columbus crossed the Atlantic in 1492 and Magellan's expedition circled the world from 1519 to 1522.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "world_history_g5_014",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.14.3-5",
+    "prompt": "What was one major effect on Native American peoples of contact with Europeans after 1492?",
+    "choices": [
+      "Their populations quickly doubled in just a few years",
+      "They were not affected by the newcomers in any way",
+      "Diseases such as smallpox killed a great many people",
+      "They stopped farming corn"
+    ],
+    "correctAnswer": "Diseases such as smallpox killed a great many people",
+    "explanation": "Native Americans had no immunity to diseases such as smallpox and measles brought from Europe. These diseases killed a very large share of the population.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_015",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.2.3-5",
+    "prompt": "How were the Aztec and Inca empires alike?",
+    "choices": [
+      "Both were located high in the Andes Mountains of South America",
+      "Both built their capitals on islands in a shallow lake",
+      "Both were located in southern Europe near Spain",
+      "Both were conquered by Spanish forces in the 1500s"
+    ],
+    "correctAnswer": "Both were conquered by Spanish forces in the 1500s",
+    "explanation": "The Aztec Empire in Mexico fell to Spanish forces and their allies in 1521, and the Inca Empire in the Andes was conquered beginning in 1532. Only the Aztec capital was on a lake, and only the Inca were in the Andes.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_016",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 5,
+    "standardCode": "D2.His.6.3-5",
+    "prompt": "A Spanish soldier and an Aztec poet each wrote about the fall of Tenochtitlan in 1521. Why would their accounts probably be different?",
+    "choices": [
+      "Only one of them could really have been there at the time",
+      "Each saw the events from a different point of view",
+      "People in the 1500s had no way to write down what they saw",
+      "The city did not really fall"
+    ],
+    "correctAnswer": "Each saw the events from a different point of view",
+    "explanation": "People on different sides of an event experience it differently. A source reflects the point of view of the person who made it, so historians compare accounts.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  },
+  {
+    "id": "world_history_g5_017",
+    "subject": "WORLD_HISTORY",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 5,
+    "gradeRange": "3-5",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "D2.His.14.3-5",
+    "prompt": "Foods such as potatoes and corn (maize) were carried from the Americas to Europe, Africa and Asia. What was one long-term result?",
+    "choices": [
+      "More food could be grown, and populations rose in many places",
+      "People in Europe, Africa and Asia stopped farming their own land",
+      "Wheat disappeared",
+      "Trade between the continents ended completely within a few years"
+    ],
+    "correctAnswer": "More food could be grown, and populations rose in many places",
+    "explanation": "Potatoes and maize produce a lot of food and grow in many climates. They became important crops around the world and helped populations grow.",
+    "piParameters": {
+      "a": 1.2,
+      "b": 0.48,
+      "c": 0.25
+    }
+  }
+]

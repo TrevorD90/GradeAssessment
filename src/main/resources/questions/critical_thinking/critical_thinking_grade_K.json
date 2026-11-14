@@ -1,0 +1,329 @@
+[
+  {
+    "id": "critical_thinking_gk_001",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Which one does not belong?",
+    "choices": [
+      "apple",
+      "shoe",
+      "banana"
+    ],
+    "correctAnswer": "shoe",
+    "explanation": "An apple and a banana are both fruits you can eat. A shoe is something you wear. So the shoe does not belong.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_002",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 2,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "Ben has wet hair. He holds a towel. What did Ben just do?",
+    "choices": [
+      "He took a bath",
+      "He ate lunch",
+      "He read a book"
+    ],
+    "correctAnswer": "He took a bath",
+    "explanation": "Wet hair and a towel are clues. You get wet and use a towel when you take a bath. Eating lunch or reading a book does not make your hair wet.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_003",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Red, blue, red, blue, red. What comes next?",
+    "choices": [
+      "green",
+      "red",
+      "blue"
+    ],
+    "correctAnswer": "blue",
+    "explanation": "The colors take turns: red, blue, red, blue. After red comes blue.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_004",
+    "subject": "CRITICAL_THINKING",
+    "type": "ORDERING",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Put these in order. What happens first, next, and last?",
+    "orderedItems": [
+      "Get a cup",
+      "Pour the milk",
+      "Drink the milk"
+    ],
+    "explanation": "You need a cup before you can pour milk into it, and the milk must be in the cup before you can drink it.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_gk_005",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "EASY",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "All the fish in the bowl are orange. Fin is a fish in the bowl. What color is Fin?",
+    "choices": [
+      "blue",
+      "orange",
+      "green"
+    ],
+    "correctAnswer": "orange",
+    "explanation": "Every fish in the bowl is orange. Fin is one of the fish in the bowl. So Fin must be orange.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.88,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_006",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "The ice cream is melting fast. Why?",
+    "choices": [
+      "It is in the hot sun",
+      "It is in the freezer",
+      "It is in the snow"
+    ],
+    "correctAnswer": "It is in the hot sun",
+    "explanation": "Heat makes ice cream melt. The hot sun is hot. A freezer and snow are cold and would keep it frozen.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_007",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Which ones are animals? Select all that apply.",
+    "choices": [
+      "dog",
+      "cup",
+      "cat",
+      "sock"
+    ],
+    "correctAnswers": [
+      "dog",
+      "cat"
+    ],
+    "explanation": "A dog and a cat are animals. A cup and a sock are things, not animals.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_gk_008",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 5,
+    "standardCode": "CT.EVALUATION",
+    "prompt": "Which one is make-believe?",
+    "choices": [
+      "A dog barks",
+      "A cat talks on the phone",
+      "A bird sits in a tree"
+    ],
+    "correctAnswer": "A cat talks on the phone",
+    "explanation": "Real dogs bark and real birds sit in trees. Real cats cannot talk on the phone, so that one is make-believe.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_009",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "If it rains, Mia takes her umbrella. It is raining. What does Mia do?",
+    "choices": [
+      "She wears her sun hat",
+      "She goes to bed",
+      "She takes her umbrella"
+    ],
+    "correctAnswer": "She takes her umbrella",
+    "explanation": "The rule says: if it rains, Mia takes her umbrella. It is raining, so Mia takes her umbrella.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_010",
+    "subject": "CRITICAL_THINKING",
+    "type": "FILL_IN_BLANK",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "MEDIUM",
+    "bloomsLevel": 3,
+    "standardCode": "CT.INDUCTION",
+    "prompt": "Clap, tap, tap. Clap, tap, tap. Clap, tap, ___. What word comes next? Type the word.",
+    "correctAnswer": "tap",
+    "correctAnswers": [
+      "tap"
+    ],
+    "explanation": "The pattern is clap, tap, tap, over and over. After 'clap, tap' comes one more 'tap'.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.7,
+      "c": 0.0
+    }
+  },
+  {
+    "id": "critical_thinking_gk_011",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "Sam is taller than Lee. Lee is taller than Kim. Who is the tallest?",
+    "choices": [
+      "Kim",
+      "Lee",
+      "Sam"
+    ],
+    "correctAnswer": "Sam",
+    "explanation": "Sam is taller than Lee, and Lee is taller than Kim. So Sam is taller than both of them. Sam is the tallest.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_012",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.DEDUCTION",
+    "prompt": "The toy is in the red box or the blue box. It is not in the red box. Where is the toy?",
+    "choices": [
+      "In the red box",
+      "In the blue box",
+      "On the bed"
+    ],
+    "correctAnswer": "In the blue box",
+    "explanation": "There are only two places the toy can be: the red box or the blue box. It is not in the red box, so it must be in the blue box.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_013",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTIPLE_CHOICE",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.INFERENCE",
+    "prompt": "A bite is gone from Mom's cake. The dog has cake on its nose. Who most likely took the bite?",
+    "choices": [
+      "The dog",
+      "The cat",
+      "Mom"
+    ],
+    "correctAnswer": "The dog",
+    "explanation": "The cake on the dog's nose is a clue. It tells us the dog put its face in the cake. So the dog most likely took the bite.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.333
+    }
+  },
+  {
+    "id": "critical_thinking_gk_014",
+    "subject": "CRITICAL_THINKING",
+    "type": "MULTI_SELECT",
+    "gradeLevel": 0,
+    "gradeRange": "K-2",
+    "difficulty": "HARD",
+    "bloomsLevel": 4,
+    "standardCode": "CT.ANALYSIS",
+    "prompt": "Which ones are red AND round? Select all that apply.",
+    "choices": [
+      "a red ball",
+      "a red book",
+      "a green ball",
+      "a round red plate"
+    ],
+    "correctAnswers": [
+      "a red ball",
+      "a round red plate"
+    ],
+    "explanation": "The thing must be red and it must also be round. The red ball and the round red plate are both. The book is red but not round. The green ball is round but not red.",
+    "piParameters": {
+      "a": 1.2,
+      "b": -2.52,
+      "c": 0.0
+    }
+  }
+]
