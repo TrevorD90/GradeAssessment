@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "com.gradeassessment"
-version = "1.0.0"
+version = "1.1.0"
 
 kotlin {
     jvmToolchain(21)
@@ -52,20 +52,30 @@ compose.desktop {
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
             packageName = "GradeAssessment"
-            packageVersion = "1.0.1"
+            // MSI requires MAJOR.MINOR.BUILD with MAJOR <= 255. Bump for every release.
+            packageVersion = "1.1.0"
             description = "Adaptive Academic Assessment Platform"
             vendor = "Grade Assessment"
 
+            // Java modules bundled into the private runtime. Checked with `gradlew suggestRuntimeModules`;
+            // a missing module makes the installed app crash on launch even though it runs from the IDE.
             modules(
+                "java.instrument",
                 "java.sql",
                 "java.naming",
                 "jdk.unsupported"
             )
 
             windows {
-                shortcut = true
-                dirChooser = true
+                shortcut = true          // desktop shortcut
+                menu = true              // Start menu entry
                 menuGroup = "Grade Assessment"
+                dirChooser = true
+                // [DECISION: per-user install - no administrator rights needed, installs under the
+                //  user's AppData. Student data lives in ~/.grade-assessment and survives upgrades.]
+                perUserInstall = true
+                // Must never change: lets a newer MSI replace an older one instead of installing twice.
+                upgradeUuid = "6a7ba1b4-0f62-4e63-9091-7ea2b99ef4e2"
             }
         }
     }
